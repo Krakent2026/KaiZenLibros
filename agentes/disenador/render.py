@@ -58,6 +58,9 @@ def diapositivas_para(fila: sqlite3.Row, contenido: dict[str, Any], sello: Sello
     salida: list[dict[str, Any]] = []
     if fila["formato"] == "cita":
         salida.append({**base, "tipo": "cita", "cuerpo": d[0]["cuerpo"] if d else fila["atomo_texto"], "clase": ""})
+    elif fila["formato"] == "audio":
+        titulo = contenido.get("titulo_episodio") or (d[0]["titulo"] if d else libro.titulo)
+        salida.append({**base, "serie_nombre": f"{serie.nombre_amazon} · Pódcast", "tipo": "gancho", "titulo": titulo, "clase": "invertida"})
     else:
         total = len(d)
         for i, x in enumerate(d, 1):

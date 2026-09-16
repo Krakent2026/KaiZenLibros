@@ -84,6 +84,19 @@ CREATE TABLE IF NOT EXISTS kv (
     valor           TEXT
 );
 
+CREATE TABLE IF NOT EXISTS ventas_kdp (
+    id              INTEGER PRIMARY KEY AUTOINCREMENT,
+    fecha           TEXT NOT NULL,             -- YYYY-MM-DD (o YYYY-MM si el informe es mensual)
+    titulo          TEXT NOT NULL,
+    tienda          TEXT,
+    unidades        REAL NOT NULL DEFAULT 0,
+    gratis          REAL NOT NULL DEFAULT 0,
+    kenp            REAL NOT NULL DEFAULT 0,
+    regalias        REAL NOT NULL DEFAULT 0,
+    fichero         TEXT,
+    UNIQUE(fecha, titulo, tienda, fichero)
+);
+
 CREATE TABLE IF NOT EXISTS publicaciones (
     id              INTEGER PRIMARY KEY AUTOINCREMENT,
     cola_id         INTEGER REFERENCES cola(id),
@@ -139,8 +152,9 @@ def conectar(ruta: Path) -> sqlite3.Connection:
 _COLUMNAS_NUEVAS = {
     "cola": {
         "fecha_plan": "TEXT", "telegram_msg_id": "INTEGER", "enviado_humano_en": "TEXT",
-        "nota_humano": "TEXT", "publicada_en": "TEXT",
+        "nota_humano": "TEXT", "publicada_en": "TEXT", "angulo": "TEXT", "ruta_audio": "TEXT",
     },
+    "metricas": {"alcance": "INTEGER", "me_gusta": "INTEGER", "compartidos": "INTEGER"},
 }
 
 
@@ -172,15 +186,60 @@ ESTADOS = ("planificada", "redactada", "producida", "en_revision", "rechazada", 
 
 
 def nueva_pieza(con: sqlite3.Connection, *, atomo_id: int, libro_id: str, serie: str, canal: str,
-                formato: str, programado_para: str | None, fecha_plan: str) -> int:
+                formato: str, programado_para: str | None, fecha_plan: str, angulo: str | None = None) -> int:
     t = ahora()
     cur = con.execute(
-        """INSERT INTO cola (atomo_id, libro_id, serie, canal, formato, estado, programado_para, fecha_plan, creado_en, actualizado_en)
-           VALUES (?, ?, ?, ?, ?, 'planificada', ?, ?, ?, ?)""",
-        (atomo_id, libro_id, serie, canal, formato, programado_para, fecha_plan, t, t),
+        """INSERT INTO cola (atomo_id, libro_id, serie, canal, formato, estado, programado_para, fecha_plan, angulo, creado_en, actualizado_en)
+           VALUES (?, ?, ?, ?, ?, 'planificada', ?, ?, ?, ?, ?)""",
+        (atomo_id, libro_id, serie, canal, formato, programado_para, fecha_plan, angulo, t, t),
     )
     con.commit()
     return int(cur.lastrowid)
+
+
+def publicaciones_recientes(con: sqlite3.Connection, dias: int = 30) -> list[sqlite3.Row]:
+    return con.execute(
+        """SELECT p.*, c.formato, c.libro_id, c.serie, l.titulo AS libro_titulo, l.numero AS libro_numero
+           FROM publicaciones p JOIN cola c ON c.id = p.cola_id LEFT JOIN libros l ON l.id = c.libro_id
+           WHERE p.publicado_en >= datetime('now', ?) ORDER BY p.publicado_en DESC""",
+        (f"-{int(dias)} days",)).fetchall()
+
+
+def guardar_metrica(con: sqlite3.Connection, publicacion_id: int, fecha: str, fuente: str, **valores: Any) -> None:
+    campos = {k: v for k, v in valores.items() if k in ("impresiones", "clics", "guardados", "comentarios", "alcance", "me_gusta", "compartidos")}
+    cols = ", ".join(campos)
+    marcas = ", ".join("?" * len(campos))
+    actualiza = ", ".join(f"{k} = excluded.{k}" for k in campos)
+    con.execute(
+        f"""INSERT INTO metricas (publicacion_id, fecha, fuente{', ' + cols if cols else ''})
+            VALUES (?, ?, ?{', ' + marcas if marcas else ''})
+            ON CONFLICT(publicacion_id, fecha, fuente) DO UPDATE SET {actualiza or 'fuente = excluded.fuente'}""",
+        (publicacion_id, fecha, fuente, *campos.values()),
+    )
+    con.commit()
+
+
+def ultimas_metricas(con: sqlite3.Connection, dias: int = 30) -> list[sqlite3.Row]:
+    """La última medición de cada publicación reciente, con su pieza y libro."""
+    return con.execute(
+        """SELECT m.*, p.canal, p.url, c.id AS cola_id, c.formato, l.titulo AS libro_titulo, l.numero AS libro_numero,
+                  a.gancho, a.tipo AS atomo_tipo
+           FROM metricas m JOIN publicaciones p ON p.id = m.publicacion_id
+           JOIN cola c ON c.id = p.cola_id LEFT JOIN libros l ON l.id = c.libro_id LEFT JOIN atomos a ON a.id = c.atomo_id
+           WHERE m.id IN (SELECT MAX(id) FROM metricas GROUP BY publicacion_id)
+             AND p.publicado_en >= datetime('now', ?)
+           ORDER BY COALESCE(m.alcance, m.impresiones, 0) DESC""",
+        (f"-{int(dias)} days",)).fetchall()
+
+
+def uso_por_libro(con: sqlite3.Connection, serie: str) -> list[sqlite3.Row]:
+    return con.execute(
+        """SELECT l.slug, l.numero, l.titulo,
+                  COUNT(a.id) AS atomos, SUM(CASE WHEN a.usos > 0 THEN 1 ELSE 0 END) AS usados,
+                  (SELECT COUNT(*) FROM cola c WHERE c.libro_id = l.id AND c.estado NOT IN ('descartada')) AS piezas,
+                  (SELECT MAX(c.fecha_plan) FROM cola c WHERE c.libro_id = l.id AND c.estado NOT IN ('descartada')) AS ultima
+           FROM libros l LEFT JOIN atomos a ON a.libro_id = l.id AND a.verificado = 1
+           WHERE l.serie = ? GROUP BY l.id ORDER BY l.numero""", (serie,)).fetchall()
 
 
 def pieza(con: sqlite3.Connection, id_pieza: int) -> sqlite3.Row | None:

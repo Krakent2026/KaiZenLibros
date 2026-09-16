@@ -99,22 +99,28 @@ utm:
 plan:
   zona_horaria: Europe/Madrid
   # Formatos por día de la semana (0 = lunes). Cada entrada es una pieza; el orden fija la hora.
+  # Formatos: carrusel (7 imágenes), cita (1 imagen), audio (episodio de pódcast de ~5 min + imagen)
   semana:
     0: [carrusel, cita]
     1: [cita, cita]
-    2: [carrusel, cita]
+    2: [audio, cita]
     3: [cita, cita]
     4: [carrusel, cita]
     5: [cita]
     6: [cita]
   horas: ["12:30", "19:00"]
+  # Si el Estratega ha dejado un plan para la semana (kv plan_semana:<lunes>), manda sobre `semana`.
+  usar_plan_estratega: true
   # Cuántos días hacia delante se planifica (para que el humano apruebe con margen)
   dias_adelanto: 1
   max_reintentos_redaccion: 2
 
 publicacion:
   # Canales a los que sale cada pieza. Solo actúan los que tengan credenciales en el entorno.
-  canales: [telegram, pinterest, instagram]
+  canales: [telegram, pinterest, instagram, bluesky, threads, x]
+  # Excepciones por formato (si no está, se usa `canales`)
+  canales_por_formato:
+    audio: [podcast, telegram, bluesky, threads, x]
   # Aprobación: manual (todo lo decide el humano) · mixto (se autoaprueban las citas literales sin avisos)
   # · auto (todo lo que pasa el Guardián queda aprobado). En cualquier modo la previa llega a Telegram y
   # se puede cancelar (❌) o devolver al Redactor (✏️) hasta la hora de publicación.
@@ -127,6 +133,33 @@ publicacion:
   ruta_piezas_web: static/piezas
   dias_conservar_piezas: 21
   hashtags_max: 8
+
+podcast:
+  titulo: "Kai Zen, cinco minutos"
+  descripcion: "Una idea de un libro, leída en voz alta. Cinco minutos, sin promesas y sin prisa."
+  autor: Kai Zen
+  email: ""
+  idioma: es-es
+  categoria: "Self-Improvement"
+  # Voz neuronal de Edge TTS (gratuita). Alternativas: es-ES-ElviraNeural, es-MX-JorgeNeural, es-MX-DaliaNeural
+  voz: es-ES-AlvaroNeural
+  velocidad: "-6%"
+  ruta_web: static/podcast
+  aviso_voz: "Este episodio se ha grabado con una voz sintética a partir del texto del libro."
+
+bibliotecario:
+  dias_gratis_por_periodo: 5     # límite de KDP Select por libro cada 90 días
+  periodo_dias: 90
+  duracion_promo_dias: 2         # cada promoción: días gratis seguidos
+  aviso_dias_antes: 14           # KDP pide programar con antelación; el aviso llega con este margen
+  fecha_inicio_rotacion: "2026-09-22"
+  tokens:
+    instagram_dias_validez: 60
+    aviso_dias_antes: 10
+
+analista:
+  dir_kdp: datos/kdp            # aquí se dejan los CSV descargados de KDP Reports (no se versionan)
+  ventana_dias: 30
 
 telegram:
   # Chat (o usuario) que aprueba: se rellena con TELEGRAM_CHAT_APROBACION en el entorno.

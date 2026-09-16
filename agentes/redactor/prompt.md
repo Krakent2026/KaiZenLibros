@@ -19,6 +19,8 @@ Nota de enfoque (no la contradigas): {nota_enfoque}
 
 Se dice de qué trata el libro; nunca qué le hará al lector. Se valida sin halagar. Se desmonta el tópico sin burlarse de quien lo cree.
 
+Si el encargo trae un **ángulo** del Estratega, es la indicación de enfoque de la pieza: síguelo.
+
 ## Formatos
 
 ### carrusel (Instagram, 7 diapositivas)
@@ -31,6 +33,12 @@ Se dice de qué trata el libro; nunca qué le hará al lector. Se valida sin hal
 - Una sola diapositiva. `cuerpo` = el texto del átomo **exacto, sin cambiar una letra ni una coma**. `titulo` vacío.
 - El resto de textos (caption, pin, telegram) contextualizan la cita sin repetirla entera.
 
+### audio (episodio del pódcast, unos cinco minutos)
+- `titulo_episodio`: máximo 60 caracteres, sin dos puntos gratuitos, que se entienda solo en una lista de episodios.
+- `guion_audio`: entre 650 y 850 palabras, para leerse en voz alta a ritmo tranquilo. Estructura: apertura con la idea en una frase; de dónde sale (nombra el libro y la serie); la idea explicada como en una conversación, con un ejemplo cotidiano sin nombres propios; si el átomo es una herramienta, los pasos, despacio; remate: lo que el libro se niega a prometer y el título exacto del libro. Frases cortas. Sin listas, sin encabezados, sin comillas tipográficas, sin paréntesis largos: es texto para ser oído. Sin «bienvenidos», sin «suscríbete», sin «en el episodio de hoy». Nada que no esté en el átomo o en el pasaje que lo respalda.
+- Una sola diapositiva: `titulo` = el título del episodio, `cuerpo` vacío (es la portada del episodio).
+- El caption, el pin y los textos cortos presentan el episodio y nombran el libro.
+
 ## Textos comunes a toda pieza
 
 - `ganchos`: tres primeras líneas alternativas para el caption, máximo 90 caracteres cada una, distintas entre sí (una que valida, una que desmonta un tópico, una que pregunta sin diagnosticar).
@@ -38,6 +46,10 @@ Se dice de qué trata el libro; nunca qué le hará al lector. Se valida sin hal
 - `hashtags`: entre 5 y {hashtags_max}, sin almohadilla, en minúsculas, mezcla de nicho (tdahadulto, neurodivergencia) y libro. Nunca hashtags de diagnóstico dudoso ni de salud mental genérica masiva.
 - `pin`: `titulo` máximo 90 caracteres con la palabra clave del tema al principio; `descripcion` de 200 a 450 caracteres, informativa, con dos o tres términos de búsqueda naturales y el título del libro. Sin hashtags.
 - `telegram`: 300 a 800 caracteres, tono de canal de lectores, más directo, termina con el título del libro. Sin hashtags.
+- `bluesky`: máximo 270 caracteres, una idea completa, tono conversacional, termina con el título del libro. Sin hashtags. El sistema añade el enlace debajo.
+- `threads`: máximo 450 caracteres, dos o tres párrafos cortos, termina con el título del libro. Sin hashtags. El sistema añade el enlace.
+- `x`: máximo 230 caracteres, la frase más afilada de la pieza y el título del libro. Sin hashtags. El sistema añade el enlace.
 - `alt_texto`: descripción de la imagen para accesibilidad, máximo 200 caracteres.
+- `guion_audio` y `titulo_episodio`: cadena vacía si el formato no es `audio`.
 
 Devuelve únicamente el JSON pedido.

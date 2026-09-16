@@ -16,20 +16,32 @@ from agentes import db
 from agentes.config import DB_POR_DEFECTO, Sello, cargar_sello, consola_utf8
 from agentes.disenador.render import activos_de
 from agentes.publicador.base import NoDisponible, Publicador
+from agentes.publicador.bluesky import PublicadorBluesky
 from agentes.publicador.instagram import PublicadorInstagram
 from agentes.publicador.pinterest import PublicadorPinterest
+from agentes.publicador.podcast import PublicadorPodcast
 from agentes.publicador.telegram import PublicadorTelegram
+from agentes.publicador.threads import PublicadorThreads
+from agentes.publicador.x import PublicadorX
 
 CONECTORES: dict[str, type[Publicador]] = {
     "telegram": PublicadorTelegram,
     "pinterest": PublicadorPinterest,
     "instagram": PublicadorInstagram,
+    "bluesky": PublicadorBluesky,
+    "threads": PublicadorThreads,
+    "x": PublicadorX,
+    "podcast": PublicadorPodcast,
 }
 
 
 def conectores_activos(sello: Sello) -> dict[str, Publicador]:
     activos: dict[str, Publicador] = {}
-    for nombre in sello.datos.get("publicacion", {}).get("canales", []):
+    pub = sello.datos.get("publicacion", {})
+    nombres = set(pub.get("canales", []))
+    for lista in (pub.get("canales_por_formato", {}) or {}).values():
+        nombres.update(lista or [])
+    for nombre in sorted(nombres):
         cls = CONECTORES.get(nombre)
         if not cls:
             continue
@@ -89,6 +101,13 @@ def publicar_vencidas(con: sqlite3.Connection, sello: Sello, *, ahora: datetime 
             r["publicadas"] += 1
         elif hechos:
             r["parciales"] += 1
+        if "podcast" in hechos:
+            r["feed"] = 1
+    if r.get("feed"):
+        from agentes.locutor.sintetizar import generar_feed
+
+        generar_feed(con, sello)
+        print("  ✓ feed del pódcast regenerado")
     return r
 
 

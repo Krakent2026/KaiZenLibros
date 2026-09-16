@@ -27,6 +27,13 @@ jobs:
       PINTEREST_TABLERO_ID: ${{ secrets.PINTEREST_TABLERO_ID }}
       INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
       INSTAGRAM_CUENTA_ID: ${{ secrets.INSTAGRAM_CUENTA_ID }}
+      THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+      BLUESKY_USUARIO: ${{ secrets.BLUESKY_USUARIO }}
+      BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+      X_API_KEY: ${{ secrets.X_API_KEY }}
+      X_API_SECRET: ${{ secrets.X_API_SECRET }}
+      X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+      X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -44,7 +51,7 @@ jobs:
         run: |
           git config user.name "agentes-bot"
           git config user.email "agentes-bot@users.noreply.github.com"
-          git add datos/*.sqlite web/static/piezas
+          git add datos/*.sqlite web/static/piezas web/static/podcast
           if git diff --staged --quiet; then
             echo "Sin cambios"
           else

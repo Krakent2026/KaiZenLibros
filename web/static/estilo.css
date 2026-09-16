@@ -90,3 +90,8 @@ p{margin:.6em 0}
   .ficha-libro__portada{max-width:240px}
   .fila-portadas{grid-template-columns:repeat(6,1fr)}
 }
+
+/* pódcast */
+.episodio{padding:1.4rem 0;border-top:1px solid rgba(0,0,0,.1)}
+.episodio h2{margin:.2em 0 .6em}
+.episodio audio{width:100%;margin:.4rem 0}

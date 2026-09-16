@@ -121,9 +121,14 @@ class Generador:
         primera = sello.series_activas()[0].id if sello.series_activas() else None
         self.paleta_sello = self.paletas.get(primera, PALETA_POR_DEFECTO)
         self.enlaces_base = (sello.datos.get("enlaces", {}) or {}).get("base_url", "").rstrip("/")
+        self.ruta_podcast = sello.datos.get("podcast", {}).get("ruta_web", "static/podcast").strip("/")
+        ruta_eps = DIR_WEB / self.ruta_podcast / "episodios.json"
+        self.episodios = json.loads(ruta_eps.read_text(encoding="utf-8")) if ruta_eps.exists() else []
         self.env.globals.update(
             u=self.u, sello=sello.datos["sello"], series=sello.series_activas(), posts=self.posts,
-            hay_blog=bool(self.posts), anio=date.today().year, newsletter=sello.datos.get("newsletter", {}),
+            hay_blog=bool(self.posts), hay_podcast=bool(self.episodios), podcast=sello.datos.get("podcast", {}),
+            episodios=self.episodios, ruta_podcast=self.ruta_podcast,
+            anio=date.today().year, newsletter=sello.datos.get("newsletter", {}),
             canales=sello.datos.get("canales", {}), enlace_compra=self.enlace_compra,
             portada=self.portada, serie_slug=self.serie_slug, paleta=self.paleta_sello,
         )
@@ -190,6 +195,8 @@ class Generador:
                 self.escribir(f"ir/{lib.slug}/index.html", "ir.html", titulo=f"Ir a {lib.titulo}",
                               libro=lib, destino=self.url_amazon(lib, por_defecto), tienda=por_defecto,
                               alternativas=[(t, self.url_amazon(lib, t)) for t in alternativas])
+        if self.episodios:
+            self.escribir("podcast/index.html", "podcast.html", titulo=f"{self.sello.datos.get('podcast', {}).get('titulo', 'Pódcast')} · {self.sello.nombre}")
         if self.posts:
             self.escribir("blog/index.html", "blog_index.html", titulo=f"Blog · {self.sello.nombre}")
             for p in self.posts:

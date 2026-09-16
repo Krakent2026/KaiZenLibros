@@ -7,3 +7,5 @@ requests>=2.31
 playwright>=1.45
 tzdata>=2024.1
 pytest>=8.0
+edge-tts>=7.0
+requests-oauthlib>=1.3

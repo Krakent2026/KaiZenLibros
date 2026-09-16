@@ -2,7 +2,22 @@
 
 Sistema de agentes que produce, verifica, publica y mide contenido para promocionar en Amazon las series del sello Kai Zen, con coste de plataformas cero. El plan completo está en [`PLAN_MARKETING_AGENTES_IA.md`](PLAN_MARKETING_AGENTES_IA.md); este README cubre la puesta en marcha.
 
-**Estado: Fases 0 y 1 implementadas** (cimientos + ciclo completo planificar → redactar → guardián → imágenes → aprobación en Telegram → publicar en Telegram, Pinterest e Instagram). Lo que hay y lo que falta, en [`agentes/README.md`](agentes/README.md).
+**Estado: Fases 0, 1 y 2 implementadas.** Ciclo diario completo (planificar → redactar → guardián → imágenes y audio → aviso en Telegram → publicar en Telegram, Instagram, Pinterest, Bluesky, Threads, X y pódcast) y ciclo semanal (Bibliotecario → Analista → Estratega → resumen a Telegram). Lo que hay y lo que falta, en [`agentes/README.md`](agentes/README.md).
+
+### Ciclo semanal y pódcast (Fase 2)
+
+```bash
+python -m agentes.pipeline semanal                  # recordatorios KDP + informe + plan de la semana (Estratega) + resumen a Telegram
+python -m agentes.estratega.planificar --ver        # plan vigente
+python -m agentes.bibliotecario.calendario          # calendario de días gratis y recordatorios
+python -m agentes.analista.informe --dias 7         # informe (añade --enviar para mandarlo a Telegram)
+python -m agentes.locutor.sintetizar --feed         # regenera feed.xml y episodios.json del pódcast
+python herramientas/portada_podcast.py              # portada 3000×3000 para Apple/Spotify
+```
+
+- **Pódcast.** Los miércoles la plantilla planifica una pieza `audio`: el Redactor escribe un guion de 650-850 palabras, el Locutor lo sintetiza con Edge TTS (gratuito, voz `podcast.voz` del YAML) y el feed RSS sale con la web en `static/podcast/feed.xml`. Alta única en Spotify for Creators y Apple Podcasts Connect con esa URL; después los episodios llegan solos.
+- **Días gratis.** Con 12 libros en KDP Select el Bibliotecario reparte una promoción de 2 días cada semana (5 días por libro y 90 días es el límite de Amazon). Avisa por Telegram 14 días antes; programar la promo en KDP es manual.
+- **KDP.** Deja los CSV de KDP Reports en `datos/kdp/` (no se versionan) y el Analista los suma al informe.
 
 ## Qué hay en el repositorio
 

@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% set descripcion = podcast.descripcion %}
+{% block contenido %}
+<section class="portada-serie">
+  <div class="estrecho">
+    <p class="sobre">Pódcast · {{ sello.nombre }}</p>
+    <h1>{{ podcast.titulo }}</h1>
+    <p class="entrada">{{ podcast.descripcion }}</p>
+    <p class="peq">Suscríbete con el enlace del feed en tu app de pódcast: <a href="{{ u(ruta_podcast ~ '/feed.xml') }}">{{ u(ruta_podcast ~ '/feed.xml') }}</a></p>
+  </div>
+</section>
+<section class="estrecho">
+  {% for e in episodios %}
+  <article class="episodio">
+    <p class="sobre">{{ e.fecha[:10] }} · {{ (e.duracion_seg // 60) }} min</p>
+    <h2>{{ e.titulo }}</h2>
+    <audio controls preload="none" src="{{ e.mp3 }}"></audio>
+    <p>{{ e.descripcion }}</p>
+    <p class="meta">Del libro <a href="{{ u('libros/' ~ e.libro_slug ~ '/') }}">{{ e.libro }}</a> · <a href="{{ e.enlace }}" rel="nofollow">Ver en Amazon</a></p>
+  </article>
+  {% endfor %}
+  <p class="peq">{{ podcast.aviso_voz }}</p>
+</section>
+{% endblock %}

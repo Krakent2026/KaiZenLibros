@@ -40,9 +40,15 @@ ESQUEMA: dict[str, Any] = {
             "additionalProperties": False,
         },
         "telegram": {"type": "string"},
+        "bluesky": {"type": "string"},
+        "threads": {"type": "string"},
+        "x": {"type": "string"},
         "alt_texto": {"type": "string"},
+        "guion_audio": {"type": "string"},
+        "titulo_episodio": {"type": "string"},
     },
-    "required": ["ganchos", "diapositivas", "caption_instagram", "hashtags", "pin", "telegram", "alt_texto"],
+    "required": ["ganchos", "diapositivas", "caption_instagram", "hashtags", "pin", "telegram", "bluesky", "threads", "x",
+                 "alt_texto", "guion_audio", "titulo_episodio"],
     "additionalProperties": False,
 }
 
@@ -74,6 +80,8 @@ def mensaje_usuario(fila: sqlite3.Row, sello: Sello) -> str:
         f"Pasaje del libro que lo respalda: «{fila['ancla']}»",
         f"Capítulo: {fila['capitulo'] or '—'}. Temas: {temas or '—'}. Gancho sugerido por el Minero: {fila['atomo_gancho'] or '—'}",
     ]
+    if fila["angulo"]:
+        partes += ["", f"Ángulo del Estratega para esta pieza: {fila['angulo']}"]
     if fila["nota_humano"]:
         partes += ["", f"NOTA DEL EDITOR HUMANO (obligatoria): {fila['nota_humano']}"]
     if fila["motivo_rechazo"]:
@@ -91,6 +99,10 @@ def redactar_pieza(con: sqlite3.Connection, sello: Sello, fila: sqlite3.Row, ia:
     if fila["formato"] == "cita":
         # la cita es sagrada: se fuerza el texto exacto del átomo aunque el modelo lo haya tocado
         contenido["diapositivas"] = [{"titulo": "", "cuerpo": fila["atomo_texto"]}]
+    elif fila["formato"] == "audio":
+        titulo = (contenido.get("titulo_episodio") or (contenido.get("ganchos") or [""])[0])[:60]
+        contenido["titulo_episodio"] = titulo
+        contenido["diapositivas"] = [{"titulo": titulo, "cuerpo": ""}]
     db.actualizar_pieza(con, fila["id"], contenido=contenido, estado="redactada", motivo_rechazo=None)
     return True
 

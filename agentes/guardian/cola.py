@@ -30,8 +30,13 @@ LIMITES = {
     "diapositiva_cuerpo": 260,
     "gancho": 100,
     "alt_texto": 250,
+    "bluesky": 280,
+    "threads": 480,
+    "x": 245,
+    "titulo_episodio": 70,
 }
-DIAPOSITIVAS = {"carrusel": (5, 7), "cita": (1, 1)}
+GUION_PALABRAS = (450, 1100)
+DIAPOSITIVAS = {"carrusel": (5, 7), "cita": (1, 1), "audio": (1, 1)}
 
 ESQUEMA_CRITERIO: dict[str, Any] = {
     "type": "object",
@@ -56,8 +61,14 @@ def textos_de(contenido: dict[str, Any]) -> list[tuple[str, str]]:
     salida.append(("pin título", contenido.get("pin", {}).get("titulo", "")))
     salida.append(("pin descripción", contenido.get("pin", {}).get("descripcion", "")))
     salida.append(("telegram", contenido.get("telegram", "")))
+    salida.append(("bluesky", contenido.get("bluesky", "")))
+    salida.append(("threads", contenido.get("threads", "")))
+    salida.append(("x", contenido.get("x", "")))
     salida.append(("alt", contenido.get("alt_texto", "")))
     salida.append(("hashtags", " ".join(contenido.get("hashtags", []))))
+    if contenido.get("guion_audio"):
+        salida.append(("guion", contenido["guion_audio"]))
+        salida.append(("título episodio", contenido.get("titulo_episodio", "")))
     return salida
 
 
@@ -100,6 +111,17 @@ def revisar_determinista(fila: sqlite3.Row, contenido: dict[str, Any], sello: Se
         motivos.append("descripción de pin demasiado larga")
     if len(contenido.get("telegram", "")) > LIMITES["telegram"]:
         motivos.append("texto de Telegram demasiado largo para ir como pie de foto")
+    for campo in ("bluesky", "threads", "x"):
+        if len(contenido.get(campo, "")) > LIMITES[campo]:
+            motivos.append(f"texto de {campo} de {len(contenido[campo])} caracteres (máx. {LIMITES[campo]})")
+    if fila["formato"] == "audio":
+        palabras = len(contenido.get("guion_audio", "").split())
+        if not GUION_PALABRAS[0] <= palabras <= GUION_PALABRAS[1]:
+            motivos.append(f"guion de {palabras} palabras; el episodio necesita entre {GUION_PALABRAS[0]} y {GUION_PALABRAS[1]}")
+        if not contenido.get("titulo_episodio"):
+            motivos.append("falta el título del episodio")
+        elif len(contenido["titulo_episodio"]) > LIMITES["titulo_episodio"]:
+            motivos.append("título de episodio demasiado largo")
     hashtags = contenido.get("hashtags", [])
     maximo_h = int(sello.datos.get("publicacion", {}).get("hashtags_max", 8))
     if len(hashtags) > maximo_h:

@@ -34,9 +34,9 @@
   p.cita::before { content: "«"; opacity: .5; } p.cita::after { content: "»"; opacity: .5; }
   .pie { display: flex; align-items: flex-end; justify-content: space-between; gap: 2em; font-family: system-ui, sans-serif;
          font-size: {{ (ancho * 0.026) | int }}px; opacity: .85; }
-  .pie .libro { line-height: 1.35; }
+  .pie .libro { line-height: 1.35; max-width: 68%; }
   .pie .libro strong { font-family: "Lora", Georgia, serif; font-size: 1.25em; font-weight: 400; display: block; }
-  .pie .n { font-variant-numeric: tabular-nums; letter-spacing: .1em; }
+  .pie .n { font-variant-numeric: tabular-nums; letter-spacing: .1em; white-space: nowrap; }
   .final { display: grid; grid-template-columns: 38% 1fr; gap: {{ (ancho * 0.06) | int }}px; align-items: center; flex: 1; }
   .final img { width: 100%; border-radius: 6px; box-shadow: 0 18px 50px rgba(0,0,0,.28); }
   .final h1 { font-size: {{ (ancho * 0.062) | int }}px; }

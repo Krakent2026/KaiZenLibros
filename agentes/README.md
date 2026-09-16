@@ -2,39 +2,46 @@
 
 | Agente | Fase | Estado | Dónde |
 |---|---|---|---|
-| A2 Minero | 0 | **Hecho.** Troceado por capítulos, extracción con salida estructurada, verificación de ancla y cita, vocabulario, coste por corrida, `--sin-ia` y `--estimar` | `agentes/minero/` |
-| A6 Guardián · reglas | 0 | **Hecho.** Vocabulario vetado ES/EN por niveles; localización tolerante de citas | `agentes/guardian/reglas.py`, `verificar_citas.py` |
-| Base de datos | 0 | **Hecha.** Esquema completo; migración de columnas | `agentes/db.py` |
-| Web del sello | 0 | **Hecha** v1 | `web/` |
-| Enlace universal | 0 | **Hecho** el Worker; falta desplegar (cuenta Cloudflare) | `worker_enlaces/` |
-| Planificador (provisional) | 1 | **Hecho.** Determinista: formatos por día de la semana, átomos menos usados, reparto entre libros, hora local → UTC. El Estratega (Fase 2) lo sustituye | `agentes/planificador.py` |
-| A3 Redactor | 1 | **Hecho.** Átomo → 7 diapositivas o cita, caption, hashtags, pin, Telegram, alt, 3 ganchos. Reintenta con el motivo del Guardián y con la nota del humano. La cita literal se fuerza al texto exacto | `agentes/redactor/` |
-| A6 Guardián · cola | 1 | **Hecho.** Capa determinista (vocabulario, límites, estructura, cita intacta, libro nombrado) + criterio con modelo (`modelo_guardian`). Avisos viajan al humano | `agentes/guardian/cola.py`, `criterio.md` |
-| A4 Diseñador | 1 | **Hecho.** HTML/CSS por serie con paleta de las portadas, fuente Lora embebida, Playwright → JPEG 1080×1350 y pin 1000×1500. `--demo` para ver el diseño. Vídeo: Fase 2 | `agentes/disenador/` |
-| Aprobación Telegram | 1 | **Hecho.** Previas con fotos + botones; respuestas por sondeo en cada corrida (sin servidor); nota de edición devuelve la pieza al Redactor; comandos de texto `ok N`, `no N`, `ed N nota` | `agentes/aprobacion/telegram.py` |
-| A7 Publicador | 1 | **Hecho.** Telegram (canal), Pinterest (imagen en base64), Instagram (carrusel/imagen por URL pública, espera a que la web sirva las imágenes). Solo publica `aprobada` y vencida; parcial por canal; reintento en la siguiente corrida | `agentes/publicador/` |
-| Pipeline | 1 | **Hecho.** `diario`, `aprobaciones`, `cola`, `ver`, `aprobar`, `rechazar`, `editar`, `estado` | `agentes/pipeline.py` |
-| A1 Estratega | 2 | Pendiente. Plan semanal con criterio a partir de inventario, fechas y métricas | `agentes/estratega/` |
-| A5 Locutor | 2 | Pendiente. Edge TTS → pódcast (RSS) y Shorts | `agentes/locutor/` |
-| A9 Analista | 2 | Pendiente. Recogida por API + CSV de KDP → informe y panel | `agentes/analista/` |
-| A10 Bibliotecario Amazon | 2 | Pendiente. Calendario de días gratis, palabras clave, A+ | `agentes/bibliotecario/` |
-| Publicador · Threads, Bluesky, Facebook, X, YouTube | 2 | Pendiente | `agentes/publicador/` |
-| A8 Escucha | 3 | Pendiente | `agentes/escucha/` |
+| A2 Minero | 0 | **Hecho.** Extracción por API o importación de JSON de subagentes (`--importar-json`), verificación de ancla y cita, vocabulario | `agentes/minero/` |
+| A6 Guardián · reglas | 0 | **Hecho.** Vocabulario ES/EN; localización tolerante de citas | `agentes/guardian/reglas.py`, `verificar_citas.py` |
+| Base de datos | 0 | **Hecha.** Migraciones automáticas de columnas | `agentes/db.py` |
+| Web del sello | 0 | **Hecha.** Inicio, series, libros, enlaces, blog, pódcast, `/ir/` | `web/` |
+| Enlace universal | 0 | Worker listo; falta desplegar en Cloudflare | `worker_enlaces/` |
+| Planificador diario | 1 | **Hecho.** Sigue el plan del Estratega si existe; si no, plantilla `plan.semana` | `agentes/planificador.py` |
+| A3 Redactor | 1 | **Hecho.** Carrusel, cita, **audio (guion de 5 min)**; textos para Instagram, Pinterest, Telegram, **Bluesky, Threads, X** | `agentes/redactor/` |
+| A6 Guardián · cola | 1 | **Hecho.** Determinista + criterio; modos manual/mixto/**auto** con ventana de cancelación | `agentes/guardian/cola.py` |
+| A4 Diseñador | 1 | **Hecho.** JPEG por serie (Playwright, Lora); portada de episodio | `agentes/disenador/` |
+| Aprobación Telegram | 1 | **Hecho.** Previas con botones; en modo auto, aviso con hora y ❌ Cancelar | `agentes/aprobacion/telegram.py` |
+| A7 Publicador | 1-2 | **Hecho.** Telegram, Pinterest, Instagram, **Bluesky, Threads, X (texto), pódcast (feed)** | `agentes/publicador/` |
+| A1 Estratega | 2 | **Hecho.** Plan semanal con criterio (libro, tipo de átomo, ángulo por pieza) a partir de inventario, fechas, promos gratis y métricas; validado contra la plantilla | `agentes/estratega/` |
+| A5 Locutor | 2 | **Hecho.** Edge TTS (gratuito) → MP3 24 kHz; feed RSS con etiquetas iTunes; página web del pódcast. Vídeo para Shorts: Fase 3 | `agentes/locutor/` |
+| A9 Analista | 2 | **Hecho.** Métricas por API (Instagram, Pinterest, Bluesky, Threads), seguidores, importación de CSV de KDP, informe semanal (Markdown + resumen a Telegram) | `agentes/analista/` |
+| A10 Bibliotecario | 2 | **Hecho.** Calendario rotatorio de días gratis (KDP Select), recordatorios con antelación, caducidad de tokens, ASIN pendientes, fechas señaladas, sugerencias del Estratega | `agentes/bibliotecario/` |
+| Pipeline | 1-2 | **Hecho.** `diario` (incluye audio y métricas), `aprobaciones`, `semanal` (Bibliotecario → Analista → Estratega → resumen a Telegram) | `agentes/pipeline.py` |
+| Publicador · Facebook, YouTube | 3 | Pendiente (YouTube exige verificación OAuth; Facebook, página y token de página) | — |
+| A8 Escucha | 3 | Pendiente. Menciones y borradores de respuesta para el humano | `agentes/escucha/` |
+| Guardián de cupos | 3 | Pendiente. Cupo mensual de X y de la API de Instagram | — |
 
-## Ciclo de vida de una pieza (Fase 1)
+## Ciclo de vida de una pieza
 
 ```
-planificada ─Redactor─▶ redactada ─Guardián─▶ pendiente_humano ─Diseñador─▶ (imágenes) ─Telegram─▶ humano
-     ▲                       │                                                                   │
-     │ nota de edición       └─ rechazada (motivo, intentos+1) ─▶ planificada … ─▶ descartada     ├─ ✅ aprobada ─Publicador (a su hora)─▶ publicada
-     └───────────────────────────────────────────────────────────────────────────────────────────┤─ ✏️ editar → planificada con nota
-                                                                                                  └─ ❌ descartada
+planificada ─Redactor─▶ redactada ─Guardián─▶ pendiente_humano ─┐
+     ▲                       │                                  │ Diseñador (JPEG) · Locutor (MP3 si audio) · Telegram (previa)
+     │ nota ✏️               └─ rechazada (motivo) ─▶ … ─▶ descartada
+     └──────────────── modo auto: ─▶ aprobada (aviso ⏱, ❌ cancela) ─▶ Publicador a su hora (≥60 min tras el aviso) ─▶ publicada ─▶ Analista
 ```
+
+## Ciclo semanal (domingo 05:00 UTC)
+
+1. **Bibliotecario**: promos gratis de las próximas dos semanas (programar en KDP), tokens que caducan, ASIN pendientes, fechas señaladas.
+2. **Analista**: importa CSV de `datos/kdp/`, recoge métricas, escribe `datos/salida/informe_<fecha>.md`.
+3. **Estratega**: plan de la semana siguiente en kv `plan_semana:<lunes>`; el planificador diario lo sigue.
+4. Resumen de los tres a Telegram.
 
 ## Convenciones
 
-- Un agente creativo = un módulo con `prompt.md` (texto del sistema con huecos) y un `*.py` con CLI. El prompt se rellena desde el YAML del sello; nada de voz o reglas escritas en el código.
-- Todo lo que llama a la API pasa por `agentes/ia.py` y registra tokens y coste en `ejecuciones`.
-- Los agentes de producción (Diseñador, Publicador) no usan modelo de lenguaje.
-- Nunca se publica desde un agente creativo. La cola es la frontera: `aprobada` la pone el humano.
+- Un agente creativo = un módulo con `prompt.md` y un `*.py` con CLI. El prompt se rellena desde el YAML del sello.
+- Todo lo que llama a la API pasa por `agentes/ia.py` y registra tokens y coste.
+- Los agentes de producción (Diseñador, Locutor, Publicador, Analista, Bibliotecario) no usan modelo de lenguaje.
+- Nunca se publica desde un agente creativo. La cola es la frontera.
 - Sin credenciales de un canal, ese canal simplemente no actúa; el resto sigue.

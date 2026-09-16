@@ -14,6 +14,7 @@
   <a class="marca" href="{{ u('') }}">{{ sello.nombre }}</a>
   <nav>
     {% for s in series %}<a href="{{ u('series/' ~ serie_slug(s) ~ '/') }}">{{ s.nombre_amazon }}</a>{% endfor %}
+    {% if hay_podcast %}<a href="{{ u('podcast/') }}">Pódcast</a>{% endif %}
     {% if hay_blog %}<a href="{{ u('blog/') }}">Blog</a>{% endif %}
     <a href="{{ u('#boletin') }}">Boletín</a>
   </nav>

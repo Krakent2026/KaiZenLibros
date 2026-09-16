@@ -20,3 +20,4 @@ fuentes/
 # worker
 worker_enlaces/node_modules/
 worker_enlaces/.wrangler/
+datos/kdp/*.csv
