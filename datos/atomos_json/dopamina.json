@@ -1,0 +1,1526 @@
+{
+ "serie": "mente_distinta",
+ "libro": "dopamina",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "La idea que defiende este libro es más modesta y, con el tiempo, más útil: no necesitas menos estímulo. Necesitas mejor estímulo.",
+   "es_literal": true,
+   "ancla": "Quitar sin más deja un hueco, y los huecos no se sostienen mucho tiempo; se llenan solos, casi siempre con lo primero que hay a mano. La idea que defiende este libro es más modesta y, con el tiempo, más útil: no necesitas menos estímulo. Necesitas mejor estímulo.",
+   "temas": [
+    "estímulo",
+    "tesis"
+   ],
+   "intensidad": 3,
+   "gancho": "No se trata de quitar. Se trata de poner algo mejor.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Introducción — La palabra de moda"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Abrir el móvil sin haber decidido abrirlo y cerrarlo tres horas después, con la sensación de haber perdido algo que ni siquiera se sabe nombrar.",
+   "es_literal": false,
+   "ancla": "La de no soportar la nada, la pausa, la sala de espera, sin que eso tenga nada que ver con falta de paciencia. La de abrir el móvil sin haber decidido abrirlo, y cerrarlo tres horas después con la sensación de haberse perdido algo que ni siquiera se puede nombrar.",
+   "temas": [
+    "pantallas",
+    "tiempo"
+   ],
+   "intensidad": 4,
+   "gancho": "No decidiste abrirlo. Y aun así ahí sigues, tres horas después.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Introducción — La palabra de moda"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que hace este libro es explicar la motivación —por qué arranca cuando arranca y por qué se queda muda cuando más falta hace— sin inventar cerebro.",
+   "es_literal": true,
+   "ancla": "Lo que hace este libro es explicar la motivación —por qué arranca cuando arranca y por qué se queda muda cuando más falta hace— sin inventar cerebro. Eso significa que cuando se hable de un modelo (una manera útil de pensar en algo, aunque no esté demostrada al detalle) se va a decir explícitamente que es un modelo.",
+   "temas": [
+    "motivación",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Explicar la motivación sin inventar cerebro.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Introducción — La palabra de moda"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no diagnostica a nadie ni sustituye a ningún profesional, y no dice si tienes «déficit de dopamina»: esa expresión es una simplificación popular, no un dato medido.",
+   "es_literal": false,
+   "ancla": "Lo que este libro no hace es igual de importante. No diagnostica nada ni a nadie. No sustituye a ningún profesional. No va a decirte si tienes o no tienes «déficit de dopamina», entre otras cosas porque esa expresión, tan repetida, es una simplificación popular que ni siquiera la ciencia que la originó puede sostener en esos términos tan tajantes",
+   "temas": [
+    "diagnóstico",
+    "límites"
+   ],
+   "intensidad": 2,
+   "gancho": "Ni diagnostica ni sustituye a nadie. Eso también hay que decirlo.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Introducción — La palabra de moda"
+  },
+  {
+   "tipo": "cita",
+   "texto": "«Me cuesta concentrarme» es una frase honesta y modesta. «Tengo un déficit de dopamina que me impide concentrarme» suena mucho más seria, mucho más «de verdad», y sin embargo es muchísimo menos honesta, porque afirma algo que nadie ha comprobado sobre ti en concreto.",
+   "es_literal": true,
+   "ancla": "«Me cuesta concentrarme» es una frase honesta y modesta. «Tengo un déficit de dopamina que me impide concentrarme» suena mucho más seria, mucho más «de verdad», y sin embargo es muchísimo menos honesta, porque afirma algo que nadie ha comprobado sobre ti en concreto.",
+   "temas": [
+    "lenguaje",
+    "dopamina"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuanto más técnica suena una frase, más fiable parece.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1. La palabra más usada y peor entendida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando la única fuente de información sobre un tema es un formato que no permite matices, el resultado casi inevitable es una versión del tema sin ninguno.",
+   "es_literal": true,
+   "ancla": "Cuando la única fuente de información sobre un tema es un formato que no permite matices, el resultado casi inevitable es una versión del tema sin ninguno.",
+   "temas": [
+    "divulgación",
+    "matices"
+   ],
+   "intensidad": 3,
+   "gancho": "Un formato que no permite matices produce un tema sin ninguno.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1. La palabra más usada y peor entendida"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "De una máquina averiada no se espera nada, solo que se repare o se sustituya. De una persona con un patrón particular sí se puede esperar que aprenda a leerlo, a rodearlo, a sacarle partido en lo que tiene de bueno, que también lo tiene.",
+   "es_literal": true,
+   "ancla": "De una máquina averiada no se espera nada, solo que se repare o se sustituya. De una persona con un patrón particular sí se puede esperar que aprenda a leerlo, a rodearlo, a sacarle partido en lo que tiene de bueno, que también lo tiene.",
+   "temas": [
+    "identidad",
+    "lenguaje"
+   ],
+   "intensidad": 4,
+   "gancho": "Una máquina averiada o una persona con un patrón: no es lo mismo.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1. La palabra más usada y peor entendida"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Ante cualquier afirmación sobre el cerebro que te resulte especialmente convincente, una pregunta: ¿quién se beneficia de que tú la creas?",
+   "es_literal": false,
+   "ancla": "Hay una manera sencilla de aplicar esta distinción sin necesidad de convertirte en investigador de nada: preguntarte, ante cualquier afirmación sobre el cerebro que te resulte especialmente convincente, quién se beneficia de que tú la creas.",
+   "temas": [
+    "escepticismo",
+    "dopamina"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Quién se beneficia de que tú te lo creas?",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1. La palabra más usada y peor entendida"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Cuando te oigas explicar algo tuyo con la palabra «dopamina», párate un segundo. 2) Traduce la frase a lenguaje llano, sin esa palabra. 3) Comprueba si la explicación química te ayuda a entenderte o te ahorra mirar más de cerca.",
+   "es_literal": false,
+   "ancla": "Hoy, la próxima vez que te sorprendas explicando algo tuyo con la palabra «dopamina» —en voz alta o solo para ti—, párate un segundo y traduce la frase a lenguaje llano, sin la palabra.",
+   "temas": [
+    "lenguaje",
+    "práctica"
+   ],
+   "intensidad": 2,
+   "gancho": "Traduce la frase a lenguaje llano, sin la palabra.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1. La palabra más usada y peor entendida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La idea, resumida al máximo, es esta: lo que se suele asociar a la dopamina parece tener más que ver con querer y con anticipar que con disfrutar.",
+   "es_literal": true,
+   "ancla": "La idea, resumida al máximo, es esta: lo que se suele asociar a la dopamina parece tener más que ver con querer y con anticipar que con disfrutar. Dicho de otra manera: una cosa parece ser el impulso que te empuja hacia algo —el «quiero eso», el «necesito conseguirlo», el tirón que sientes antes incluso de tenerlo delante",
+   "temas": [
+    "querer",
+    "disfrutar"
+   ],
+   "intensidad": 3,
+   "gancho": "Querer y disfrutar no son la misma cosa en dos momentos.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2. Qué hace, en lenguaje llano"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un informe que debía entregarse hace tres días sigue sin empezar, y la tarde se va reorganizando el armario de la cocina por colores. No es que el informe no importe: importa tanto que pesa.",
+   "es_literal": false,
+   "ancla": "tiene un informe que debía entregar hace tres días, sabe exactamente lo que le va a costar no entregarlo, ha repasado mentalmente las consecuencias más de una vez, y sin embargo se ha pasado la tarde reorganizando el armario de la cocina por colores, una tarea que nadie le pidió y que no tiene ninguna urgencia real.",
+   "temas": [
+    "motivación",
+    "postergar"
+   ],
+   "intensidad": 4,
+   "gancho": "El informe lleva tres días de retraso. El armario, ordenado por colores.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 2. Qué hace, en lenguaje llano"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "«Tengo déficit de dopamina» suena a analítica de sangre, a algo comprobable con una prueba sencilla. Esa sensación de precisión es justo lo que hoy no se puede ofrecer con honestidad.",
+   "es_literal": false,
+   "ancla": "La frase «tengo déficit de dopamina» suena a analítica de sangre, a algo que se puede comprobar con una prueba sencilla, y esa sensación de precisión es exactamente lo que no se puede ofrecer con honestidad hoy.",
+   "temas": [
+    "dopamina",
+    "modelos"
+   ],
+   "intensidad": 3,
+   "gancho": "Suena a analítica de sangre. No lo es.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2. Qué hace, en lenguaje llano"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige algo que llevas tiempo deseando: una compra, un plan, una serie. 2) Antes de conseguirlo, escribe en una nota una frase con lo que esperas sentir. 3) Ya está: releerla después es opcional, no otra tarea pendiente.",
+   "es_literal": false,
+   "ancla": "Hoy, elige algo que llevas tiempo deseando —una compra pendiente, un plan, una serie que quieres empezar— y, antes de conseguirlo o de hacerlo, escribe en una nota del móvil una frase con lo que esperas sentir.",
+   "temas": [
+    "anticipación",
+    "práctica"
+   ],
+   "intensidad": 2,
+   "gancho": "Escribe qué esperas sentir antes de conseguirlo.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2. Qué hace, en lenguaje llano"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Merece la pena decirlo con toda claridad, porque es el eje de este capítulo: la motivación, al menos la que aquí nos interesa, no parece responder a la importancia de las cosas.",
+   "es_literal": true,
+   "ancla": "Merece la pena decirlo con toda claridad, porque es el eje de este capítulo: la motivación, al menos la que aquí nos interesa, no parece responder a la importancia de las cosas. Responde a otra lista de ingredientes, bastante más caprichosa y bastante menos razonable, pero también bastante más reconocible en cuanto se nombra.",
+   "temas": [
+    "motivación",
+    "importancia"
+   ],
+   "intensidad": 4,
+   "gancho": "La motivación no responde a la importancia de las cosas.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3. Por qué la motivación no responde a la importancia"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Esto explica por qué se acumulan, por qué se posponen, por qué generan una culpa desproporcionada a su dificultad real: no son difíciles técnicamente, son difíciles motivacionalmente, que es un tipo de dificultad distinto y que casi nunca se reconoce como tal.",
+   "es_literal": true,
+   "ancla": "Esto explica por qué se acumulan, por qué se posponen, por qué generan una culpa desproporcionada a su dificultad real: no son difíciles técnicamente, son difíciles motivacionalmente, que es un tipo de dificultad distinto y que casi nunca se reconoce como tal.",
+   "temas": [
+    "papeleo",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "No son difíciles técnicamente. Son difíciles motivacionalmente.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3. Por qué la motivación no responde a la importancia"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Empezar muchas cosas y terminar pocas se cuenta como defecto de constancia. Muchas veces es solo la novedad actuando con total previsibilidad: empezar es el momento de más novedad, y por eso también el de más entusiasmo.",
+   "es_literal": false,
+   "ancla": "Se suele contar como un defecto de constancia, casi de carácter, cuando muchas veces es, simplemente, el ingrediente de la novedad actuando con total previsibilidad. Empezar algo nuevo es, casi siempre, el momento de mayor novedad posible, así que no es casualidad que sea también el momento de mayor entusiasmo.",
+   "temas": [
+    "novedad",
+    "constancia"
+   ],
+   "intensidad": 3,
+   "gancho": "Empezar mucho y terminar poco no siempre es falta de constancia.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3. Por qué la motivación no responde a la importancia"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Entender el patrón explica, pero no exime. Saber que el motor funciona con interés, novedad, urgencia y reto no hace que el informe se escriba solo.",
+   "es_literal": false,
+   "ancla": "Y aquí llega la parte incómoda de este capítulo, la que no se puede saltar aunque sería más cómodo hacerlo: entender este patrón explica, pero no exime. Saber que tu motor funciona con interés, novedad, urgencia y reto en lugar de con importancia pura no hace que el informe se escriba solo",
+   "temas": [
+    "responsabilidad",
+    "motivación"
+   ],
+   "intensidad": 3,
+   "gancho": "Entender este patrón explica. No exime.",
+   "formatos": [
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3. Por qué la motivación no responde a la importancia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Coge la tarea importante que llevas días evitando. 2) Pregúntate cuál de los cuatro ingredientes le falta del todo: interés, novedad, urgencia o reto. 3) Anótalo en una frase: «a esto le falta reto, es puramente mecánico». Nada más por hoy.",
+   "es_literal": false,
+   "ancla": "Hoy, coge esa tarea importante que llevas días evitando —la que sabes que es prioritaria y que aun así no arranca— y pregúntate, con calma y sin juzgarte, cuál de los cuatro ingredientes le falta del todo: interés, novedad, urgencia o reto.",
+   "temas": [
+    "práctica",
+    "motivación"
+   ],
+   "intensidad": 2,
+   "gancho": "¿Qué le falta a esto: interés, novedad, urgencia o reto?",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3. Por qué la motivación no responde a la importancia"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que no ocurre es la limpieza bioquímica milagrosa que promete el nombre «detox», porque ese nombre está tomado prestado de la desintoxicación de sustancias tóxicas, y aplicado aquí es, sobre todo, una etiqueta de marketing con aspecto de rigor médico.",
+   "es_literal": true,
+   "ancla": "Lo que no ocurre es la limpieza bioquímica milagrosa que promete el nombre «detox», porque ese nombre está tomado prestado de la desintoxicación de sustancias tóxicas, y aplicado aquí es, sobre todo, una etiqueta de marketing con aspecto de rigor médico.",
+   "temas": [
+    "detox",
+    "mitos"
+   ],
+   "intensidad": 3,
+   "gancho": "«Detox» es una etiqueta de marketing con aspecto de rigor médico.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4. Lo que no es cierto"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Ninguna persona tiene el cerebro roto por usar el móvil. Lo que puede tener es un hábito de estímulo muy asentado, y los hábitos, a diferencia de las roturas, se pueden reequilibrar",
+   "es_literal": true,
+   "ancla": "Ninguna persona tiene el cerebro roto por usar el móvil. Lo que puede tener es un hábito de estímulo muy asentado, y los hábitos, a diferencia de las roturas, se pueden reequilibrar sin necesidad de imaginarse un daño permanente que, sencillamente, no se ha demostrado que exista de esa manera.",
+   "temas": [
+    "pantallas",
+    "mitos"
+   ],
+   "intensidad": 4,
+   "gancho": "Ninguna persona tiene el cerebro roto por usar el móvil.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4. Lo que no es cierto"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Siete días siguiendo un programa, apuntando cada paso en una libreta. Al final llegó el orgullo de haber sostenido algo una semana entera. No llegó lo que prometía el vídeo de presentación.",
+   "es_literal": false,
+   "ancla": "Al llegar al séptimo día se sintió, sobre todo, orgullosa de haber sido constante durante una semana entera, algo que no le resultaba nada habitual. Lo que no sintió fue la transformación radical que el programa prometía en su vídeo de presentación",
+   "temas": [
+    "mitos",
+    "constancia"
+   ],
+   "intensidad": 3,
+   "gancho": "Llegó el orgullo de siete días constantes. No lo que prometía el vídeo.",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4. Lo que no es cierto"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Piensa en un mito que creíste: el detox, los receptores quemados, un suplemento, los siete días. 2) En vez de sentir vergüenza, escribe en una frase qué necesidad real intentaba cubrir esa creencia. 3) Déjalo ahí: esa necesidad sigue existiendo.",
+   "es_literal": false,
+   "ancla": "Hoy, piensa en algún mito de los que se han nombrado en este capítulo que hayas creído en algún momento —el detox, los receptores quemados, un suplemento, un vídeo de siete días, la idea de tener el cerebro roto— y, en vez de sentir vergüenza por haberlo creído, escribe en una frase qué necesidad real estaba intentando cubrir esa creencia.",
+   "temas": [
+    "mitos",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Qué necesidad real intentaba cubrir esa creencia?",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4. Lo que no es cierto"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Catorce minutos de reunión. Una pierna que se mueve sola debajo de la mesa. El bolígrafo girando hasta que se cae, y la cara caliente al recogerlo, como si el ruido fuera una alarma que has activado tú solo.",
+   "es_literal": false,
+   "ancla": "Una pierna se mueve sola debajo de la mesa. Los dedos giran el bolígrafo una y otra vez hasta que se cae, y al recogerlo nota que la cara se le ha puesto caliente, como si el ruido del bolígrafo al caer fuera una alarma que ha activado él solo.",
+   "temas": [
+    "aburrimiento",
+    "cuerpo"
+   ],
+   "intensidad": 4,
+   "gancho": "Catorce minutos de reunión y una pierna que se mueve sola.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 5. El aburrimiento que duele"
+  },
+  {
+   "tipo": "cita",
+   "texto": "A nadie se le ocurriría decirle a alguien con hambre real que tiene «poca tolerancia al hambre».",
+   "es_literal": true,
+   "ancla": "Es que la inquietud no es una distracción que se pueda ignorar con voluntad: es una sensación que ocupa el cuerpo entero con una fuerza comparable, guardando las proporciones, a la de otras necesidades físicas incómodas. A nadie se le ocurriría decirle a alguien con hambre real que tiene «poca tolerancia al hambre».",
+   "temas": [
+    "aburrimiento",
+    "validación"
+   ],
+   "intensidad": 4,
+   "gancho": "A nadie se le ocurre hablar de «poca tolerancia al hambre».",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5. El aburrimiento que duele"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es «poca tolerancia al aburrimiento», como si todos partiéramos del mismo punto y bastara con subir un peldaño. Es que la falta de estímulo se vive como algo activo y molesto, no como una ausencia neutra.",
+   "es_literal": false,
+   "ancla": "Y ahí está el punto que hay que dejar claro desde el principio de este capítulo: no es «poca tolerancia al aburrimiento». La tolerancia es una palabra que sugiere una escala continua, como si todos partiéramos del mismo punto y unos aguantaran un poco más y otros un poco menos",
+   "temas": [
+    "aburrimiento",
+    "tolerancia"
+   ],
+   "intensidad": 4,
+   "gancho": "No es poca tolerancia. Es que el vacío se vive como algo activo.",
+   "formatos": [
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 5. El aburrimiento que duele"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Pero antes de llegar ahí merecía la pena pararse aquí, en la experiencia desnuda, sin soluciones todavía: el aburrimiento que duele existe, es real, y quien lo vive no está exagerando.",
+   "es_literal": true,
+   "ancla": "Pero antes de llegar ahí merecía la pena pararse aquí, en la experiencia desnuda, sin soluciones todavía: el aburrimiento que duele existe, es real, y quien lo vive no está exagerando.",
+   "temas": [
+    "aburrimiento",
+    "validación"
+   ],
+   "intensidad": 5,
+   "gancho": "El aburrimiento que duele existe. Quien lo vive no exagera.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5. El aburrimiento que duele"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Cuando notes la inquietud —reunión, sala de espera, rato vacío—, nómbrala en silencio. 2) «Esto es el aburrimiento que duele, no falta de carácter». 3) No hace falta arreglarlo ahí mismo, ni disimularlo mejor, ni convencerte de que no es para tanto.",
+   "es_literal": false,
+   "ancla": "La próxima vez que notes esa inquietud —en una reunión, en una sala de espera, en cualquier rato sin estímulo suficiente— prueba a nombrarla en silencio, solo para ti, sin buscarle solución todavía: «esto es el aburrimiento que duele, no falta de carácter».",
+   "temas": [
+    "aburrimiento",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Nombrarlo en silencio, sin buscarle solución todavía.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5. El aburrimiento que duele"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un martes cualquiera, sin que haya pasado nada, se abre el portátil y se miran anuncios de trabajo en otra ciudad. Para la hora de cenar ya está imaginada la mudanza entera: piso nuevo, barrio nuevo, vida distinta.",
+   "es_literal": false,
+   "ancla": "Una tarde de martes, sin que hubiera pasado nada especial esa semana, abrió el portátil y empezó a mirar ofertas en otra ciudad. Para la hora de cenar ya se había imaginado la mudanza entera: el piso nuevo, el barrio nuevo, la vida distinta que empezaría en cuanto cambiara de código postal.",
+   "temas": [
+    "intensidad",
+    "cambios"
+   ],
+   "intensidad": 4,
+   "gancho": "Un martes cualquiera, sin motivo, la mudanza ya está imaginada entera.",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6. La búsqueda de intensidad"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Pero merece la pena decirlo sin dramatismo: la calma plana, sin ningún relieve, puede resultar tan poco tolerable que la cabeza fabrica su propio relieve, y el material más a mano para fabricarlo suele ser el vínculo más cercano",
+   "es_literal": true,
+   "ancla": "Pero merece la pena decirlo sin dramatismo: la calma plana, sin ningún relieve, puede resultar tan poco tolerable que la cabeza fabrica su propio relieve, y el material más a mano para fabricarlo suele ser el vínculo más cercano, precisamente porque es el que tiene más carga emocional disponible.",
+   "temas": [
+    "intensidad",
+    "vínculos"
+   ],
+   "intensidad": 4,
+   "gancho": "La calma plana puede ser tan poco tolerable que la cabeza fabrica relieve.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6. La búsqueda de intensidad"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "A quien más le cuesta el aburrimiento suele ser también quien más iniciativas pone en marcha y quien cambia de rumbo cuando hace falta. El hambre de estímulo tiene un lado que trabaja a favor, y contar solo su cara mala sería un error.",
+   "es_literal": false,
+   "ancla": "No es una casualidad que las personas a las que más les cuesta el aburrimiento también sean, con frecuencia, las que más iniciativas ponen en marcha, las que cambian de rumbo cuando hace falta, las que no se conforman con lo suficientemente bueno solo porque ya está ahí. El hambre de estímulo tiene un lado que trabaja a favor.",
+   "temas": [
+    "intensidad",
+    "iniciativa"
+   ],
+   "intensidad": 3,
+   "gancho": "El hambre de estímulo tiene un lado que trabaja a favor.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6. La búsqueda de intensidad"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Cuando notes el impulso de hacer algo drástico, para un segundo. 2) Pregúntate: «¿esto viene de un motivo real, o viene de que hoy el día está demasiado en calma?». 3) Puedes seguir adelante igual: lo que pide el paso es la pausa, no la renuncia.",
+   "es_literal": false,
+   "ancla": "para un segundo antes de actuar y pregúntate solo esto: «¿esto viene de un motivo real, o viene de que hoy el día está demasiado en calma?»",
+   "temas": [
+    "impulso",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Viene de un motivo real o de que hoy el día está demasiado en calma?",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6. La búsqueda de intensidad"
+  },
+  {
+   "tipo": "escena",
+   "texto": "«Cinco minutos, mientras se calienta la cena». Cuarenta minutos después, la cena fría y ningún recuerdo claro de qué se ha visto: un vídeo, otro, otro que ni interesaba pero que llevaba al siguiente.",
+   "es_literal": false,
+   "ancla": "Cuarenta minutos después sigue ahí, con la cena fría y sin recordar bien qué ha visto en ese rato: un vídeo corto, otro, otro, alguno que ni siquiera le interesaba especialmente pero que llevaba a otro que quizá sí, y ese siguiente llevaba a uno más.",
+   "temas": [
+    "pantallas",
+    "tiempo"
+   ],
+   "intensidad": 3,
+   "gancho": "«Cinco minutos, mientras se calienta la cena».",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7. Las pantallas por dentro"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No hubo un momento en el que decidiera «voy a estar aquí cuarenta minutos». Hubo, en cambio, una sucesión de momentos en los que la decisión razonable habría sido parar, y en ninguno de ellos apareció nada que empujara con fuerza hacia esa opción.",
+   "es_literal": true,
+   "ancla": "No hubo un momento en el que decidiera «voy a estar aquí cuarenta minutos». Hubo, en cambio, una sucesión de momentos en los que la decisión razonable habría sido parar, y en ninguno de ellos apareció nada que empujara con fuerza hacia esa opción.",
+   "temas": [
+    "pantallas",
+    "decisión"
+   ],
+   "intensidad": 4,
+   "gancho": "Nunca hubo un momento de decidir quedarse. Solo momentos de no parar.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7. Las pantallas por dentro"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un libro se acaba. Un capítulo tiene créditos. El contenido hecho para muros y vídeo corto quita ese instante: lo siguiente ya está cargado antes de que termine lo anterior, así que nunca aparece el punto en el que tocaría decidir.",
+   "es_literal": false,
+   "ancla": "La segunda pieza es la ausencia de un final natural. Un libro se acaba. Un capítulo de una serie tiene créditos, y aunque el siguiente empiece a los pocos segundos, hay un instante —por breve que sea— en el que la historia se ha cerrado y toca decidir de nuevo si se sigue.",
+   "temas": [
+    "diseño",
+    "pantallas"
+   ],
+   "intensidad": 3,
+   "gancho": "Un libro se acaba. El scroll no: eso es diseño, no accidente.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7. Las pantallas por dentro"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El freno que existía no estaba dentro de las personas: estaba en el formato. Y el formato ha cambiado.",
+   "es_literal": true,
+   "ancla": "Es, simplemente, nombrar con precisión qué pieza del freno antiguo ha desaparecido, para entender mejor por qué cuesta tanto más parar ahora que antes, sin que eso tenga que ver con ningún debilitamiento del carácter colectivo ni con generaciones «más flojas» que las anteriores. El freno que existía no estaba dentro de las personas: estaba en el formato. Y el formato ha cambiado.",
+   "temas": [
+    "diseño",
+    "pantallas"
+   ],
+   "intensidad": 4,
+   "gancho": "El freno no estaba dentro de las personas: estaba en el formato.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7. Las pantallas por dentro"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es «el móvil me ha destrozado la concentración»: es «tengo una cabeza que necesita mucho estímulo y este objeto se lo da con una facilidad enorme». La segunda frase describe lo mismo y deja abierta una puerta que la primera cierra.",
+   "es_literal": false,
+   "ancla": "Decir, en cambio, «tengo una cabeza que necesita mucho estímulo y este objeto se lo da con una facilidad enorme» describe la misma situación con mucha más precisión, y además deja abierta una puerta que la otra frase cierra",
+   "temas": [
+    "pantallas",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos frases para lo mismo. Una cierra la puerta; la otra la deja abierta.",
+   "formatos": [
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 7. Las pantallas por dentro"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "«Adicción» es una palabra clínica. La usa un profesional, después de una evaluación, con criterios que no caben en un libro de divulgación. Reconocerse en una descripción no es un veredicto.",
+   "es_literal": false,
+   "ancla": "La palabra «adicción» es una palabra clínica. La usa un profesional, después de una evaluación, con criterios que no caben en un libro de divulgación y que no le corresponde aplicar a un texto ni a quien lo escribe.",
+   "temas": [
+    "adicción",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "«Adicción» es una palabra clínica. No la reparte un libro.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8. Cuando el estímulo se vuelve un problema"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "La pregunta no es cuánto tiempo ni cuántas veces por semana. La que orienta es otra: ¿esto está causando un daño que antes no existía, en algún terreno concreto de la vida?",
+   "es_literal": false,
+   "ancla": "La pregunta no es «cuánto tiempo paso haciendo esto» ni «cuántas veces a la semana», porque la frecuencia por sí sola no dice gran cosa: hay quien juega una vez al mes con un daño enorme y quien juega todos los días sin que le cueste nada que de verdad importe.",
+   "temas": [
+    "daño",
+    "criterio"
+   ],
+   "intensidad": 4,
+   "gancho": "La pregunta útil no es cuánto tiempo. Es si hay un daño que antes no estaba.",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8. Cuando el estímulo se vuelve un problema"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo único que puede ofrecer es el criterio, para que sirva de brújula, no de sentencia.",
+   "es_literal": true,
+   "ancla": "Este libro no da una lista de puntos para sumar ni un umbral a partir del cual algo «cuenta»: eso sería fingir una precisión clínica que no tiene, y sería, de hecho, otra forma de diagnosticar desde un texto que no está capacitado para hacerlo. Lo único que puede ofrecer es el criterio, para que sirva de brújula, no de sentencia.",
+   "temas": [
+    "criterio",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "Un criterio que sirva de brújula, no de sentencia.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8. Cuando el estímulo se vuelve un problema"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Quien apuesta de más, quien compra de más, quien no puede parar con la comida, con la pantalla o con una sustancia, no es una persona con menos voluntad que el resto",
+   "es_literal": true,
+   "ancla": "Quien apuesta de más, quien compra de más, quien no puede parar con la comida, con la pantalla o con una sustancia, no es una persona con menos voluntad que el resto: es una persona con una hambre de estímulo particular que ha encontrado, en ese terreno concreto, algo que la satisface con una eficacia brutal, al menos durante un rato.",
+   "temas": [
+    "culpa",
+    "voluntad"
+   ],
+   "intensidad": 4,
+   "gancho": "No es una persona con menos voluntad que el resto.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8. Cuando el estímulo se vuelve un problema"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Busca el teléfono o la dirección de tu centro de salud. 2) Guárdalo donde lo veas mañana, aunque hoy no llames. 3) Si la situación se siente urgente: 024 conducta suicida, 112 emergencias, 016 violencia de género.",
+   "es_literal": false,
+   "ancla": "el paso de hoy es uno solo: busca el teléfono o la dirección de tu centro de salud y guárdalo donde lo veas mañana, aunque hoy no llegues a llamar.",
+   "temas": [
+    "ayuda",
+    "práctica"
+   ],
+   "intensidad": 4,
+   "gancho": "Guardar el contacto hoy, aunque la llamada sea otro día.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8. Cuando el estímulo se vuelve un problema"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Hay una frase que conviene grabar en algún sitio visible, porque resume media parte III de este libro: el vacío no se sostiene.",
+   "es_literal": true,
+   "ancla": "Hay una frase que conviene grabar en algún sitio visible, porque resume media parte III de este libro: el vacío no se sostiene. No es una cuestión de voluntad ni de motivación ni de lo mucho que se desee cambiar.",
+   "temas": [
+    "diseño",
+    "vacío"
+   ],
+   "intensidad": 3,
+   "gancho": "El vacío no se sostiene.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9. No es abstinencia: es diseño"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "De ahí que el orden importa, y mucho: primero se añade, después se quita. No al revés.",
+   "es_literal": true,
+   "ancla": "De ahí que el orden importa, y mucho: primero se añade, después se quita. No al revés. Quitar antes de añadir es empezar la casa por el tejado: se retira el estímulo fácil confiando en que el hueco resultante producirá, por sí solo, ganas de hacer otra cosa. No las produce.",
+   "temas": [
+    "diseño",
+    "orden"
+   ],
+   "intensidad": 3,
+   "gancho": "Primero se añade, después se quita. No al revés.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9. No es abstinencia: es diseño"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El móvil en un cajón, apagado, un domingo de determinación absoluta, con la promesa de una semana entera. Duró día y medio: se quitó algo y no se puso nada en su lugar, y el hueco lo volvió a llenar el móvil, con una capa de culpa encima.",
+   "es_literal": false,
+   "ancla": "Duró un día y medio porque quitó algo y no puso nada en su lugar, y ese hueco, tarde o temprano, lo iba a llenar alguna otra cosa. Lo llenó el móvil, otra vez, y además con una capa nueva encima: la sensación de haber fallado en algo que ni siquiera tenía muy claro por qué se había propuesto.",
+   "temas": [
+    "abstinencia",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "El móvil en un cajón, un domingo de determinación. Duró día y medio.",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9. No es abstinencia: es diseño"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Un plan que depende de tener fuerza de voluntad suficiente cada día es un plan que solo funciona los días en que no hacía falta ningún plan.",
+   "es_literal": true,
+   "ancla": "Varía con el sueño de la noche anterior, con el hambre, con cuánto ha costado el resto del día, con si ha habido una discusión, con si hace un calor insoportable. Un plan que depende de tener fuerza de voluntad suficiente cada día es un plan que solo funciona los días en que no hacía falta ningún plan.",
+   "temas": [
+    "voluntad",
+    "diseño"
+   ],
+   "intensidad": 4,
+   "gancho": "Un plan que depende de la voluntad solo funciona los días fáciles.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9. No es abstinencia: es diseño"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Antes de quitar nada, elige una sola cosa concreta que ocupe el hueco: el de después de cenar, el de la sala de espera, el del rato antes de dormir. 2) Déjala a la vista o accesible. 3) Esta semana no quites nada.",
+   "es_literal": false,
+   "ancla": "Antes de plantearte quitar nada —el móvil, una app, una costumbre—, elige una sola cosa concreta que vayas a poner en su lugar la próxima vez que notes ese hueco típico: el de después de cenar, el de la sala de espera, el del rato muerto antes de dormir.",
+   "temas": [
+    "diseño",
+    "práctica"
+   ],
+   "intensidad": 2,
+   "gancho": "Esta semana no quites nada. Pon algo antes.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9. No es abstinencia: es diseño"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Y aquí llega la parte más importante de todo el capítulo, la que muchos libros de bienestar se saltan porque no queda bien decirla: todas estas fuentes lentas, sin excepción, cuestan más arrancar que abrir el móvil.",
+   "es_literal": true,
+   "ancla": "Y aquí llega la parte más importante de todo el capítulo, la que muchos libros de bienestar se saltan porque no queda bien decirla: todas estas fuentes lentas, sin excepción, cuestan más arrancar que abrir el móvil. Siempre. No hay ni una sola excepción real. Abrir el móvil no pide nada: está en el bolsillo, se enciende solo, no requiere decisión ni preparación ni permiso de nadie.",
+   "temas": [
+    "fuentes lentas",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Todas las fuentes lentas cuestan más arrancar que abrir el móvil.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10. Fuentes lentas"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Lo que falta no es información, es que el primer paso de cada fuente lenta pese menos que el primer paso de coger el móvil.",
+   "es_literal": true,
+   "ancla": "Nadie necesita que le convenzan de que caminar sienta mejor que el scroll. Eso ya lo sabe. Lo que falta no es información, es que el primer paso de cada fuente lenta pese menos que el primer paso de coger el móvil.",
+   "temas": [
+    "fricción",
+    "fuentes lentas"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que falta no es información.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10. Fuentes lentas"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Cuando una tarde se hace cuesta arriba, salir a comprar el pan aunque no haga ninguna falta, solo por el rato de calle. No resuelve nada, pero la tarde ya no es la misma tarde al volver.",
+   "es_literal": false,
+   "ancla": "cuando una tarde se le hace cuesta arriba, sale a comprar el pan aunque no haga ninguna falta, solo por el rato de calle. «No resuelve nada», dice, «pero la tarde ya no es la misma tarde cuando vuelvo».",
+   "temas": [
+    "calle",
+    "fuentes lentas"
+   ],
+   "intensidad": 2,
+   "gancho": "No resuelve nada, pero la tarde ya no es la misma al volver.",
+   "formatos": [
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10. Fuentes lentas"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Hay días en los que ninguna fuente lenta apetece lo más mínimo. No es un fallo de la lista ni de quien la lee: ninguna viene con el compromiso de funcionar siempre, para todo el mundo, en cualquier estado de ánimo.",
+   "es_literal": false,
+   "ancla": "Eso no es un fallo de la lista ni de la persona que la lee. Es, simplemente, que algunos días son así, y ninguna fuente lenta viene con la garantía de funcionar siempre, para todo el mundo, en cualquier estado de ánimo.",
+   "temas": [
+    "días malos",
+    "fuentes lentas"
+   ],
+   "intensidad": 3,
+   "gancho": "Hay días en que ninguna fuente lenta apetece. No es fallo de la lista.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10. Fuentes lentas"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige una sola fuente lenta: mover el cuerpo, las manos, la música, la calle, la gente, aprender algo. 2) Haz hoy una sola cosa para bajarle la barrera de entrada, no para practicarla. 3) Zapatillas junto a la puerta, guitarra fuera de la funda, el nombre de a quién llamar ya escrito.",
+   "es_literal": false,
+   "ancla": "Elige una sola fuente lenta de las que se han nombrado en este capítulo —mover el cuerpo, usar las manos, la música, salir a la calle, estar con alguien, aprender algo— y haz una sola cosa hoy para bajarle la barrera de entrada, no para practicarla todavía.",
+   "temas": [
+    "fuentes lentas",
+    "práctica"
+   ],
+   "intensidad": 2,
+   "gancho": "Hoy no toca practicarla: toca bajarle la barrera de entrada.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10. Fuentes lentas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Fricción donde estorba, facilidad donde ayuda. Esa es la frase entera, y todo el capítulo es su desarrollo.",
+   "es_literal": true,
+   "ancla": "Fricción donde estorba, facilidad donde ayuda. Esa es la frase entera, y todo el capítulo es su desarrollo. Se trata de identificar, una por una, las cosas que se hacen en piloto automático y que gustaría hacer menos, y ponerles algún obstáculo pequeño por delante",
+   "temas": [
+    "fricción",
+    "diseño"
+   ],
+   "intensidad": 3,
+   "gancho": "Fricción donde estorba, facilidad donde ayuda.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11. Fricción donde estorba, facilidad donde ayuda"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Dos horas de móvil en la cama cada mañana, sin haberlo decidido. El cambio no fue una app de control ni un propósito nuevo: fue mover el cargador al pasillo. Dos pasos de más, y medio segundo de margen para decidir otra cosa.",
+   "es_literal": false,
+   "ancla": "Fue mover el cargador del móvil al pasillo, fuera del dormitorio. Ese único cambio —un cambio que se hace una vez, con un enchufe y treinta segundos, y que sigue funcionando solo cada noche siguiente sin que nadie tenga que acordarse de nada— convirtió «coger el móvil nada más despertar» en «levantarse, salir de la habitación, y entonces coger el móvil».",
+   "temas": [
+    "fricción",
+    "móvil"
+   ],
+   "intensidad": 3,
+   "gancho": "No fue una app de control. Fue mover el cargador al pasillo.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 11. Fricción donde estorba, facilidad donde ayuda"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Ninguno de estos cambios impide nada: quien de verdad quiere entrar en esa app, o encender la tele, lo va a hacer igual. Lo que cambia es que deja de ser automático, y ese segundo de fricción es, muchas veces, todo lo que hace falta para que la elección deje de tomarse sola.",
+   "es_literal": true,
+   "ancla": "Ninguno de estos cambios impide nada: quien de verdad quiere entrar en esa app, o encender la tele, lo va a hacer igual. Lo que cambia es que deja de ser automático, y ese segundo de fricción es, muchas veces, todo lo que hace falta para que la elección deje de tomarse sola.",
+   "temas": [
+    "fricción",
+    "automatismo"
+   ],
+   "intensidad": 3,
+   "gancho": "No impide nada: solo deja de ser automático.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11. Fricción donde estorba, facilidad donde ayuda"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Dejar algo más a mano no asegura que se use más. La fricción y la facilidad acortan el paso de la idea a la acción cuando ya hay ganas y tiempo. No crean ganas ni tiempo de la nada.",
+   "es_literal": false,
+   "ancla": "La fricción y la facilidad ayudan a que, cuando existen las ganas y el tiempo, el paso de la idea a la acción sea más corto. No crean ganas ni tiempo de la nada.",
+   "temas": [
+    "fricción",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "La fricción no crea ganas ni tiempo de la nada.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11. Fricción donde estorba, facilidad donde ayuda"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige un solo hábito automático que quieras hacer menos. 2) Ponle un obstáculo pequeño hoy: el cargador en otra habitación, la app dos toques más lejos, el mando en un cajón. 3) Un solo cambio, y nada más esta semana.",
+   "es_literal": false,
+   "ancla": "Elige un solo hábito automático que te gustaría hacer menos —mirar el móvil nada más despertar, abrir una app concreta sin pensarlo, encender la televisión sin propósito— y ponle un único obstáculo pequeño hoy mismo: mueve el cargador a otra habitación, esconde la app en una carpeta con dos toques más de distancia, guarda el mando en un cajón.",
+   "temas": [
+    "fricción",
+    "práctica"
+   ],
+   "intensidad": 2,
+   "gancho": "Un solo obstáculo pequeño, hoy. Nada más esta semana.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11. Fricción donde estorba, facilidad donde ayuda"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Aplicar una sola de ellas ya sirve. No hace falta aplicarlas todas, ni en orden, ni para siempre.",
+   "es_literal": true,
+   "ancla": "Las medidas que siguen están ordenadas de la más pequeña a la más grande, precisamente para que cada persona se pare donde le convenga, sin sentir que hay que llegar hasta el final para que «cuente». Aplicar una sola de ellas ya sirve. No hace falta aplicarlas todas, ni en orden, ni para siempre.",
+   "temas": [
+    "móvil",
+    "medidas"
+   ],
+   "intensidad": 2,
+   "gancho": "Aplicar una sola ya sirve.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12. El móvil, en concreto"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Ninguna de estas medidas es infalible. Ayudan a algunas personas algunos días; a otras no les hacen nada, o les hacen algo distinto de lo esperado. Eso no es un fallo de la persona ni de la medida.",
+   "es_literal": false,
+   "ancla": "Y una idea que atraviesa todo el capítulo, dicha aquí para no repetirla cien veces: ninguna de estas medidas es infalible. Ayudan a algunas personas algunos días. A otras no les hace nada, o les hace algo distinto de lo esperado.",
+   "temas": [
+    "móvil",
+    "honestidad"
+   ],
+   "intensidad": 2,
+   "gancho": "Ninguna de estas medidas es infalible, y conviene decirlo.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12. El móvil, en concreto"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando el trabajo entero vive dentro del móvil, «déjalo en otra habitación» no sirve. Lo que sirve es crear una frontera dentro del propio aparato: perfiles separados, carpetas y fondos distintos, avisos que solo dejen pasar lo urgente de verdad.",
+   "es_literal": false,
+   "ancla": "La idea de fondo para este caso es: no se trata de que el móvil desaparezca de la vida de quien lo necesita para trabajar. Se trata de crear, dentro del mismo dispositivo, una frontera lo más clara posible entre lo que es trabajo de verdad",
+   "temas": [
+    "trabajo",
+    "móvil"
+   ],
+   "intensidad": 3,
+   "gancho": "Si el móvil es el puesto de trabajo, la frontera se monta dentro de él.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12. El móvil, en concreto"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Usar el móvil por la noche para no estar solo no es un uso peor ni más vergonzoso que otro. Buscar compañía con lo que se tiene a mano no es una prueba de fracaso: es una respuesta razonable a una necesidad real.",
+   "es_literal": false,
+   "ancla": "Buscar compañía de la forma que se pueda, cuando la disponible en ese momento es limitada, no es una prueba de fracaso: es una respuesta razonable a una necesidad real con los recursos que hay a mano en ese momento concreto.",
+   "temas": [
+    "soledad",
+    "móvil"
+   ],
+   "intensidad": 4,
+   "gancho": "Buscar compañía con lo que se tiene a mano no es una prueba de fracaso.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12. El móvil, en concreto"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige la medida más pequeña que te llame algo la atención. 2) Hazla ahora mismo: quitar los números rojos, poner la pantalla en blanco y negro, silenciar los avisos que no son personas. 3) No elijas la más ambiciosa para demostrar compromiso.",
+   "es_literal": false,
+   "ancla": "De todas las medidas de este capítulo, elige la más pequeña que te llame algo la atención —quitar los números rojos de notificación, poner la pantalla en blanco y negro, o silenciar los avisos de todo lo que no sea una persona real— y hazla ahora mismo",
+   "temas": [
+    "móvil",
+    "práctica"
+   ],
+   "intensidad": 2,
+   "gancho": "Elige la más pequeña, no la más ambiciosa.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12. El móvil, en concreto"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Conviene decir esto sin rodeos, porque es la experiencia central de este capítulo: una recompensa a un mes vista casi nunca mueve nada, por grande que sea, y una recompensa a cinco minutos vista mueve bastante, por pequeña que sea.",
+   "es_literal": true,
+   "ancla": "Conviene decir esto sin rodeos, porque es la experiencia central de este capítulo: una recompensa a un mes vista casi nunca mueve nada, por grande que sea, y una recompensa a cinco minutos vista mueve bastante, por pequeña que sea.",
+   "temas": [
+    "recompensas",
+    "motivación"
+   ],
+   "intensidad": 3,
+   "gancho": "A un mes vista casi nunca mueve nada. A cinco minutos, bastante.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13. Recompensas que sí funcionan"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Una recompensa que se cobra de todas formas, se haga o no se haga lo que supuestamente la ganaba, no es una recompensa: es una costumbre con una etiqueta puesta encima, y el motor de la motivación no se deja engañar por etiquetas.",
+   "es_literal": true,
+   "ancla": "Una recompensa que se cobra de todas formas, se haga o no se haga lo que supuestamente la ganaba, no es una recompensa: es una costumbre con una etiqueta puesta encima, y el motor de la motivación no se deja engañar por etiquetas.",
+   "temas": [
+    "recompensas",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Una recompensa que se cobra igual no es una recompensa.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13. Recompensas que sí funcionan"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Una recompensa que funciona suele tener tres rasgos a la vez: inmediata (llega enseguida, no al final de la semana), pequeña (no exige planificar ni gastar) y real (supone un cambio de verdad respecto a lo que iba a pasar igualmente).",
+   "es_literal": false,
+   "ancla": "Una recompensa que funciona de verdad suele tener tres rasgos, y los tres importan a la vez: es inmediata, es pequeña, y es real.",
+   "temas": [
+    "recompensas",
+    "diseño"
+   ],
+   "intensidad": 2,
+   "gancho": "Inmediata, pequeña y real: los tres a la vez o no funciona.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13. Recompensas que sí funcionan"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Es preferible prometer algo modesto y cumplirlo siempre, que prometer algo grande y cumplirlo solo cuando el día ha salido perfecto.",
+   "es_literal": true,
+   "ancla": "La consecuencia práctica de esto es sencilla de enunciar y algo más difícil de sostener: si se promete una recompensa, se da, y si no se puede dar en esas condiciones, mejor no prometerla desde el principio. Es preferible prometer algo modesto y cumplirlo siempre, que prometer algo grande y cumplirlo solo cuando el día ha salido perfecto.",
+   "temas": [
+    "recompensas",
+    "confianza"
+   ],
+   "intensidad": 3,
+   "gancho": "Mejor prometer poco y cumplirlo siempre.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13. Recompensas que sí funcionan"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige una tarea de hoy de las que sueles posponer. 2) Antes de empezarla, decide la recompensa inmediata: pequeña, que no harías de todas formas, sin planificación. 3) No la apuntes en ninguna tabla ni la conviertas en un sistema de puntos.",
+   "es_literal": false,
+   "ancla": "Elige una sola tarea de hoy, de las que sueles posponer, y decide antes de empezarla cuál va a ser tu recompensa inmediata al terminarla: algo pequeño, que no hagas de todas formas aunque no la termines, y que puedas conseguir sin planificar nada más.",
+   "temas": [
+    "recompensas",
+    "práctica"
+   ],
+   "intensidad": 2,
+   "gancho": "Decide la recompensa antes de empezar, no después.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13. Recompensas que sí funcionan"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Sentarse en el sofá con el móvil «solo un momento» y levantarse hora y media después con el mismo cansancio con el que te sentaste, más una capa nueva de irritación que antes no estaba.",
+   "es_literal": false,
+   "ancla": "se sentaba en el sofá con el móvil en la mano «solo un momento», y se levantaba una hora y media después con la misma sensación de cansancio con la que se había sentado, más una capa nueva de irritación que no tenía antes.",
+   "temas": [
+    "descanso",
+    "móvil"
+   ],
+   "intensidad": 4,
+   "gancho": "Hora y media después, el mismo cansancio y una irritación nueva.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 14. El descanso que no descansa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "«no es que el móvil me haga sentir mal, es que no me deja sintiéndome de ninguna manera concreta, y luego resulta que el tiempo que tenía para sentirme mejor ya no está».",
+   "es_literal": true,
+   "ancla": "Odón lo describía de una manera sencilla, sin ninguna vergüenza en la voz: «no es que el móvil me haga sentir mal, es que no me deja sintiéndome de ninguna manera concreta, y luego resulta que el tiempo que tenía para sentirme mejor ya no está».",
+   "temas": [
+    "descanso",
+    "tiempo"
+   ],
+   "intensidad": 4,
+   "gancho": "No me deja sintiéndome de ninguna manera concreta.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14. El descanso que no descansa"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Al levantarte del sofá, una sola pregunta: «¿estoy mejor, o estoy igual de cansado y además he perdido la noción del tiempo?». No hace falta ningún cuaderno donde anotarlo.",
+   "es_literal": false,
+   "ancla": "una única pregunta al levantarse del sofá: «¿estoy mejor o estoy igual de cansada, pero además he perdido la noción del tiempo?»",
+   "temas": [
+    "descanso",
+    "atención"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Estoy mejor, o igual de cansado y además sin noción del tiempo?",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14. El descanso que no descansa"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es la herramienta la que decide si un rato repone: es la manera de entrar en él. Abrir el móvil con una intención concreta tiende a dejar mejor que abrirlo sin ninguna, dejando que el diseño decida qué viene después.",
+   "es_literal": false,
+   "ancla": "no es la herramienta la que decide si un rato repone o no, es la manera en que se entra en ese rato. Abrir el móvil con una intención concreta, aunque sea pequeña —ver un vídeo determinado, escribir a una persona concreta, mirar algo que interesa de verdad— tiende a dejar mejor que abrirlo sin ninguna intención",
+   "temas": [
+    "descanso",
+    "intención"
+   ],
+   "intensidad": 3,
+   "gancho": "No decide la herramienta: decide la manera de entrar.",
+   "formatos": [
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 14. El descanso que no descansa"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Antes de coger el móvil «para descansar un rato», decide una sola cosa concreta que quieras ver o hacer con él. 2) Entra con esa intención. 3) Al terminar, fíjate si el rato te ha dejado distinto que otras veces.",
+   "es_literal": false,
+   "ancla": "La próxima vez que notes que vas a coger el móvil «para descansar un rato», antes de abrirlo decide una sola cosa concreta que quieras ver o hacer con él, aunque sea pequeña: un vídeo determinado, escribir a alguien en concreto, mirar algo que de verdad te interese.",
+   "temas": [
+    "descanso",
+    "práctica"
+   ],
+   "intensidad": 2,
+   "gancho": "Decidir una sola cosa concreta antes de abrirlo.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14. El descanso que no descansa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Conviene decir esto con toda la claridad posible, porque va contra una intuición muy extendida: castigarse después de un rato de móvil perdido no reduce la probabilidad de que vuelva a pasar. La aumenta.",
+   "es_literal": true,
+   "ancla": "Conviene decir esto con toda la claridad posible, porque va contra una intuición muy extendida: castigarse después de un rato de móvil perdido no reduce la probabilidad de que vuelva a pasar. La aumenta.",
+   "temas": [
+    "vergüenza",
+    "castigo"
+   ],
+   "intensidad": 4,
+   "gancho": "Castigarse después no baja la probabilidad de repetirlo. La sube.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15. La vergüenza de después"
+  },
+  {
+   "tipo": "cita",
+   "texto": "«me castigo por haberlo hecho, y para aguantar el castigo, lo vuelvo a hacer».",
+   "es_literal": true,
+   "ancla": "Sabina lo describía con una imagen sencilla: «me castigo por haberlo hecho, y para aguantar el castigo, lo vuelvo a hacer». No es contradictorio ni raro: es, simplemente, cómo funciona un ciclo que se retroalimenta a sí mismo, sin que haya que buscar detrás ningún defecto personal para explicarlo.",
+   "temas": [
+    "vergüenza",
+    "ciclo"
+   ],
+   "intensidad": 5,
+   "gancho": "Me castigo por haberlo hecho, y para aguantar el castigo lo repito.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15. La vergüenza de después"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El ciclo no empieza en el móvil. Empieza antes, con algo menos visible: un mensaje incómodo, una tarea que daba pereza, una discusión sin resolver, un rato de aburrimiento. El móvil llega después, ofreciendo la salida más a mano.",
+   "es_literal": false,
+   "ancla": "Casi siempre empieza antes, con algo mucho menos visible: un mensaje incómodo, una tarea que daba pereza empezar, una discusión sin resolver, un rato de aburrimiento que dolía más de lo esperado. El móvil no crea ese malestar inicial: llega después, ofreciendo la salida más a mano para no seguir sintiéndolo",
+   "temas": [
+    "ciclo",
+    "vergüenza"
+   ],
+   "intensidad": 3,
+   "gancho": "El ciclo no empieza en el móvil. Empieza antes.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15. La vergüenza de después"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La autoindulgencia dice «total, siempre me pasa lo mismo, qué más da». La autocompasión no elimina la intención de que la próxima vez vaya un poco mejor: solo quita de en medio el reproche que no ayudaba.",
+   "es_literal": false,
+   "ancla": "La autocompasión bien entendida no elimina la intención de que las cosas vayan un poco mejor la próxima vez: solo quita de en medio el reproche que no ayudaba a que fueran mejor, y que además añadía una capa de malestar que había que gestionar de alguna forma.",
+   "temas": [
+    "autocompasión",
+    "vergüenza"
+   ],
+   "intensidad": 3,
+   "gancho": "Autocompasión no es «qué más da».",
+   "formatos": [
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 15. La vergüenza de después"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Al levantar la vista del móvil después de más rato del que querías, no digas la frase de siempre. 2) Di esta, aunque suene forzada: «vale, ha pasado esto, ¿qué hago ahora con lo que queda del día?». 3) Mira hacia dónde te lleva la tarde.",
+   "es_literal": false,
+   "ancla": "prueba a sustituir la primera frase que te venga a la cabeza por esta otra, dicha tal cual, aunque suene forzada al principio: «vale, ha pasado esto, ¿qué hago ahora con lo que queda del día?»",
+   "temas": [
+    "vergüenza",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Cambia la primera frase que te venga a la cabeza.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15. La vergüenza de después"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El nivel de fondo de necesidad de estímulo probablemente no baje mucho, se haga lo que se haga. Lo que cambia es la relación con él: rodearlo, en vez de pelearse con él esperando que baje.",
+   "es_literal": false,
+   "ancla": "el nivel de fondo de necesidad de estímulo probablemente no baje mucho, hagas lo que hagas. Seguirá costando más arrancar tareas que no interesan, seguirá doliendo el aburrimiento con una intensidad que otras personas no reconocen del todo",
+   "temas": [
+    "expectativas",
+    "estímulo"
+   ],
+   "intensidad": 3,
+   "gancho": "El nivel de fondo probablemente no baje mucho. Conviene decirlo.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16. Una vida con suficiente estímulo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Rodear un obstáculo que no se puede quitar no es una derrota. Es, con frecuencia, la única estrategia que de verdad funciona a largo plazo",
+   "es_literal": true,
+   "ancla": "Rodear un obstáculo que no se puede quitar no es una derrota. Es, con frecuencia, la única estrategia que de verdad funciona a largo plazo, frente a la alternativa de estrellarse una y otra vez contra algo que no va a moverse solo porque se insista más fuerte.",
+   "temas": [
+    "estrategia",
+    "aceptación"
+   ],
+   "intensidad": 3,
+   "gancho": "Rodear un obstáculo que no se puede quitar no es una derrota.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16. Una vida con suficiente estímulo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Una vida con suficiente estímulo no es una vida sin ningún tropiezo: es una vida en la que los tropiezos pesan menos, duran menos, y no arrastran detrás una historia entera sobre lo que uno vale.",
+   "es_literal": true,
+   "ancla": "Una vida con suficiente estímulo no es una vida sin ningún tropiezo: es una vida en la que los tropiezos pesan menos, duran menos, y no arrastran detrás una historia entera sobre lo que uno vale.",
+   "temas": [
+    "cierre",
+    "tropiezos"
+   ],
+   "intensidad": 4,
+   "gancho": "No es una vida sin tropiezos: es una en la que pesan menos.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16. Una vida con suficiente estímulo"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Sin tabla ni indicador exacto: ¿cuesta un poco menos empezar ciertas tareas? ¿Los ratos de móvil dejan, a veces, otra sensación? ¿La voz interior después de un tropiezo suena un poco menos dura que hace un tiempo?",
+   "es_literal": false,
+   "ancla": "¿Cuesta un poco menos empezar ciertas tareas que antes se posponían sistemáticamente? ¿Los ratos de móvil dejan, con algo más de frecuencia, una sensación distinta a la de antes? ¿La voz interior después de un tropiezo suena un poco menos dura que la de hace un tiempo?",
+   "temas": [
+    "balance",
+    "autoobservación"
+   ],
+   "intensidad": 2,
+   "gancho": "Tres preguntas para mirar atrás sin necesitar una prueba perfecta.",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16. Una vida con suficiente estímulo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige una sola idea del libro que puedas aplicar mañana sin esfuerzo extra. 2) Escríbela en una frase, en un sitio que de verdad consultes esta semana. 3) No hace falta aplicarlo todo a la vez.",
+   "es_literal": false,
+   "ancla": "Elige, de todo lo que has leído en este libro, una sola idea que te haya resultado útil de verdad, no la que suene mejor en teoría sino la que de verdad podrías aplicar mañana sin esfuerzo extra.",
+   "temas": [
+    "práctica",
+    "cierre"
+   ],
+   "intensidad": 2,
+   "gancho": "Una sola idea, escrita en una frase, donde la vayas a ver.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16. Una vida con suficiente estímulo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La tesis de fondo, repetida de mil formas distintas a lo largo de estas páginas, ha sido siempre la contraria: no se trata de quitar, se trata de añadir mejor.",
+   "es_literal": true,
+   "ancla": "La tesis de fondo, repetida de mil formas distintas a lo largo de estas páginas, ha sido siempre la contraria: no se trata de quitar, se trata de añadir mejor.",
+   "temas": [
+    "tesis",
+    "estímulo"
+   ],
+   "intensidad": 3,
+   "gancho": "No se trata de quitar: se trata de añadir mejor.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Cierre — Necesitas estímulo, y no pasa nada"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Un móvil usado con intención deja mejor que uno abierto por costumbre. Una recompensa pequeña e inmediata mueve más que una promesa lejana. Un rato de aburrimiento sostenido con algo de estructura alrededor duele menos que uno abandonado a su suerte.",
+   "es_literal": true,
+   "ancla": "Un móvil usado con intención deja mejor que uno abierto por costumbre. Una recompensa pequeña e inmediata mueve más que una promesa lejana. Un rato de aburrimiento sostenido con algo de estructura alrededor duele menos que uno abandonado a su suerte.",
+   "temas": [
+    "intención",
+    "recompensas"
+   ],
+   "intensidad": 3,
+   "gancho": "Un móvil usado con intención deja mejor que uno abierto por costumbre.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Cierre — Necesitas estímulo, y no pasa nada"
+  },
+  {
+   "tipo": "cita",
+   "texto": "un cerebro que pide más estímulo del habitual no está averiado, no necesita arreglo, y puede diseñar a su alrededor una vida que funcione, sin épica y sin necesidad de dejar de ser exactamente el cerebro que es.",
+   "es_literal": true,
+   "ancla": "Lo que sí deja cerrado, con toda la firmeza que puede ofrecer, es la idea que ha sostenido cada capítulo: que un cerebro que pide más estímulo del habitual no está averiado, no necesita arreglo, y puede diseñar a su alrededor una vida que funcione, sin épica y sin necesidad de dejar de ser exactamente el cerebro que es.",
+   "temas": [
+    "identidad",
+    "cierre"
+   ],
+   "intensidad": 4,
+   "gancho": "Pedir más estímulo del habitual no es estar averiado.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Cierre — Necesitas estímulo, y no pasa nada"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Quien llegue al final buscando la palabra exacta se va con menos certezas de las que traía. En este caso concreto, eso es una buena noticia: el libro prefiere dejar sin cerrar lo que la ciencia tampoco tiene cerrado.",
+   "es_literal": false,
+   "ancla": "Quien haya llegado hasta esta página buscando la palabra exacta que resuma su experiencia probablemente se va con menos certezas de las que traía al empezar, y eso, en este caso concreto, es una buena noticia.",
+   "temas": [
+    "honestidad",
+    "dopamina"
+   ],
+   "intensidad": 3,
+   "gancho": "Se sale con menos certezas de las que se traían. Y está bien así.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Cierre — Necesitas estímulo, y no pasa nada"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Se puede sostener con prudencia: hay modelos que relacionan la dopamina con el querer y el anticipar más que con el puro disfrutar. Circula sin base sólida: que un «detox» limpie o reinicie algo concreto en un número fijo de días.",
+   "es_literal": false,
+   "ancla": "Hay modelos que relacionan la dopamina con el querer y el anticipar, más que con el puro disfrutar, aunque es un modelo simplificado y no una descripción completa de nada",
+   "temas": [
+    "dopamina",
+    "mitos"
+   ],
+   "intensidad": 2,
+   "gancho": "Lo que se puede sostener con prudencia y lo que solo circula.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Anexos"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "No es un cuestionario diagnóstico y no sirve para etiquetar a nadie desde unas páginas. Es un conjunto de señales para pensar con más claridad, no para juzgarse con más dureza.",
+   "es_literal": false,
+   "ancla": "lo que sigue no es un test, no es un cuestionario diagnóstico, y no sirve para etiquetar a nadie desde estas páginas. Es, simplemente, un conjunto de señales para pensar con más claridad, no para juzgarse con más dureza.",
+   "temas": [
+    "señales",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "Señales para pensar con más claridad, no para juzgarse con más dureza.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Anexos"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cómo te hablas, exactamente, en el minuto después de notar que has perdido más tiempo del que querías? ¿Le dirías esas mismas frases a alguien a quien quieres?",
+   "es_literal": false,
+   "ancla": "¿Cómo me hablo, exactamente, en el minuto después de notar que he perdido más tiempo del que quería?",
+   "temas": [
+    "voz interna",
+    "vergüenza"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Cómo te hablas en el minuto siguiente?",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Anexos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un libro que reconoce sus propios límites, y los de lo que se sabe hoy con solidez, no ofrece menos ayuda por ello.",
+   "es_literal": true,
+   "ancla": "promete soluciones rápidas que no llegan, y cuando no llegan, deja a quien las creyó con la sensación añadida de haber fallado también en eso. Un libro que reconoce sus propios límites, y los de lo que se sabe hoy con solidez, no ofrece menos ayuda por ello.",
+   "temas": [
+    "honestidad",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "Reconocer los límites no es ofrecer menos ayuda.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Anexos"
+  }
+ ]
+}

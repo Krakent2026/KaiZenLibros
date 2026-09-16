@@ -1,0 +1,1262 @@
+{
+ "serie": "mente_distinta",
+ "libro": "el-tiempo-no-me-obedece",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "El tiempo no se te escapa por falta de ganas: se te escapa porque no lo estás viendo.",
+   "es_literal": true,
+   "ancla": "El tiempo no se te escapa por falta de ganas: se te escapa porque no lo estás viendo.",
+   "temas": [
+    "tiempo",
+    "procrastinación"
+   ],
+   "intensidad": 4,
+   "gancho": "La frase que sostiene el libro entero.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Introducción — «Solo cinco minutos más»"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un correo de dos líneas lleva tres semanas sin contestar. Cada mañana aparece otra vez en la bandeja y cada mañana pasa de largo. No es que no importe: se ha pensado en él más veces de las que costaría escribirlo.",
+   "es_literal": false,
+   "ancla": "Hay un correo de dos líneas esperando respuesta desde hace tres semanas. No es complicado. No hace falta pensarlo mucho: un «sí, perfecto, quedamos el jueves» y ya está, correo enviado, asunto cerrado.",
+   "temas": [
+    "procrastinación",
+    "correo"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres semanas para un correo de dos líneas.",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — «Solo cinco minutos más»"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es pereza: la pereza describe a alguien parado sin hacer nada. Aquí hay alguien que ha estado haciendo cosas todo el rato, sin que ninguna de esas cosas fuera la que tenía que hacer.",
+   "es_literal": false,
+   "ancla": "Y «pereza» es, probablemente, la palabra que menos encaja de todas, porque no describe a alguien parado sin hacer nada: describe a alguien que ha estado haciendo cosas todo el rato",
+   "temas": [
+    "pereza",
+    "procrastinación"
+   ],
+   "intensidad": 3,
+   "gancho": "El problema no es la ausencia de actividad.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — «Solo cinco minutos más»"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no promete que termines siendo otra persona, ni que llegues puntual a todo a partir de la última página. Dice de qué trata; no dice en quién te convierte.",
+   "es_literal": false,
+   "ancla": "No vas a terminar este libro siendo una persona distinta, ni vas a llegar puntual a todo a partir de la última página, ni el correo de tres semanas va a convertirse en el símbolo de un antes y un después.",
+   "temas": [
+    "honestidad",
+    "expectativas"
+   ],
+   "intensidad": 2,
+   "gancho": "Lo que este libro se niega a prometer.",
+   "formatos": [
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Introducción — «Solo cinco minutos más»"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "A quien no consigue arrancar una tarea de dos minutos, un plan de doce fases para dominar la agenda no le hace ningún favor: le añade una fase más a la lista de cosas en las que ha fracasado.",
+   "es_literal": false,
+   "ancla": "A quien no consigue arrancar una tarea de dos minutos no le hace ningún favor un plan de doce fases para «dominar tu agenda». Le añade una fase más a la lista de cosas en las que ha fracasado.",
+   "temas": [
+    "productividad",
+    "arranque"
+   ],
+   "intensidad": 3,
+   "gancho": "Un plan de doce fases no desatasca una tarea de dos minutos.",
+   "formatos": [
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Introducción — «Solo cinco minutos más»"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Se puede saber perfectamente que algo es urgente y no sentirlo urgente.",
+   "es_literal": true,
+   "ancla": "Se puede saber perfectamente que algo es urgente y no sentirlo urgente. Y es esa falta de correspondencia entre lo que se sabe y lo que se siente la que produce buena parte de la desesperación de quien vive así",
+   "temas": [
+    "tiempo",
+    "urgencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Saberlo y sentirlo no son lo mismo.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1. Ahora y no-ahora"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Hay quien tiene dos velocidades: cero y pánico. O la tarea está tan lejos que ni se toca, o está tan encima que se hace en un estado de urgencia que no deja espacio para pensar en otra cosa.",
+   "es_literal": false,
+   "ancla": "Kike lo describe de una manera que a mucha gente le suena: «Tengo dos velocidades. Cero, y pánico». No hay una marcha intermedia donde uno empieza una tarea con margen, la reparte en sesiones razonables durante varios días y la termina sin sobresaltos.",
+   "temas": [
+    "urgencia",
+    "tiempo"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos velocidades: cero y pánico.",
+   "formatos": [
+    "reel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 1. Ahora y no-ahora"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La urgencia no es graduable en esa experiencia: es binaria. Está o no está.",
+   "es_literal": true,
+   "ancla": "La urgencia no es graduable en esa experiencia: es binaria. Está o no está. Y solo aparece cuando ya casi no hace falta, porque el plazo ya está aquí.",
+   "temas": [
+    "plazos",
+    "urgencia"
+   ],
+   "intensidad": 3,
+   "gancho": "La urgencia no se siente poco a poco: está o no está.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1. Ahora y no-ahora"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un compromiso lejano se acepta sin medir el cansancio ni la energía, porque todavía no hay nada que medir. Para mañana sí se mide. Por eso el sí lejano sale gratis, y luego resulta que no lo era.",
+   "es_literal": false,
+   "ancla": "Nadie que evalúe un compromiso futuro desde la niebla lo evalúa con el mismo criterio que usaría si ese compromiso fuera para mañana. Mañana, uno mide el cansancio que ya tiene, la energía que le queda, si de verdad le apetece.",
+   "temas": [
+    "compromisos",
+    "agenda"
+   ],
+   "intensidad": 3,
+   "gancho": "Decir que sí a algo lejano sale gratis. La factura llega después.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1. Ahora y no-ahora"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige una tarea cualquiera que lleve más de una semana en la niebla, no la más urgente. 2) Ponle día y hora exactos en el calendario del teléfono. 3) Añade una alarma. No hace falta hacerla hoy: solo sacarla de «algún día».",
+   "es_literal": false,
+   "ancla": "Elige una sola cosa de tu lista de pendientes que lleve más de una semana en la niebla —no la más urgente ni la más importante, solo una cualquiera— y ponle una fecha con hora concreta en el calendario del teléfono, con una alarma.",
+   "temas": [
+    "alarmas",
+    "calendario"
+   ],
+   "intensidad": 2,
+   "gancho": "Sacar una tarea de «algún día» y meterla en una hora concreta.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1. Ahora y no-ahora"
+  },
+  {
+   "tipo": "cita",
+   "texto": "«Quiero hacerlo. Sé que es fácil. Y no lo hago»",
+   "es_literal": true,
+   "ancla": "«Quiero hacerlo. Sé que es fácil. Y no lo hago» es una frase que suena contradictoria, casi imposible, y sin embargo es exactamente lo que está pasando.",
+   "temas": [
+    "procrastinación",
+    "arranque"
+   ],
+   "intensidad": 4,
+   "gancho": "La frase que suena contradictoria y es exactamente lo que pasa.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2. Procrastinar no es pereza: es no poder arrancar"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es que no quiera: es que quiere y no puede empezar. Las dos cosas conviven al mismo tiempo, sin que una anule a la otra, aunque desde fuera parezca imposible de creer.",
+   "es_literal": false,
+   "ancla": "No es que no quiera. Es que quiere y no puede empezar, y esas dos cosas —querer y no poder— conviven al mismo tiempo, sin que una anule a la otra, de una manera que desde fuera resulta casi imposible de creer.",
+   "temas": [
+    "arranque",
+    "voluntad"
+   ],
+   "intensidad": 4,
+   "gancho": "Querer y no poder empezar caben juntos.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2. Procrastinar no es pereza: es no poder arrancar"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "A nadie con insomnio se le dice que «no quiere dormir lo suficiente». Ahí se entiende que querer algo y conseguirlo son dos procesos distintos. Con arrancar una tarea pasa lo mismo, y cuesta mucho más aceptarlo.",
+   "es_literal": false,
+   "ancla": "Nadie diría de alguien con insomnio que «no quiere dormir lo suficiente». Se entiende, en ese caso, que querer algo y conseguirlo son dos procesos distintos, y que puede fallar el segundo sin que eso signifique nada sobre el primero.",
+   "temas": [
+    "arranque",
+    "voluntad"
+   ],
+   "intensidad": 3,
+   "gancho": "A nadie con insomnio le dicen que no quiere dormir.",
+   "formatos": [
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2. Procrastinar no es pereza: es no poder arrancar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un sistema que ya está atascado no se destraba metiéndole más presión: se atasca más.",
+   "es_literal": true,
+   "ancla": "Un sistema que ya está atascado no se destraba metiéndole más presión: se atasca más. Tino, que durante años se levantaba cada mañana con la firme intención de «hoy sí, hoy me pongo serio»",
+   "temas": [
+    "culpa",
+    "autocrítica"
+   ],
+   "intensidad": 4,
+   "gancho": "Un sistema atascado no se destraba con más presión.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2. Procrastinar no es pereza: es no poder arrancar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige la tarea más pequeña que llevas evitando, no la más importante. 2) Haz solo el primer movimiento físico: abrir la pestaña, coger el papel, marcar el número. 3) Ponte un límite explícito: «solo esto, y si quiero paro».",
+   "es_literal": false,
+   "ancla": "Elige la tarea más pequeña que llevas evitando —no la más importante, la más pequeña— y, en vez de intentar terminarla entera, decide de antemano que solo vas a hacer el primer movimiento físico que lleva a ella: abrir la pestaña, coger el papel, marcar el número.",
+   "temas": [
+    "arranque",
+    "primer paso"
+   ],
+   "intensidad": 2,
+   "gancho": "Solo el primer movimiento físico. Nada más.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2. Procrastinar no es pereza: es no poder arrancar"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Entrar en la ducha convencido de que van a ser diez minutos y salir veinticinco después, sin haber hecho nada raro y sin poder señalar en qué momento exacto se fueron los quince de más.",
+   "es_literal": false,
+   "ancla": "Ander se mete en la ducha convencido de que va a estar diez minutos. Sale veinticinco minutos después, sin ninguna sensación de haber estado especialmente relajado, sin haber hecho nada raro, sin poder señalar en qué momento exacto se le fueron los quince minutos de más.",
+   "temas": [
+    "estimación",
+    "rutina"
+   ],
+   "intensidad": 2,
+   "gancho": "La ducha de diez minutos que son veinticinco.",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3. El reloj interno que no mide"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Buscar las llaves no se anota en ninguna lista ni se le reserva tiempo. Sumadas todas las búsquedas, los aparcamientos y los «un momento que cierro esto», el tiempo de transición ocupa una parte enorme del día.",
+   "es_literal": false,
+   "ancla": "«Buscar las llaves» no es una tarea que uno anote en ninguna lista ni para la que uno reserve tiempo. Y sin embargo, sumadas todas las búsquedas de llaves, todos los aparcamientos, todos los «un momento que cierro esto» de un día cualquiera, el tiempo de transición puede llegar a ocupar una parte sustancial del día entero",
+   "temas": [
+    "transiciones",
+    "estimación"
+   ],
+   "intensidad": 3,
+   "gancho": "Nadie reserva tiempo para buscar las llaves.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3. El reloj interno que no mide"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No calculas el escenario probable: calculas el escenario ideal. Todos los semáforos en verde, nadie delante en la cola, sitio para aparcar a la primera. Y la vez típica no es la vez más favorable.",
+   "es_literal": false,
+   "ancla": "Hay una manera de nombrar lo que falla en el cálculo que ayuda a verlo con más nitidez: casi siempre se calcula el escenario ideal, no el escenario probable.",
+   "temas": [
+    "estimación",
+    "margen"
+   ],
+   "intensidad": 3,
+   "gancho": "Calculas la vez más favorable, no la vez típica.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3. El reloj interno que no mide"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Prestar más atención no ha funcionado hasta ahora y no va a empezar a funcionar por decirlo una vez más. Lo que cambia algo, cuando cambia, es el método de cálculo.",
+   "es_literal": false,
+   "ancla": "Prestar más atención, de hecho, no ha funcionado hasta ahora, y no va a empezar a funcionar por decirlo una vez más. Lo que funciona, cuando funciona, es cambiar el método de cálculo",
+   "temas": [
+    "estimación",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "«Presta más atención» no es una herramienta.",
+   "formatos": [
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3. El reloj interno que no mide"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige una actividad diaria de la que sueles calcular mal el tiempo. 2) Cronométrala del principio exacto al final del todo, incluyendo lo que normalmente no cuentas como parte de la tarea. 3) Apunta el número donde lo vuelvas a ver. No cambies nada: solo mide.",
+   "es_literal": false,
+   "ancla": "la próxima vez que la hagas, pon un cronómetro desde el momento exacto en que empiezas hasta el momento exacto en que terminas del todo, incluyendo lo que normalmente no cuentas como parte de la tarea. No cambies nada de cómo la haces: solo mide.",
+   "temas": [
+    "medir",
+    "estimación"
+   ],
+   "intensidad": 2,
+   "gancho": "Hoy no corrijas nada. Solo mide una cosa.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3. El reloj interno que no mide"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Cuando piensas en la tarea que no arranca, ¿lo que aparece se parece más a la niebla o más a la alarma? Vacío e indiferencia apuntan a un sitio; activación incómoda y pensamientos sobre lo que puede salir mal, a otro.",
+   "es_literal": false,
+   "ancla": "basta con preguntarse, la próxima vez que una tarea no arranque, si lo que se siente al pensar en ella es más parecido a la niebla o más parecido a la alarma. La respuesta orienta hacia qué capítulo de este libro va a resultar más útil, y hacia si conviene, además, hablarlo con alguien.",
+   "temas": [
+    "bloqueo",
+    "autoconocimiento"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Niebla o alarma? La pregunta que orienta.",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4. Lo que no es ceguera temporal"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Si además de no arrancar nada tampoco hay disfrute en lo que antes gustaba, y eso lleva varias semanas, no es un problema de gestión del tiempo. Es el momento de hablarlo con un profesional de la salud.",
+   "es_literal": false,
+   "ancla": "si además de no arrancar nada tampoco hay disfrute en las cosas que antes gustaban —una serie, quedar con alguien, una comida que gustaba, lo que sea que antes funcionara como un pequeño placer del día—, y si esto lleva ya varias semanas así, eso apunta a algo que no se arregla con ninguna técnica",
+   "temas": [
+    "límites",
+    "ayuda profesional"
+   ],
+   "intensidad": 4,
+   "gancho": "Hay un punto en el que lo que toca no es una técnica.",
+   "formatos": [
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4. Lo que no es ceguera temporal"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "«Ponerme con lo de la casa» no es una tarea: es un título de proyecto. Nadie arranca algo que no tiene una primera acción concreta, tenga la cabeza que tenga.",
+   "es_literal": false,
+   "ancla": "«Ponerme con lo de la casa» no es una tarea: es una nube de tareas distintas sin ningún primer paso identificable, y nadie —con ceguera temporal, con ansiedad, o sin ninguna de las dos cosas— consigue arrancar algo que no tiene una primera acción concreta.",
+   "temas": [
+    "tareas",
+    "bloqueo"
+   ],
+   "intensidad": 3,
+   "gancho": "Confundir un título con una tarea bloquea a cualquiera.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4. Lo que no es ceguera temporal"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No todo lo que cuesta empezar es un síntoma de algo. Algunas cosas cuestan porque cuestan.",
+   "es_literal": true,
+   "ancla": "a veces la tarea es, sencillamente, mala, y la resistencia a hacerla es la respuesta razonable de cualquier persona con criterio. No todo lo que cuesta empezar es un síntoma de algo. Algunas cosas cuestan porque cuestan.",
+   "temas": [
+    "honestidad",
+    "tareas"
+   ],
+   "intensidad": 3,
+   "gancho": "Hay tareas que nadie querría hacer, con la cabeza que tenga.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4. Lo que no es ceguera temporal"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Antes de probar ninguna técnica con la tarea que no arranca, tres preguntas: ¿me da miedo por cómo puede salir? ¿Está mal definida, sin un primer paso claro? ¿Llevo semanas sin disfrutar tampoco de lo que antes me gustaba? La tercera pide cita con un profesional, no una técnica.",
+   "es_literal": false,
+   "ancla": "hazte solo tres preguntas, por escrito si te ayuda: ¿esta tarea me da miedo por cómo puede salir? ¿Está mal definida, sin un primer paso claro? ¿Llevo semanas sin disfrutar tampoco de las cosas que antes me gustaban?",
+   "temas": [
+    "bloqueo",
+    "autoconocimiento"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres preguntas antes de elegir herramienta.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4. Lo que no es ceguera temporal"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La respuesta casi nunca es «no he hecho nada». La respuesta es que el día se ha ido en piezas tan pequeñas que ninguna cabe en una lista, y todas juntas se comen las horas igual que un goteo constante vacía un depósito sin que se note el charco.",
+   "es_literal": true,
+   "ancla": "La respuesta casi nunca es «no he hecho nada». La respuesta es que el día se ha ido en piezas tan pequeñas que ninguna cabe en una lista, y todas juntas se comen las horas igual que un goteo constante vacía un depósito sin que se note el charco.",
+   "temas": [
+    "tiempo",
+    "día",
+    "energía"
+   ],
+   "intensidad": 4,
+   "gancho": "Adónde va el día cuando la lista sigue casi entera",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5. El día que se evapora"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es pereza disfrazada: entre decidir «voy a hacerlo» y hacerlo de verdad hay un tramo de veinte minutos sin motivo claro. Y cuando por fin se entra, casi siempre se está a gusto trabajando. El problema no era el agua: era el borde.",
+   "es_literal": false,
+   "ancla": "No es pereza disfrazada: durante esos veinte minutos hay una sensación física real de no poder cruzar la línea, como una puerta que no se abre aunque el pomo gire perfectamente.",
+   "temas": [
+    "arranque",
+    "procrastinación"
+   ],
+   "intensidad": 4,
+   "gancho": "El problema no era el agua: era el borde",
+   "formatos": [
+    "cita",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5. El día que se evapora"
+  },
+  {
+   "tipo": "cita",
+   "texto": "no es que no se haya hecho nada. Es que se ha hecho un tipo de trabajo invisible —sostener, aplazar, empezar y frenar, volver a intentarlo— que no deja ningún resultado que enseñar y que, aun así, gasta exactamente lo mismo que el trabajo que sí se ve.",
+   "es_literal": true,
+   "ancla": "no es que no se haya hecho nada. Es que se ha hecho un tipo de trabajo invisible —sostener, aplazar, empezar y frenar, volver a intentarlo— que no deja ningún resultado que enseñar y que, aun así, gasta exactamente lo mismo que el trabajo que sí se ve.",
+   "temas": [
+    "energía",
+    "trabajo invisible",
+    "cansancio"
+   ],
+   "intensidad": 5,
+   "gancho": "Cansancio sin nada que enseñar",
+   "formatos": [
+    "cita",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5. El día que se evapora"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Al terminar el día, antes de valorar si has hecho algo. 2) Dos minutos, papel o nota del móvil. 3) Escribe tres cosas que costaron energía y no están en ninguna lista: un arranque difícil, una transición que se resistió, un «un momento» que se alargó. 4) No las analices. Solo nómbralas.",
+   "es_literal": false,
+   "ancla": "dedica dos minutos a escribir en cualquier papel o nota del móvil tres cosas que hayan costado energía aunque no aparezcan en ninguna lista: un arranque difícil, una transición que se resistió, un «un momento» que se alargó.",
+   "temas": [
+    "herramienta",
+    "día",
+    "energía"
+   ],
+   "intensidad": 2,
+   "gancho": "Tres fugas del día, nombradas en dos minutos",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5. El día que se evapora"
+  },
+  {
+   "tipo": "cita",
+   "texto": "nadie llega tarde a una cita en el momento de la cita. Se llega tarde muchísimo antes, en algún punto de la mañana o de la tarde anterior, cuando algo se retrasa lo suficiente como para que ya no quede margen.",
+   "es_literal": true,
+   "ancla": "nadie llega tarde a una cita en el momento de la cita. Se llega tarde muchísimo antes, en algún punto de la mañana o de la tarde anterior, cuando algo se retrasa lo suficiente como para que ya no quede margen.",
+   "temas": [
+    "puntualidad",
+    "tiempo"
+   ],
+   "intensidad": 4,
+   "gancho": "El retraso empieza horas antes de la cita",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6. Llegar tarde (o llegar una hora antes)"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Cita a las diez. A las nueve y cuarto, ya vestido en el sofá, va sobrado: quince minutos de trayecto. Un mensaje que no se cierra en una frase. Unos zapatos con barro. Unas llaves en la chaqueta de ayer. Una impresora que tarda en encender. Sale a las nueve y cuarenta y siete.",
+   "es_literal": false,
+   "ancla": "A las nueve y cuarenta y siete sale por la puerta, veintisiete minutos después de la hora en la que estaba convencido de que iba «sobrado», sin que en ningún momento de esos veintisiete minutos haya habido una sola decisión que, vista aislada, pareciera un error grave.",
+   "temas": [
+    "puntualidad",
+    "cadena de salida"
+   ],
+   "intensidad": 3,
+   "gancho": "Veintisiete minutos sin una sola decisión equivocada",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6. Llegar tarde (o llegar una hora antes)"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no vende la alarma como solución. Una alarma corta la ilusión de que todavía queda tiempo, y ahí se acaba su alcance: no hay alarma que avise de que los zapatos tienen barro o de que las llaves han cambiado de sitio.",
+   "es_literal": false,
+   "ancla": "no hay alarma que avise de que los zapatos tienen barro o que las llaves han cambiado de sitio, porque esas cosas no se saben hasta que ya están pasando.",
+   "temas": [
+    "herramientas",
+    "puntualidad",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "Ninguna alarma avisa del barro en los zapatos",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6. Llegar tarde (o llegar una hora antes)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Coge la próxima cita del calendario. 2) Escribe la cadena hacia atrás: hora de la cita, hora de llegar, hora de salir de casa, hora de empezar a arreglarte, hora de dejar lo que estés haciendo. 3) Cinco horas, no una. 4) Hoy basta con verla escrita.",
+   "es_literal": false,
+   "ancla": "coge un papel y escribe la cadena completa hacia atrás: hora de la cita, hora de llegar, hora de salir de casa, hora de empezar a arreglarte, hora de dejar lo que estés haciendo. Cinco horas, no una.",
+   "temas": [
+    "herramienta",
+    "puntualidad"
+   ],
+   "intensidad": 2,
+   "gancho": "Una cita no tiene una hora: tiene cinco",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6. Llegar tarde (o llegar una hora antes)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "hasta la noche antes de la fecha límite, la tarea es literalmente imposible. No cuesta, no da pereza: es imposible, tanto como levantar un peso que el cuerpo no puede levantar.",
+   "es_literal": true,
+   "ancla": "hasta la noche antes de la fecha límite, la tarea es literalmente imposible. No cuesta, no da pereza: es imposible, tanto como levantar un peso que el cuerpo no puede levantar.",
+   "temas": [
+    "urgencia",
+    "plazos",
+    "procrastinación"
+   ],
+   "intensidad": 5,
+   "gancho": "No es que costara: es que no se podía",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7. La urgencia como combustible"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Concentrarte la noche antes no prueba que la concentración estuviera ahí tres semanas atrás y la estuvieras reteniendo por vagancia. Prueba que cambiaron las condiciones: lo que era niebla se convirtió en ahora.",
+   "es_literal": false,
+   "ancla": "La capacidad de concentrarse a las once de la noche del día antes no demuestra que la misma concentración estuviera disponible tres semanas atrás y se estuviera reteniendo por vagancia.",
+   "temas": [
+    "urgencia",
+    "culpa",
+    "plazos"
+   ],
+   "intensidad": 4,
+   "gancho": "«Entonces sí podía» no es la prueba que parece",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7. La urgencia como combustible"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no dice que funcionar con la fecha encima no funcione. Lleva años funcionando para muchísima gente, y decir lo contrario sería mentir para sonar más aleccionador. Lo que tiene es una factura que llega tarde.",
+   "es_literal": false,
+   "ancla": "Decir que eso «no funciona» sería mentir, y este libro no está para mentir con tal de sonar más aleccionador.",
+   "temas": [
+    "urgencia",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "La urgencia funciona. Ese es justo el problema",
+   "formatos": [
+    "cita",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7. La urgencia como combustible"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) La próxima vez que termines algo en el filo, no pases a lo siguiente. 2) Para treinta segundos. 3) Nombra, en voz baja o por escrito, qué ha costado entregarlo así, en el cuerpo o en el ánimo. 4) Sin culparte ni prometer nada para la próxima.",
+   "es_literal": false,
+   "ancla": "la próxima vez que termines algo en el filo del tiempo, antes de pasar a lo siguiente, para treinta segundos y nombra en voz baja o por escrito qué ha costado esta vez, en el cuerpo o en el ánimo, entregarlo así.",
+   "temas": [
+    "herramienta",
+    "urgencia",
+    "cuerpo"
+   ],
+   "intensidad": 2,
+   "gancho": "Treinta segundos para ver la factura del filo",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 7. La urgencia como combustible"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Hay tareas que no ocupan tiempo y aun así ocupan espacio. El correo sin contestar no exige ni un minuto de trabajo mientras no se abre, y sin embargo está ahí, presente, con un peso que se nota aunque la bandeja de entrada esté cerrada.",
+   "es_literal": true,
+   "ancla": "Hay tareas que no ocupan tiempo y aun así ocupan espacio. El correo sin contestar no exige ni un minuto de trabajo mientras no se abre, y sin embargo está ahí, presente, con un peso que se nota aunque la bandeja de entrada esté cerrada y el teléfono en el bolsillo.",
+   "temas": [
+    "pendientes",
+    "carga mental"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo pendiente no ocupa tiempo: ocupa espacio",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8. La deuda de tareas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "la tarea aplazada es como una bola de nieve que no crece porque ruede, sino porque se queda quieta y la nieve se le va pegando encima solo con el paso del tiempo. No hace falta hacer nada para que crezca. Basta con dejarla donde está.",
+   "es_literal": true,
+   "ancla": "la tarea aplazada es como una bola de nieve que no crece porque ruede, sino porque se queda quieta y la nieve se le va pegando encima solo con el paso del tiempo. No hace falta hacer nada para que crezca. Basta con dejarla donde está.",
+   "temas": [
+    "pendientes",
+    "aplazar"
+   ],
+   "intensidad": 4,
+   "gancho": "Crece por estarse quieta, no por rodar",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8. La deuda de tareas"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Coge un papel. 2) Escribe todas las tareas que llevan más de una semana rondándote la cabeza, sin editarlas ni ordenarlas. 3) No taches ninguna hoy. 4) Si el día es malo, con tres basta.",
+   "es_literal": false,
+   "ancla": "escribe en un papel, sin editarlas ni ordenarlas por importancia, todas las tareas pendientes que llevan más de una semana rondándote la cabeza.",
+   "temas": [
+    "herramienta",
+    "pendientes"
+   ],
+   "intensidad": 2,
+   "gancho": "Sacarlas de la cabeza antes de tocar ninguna",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8. La deuda de tareas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "una herramienta que exige la función que falla no es una herramienta, es una trampa con forma de consejo.",
+   "es_literal": true,
+   "ancla": "una herramienta que exige la función que falla no es una herramienta, es una trampa con forma de consejo.",
+   "temas": [
+    "herramientas",
+    "consejos"
+   ],
+   "intensidad": 5,
+   "gancho": "Cuando el consejo pide justo lo que falla",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9. Hacer el tiempo visible"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es nostalgia de las agujas: un reloj digital da una cantidad y hay que restar; uno analógico da una imagen, el trozo de círculo que falta por recorrer. La imagen se procesa sin esfuerzo; la resta compite con todo lo demás.",
+   "es_literal": false,
+   "ancla": "es que un formato da una cantidad y el otro da una imagen, y la imagen se procesa sin esfuerzo mientras que la cantidad exige un cálculo activo que compite con todo lo demás que hay en la cabeza en ese momento.",
+   "temas": [
+    "relojes",
+    "tiempo visible"
+   ],
+   "intensidad": 3,
+   "gancho": "Una cantidad se calcula; una imagen se ve",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9. Hacer el tiempo visible"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Todos los avisos del mundo marcan principios: a qué hora empieza la reunión, a qué hora sale el tren. Casi ninguno marca finales, y el final —a qué hora hay que dejar lo que estás haciendo— es justo el dato que falta.",
+   "es_literal": false,
+   "ancla": "Casi todos los relojes, calendarios y avisos del mundo marcan principios: la hora a la que empieza la reunión, la hora a la que abre la tienda, la hora a la que sale el tren. Casi ninguno marca finales: a qué hora hay que dejar de hacer lo que se está haciendo para llegar a tiempo a lo siguiente.",
+   "temas": [
+    "alarmas",
+    "transiciones",
+    "tiempo visible"
+   ],
+   "intensidad": 4,
+   "gancho": "El dato que nadie pone en el calendario: cuándo parar",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9. Hacer el tiempo visible"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El capítulo no da por hecho que ver el tiempo ayude a todo el mundo. A algunas personas, en algunos momentos, el reloj a la vista no las calma: les alimenta una tensión que ya estaba. Entonces toca reducir la exposición, no acostumbrarse.",
+   "es_literal": false,
+   "ancla": "para algunas personas, en algunos momentos, ver el tiempo pasar no calma: alimenta una tensión ya existente.",
+   "temas": [
+    "herramientas",
+    "límites",
+    "tiempo visible"
+   ],
+   "intensidad": 3,
+   "gancho": "Ver el reloj no calma a todo el mundo",
+   "formatos": [
+    "cita",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9. Hacer el tiempo visible"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige algo que hagas a diario sin marca de final: ducharte, cocinar, mirar el móvil. 2) Ponle una alarma de salida, no de entrada. 3) Dale nombre claro: «sal de la ducha», «pon la mesa». 4) Calcula a ojo y ajusta mañana.",
+   "es_literal": false,
+   "ancla": "Elige una sola cosa que hagas cada día sin marca de final —ducharte, cocinar, revisar el móvil— y ponle una alarma de salida, no de entrada: no «empieza», sino «para ya».",
+   "temas": [
+    "herramienta",
+    "alarmas"
+   ],
+   "intensidad": 2,
+   "gancho": "Una alarma para parar, no para empezar",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9. Hacer el tiempo visible"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La herramienta que más ayuda aquí no es motivarse más. Es bajar el listón hasta un punto que resulte, dicho sin rodeos, ridículo.",
+   "es_literal": true,
+   "ancla": "La herramienta que más ayuda aquí no es motivarse más. Es bajar el listón hasta un punto que resulte, dicho sin rodeos, ridículo.",
+   "temas": [
+    "arranque",
+    "herramientas"
+   ],
+   "intensidad": 4,
+   "gancho": "Si suena razonable, el primer paso aún es grande",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10. Empezar"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La tarea de la mañana no es «hacer ejercicio», que paraliza veinte minutos en el sofá entre negociaciones internas. Es «ponerse las zapatillas». Algunas mañanas se ponen las zapatillas y no se sale, y eso también cuenta.",
+   "es_literal": false,
+   "ancla": "dice que su tarea de cada mañana no es «hacer ejercicio», que es una frase que la paraliza en el sofá durante veinte minutos de negociación interna, sino «ponerse las zapatillas».",
+   "temas": [
+    "arranque",
+    "gesto mínimo"
+   ],
+   "intensidad": 3,
+   "gancho": "No «hacer ejercicio»: ponerse las zapatillas",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 10. Empezar"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Hay días en que el listón está bajo, el gesto está definido, hay alguien cerca trabajando, y aun así no arranca nada. El libro no finge tener una herramienta para esos días: dice qué no hacer contigo cuando pasa.",
+   "es_literal": false,
+   "ancla": "Este libro no va a fingir que existe una herramienta que resuelve esos días, porque no existe, y prometer que sí sería exactamente el tipo de venta de humo que este libro se ha propuesto no hacer.",
+   "temas": [
+    "días malos",
+    "honestidad",
+    "arranque"
+   ],
+   "intensidad": 4,
+   "gancho": "Los días en que no arranca nada no tienen truco",
+   "formatos": [
+    "cita",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10. Empezar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Coge la tarea que más pereza te dé hoy. 2) Reduce su primer paso hasta que dé un poco de vergüenza decirlo en voz alta: «abrir el archivo», «sacar la caja del armario». 3) Haz solo eso, un gesto físico y verificable. 4) Si te apetece seguir, sigue; si no, para ahí y cuéntalo como día cumplido.",
+   "es_literal": false,
+   "ancla": "Escoge la tarea que más pereza te dé de las que tienes pendientes hoy y reduce su primer paso hasta que te dé un poco de vergüenza decirlo en voz alta.",
+   "temas": [
+    "herramienta",
+    "arranque"
+   ],
+   "intensidad": 2,
+   "gancho": "Un primer paso tan pequeño que dé vergüenza",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10. Empezar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El reloj interno que calcula siempre de menos no hace falta arreglarlo a base de repetición. Se sustituye: se deja de fiar uno de la sensación y se pasa a un dato medido por fuera.",
+   "es_literal": false,
+   "ancla": "Lo que sí se puede hacer es dejar de fiarse de él y sustituirlo por algo externo, medido, que no dependa de la sensación de cuánto tiempo ha pasado.",
+   "temas": [
+    "estimar",
+    "tiempo"
+   ],
+   "intensidad": 3,
+   "gancho": "El reloj interno no se entrena: se sustituye",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11. Estimar con datos, no con esperanza"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El factor de corrección no cambia cuánto se tarda en las cosas. Cambia lo que uno decide hacer, sabiendo cuánto se tarda en realidad.",
+   "es_literal": true,
+   "ancla": "El factor de corrección no cambia cuánto se tarda en las cosas. Cambia lo que uno decide hacer, sabiendo cuánto se tarda en realidad.",
+   "temas": [
+    "estimar",
+    "planificar"
+   ],
+   "intensidad": 4,
+   "gancho": "El dato no te hace más rápido: te hace decidir mejor",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11. Estimar con datos, no con esperanza"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige una tarea que hagas casi a diario y de la que sospeches que calculas mal. 2) Hoy, mira la hora al empezar. 3) Mira la hora al terminar del todo. 4) Apunta los dos datos en una nota del móvil. Nada de análisis todavía.",
+   "es_literal": false,
+   "ancla": "mira la hora al empezarla y mira la hora al terminarla, y apunta los dos datos en cualquier papel o nota del móvil que tengas a mano.",
+   "temas": [
+    "herramienta",
+    "estimar",
+    "medir"
+   ],
+   "intensidad": 2,
+   "gancho": "Un dato real en lugar de una impresión",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11. Estimar con datos, no con esperanza"
+  },
+  {
+   "tipo": "cita",
+   "texto": "el proyecto que lleva meses al noventa por ciento. Le falta una hora, quizá menos. Una revisión final, un envío, una llamada, firmar algo que ya está redactado. Y sin embargo esa última hora no llega nunca, mes tras mes.",
+   "es_literal": true,
+   "ancla": "el proyecto que lleva meses al noventa por ciento. Le falta una hora, quizá menos. Una revisión final, un envío, una llamada, firmar algo que ya está redactado. Y sin embargo esa última hora no llega nunca, mes tras mes.",
+   "temas": [
+    "terminar",
+    "proyectos"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo difícil ya está hecho. Falta la última hora",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12. Terminar y cerrar"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Antes de la enésima revisión: ¿qué cambio concreto vas a hacer en esta pasada que no hayas podido hacer en las anteriores? Si la respuesta es «verlo otra vez» o «asegurarme», eso ya no es pulir: es retrasar la entrega.",
+   "es_literal": false,
+   "ancla": "hacerse una sola pregunta antes de la enésima revisión: ¿qué cambio concreto voy a hacer en esta pasada que no haya podido hacer ya en las anteriores?",
+   "temas": [
+    "terminar",
+    "perfeccionismo"
+   ],
+   "intensidad": 3,
+   "gancho": "La pregunta que distingue pulir de aplazar",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12. Terminar y cerrar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Piensa en algo empezado y sin terminar. 2) No intentes acabarlo hoy. 3) Escribe una nota de dos líneas donde la veas mañana, con el siguiente paso concreto: no «seguir con esto», sino «falta el último párrafo y enviarlo». 4) Déjala a la vista y cierra el día.",
+   "es_literal": false,
+   "ancla": "escribe una nota de dos líneas, en el sitio donde la vayas a ver mañana, con el siguiente paso concreto que toca dar, no con el estado general de la tarea.",
+   "temas": [
+    "herramienta",
+    "terminar",
+    "retomar"
+   ],
+   "intensidad": 2,
+   "gancho": "Un mensaje al yo de mañana, escrito hoy",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12. Terminar y cerrar"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Antes de aceptar algo, la pregunta no es «¿tengo una hora libre el jueves?». Es «¿tengo el margen completo que esto se va a llevar, antes, durante y después?». Son preguntas distintas, y solo la segunda se parece a lo que va a pasar.",
+   "es_literal": false,
+   "ancla": "la pregunta razonable antes de decir que sí no es «¿tengo una hora libre el jueves?», sino «¿tengo el margen completo que esta cosa se va a llevar, antes, durante y después?». Son preguntas distintas, y solo la segunda se corresponde con lo que de verdad va a pasar.",
+   "temas": [
+    "compromisos",
+    "calendario",
+    "decir que no"
+   ],
+   "intensidad": 3,
+   "gancho": "Una hora libre no es lo mismo que margen",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13. Plazos, compromisos y decir que no"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Avisar con dos semanas abre una conversación de logística: necesito más tiempo, qué hacemos. Avisar el mismo día abre otra muy distinta, sobre confianza. Es la misma información dicha en dos momentos, y son dos problemas diferentes.",
+   "es_literal": false,
+   "ancla": "Es la misma información —«esto no va a llegar a tiempo»— pero dicha en dos momentos distintos se convierte en dos problemas completamente diferentes, y solo uno de los dos tiene arreglo fácil.",
+   "temas": [
+    "plazos",
+    "avisar",
+    "confianza"
+   ],
+   "intensidad": 4,
+   "gancho": "El mismo aviso, dos semanas antes, es otro problema",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13. Plazos, compromisos y decir que no"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un no corto y sin explicación de más no es un no maleducado. Es, casi siempre, un no más respetuoso, porque no obliga a la otra persona a rebatir una lista de razones ni te obliga a ti a defenderlas.",
+   "es_literal": true,
+   "ancla": "Un no corto y sin explicación de más no es un no maleducado. Es, casi siempre, un no más respetuoso, porque no obliga a la otra persona a rebatir una lista de razones ni te obliga a ti a defenderlas.",
+   "temas": [
+    "decir que no",
+    "límites"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuanto más se justifica un no, más parece negociable",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13. Plazos, compromisos y decir que no"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un día fallado no es una prueba de que el sistema no sirve. Es, simplemente, un día fallado, del mismo tipo que le pasa a cualquier sistema, por bueno que sea, tarde o temprano.",
+   "es_literal": true,
+   "ancla": "Un día fallado no es una prueba de que el sistema no sirve. Es, simplemente, un día fallado, del mismo tipo que le pasa a cualquier sistema, por bueno que sea, tarde o temprano.",
+   "temas": [
+    "días malos",
+    "sistemas"
+   ],
+   "intensidad": 4,
+   "gancho": "Un día roto no rompe el sistema entero",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14. Días malos y semanas rotas"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Recuperar una semana rota no es devolverla al estado en que habría estado sin romperse. Es retomar el ritmo normal cuando puedas, dejando que lo pendiente encuentre su sitio, sin sábados de penitencia.",
+   "es_literal": false,
+   "ancla": "recuperar una semana rota no significa devolverla al estado en que habría estado si nunca se hubiera roto. Significa, simplemente, retomar el ritmo normal en el momento en que puedas retomarlo, dejando que lo pendiente encuentre su sitio poco a poco",
+   "temas": [
+    "semanas rotas",
+    "descanso",
+    "culpa"
+   ],
+   "intensidad": 3,
+   "gancho": "El sábado de penitencia no recupera la semana",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14. Días malos y semanas rotas"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Hoy, con la cabeza despejada, define tu mínimo de día malo. 2) Una sola cosa, pequeña de verdad, posible en la peor jornada. 3) Anótala donde puedas encontrarla. 4) No hace falta usarla hoy: hace falta tenerla lista para cuando toque.",
+   "es_literal": false,
+   "ancla": "Define, hoy, cuál es tu mínimo de día malo: una sola cosa, pequeña de verdad, que puedas hacer incluso en la peor de las jornadas, y que te permita cerrar ese día sin la sensación de haberlo perdido entero.",
+   "temas": [
+    "herramienta",
+    "días malos"
+   ],
+   "intensidad": 2,
+   "gancho": "Decide el mínimo antes de necesitarlo",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14. Días malos y semanas rotas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un retraso avisado con margen es un contratiempo. Un retraso descubierto en el momento, sin ningún aviso previo, se parece mucho más a un desprecio, aunque no haya habido ninguna intención de desprecio detrás.",
+   "es_literal": true,
+   "ancla": "Un retraso avisado con margen es un contratiempo. Un retraso descubierto en el momento, sin ningún aviso previo, se parece mucho más a un desprecio, aunque no haya habido ninguna intención de desprecio detrás.",
+   "temas": [
+    "vínculos",
+    "puntualidad",
+    "avisar"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que duele no es el retraso: es el silencio",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15. El tiempo con otros"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "«Soy un desastre con los horarios» habla de quién eres y cierra la conversación. «Calculo fatal cuánto tardo, así que ahora salgo con quince minutos de margen» habla de qué haces con lo que te pasa.",
+   "es_literal": false,
+   "ancla": "No es lo mismo decir «soy un desastre con los horarios» que decir «calculo fatal cuánto tardo en las cosas, así que ahora salgo con quince minutos de margen extra para compensarlo». La primera frase habla de quién eres. La segunda habla de qué haces con lo que te pasa",
+   "temas": [
+    "explicarse",
+    "vínculos",
+    "identidad"
+   ],
+   "intensidad": 4,
+   "gancho": "«Es que soy así» cierra la puerta sin explicar nada",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15. El tiempo con otros"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) En cuanto sepas que vas a llegar tarde, avisa: no en el último momento posible. 2) Una sola frase breve con la nueva hora estimada. 3) Si toca disculparse, hazlo una vez: reconocimiento y, si aplica, qué vas a intentar distinto. 4) No lo repitas cinco veces.",
+   "es_literal": false,
+   "ancla": "La próxima vez que sepas, con margen, que vas a llegar tarde a algo con alguien que te importa, envía el aviso en el momento en que lo sepas, no en el último momento posible.",
+   "temas": [
+    "herramienta",
+    "vínculos",
+    "avisar"
+   ],
+   "intensidad": 2,
+   "gancho": "Avisar pronto, disculparse una sola vez",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15. El tiempo con otros"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Ni redención ni resignación. El libro no promete que, aplicando todo con constancia, te conviertas en alguien puntual y sereno que nunca vuelve a subestimar cuánto dura nada. Eso no va a pasar, y prometerlo sería mentir.",
+   "es_literal": false,
+   "ancla": "La redención sería prometerte que, si aplicas todo lo anterior con constancia, el problema del tiempo desaparece y te conviertes en alguien puntual y sereno que nunca vuelve a subestimar cuánto dura nada. Eso no va a pasar, y prometerlo sería mentir.",
+   "temas": [
+    "honestidad",
+    "expectativas"
+   ],
+   "intensidad": 4,
+   "gancho": "Ni redención ni resignación",
+   "formatos": [
+    "cita",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16. Reconciliarte con el reloj"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La dificultad puede quedarse exactamente igual. La historia que te cuentas sobre ella, no.",
+   "es_literal": true,
+   "ancla": "La dificultad puede quedarse exactamente igual. La historia que te cuentas sobre ella, no.",
+   "temas": [
+    "expectativas",
+    "culpa"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que cambia no siempre es la dificultad",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16. Reconciliarte con el reloj"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Medir el avance contra alguien que nunca ha tenido este problema es medir contra un listón que no era tu terreno. El criterio útil es otro: ¿avisas antes de lo que avisabas? ¿Tienes un mínimo de día malo que antes no tenías?",
+   "es_literal": false,
+   "ancla": "medir tu progreso comparándolo con el de alguien que nunca ha tenido este problema, en lugar de compararlo con tu propio punto de partida",
+   "temas": [
+    "comparaciones",
+    "expectativas"
+   ],
+   "intensidad": 3,
+   "gancho": "Compara con tu punto de partida, no con el de otro",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16. Reconciliarte con el reloj"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Calcular mal el tiempo no es una avería moral, y con eso basta: no hace falta además disfrazarlo de lección de vida para justificar que se le trate con respeto.",
+   "es_literal": true,
+   "ancla": "Calcular mal el tiempo no es una avería moral, y con eso basta: no hace falta además disfrazarlo de lección de vida para justificar que se le trate con respeto.",
+   "temas": [
+    "tiempo",
+    "culpa"
+   ],
+   "intensidad": 5,
+   "gancho": "Calcular mal el tiempo no es una avería moral",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Cierre — No llegas tarde a tu vida"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro se cierra sin prometer que a partir de ahora llegues siempre a tiempo ni que la niebla entre el ahora y el no-ahora se despeje del todo. Va a seguir habiendo días en que algo se pase, y eso no prueba que la lectura no haya servido.",
+   "es_literal": false,
+   "ancla": "No voy a cerrar este libro prometiéndote que a partir de ahora vas a llegar siempre a tiempo, ni que la niebla entre el ahora y el no-ahora se va a despejar del todo.",
+   "temas": [
+    "honestidad",
+    "expectativas"
+   ],
+   "intensidad": 3,
+   "gancho": "Un final sin promesa de llegar puntual a todo",
+   "formatos": [
+    "cita",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Cierre — No llegas tarde a tu vida"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La señal de alarma no está en que algo intente ayudarte. Está en que prometa demasiado, en que te culpe cuando falla, o en que exija un precio —de dinero, de disciplina moral o de una hora concreta de despertarse— sin relación con si el método funciona.",
+   "es_literal": false,
+   "ancla": "La señal de alarma no está en que algo intente ayudar. Está en que prometa demasiado, en que culpe cuando falla, o en que exija un precio —de dinero, de disciplina moral o de una hora concreta de despertarse— que no tiene ninguna relación real con si el método funciona o no.",
+   "temas": [
+    "productividad",
+    "gurús",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Prometer demasiado y culparte cuando falla",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Anexos"
+  }
+ ]
+}

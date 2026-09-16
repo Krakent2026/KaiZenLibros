@@ -1,0 +1,1624 @@
+{
+  "serie": "mente_distinta",
+  "libro": "trabajar-sin-romperte",
+  "atomos": [
+    {
+      "tipo": "cita",
+      "texto": "Ese desajuste es el motivo de este libro. No el cansancio: el desajuste.",
+      "es_literal": true,
+      "ancla": "Ese desajuste es el motivo de este libro. No el cansancio: el desajuste. Hay mucha gente que acaba la jornada con el depósito vacío y con la sospecha añadida de que no le corresponde estar así, porque en comparación con lo que hacen otros no ha hecho tanto.",
+      "temas": [
+        "trabajo",
+        "cansancio",
+        "desajuste"
+      ],
+      "intensidad": 3,
+      "gancho": "No es el cansancio. Es que no cuadra con lo que has hecho.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Introducción — El cansancio que no cuadra con lo que has hecho"
+    },
+    {
+      "tipo": "escena",
+      "texto": "Llegas a casa, abres la puerta y te quedas de pie en el pasillo, a oscuras, con las llaves en la mano y el abrigo puesto. La bolsa en el suelo, sin abrir. Todavía no puedes empezar a estar en casa.",
+      "es_literal": false,
+      "ancla": "Llegas a casa, abres, y te quedas de pie en el pasillo, a oscuras, con las llaves todavía en la mano y el abrigo puesto. La bolsa en el suelo, sin abrir. No estás pensando en nada. Simplemente todavía no puedes empezar a estar en casa.",
+      "temas": [
+        "jornada",
+        "agotamiento",
+        "casa"
+      ],
+      "intensidad": 4,
+      "gancho": "El pasillo de casa, a oscuras, con el abrigo todavía puesto.",
+      "formatos": [
+        "reel",
+        "carrusel",
+        "audio"
+      ],
+      "capitulo": "Introducción — El cansancio que no cuadra con lo que has hecho"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Este libro no enseña a rendir más. No hay aquí ningún método para producir el doble y asegurarse así el puesto: ese trato es precisamente la rueda que trae a mucha gente hasta aquí.",
+      "es_literal": false,
+      "ancla": "No te va a enseñar a rendir más. No hay aquí ningún método para producir el doble y así asegurarte el puesto. Ese trato —tú te exprimes y el sitio te deja quedarte— es exactamente la rueda que te ha traído hasta aquí.",
+      "temas": [
+        "trabajo",
+        "rendimiento",
+        "limites"
+      ],
+      "intensidad": 2,
+      "gancho": "Un libro de trabajo que no va de rendir más.",
+      "formatos": [
+        "cita",
+        "hilo",
+        "articulo"
+      ],
+      "capitulo": "Introducción — El cansancio que no cuadra con lo que has hecho"
+    },
+    {
+      "tipo": "cita",
+      "texto": "«Que no esté hecho para ti no es culpa tuya. Y aun así te toca a ti.»",
+      "es_literal": true,
+      "ancla": "Y hay una frase que va a volver a lo largo de todo el libro, porque es la única honesta que se me ocurre para un jueves a las seis de la tarde, con el abrigo puesto y las llaves en la mano:",
+      "temas": [
+        "culpa",
+        "trabajo",
+        "responsabilidad"
+      ],
+      "intensidad": 4,
+      "gancho": "La frase que vuelve en todo el libro.",
+      "formatos": [
+        "cita",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Introducción — El cansancio que no cuadra con lo que has hecho"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Aquí no hay épica. Ni la idea de que tu cabeza es una maravilla mal entendida ni la de que llevas algo roto por dentro. Hay una jornada de ocho horas, un cuerpo que la paga y decisiones pequeñas sobre dónde poner lo poco que queda.",
+      "es_literal": false,
+      "ancla": "Antes de empezar, una advertencia de estilo. Aquí no hay épica. No vas a encontrar la idea de que tu cabeza es un superpoder mal entendido, ni la de que llevas algo roto por dentro. Ni don ni avería.",
+      "temas": [
+        "enfoque",
+        "neurodivergencia"
+      ],
+      "intensidad": 2,
+      "gancho": "Ni don ni avería: ocho horas y un cuerpo que las paga.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Introducción — El cansancio que no cuadra con lo que has hecho"
+    },
+    {
+      "tipo": "escena",
+      "texto": "Ocho conversaciones a la vez, dos personas hablando por encima de tu monitor, un teléfono en la mesa de al lado, una impresora, la puerta que chasquea y alguien comiendo una manzana a metro y medio de tu oreja.",
+      "es_literal": false,
+      "ancla": "hay ocho conversaciones simultáneas, dos personas de pie hablando por encima de tu monitor, un teléfono que suena en la mesa de al lado con un tono que sube al final, una impresora, la puerta que hace un chasquido al cerrarse, y alguien que come una manzana a metro y medio de tu oreja.",
+      "temas": [
+        "oficina",
+        "ruido",
+        "espacio diafano"
+      ],
+      "intensidad": 3,
+      "gancho": "El espacio diáfano se vendió como comunicación. Esto es lo que hay dentro.",
+      "formatos": [
+        "reel",
+        "carrusel",
+        "audio"
+      ],
+      "capitulo": "Capítulo 1. El día que no aparece en el currículum"
+    },
+    {
+      "tipo": "cita",
+      "texto": "No va por detrás en el trabajo. Va por detrás en el reglamento invisible.",
+      "es_literal": true,
+      "ancla": "De ahí una escena muy repetida: la persona que hace un trabajo impecable y aun así tiene la sensación permanente de ir un paso por detrás en algo que no está en su descripción de puesto. No va por detrás en el trabajo. Va por detrás en el reglamento invisible.",
+      "temas": [
+        "normas no escritas",
+        "oficina"
+      ],
+      "intensidad": 3,
+      "gancho": "Hay un reglamento que nadie te entrega el primer día.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 1. El día que no aparece en el currículum"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Lo que hace daño no es el cansancio. Es la resta.",
+      "es_literal": true,
+      "ancla": "Lo que hace daño no es el cansancio. Es la resta. Cansancio de mudanza, menos una lista que no lo justifica, igual a una conclusión automática y falsa: entonces el problema soy yo.",
+      "temas": [
+        "cansancio",
+        "culpa"
+      ],
+      "intensidad": 4,
+      "gancho": "Cansancio de mudanza menos una lista que no lo justifica.",
+      "formatos": [
+        "cita",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Capítulo 1. El día que no aparece en el currículum"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Un paso hoy: 1) Antes de apagar, coge un papel. 2) Escribe las tres cosas que hoy te han sacado de lo tuyo. 3) Tres líneas, sin buscar solución. 4) Guárdalo donde nadie lo vea.",
+      "es_literal": false,
+      "ancla": "Al final de la jornada, antes de apagar, escribe en un papel las tres cosas que hoy te han sacado de lo tuyo. Solo eso: tres líneas, sin buscar solución y sin proponerte nada. Guarda el papel donde nadie lo vea. Estás empezando la contabilidad, no la reforma.",
+      "temas": [
+        "herramienta",
+        "jornada"
+      ],
+      "intensidad": 2,
+      "gancho": "Tres líneas al final del día. Sin solución, sin plan.",
+      "formatos": [
+        "carrusel",
+        "reel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 1. El día que no aparece en el currículum"
+    },
+    {
+      "tipo": "cita",
+      "texto": "si tu día tiene dieciocho interrupciones, tu día no ha tenido ocho horas de trabajo, ha tenido dieciocho arranques.",
+      "es_literal": true,
+      "ancla": "Lo que corresponde a este capítulo es la contabilidad: si tu día tiene dieciocho interrupciones, tu día no ha tenido ocho horas de trabajo, ha tenido dieciocho arranques. Y arrancar es la parte cara.",
+      "temas": [
+        "interrupciones",
+        "jornada"
+      ],
+      "intensidad": 3,
+      "gancho": "No has tenido ocho horas de trabajo. Has tenido dieciocho arranques.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 2. Lo que gasta y no sale en la nómina"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Si el trayecto no está en tus cuentas, tus cuentas están mal. Nadie lo paga y aun así es a veces la partida más grande del día, y encima se lleva por delante las horas en que estarías más despejado.",
+      "es_literal": false,
+      "ancla": "Lo único que sostengo es esto: si el trayecto no está en tus cuentas, tus cuentas están mal y llevas años juzgándote con números falsos.",
+      "temas": [
+        "trayecto",
+        "gasto"
+      ],
+      "intensidad": 3,
+      "gancho": "El trayecto no lo paga nadie y a veces es la partida más grande.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "articulo"
+      ],
+      "capitulo": "Capítulo 2. Lo que gasta y no sale en la nómina"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "Hay personas cuyo personaje laboral está a dos centímetros de ellas mismas: hablan más formal y ya está. Y hay personas cuyo personaje está a dos metros, y sostenerlo ocho horas es trabajo continuo.",
+      "es_literal": false,
+      "ancla": "Hay personas cuyo personaje laboral está a dos centímetros de ellas mismas: hablan un poco más formal, dicen menos tacos y ya está. Y hay personas cuyo personaje laboral está a dos metros.",
+      "temas": [
+        "mascara",
+        "personaje",
+        "gasto"
+      ],
+      "intensidad": 3,
+      "gancho": "La pregunta no es si hay un personaje. Es cuánto cuesta el tuyo.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "reel"
+      ],
+      "capitulo": "Capítulo 2. Lo que gasta y no sale en la nómina"
+    },
+    {
+      "tipo": "cita",
+      "texto": "La cosa rápida es rápida. Diez segundos, y encima ha estado bien preguntada. Lo que no es rápido es volver.",
+      "es_literal": true,
+      "ancla": "La cosa rápida es rápida. Diez segundos, y encima ha estado bien preguntada. Lo que no es rápido es volver.",
+      "temas": [
+        "interrupciones",
+        "concentracion"
+      ],
+      "intensidad": 3,
+      "gancho": "Interrumpir es barato. Volver no.",
+      "formatos": [
+        "cita",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Capítulo 2. Lo que gasta y no sale en la nómina"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Un paso hoy: 1) La próxima vez que te interrumpan, antes de girarte. 2) Escribe una sola línea: la frase que ibas a escribir o el paso que ibas a dar. 3) Seis palabras bastan. 4) Hoy, una vez. No es un sistema.",
+      "es_literal": false,
+      "ancla": "Hoy, cuando alguien te interrumpa y tengas que dejar algo a medias, antes de girarte escribe una sola línea: la frase siguiente que ibas a escribir, o el paso siguiente que ibas a dar. Seis palabras bastan.",
+      "temas": [
+        "herramienta",
+        "interrupciones"
+      ],
+      "intensidad": 2,
+      "gancho": "Seis palabras antes de girar la silla.",
+      "formatos": [
+        "carrusel",
+        "reel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 2. Lo que gasta y no sale en la nómina"
+    },
+    {
+      "tipo": "cita",
+      "texto": "El problema es que una explicación que lo explica todo no explica nada.",
+      "es_literal": true,
+      "ancla": "El problema es que una explicación que lo explica todo no explica nada. Y en el trabajo eso tiene un precio concreto: si atribuyes a tu forma de funcionar cosas que son de la empresa, vas a pedir ajustes para problemas que no se arreglan con ajustes",
+      "temas": [
+        "deslinde",
+        "diagnostico",
+        "empresa"
+      ],
+      "intensidad": 3,
+      "gancho": "Cuando todo encaja en una explicación, algo se ha perdido por el camino.",
+      "formatos": [
+        "cita",
+        "pin",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 3. Lo que no es esto"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Tres personas haciendo el trabajo de cinco no es un problema de organización personal ni de tolerancia al estímulo. Es una plantilla insuficiente, y con cualquier cabeza dentro iría igual de mal.",
+      "es_literal": false,
+      "ancla": "Tres personas haciendo el trabajo de cinco es una sobrecarga. No es un problema de gestión del tiempo, ni de organización personal, ni de tolerancia al estímulo: es una plantilla insuficiente.",
+      "temas": [
+        "empresa",
+        "sobrecarga",
+        "deslinde"
+      ],
+      "intensidad": 3,
+      "gancho": "Una empresa mal montada está mal montada. Punto.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 3. Lo que no es esto"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Un adjetivo se discute; una conducta con fecha, no.",
+      "es_literal": true,
+      "ancla": "Que se describan conductas no significa que las conductas sean menos graves que las etiquetas. Al contrario: descritas son más graves, porque están concretas. Un adjetivo se discute; una conducta con fecha, no.",
+      "temas": [
+        "conductas",
+        "etiquetas"
+      ],
+      "intensidad": 3,
+      "gancho": "Describir conductas no rebaja nada. Las hace más concretas.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 3. Lo que no es esto"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "El acoso laboral no es un problema de comunicación y no se trata como tal. No se arregla explicándote mejor, ni eligiendo el momento adecuado, ni con un correo bien redactado. Tiene cauces propios.",
+      "es_literal": false,
+      "ancla": "el acoso laboral no es un problema de comunicación y no se trata como tal. No se arregla explicándote mejor. No se arregla eligiendo el momento adecuado para hablarlo. No se arregla con una petición pequeña, concreta y reversible",
+      "temas": [
+        "acoso laboral",
+        "limites"
+      ],
+      "intensidad": 5,
+      "gancho": "Hay algo que no se arregla comunicando mejor.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "articulo"
+      ],
+      "capitulo": "Capítulo 3. Lo que no es esto"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Un paso hoy: 1) Coge una situación de esta semana que te dejó con mal cuerpo. 2) Escríbela en cuatro líneas sin una sola etiqueta. 3) Qué pasó, qué día, delante de quién, qué efecto tuvo en el trabajo.",
+      "es_literal": false,
+      "ancla": "Coge una situación concreta de esta semana que te haya dejado con mal cuerpo y escríbela en cuatro líneas sin una sola etiqueta: qué pasó, qué día, delante de quién, y qué efecto tuvo en tu trabajo. Nada de adjetivos sobre nadie.",
+      "temas": [
+        "herramienta",
+        "conductas"
+      ],
+      "intensidad": 2,
+      "gancho": "Cuatro líneas, sin un solo adjetivo sobre nadie.",
+      "formatos": [
+        "carrusel",
+        "reel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 3. Lo que no es esto"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Un ajuste cambia las condiciones en las que tú haces tu trabajo. Un traslado de trabajo cambia quién lo hace.",
+      "es_literal": true,
+      "ancla": "Un ajuste cambia las condiciones en las que tú haces tu trabajo. Un traslado de trabajo cambia quién lo hace.",
+      "temas": [
+        "ajustes",
+        "limites",
+        "equipo"
+      ],
+      "intensidad": 3,
+      "gancho": "La línea que separa un ajuste de un problema para otro.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 4. Tu adaptación no puede ser el trabajo extra de otro"
+    },
+    {
+      "tipo": "pregunta",
+      "texto": "Si tu compañero contara en voz alta tu ajuste en una reunión de equipo, ¿sonaría a acuerdo o sonaría a queja? Si suena a queja, no era un acuerdo.",
+      "es_literal": false,
+      "ancla": "De hecho, la prueba más simple que conozco cabe en una pregunta: si tu compañero lo contara en voz alta en una reunión de equipo, ¿sonaría a acuerdo o sonaría a queja? Si suena a queja, no era un acuerdo.",
+      "temas": [
+        "ajustes",
+        "equipo"
+      ],
+      "intensidad": 2,
+      "gancho": "La prueba más simple para saber si tu ajuste lo paga otro.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "pin"
+      ],
+      "capitulo": "Capítulo 4. Tu adaptación no puede ser el trabajo extra de otro"
+    },
+    {
+      "tipo": "cita",
+      "texto": "En una oficina, el silencio de un subordinado o de un compañero recién llegado vale exactamente cero como consentimiento.",
+      "es_literal": true,
+      "ancla": "Y ocurre porque el compañero de al lado, a menudo, no está en posición de negarse. Porque es más joven, porque tiene contrato temporal, porque le cae mejor decir sí, porque le da apuro. Que alguien no proteste no significa que le venga bien.",
+      "temas": [
+        "equipo",
+        "consentimiento",
+        "jerarquia"
+      ],
+      "intensidad": 4,
+      "gancho": "Que alguien no proteste no significa que le venga bien.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 4. Tu adaptación no puede ser el trabajo extra de otro"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Cuando alguien con dificultades propias tiene gente a su cargo, esas dificultades caen hacia abajo, porque hacia abajo nadie protesta. Lo único que sirve es decirlo abajo cuando pasa.",
+      "es_literal": false,
+      "ancla": "cuando tus dificultades te obligan a hacer algo que cae abajo, dilo abajo.",
+      "temas": [
+        "mandos",
+        "equipo",
+        "honestidad"
+      ],
+      "intensidad": 3,
+      "gancho": "El capítulo que casi nadie escribe: cuando tienes gente a tu cargo.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "articulo"
+      ],
+      "capitulo": "Capítulo 4. Tu adaptación no puede ser el trabajo extra de otro"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Un paso hoy: 1) Elige el ajuste que más te aliviaría. 2) Responde por escrito a una sola pregunta: si me lo dan, ¿qué parte de mi trabajo acabaría haciendo otra persona? 3) Si la respuesta es un nombre, escríbelo al lado.",
+      "es_literal": false,
+      "ancla": "Elige el ajuste que más te aliviaría del trabajo y responde por escrito a una sola pregunta: si me lo dan, ¿qué parte de mi trabajo acabaría haciendo otra persona? Si la respuesta es «ninguna», ya sabes que puedes pedirlo sin condiciones.",
+      "temas": [
+        "herramienta",
+        "ajustes"
+      ],
+      "intensidad": 2,
+      "gancho": "Una pregunta antes de pedir: ¿quién lo acabaría haciendo?",
+      "formatos": [
+        "carrusel",
+        "reel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 4. Tu adaptación no puede ser el trabajo extra de otro"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Los jefes no conceden categorías. Conceden cosas: un correo la tarde antes, una mesa que no esté en el pasillo, media hora menos de reunión, una fecha en lugar de un «cuando puedas».",
+      "es_literal": true,
+      "ancla": "Los jefes no conceden categorías. Conceden cosas: un correo la tarde antes, una mesa que no esté en el pasillo, media hora menos de reunión, una fecha en lugar de un «cuando puedas».",
+      "temas": [
+        "pedir",
+        "ajustes"
+      ],
+      "intensidad": 2,
+      "gancho": "Nadie pide una categoría. Se piden objetos pequeños.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 5. Qué se puede pedir, en concreto"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Cuatro condiciones para que alguien pueda decir sí: 1) Pequeña, que la decida quien tienes delante. 2) Concreta, que se sepa si se ha hecho. 3) Reversible, con fecha de revisión. 4) Explicada por su efecto en el resultado.",
+      "es_literal": false,
+      "ancla": "Estas cuatro condiciones no son un truco de persuasión. Son la descripción de lo que hace que una cosa sea fácil de conceder.",
+      "temas": [
+        "pedir",
+        "ajustes",
+        "herramienta"
+      ],
+      "intensidad": 2,
+      "gancho": "Cuatro condiciones que hacen fácil decir que sí.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "pin"
+      ],
+      "capitulo": "Capítulo 5. Qué se puede pedir, en concreto"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "«Cuando puedas» no es un plazo. Significa «ya», significa «nunca» y significa «te aviso cuando me enfade», y no se sabe cuál de las tres hasta que es tarde. Preguntar la fecha real es una pregunta de trabajo.",
+      "es_literal": false,
+      "ancla": "«Cuando puedas» no es un plazo, es una trampa amable: significa «ya», significa «nunca» y significa «te aviso cuando me enfade», y no se sabe cuál de las tres hasta que es tarde.",
+      "temas": [
+        "plazos",
+        "instrucciones"
+      ],
+      "intensidad": 2,
+      "gancho": "«Cuando puedas» no es un plazo.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "reel"
+      ],
+      "capitulo": "Capítulo 5. Qué se puede pedir, en concreto"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Hay un quinto caso peor que un no: el sí que se deshace. Funciona tres semanas, entra un pico de trabajo y el ajuste desaparece sin que nadie lo anuncie. Eso es lo normal, no la excepción.",
+      "es_literal": false,
+      "ancla": "el sí que se deshace. Te dicen que sí, funciona tres semanas, entra un pico de trabajo y el ajuste desaparece sin que nadie lo anuncie. Vuelven las reuniones de una hora, vuelve el orden del día que no llega",
+      "temas": [
+        "ajustes",
+        "honestidad"
+      ],
+      "intensidad": 3,
+      "gancho": "Un ajuste no se consigue una vez. Se sostiene con recordatorios.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "articulo"
+      ],
+      "capitulo": "Capítulo 5. Qué se puede pedir, en concreto"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Un no apuntado es información. Un no recordado se convierte, con los meses, en una historia sobre lo que vales.",
+      "es_literal": true,
+      "ancla": "Un no es un dato sobre una petición concreta en un momento concreto, y punto. La forma de que siga siendo eso es escribirlo: qué pediste, qué te contestaron, cuándo. Un no apuntado es información.",
+      "temas": [
+        "pedir",
+        "noes"
+      ],
+      "intensidad": 3,
+      "gancho": "Dónde más gente se rompe no es al pedir: es al día siguiente del no.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 5. Qué se puede pedir, en concreto"
+    },
+    {
+      "tipo": "cita",
+      "texto": "No decirlo no es cobardía y decirlo no es valentía; son dos formas distintas de gestionar una información que es tuya.",
+      "es_literal": true,
+      "ancla": "Hay gente que lo dice el primer día porque no tiene ganas de administrar un secreto, y hay gente que no lo dice nunca y trabaja treinta años tranquilamente. Ninguna de las dos está haciendo trampa.",
+      "temas": [
+        "decirlo",
+        "trabajo"
+      ],
+      "intensidad": 3,
+      "gancho": "Nadie te debe esta decisión razonada.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 6. Decirlo o no decirlo, en el trabajo"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "Una petición se puede retirar y un ajuste se puede dejar de usar. Una cosa dicha no se puede desdecir: no decir hoy deja abierto decir mañana, y decir hoy no deja abierto no haber dicho.",
+      "es_literal": false,
+      "ancla": "no decir hoy deja abierto decir mañana, y decir hoy no deja abierto no haber dicho.",
+      "temas": [
+        "decirlo",
+        "asimetria"
+      ],
+      "intensidad": 3,
+      "gancho": "La asimetría de la que casi nadie habla.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "cita"
+      ],
+      "capitulo": "Capítulo 6. Decirlo o no decirlo, en el trabajo"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "El dilema habitual es falso: o lo cuento y me ayudan, o me lo callo y aguanto. Hay una tercera casilla enorme en medio: no lo cuento y pido lo que necesito por su efecto en el trabajo.",
+      "es_literal": false,
+      "ancla": "Y hay una tercera casilla enorme en medio, que es donde vive casi todo el mundo que trabaja bien: no lo cuento y pido lo que necesito por su efecto en el trabajo.",
+      "temas": [
+        "decirlo",
+        "pedir"
+      ],
+      "intensidad": 3,
+      "gancho": "No es todo o nada. Hay una tercera casilla.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 6. Decirlo o no decirlo, en el trabajo"
+    },
+    {
+      "tipo": "cita",
+      "texto": "nadie tiene que ganarse las adaptaciones con una confesión",
+      "es_literal": true,
+      "ancla": "Y un aviso que va contra la corriente del nicho: nadie tiene que ganarse las adaptaciones con una confesión. La idea de que primero hay que abrirse y luego ya se verá lo que te dan pone las cosas en un orden que no te conviene.",
+      "temas": [
+        "decirlo",
+        "pedir",
+        "limites"
+      ],
+      "intensidad": 4,
+      "gancho": "Primero se pide lo concreto. Lo demás no es el precio de entrada.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 6. Decirlo o no decirlo, en el trabajo"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Si te lo preguntan de golpe: 1) Contesta sobre la conducta, no sobre la causa. 2) O compra tiempo: «déjame pensarlo y te digo». 3) O cambia de tema: no contestar también es una respuesta.",
+      "es_literal": false,
+      "ancla": "contestar sobre la conducta y no sobre la causa. «Las reuniones largas me cuestan y estoy probando a llevarlas preparadas» es una respuesta completa, verdadera y cerrada.",
+      "temas": [
+        "herramienta",
+        "decirlo",
+        "conversaciones"
+      ],
+      "intensidad": 2,
+      "gancho": "Tres salidas para cuando la pregunta llega de golpe.",
+      "formatos": [
+        "carrusel",
+        "reel",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 6. Decirlo o no decirlo, en el trabajo"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Este libro dice qué existe y no dice qué te toca. Las reglas cambian según el país, el convenio, el tamaño de la empresa y el año, y en algo que decide tu contrato un libro no puede ser tu fuente.",
+      "es_literal": false,
+      "ancla": "Si te diera una respuesta concreta, estaría inventando la mitad de los datos que hacen falta para darla. Y en algo que decide tu contrato y tu dinero, un libro no puede ser tu fuente.",
+      "temas": [
+        "derechos",
+        "honestidad",
+        "vias"
+      ],
+      "intensidad": 3,
+      "gancho": "Te digo qué existe y no te digo qué te toca.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "articulo"
+      ],
+      "capitulo": "Capítulo 7. Lo que existe, y por qué no te lo voy a explicar yo"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Informarse no es presentar una solicitud, ni abrir un expediente, ni comprometerse a nada. Se puede preguntar cómo funciona una vía y no usarla nunca.",
+      "es_literal": false,
+      "ancla": "Preguntar no es iniciar nada. Esto es lo que más frena a la gente y conviene decirlo de frente: informarse no es presentar una solicitud, no es abrir un expediente, no es comprometerte a nada y no es dar un paso irreversible.",
+      "temas": [
+        "vias",
+        "preguntar"
+      ],
+      "intensidad": 2,
+      "gancho": "Preguntar no es iniciar nada.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 7. Lo que existe, y por qué no te lo voy a explicar yo"
+    },
+    {
+      "tipo": "pregunta",
+      "texto": "Hay una pregunta que sirve en todas las puertas y que casi nadie hace: ¿qué es lo que suele salir mal en estos casos? Quien atiende lleva años viendo el mismo error repetido.",
+      "es_literal": false,
+      "ancla": "Y una pregunta que sirve en todas las puertas y que casi nadie hace: ¿qué es lo que suele salir mal en estos casos? La gente que atiende esas ventanillas lleva años viendo el mismo error repetido",
+      "temas": [
+        "vias",
+        "preguntar"
+      ],
+      "intensidad": 2,
+      "gancho": "La pregunta que casi nadie hace en una ventanilla.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "pin"
+      ],
+      "capitulo": "Capítulo 7. Lo que existe, y por qué no te lo voy a explicar yo"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Preguntar cambia una cosa, aunque la respuesta sea que no hay nada: dejas de decidir a ciegas.",
+      "es_literal": true,
+      "ancla": "Y aun así, todo lo de arriba junto no es un argumento para no preguntar. Preguntar cambia una cosa, aunque la respuesta sea que no hay nada: dejas de decidir a ciegas.",
+      "temas": [
+        "vias",
+        "decidir"
+      ],
+      "intensidad": 3,
+      "gancho": "Renunciar sabiendo qué había es distinto de renunciar sin saberlo.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 7. Lo que existe, y por qué no te lo voy a explicar yo"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "Aguantar mejor se paga en el momento, en pleno día, con lo que te queda. Decidir antes se paga en dos minutos el día anterior. Es el mismo trabajo colocado donde sale más barato.",
+      "es_literal": false,
+      "ancla": "Aguantar mejor se paga en el momento, en pleno día, con lo que te queda. Decidir antes se paga en dos minutos el día anterior. Es la misma cantidad de trabajo colocada en un sitio donde te sale más barata.",
+      "temas": [
+        "jornada",
+        "decisiones"
+      ],
+      "intensidad": 2,
+      "gancho": "No es una diferencia de actitud. Es una diferencia de coste.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 8. Reuniones, correos y ruido"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Para una reunión sin orden del día: 1) Manda una línea antes: «¿qué necesitáis que lleve preparado?». 2) Entra con una pregunta propia. 3) Apunta solo decisiones y encargos. 4) Manda después tres líneas con lo que te llevas.",
+      "es_literal": false,
+      "ancla": "Una línea a quien convoca, el día anterior o dos horas antes: «¿qué necesitáis que lleve preparado?». Fíjate en la forma. No dice «mándame el orden del día», que suena a reproche y a trabajo extra para el otro.",
+      "temas": [
+        "herramienta",
+        "reuniones"
+      ],
+      "intensidad": 2,
+      "gancho": "Cuatro cosas para la próxima reunión sin orden del día.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "reel"
+      ],
+      "capitulo": "Capítulo 8. Reuniones, correos y ruido"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Los mensajes que llevan tres días sin abrir no se quedan por pereza. Se quedan porque abrirlos obliga a decidir algo que aún no está decidido. No es un problema de velocidad: es un montón de decisiones disfrazadas de correos.",
+      "es_literal": false,
+      "ancla": "Se quedan porque abrirlos obliga a decidir algo que todavía no está decidido, y mientras el mensaje esté cerrado la decisión no existe.",
+      "temas": [
+        "correo",
+        "decisiones"
+      ],
+      "intensidad": 2,
+      "gancho": "La bandeja no es un problema de velocidad.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "cita"
+      ],
+      "capitulo": "Capítulo 8. Reuniones, correos y ruido"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "La frase de acuse: «Lo tengo, te contesto el jueves». Ocho palabras. La otra persona deja de esperar, tú dejas de tener el mensaje encima y la decisión pasa a estar donde debe.",
+      "es_literal": false,
+      "ancla": "«Lo tengo, te contesto el jueves.» Ocho palabras. Cierra el bucle sin obligarte a resolver nada: la otra persona deja de esperar, tú dejas de tener el mensaje encima, y la decisión pasa a estar donde debe, que es en tu jueves.",
+      "temas": [
+        "herramienta",
+        "correo"
+      ],
+      "intensidad": 2,
+      "gancho": "Ocho palabras que quitan bastante peso de encima.",
+      "formatos": [
+        "carrusel",
+        "reel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 8. Reuniones, correos y ruido"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "«Habláis muy alto» es un juicio sobre alguien y se defiende como tal. «Necesito una hora sin voces alrededor para cerrar esto» es una petición sobre una tarea y un rato. La segunda se concede mucho más.",
+      "es_literal": false,
+      "ancla": "«Habláis muy alto» es un juicio sobre alguien y se defiende como tal. «Necesito una hora sin voces alrededor para cerrar esto» es una petición sobre una tarea y un rato.",
+      "temas": [
+        "ruido",
+        "pedir",
+        "equipo"
+      ],
+      "intensidad": 2,
+      "gancho": "Pedir silencio sin ofender a nadie tiene un truco.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 8. Reuniones, correos y ruido"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "El cansancio responde al descanso. El desgaste, no. Duermes el fin de semana entero y el lunes estás donde estabas el viernes. Ese descanso que no repone nada es la señal más honesta que hay.",
+      "es_literal": false,
+      "ancla": "El desgaste laboral del que habla este capítulo se parece más bien poco a eso, y la diferencia no es de intensidad. Es de comportamiento. El cansancio responde al descanso. El desgaste, no.",
+      "temas": [
+        "desgaste",
+        "descanso"
+      ],
+      "intensidad": 4,
+      "gancho": "La diferencia no es de intensidad. Es de comportamiento.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "reel"
+      ],
+      "capitulo": "Capítulo 9. El desgaste, con precisión"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "El libro usa la palabra «burnout» para hablar de un desgaste laboral sostenido, porque es la que se entiende. No la usa como diagnóstico: no es una etiqueta que se pueda poner leyendo un capítulo.",
+      "es_literal": false,
+      "ancla": "La uso para hablar de un desgaste laboral sostenido, porque es la que se entiende. No la uso como diagnóstico. No es una etiqueta que yo pueda ponerte, ni que puedas ponerte tú leyendo un capítulo",
+      "temas": [
+        "desgaste",
+        "diagnostico",
+        "honestidad"
+      ],
+      "intensidad": 3,
+      "gancho": "Cuanto más amplia es una palabra, menos información lleva dentro.",
+      "formatos": [
+        "carrusel",
+        "articulo",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 9. El desgaste, con precisión"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Dejar de contestar a la gente que quieres no es desinterés. Es que la reserva para escribir cuatro líneas amables se está gastando entera en aguantar la jornada, y lo primero que se recorta es lo que no tiene consecuencias inmediatas.",
+      "es_literal": false,
+      "ancla": "Es que la reserva que hace falta para escribir cuatro líneas amables se está gastando entera en aguantar la jornada, y lo primero que se recorta es lo que no tiene consecuencias inmediatas.",
+      "temas": [
+        "desgaste",
+        "vinculos"
+      ],
+      "intensidad": 4,
+      "gancho": "Los amigos no te despiden. La empresa sí.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "reel"
+      ],
+      "capitulo": "Capítulo 9. El desgaste, con precisión"
+    },
+    {
+      "tipo": "pregunta",
+      "texto": "Una pregunta que sirve más que cualquier plan: ¿qué es lo que estoy haciendo que a nadie le importa? No lo que no sirve en abstracto, sino lo que a nadie le importa de verdad.",
+      "es_literal": false,
+      "ancla": "De ahí sale una pregunta que sirve más que cualquier plan: ¿qué es lo que estoy haciendo que a nadie le importa? No lo que no sirve para nada en abstracto, sino lo que a nadie le importa de verdad.",
+      "temas": [
+        "desgaste",
+        "gasto"
+      ],
+      "intensidad": 3,
+      "gancho": "Ahí suele haber reserva que se está tirando a la basura.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "pin"
+      ],
+      "capitulo": "Capítulo 9. El desgaste, con precisión"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Rendir muy por encima no sale del presupuesto ordinario: sale de la reserva. Del fin de semana, del sueño, de la hora de comer. Y como funciona, no hay ninguna señal que avise. Al contrario: hay aplausos.",
+      "es_literal": false,
+      "ancla": "Lo segundo es que ese rendimiento no sale del presupuesto ordinario. Sale de la reserva. Del fin de semana, del sueño, de la hora de comer, de la reposición que tenías apalabrada contigo y que se sacrifica «solo esta vez».",
+      "temas": [
+        "alto rendimiento",
+        "reserva"
+      ],
+      "intensidad": 4,
+      "gancho": "Estás gastando de la cuenta equivocada y encima hay aplausos.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 10. El alto rendimiento que se paga a plazos"
+    },
+    {
+      "tipo": "cita",
+      "texto": "La organización se queda con tu mejor mes y lo convierte en tu línea base.",
+      "es_literal": true,
+      "ancla": "Lo que se aprende es «esta persona hace esto». Sin condiciones, sin asterisco. La organización se queda con tu mejor mes y lo convierte en tu línea base.",
+      "temas": [
+        "expectativas",
+        "alto rendimiento"
+      ],
+      "intensidad": 4,
+      "gancho": "Hubo un mes en el que todo se alineó. Y se quedó de referencia.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 10. El alto rendimiento que se paga a plazos"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "Cuando el listón lo pone otro, se puede discutir. Cuando lo has puesto tú, no hay con quién discutir: te has convertido en tu propio testigo de cargo.",
+      "es_literal": false,
+      "ancla": "Cuando pides ayuda, la respuesta implícita es «pero tú esto lo haces en dos días». Y si dices que no puedes, no suena a información: suena a excusa, porque hay un precedente tuyo que dice lo contrario.",
+      "temas": [
+        "expectativas",
+        "alto rendimiento"
+      ],
+      "intensidad": 4,
+      "gancho": "El precedente que dice lo contrario lo pusiste tú.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "reel"
+      ],
+      "capitulo": "Capítulo 10. El alto rendimiento que se paga a plazos"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Para bajar un listón: 1) Despacio, un día más cada mes, no un salto. 2) Sin anuncios: no hace falta comunicar tu política interna de esfuerzo. 3) Sin pedir perdón: «lo tengo el jueves» es un dato, no una disculpa.",
+      "es_literal": false,
+      "ancla": "Un listón se baja como se sube: por acumulación imperceptible. Si has entregado cuatro meses seguidos en dos días lo que se pide en cinco, no pasas a entregar en cinco. Pasas a entregar en tres.",
+      "temas": [
+        "herramienta",
+        "plazos",
+        "alto rendimiento"
+      ],
+      "intensidad": 3,
+      "gancho": "Nadie percibe una pendiente suave. Todo el mundo percibe un escalón.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "reel"
+      ],
+      "capitulo": "Capítulo 10. El alto rendimiento que se paga a plazos"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Lo difícil de bajar el listón no es la logística. Es que el reconocimiento conseguido así suele ser el más limpio que se ha tenido nunca, y soltarlo se parece más a un duelo pequeño que a una mejora.",
+      "es_literal": false,
+      "ancla": "Renunciar a rendir por encima no se siente como cuidarse: se siente como devolver la única prueba que tenías de que vales.",
+      "temas": [
+        "reconocimiento",
+        "duelo",
+        "alto rendimiento"
+      ],
+      "intensidad": 5,
+      "gancho": "No es logística. Es soltar la única prueba que tenías.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "audio"
+      ],
+      "capitulo": "Capítulo 10. El alto rendimiento que se paga a plazos"
+    },
+    {
+      "tipo": "escena",
+      "texto": "Juntar todas las reuniones en un día parecía brillante. El martes se iba en reuniones, el miércoles en recuperarse del martes, y el jueves era el primer día que servía para algo.",
+      "es_literal": false,
+      "ancla": "el martes lo pasaba en reuniones, el miércoles lo pasaba recuperándose del martes, y el jueves era el primer día en que servía para algo. Había cambiado cinco días medianos por dos días perdidos y tres buenos",
+      "temas": [
+        "agenda",
+        "reparto",
+        "reuniones"
+      ],
+      "intensidad": 3,
+      "gancho": "Concentrar todo el peaje en un día suena eficiente y no lo es.",
+      "formatos": [
+        "reel",
+        "carrusel",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 11. Repartir la jornada"
+    },
+    {
+      "tipo": "cita",
+      "texto": "dos cosas grandes el mismo día salen mal las dos.",
+      "es_literal": true,
+      "ancla": "De todo lo que sé sobre este asunto, esto es lo que más veces he visto cumplirse: dos cosas grandes el mismo día salen mal las dos.",
+      "temas": [
+        "agenda",
+        "reparto"
+      ],
+      "intensidad": 3,
+      "gancho": "No una. Las dos.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 11. Repartir la jornada"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Tres reglas de reparto que no necesitan permiso: 1) Una cosa cara por día. 2) Detrás de lo caro, llano: revisar, archivar, comprobar. 3) Lo que se hace mal por la tarde, no se hace por la tarde.",
+      "es_literal": false,
+      "ancla": "La hora siguiente a algo grande no es para otra cosa grande, y tampoco es para tomar decisiones. Es para trabajo con reglas: revisar, archivar, rellenar, ordenar, comprobar.",
+      "temas": [
+        "herramienta",
+        "agenda",
+        "reparto"
+      ],
+      "intensidad": 2,
+      "gancho": "Tres reglas de reparto que no hay que pedirle a nadie.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "reel"
+      ],
+      "capitulo": "Capítulo 11. Repartir la jornada"
+    },
+    {
+      "tipo": "cita",
+      "texto": "lo que elijas tiene que poder hacerse en un día en el que no puedas con nada, delante de otras personas, sin explicar nada y sin acordarte de que existía.",
+      "es_literal": true,
+      "ancla": "Así que la prueba es esta: lo que elijas tiene que poder hacerse en un día en el que no puedas con nada, delante de otras personas, sin explicar nada y sin acordarte de que existía.",
+      "temas": [
+        "herramientas",
+        "dias malos"
+      ],
+      "intensidad": 3,
+      "gancho": "Las semanas malas son el examen, no la excepción.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 11. Repartir la jornada"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Si trabajas por turnos, en atención al público o en una cadena, media lista no existe: no puedes mover lo caro ni elegir el orden. Y a veces, sencillamente, no hay reparto posible.",
+      "es_literal": false,
+      "ancla": "a veces no hay reparto posible. Hay puestos y ritmos que no se pueden administrar bien, se organice quien se organice. Cuando ese es el caso, el problema no es tu técnica y no lo va a resolver un capítulo.",
+      "temas": [
+        "turnos",
+        "honestidad",
+        "reparto"
+      ],
+      "intensidad": 3,
+      "gancho": "Los libros de esto se escriben pensando en un despacho.",
+      "formatos": [
+        "carrusel",
+        "articulo",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 11. Repartir la jornada"
+    },
+    {
+      "tipo": "cita",
+      "texto": "el consejo estándar de este mundillo —cámbiate a un sitio que te entienda, busca un trabajo que encaje con tu cerebro— es un consejo de rico.",
+      "es_literal": true,
+      "ancla": "Lo digo así de claro, sin rodeos y sin pedir disculpas por decirlo: el consejo estándar de este mundillo —cámbiate a un sitio que te entienda, busca un trabajo que encaje con tu cerebro— es un consejo de rico.",
+      "temas": [
+        "cambiar de trabajo",
+        "clase",
+        "honestidad"
+      ],
+      "intensidad": 5,
+      "gancho": "No de millonario: de gente con margen.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 12. Cuando no se puede cambiar de trabajo"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Un consejo que no puedes seguir no se queda quieto: se convierte en un reproche. Si la solución evidente es irse y tú no te vas, lo que se ofrece a continuación es que te falta valentía.",
+      "es_literal": false,
+      "ancla": "Porque un consejo que no puedes seguir no se queda quieto: se convierte en un reproche. Si la solución evidente es irse y tú no te vas, la conclusión que se ofrece es que te falta valentía, o claridad, o amor propio.",
+      "temas": [
+        "cambiar de trabajo",
+        "culpa"
+      ],
+      "intensidad": 4,
+      "gancho": "Un insulto disfrazado de empoderamiento.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 12. Cuando no se puede cambiar de trabajo"
+    },
+    {
+      "tipo": "cita",
+      "texto": "casi todo lo que se escribe sobre esto lo escribe gente que pudo irse.",
+      "es_literal": true,
+      "ancla": "Y hay una razón muy sencilla por la que este consejo se repite tanto: casi todo lo que se escribe sobre esto lo escribe gente que pudo irse. Quien cambió de vida y le funcionó tiene una historia que contar",
+      "temas": [
+        "cambiar de trabajo",
+        "sesgo"
+      ],
+      "intensidad": 4,
+      "gancho": "Quien lleva dieciséis años en la misma nave no escribe libros.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 12. Cuando no se puede cambiar de trabajo"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Buscar trabajo es un trabajo: currículum, entrevistas, sostener una conversación de una hora cayendo bien. Y ahí se cierra un círculo cruel, porque el desgaste que se resolvería cambiando de empleo es justo lo que impide buscar otro.",
+      "es_literal": false,
+      "ancla": "el desgaste que te haría falta resolver cambiando de trabajo es justo lo que te impide buscar otro.",
+      "temas": [
+        "cambiar de trabajo",
+        "desgaste",
+        "energia"
+      ],
+      "intensidad": 4,
+      "gancho": "El motivo más invisible de todos: la energía.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 12. Cuando no se puede cambiar de trabajo"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "«Este trabajo me cuesta más de lo que le cuesta a otros» es información: explica el cansancio y ayuda a repartir. «Yo no valgo para trabajar» es una conclusión sacada de un solo experimento.",
+      "es_literal": false,
+      "ancla": "«Yo no valgo para trabajar.» Eso no es información. Es una conclusión que se ha sacado de un solo experimento —este puesto, esta empresa, este jefe, estos años— y que se está aplicando a toda tu vida laboral",
+      "temas": [
+        "valor",
+        "identidad",
+        "trabajo"
+      ],
+      "intensidad": 4,
+      "gancho": "Dos frases que se parecen y no son la misma.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "reel"
+      ],
+      "capitulo": "Capítulo 12. Cuando no se puede cambiar de trabajo"
+    },
+    {
+      "tipo": "cita",
+      "texto": "el trabajo puede ser el sitio donde peor funcionas y no ser el veredicto sobre tu vida.",
+      "es_literal": true,
+      "ancla": "Añado una cosa más, que a mucha gente le ha servido más que cualquier técnica: el trabajo puede ser el sitio donde peor funcionas y no ser el veredicto sobre tu vida.",
+      "temas": [
+        "identidad",
+        "trabajo"
+      ],
+      "intensidad": 4,
+      "gancho": "La parte de tu día peor diseñada para ti no decide lo que eres.",
+      "formatos": [
+        "cita",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Capítulo 12. Cuando no se puede cambiar de trabajo"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "La carrera de cero fricción no se decide nunca de golpe. Se decide en veinte noes pequeños y razonables, repartidos a lo largo de años, cada uno con su motivo bueno.",
+      "es_literal": false,
+      "ancla": "Es una carrera que no se decide nunca de golpe. Se decide en veinte noes pequeños y razonables, repartidos a lo largo de años, cada uno con su motivo bueno.",
+      "temas": [
+        "carrera",
+        "noes"
+      ],
+      "intensidad": 3,
+      "gancho": "Nadie escribe un domingo: voy a estrechar mi vida laboral.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 13. Ni carrera de cero fricción ni «zona de genialidad»"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Ante algo que cuesta, pregúntate: 1) ¿Cuesta mucho al principio y menos después? 2) ¿O cuesta lo mismo todos los días para siempre? 3) Y si cuesta siempre, ¿compra algo que no se consigue de otra forma?",
+      "es_literal": false,
+      "ancla": "Ante algo que cuesta, pregúntate si es de las cosas que cuestan mucho al principio y menos después, o de las que cuestan lo mismo todos los días para siempre.",
+      "temas": [
+        "herramienta",
+        "carrera",
+        "decisiones"
+      ],
+      "intensidad": 2,
+      "gancho": "Una distinción que hace caer algunos noes y sostener otros.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "pin"
+      ],
+      "capitulo": "Capítulo 13. Ni carrera de cero fricción ni «zona de genialidad»"
+    },
+    {
+      "tipo": "cita",
+      "texto": "El puesto que dominas es un préstamo, no una propiedad, y la carrera de cero fricción es una apuesta a que nadie te lo va a reclamar.",
+      "es_literal": true,
+      "ancla": "El puesto que dominas es un préstamo, no una propiedad, y la carrera de cero fricción es una apuesta a que nadie te lo va a reclamar.",
+      "temas": [
+        "carrera",
+        "cambio"
+      ],
+      "intensidad": 4,
+      "gancho": "Los puestos no se quedan quietos contigo.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 13. Ni carrera de cero fricción ni «zona de genialidad»"
+    },
+    {
+      "tipo": "escena",
+      "texto": "Doce años haciendo lo mismo, impecable, y un martes de octubre anuncian que en enero se migra todo. Lo peor no fue la plataforma nueva: fue haber perdido la costumbre de estar torpe.",
+      "es_literal": false,
+      "ancla": "Fue que había perdido la costumbre de estar torpe, y estar torpe sin costumbre resulta mucho más humillante que estar torpe con costumbre.",
+      "temas": [
+        "carrera",
+        "cambio",
+        "aprender"
+      ],
+      "intensidad": 3,
+      "gancho": "Doce años sin el músculo de empezar.",
+      "formatos": [
+        "reel",
+        "carrusel",
+        "audio"
+      ],
+      "capitulo": "Capítulo 13. Ni carrera de cero fricción ni «zona de genialidad»"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Buscar el trabajo que encaje presupone margen: meses de dinero guardado, una edad en la que te llamen, un sector con demanda, nadie que dependa de tu nómina el mes que viene. Quien no lo tiene está en otra conversación.",
+      "es_literal": false,
+      "ancla": "Margen es, en concreto: unos meses de dinero guardado para cobrar poco o no cobrar; una edad en la que todavía te llamen a las entrevistas; un sector donde falte gente en vez de sobrar",
+      "temas": [
+        "carrera",
+        "margen",
+        "honestidad"
+      ],
+      "intensidad": 4,
+      "gancho": "La palabra que falta en «encuentra tu sitio»: margen.",
+      "formatos": [
+        "carrusel",
+        "articulo",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 13. Ni carrera de cero fricción ni «zona de genialidad»"
+    },
+    {
+      "tipo": "cita",
+      "texto": "si la frase necesita a un tercero peor para funcionar, está mal.",
+      "es_literal": true,
+      "ancla": "Y hay un criterio que sirve para detectar cuándo una de estas frases está mal montada, aunque venga envuelta en cautela: si la frase necesita a un tercero peor para funcionar, está mal.",
+      "temas": [
+        "comparaciones",
+        "enfoque"
+      ],
+      "intensidad": 3,
+      "gancho": "Un criterio para detectar el consuelo con víctima.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 14. Lo que se gana, sin inflarlo"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Nadie sabe cómo se concentra otra persona. No sabes qué pasa dentro de la cabeza de quien lleva tres horas mirando una hoja de cálculo. Cualquier frase que compare tu interior con el de otro está construida sobre nada.",
+      "es_literal": false,
+      "ancla": "nadie sabe cómo se concentra otra persona. Nadie. Tú no sabes qué pasa dentro de la cabeza del compañero que lleva tres horas mirando una hoja de cálculo sin levantar la vista.",
+      "temas": [
+        "comparaciones",
+        "honestidad"
+      ],
+      "intensidad": 3,
+      "gancho": "Desde fuera todo el mundo parece más entero de lo que está.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 14. Lo que se gana, sin inflarlo"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "Avería y regalo son la misma operación con el signo cambiado. La avería te deja debiendo algo todo el rato; la otra etiqueta te deja teniendo que demostrarlo todo el rato.",
+      "es_literal": false,
+      "ancla": "La avería te deja debiendo algo todo el rato. El don te deja teniendo que demostrarlo todo el rato. Y ninguna de las dos sirve para lo único que hace falta un martes por la mañana",
+      "temas": [
+        "etiquetas",
+        "neurodivergencia"
+      ],
+      "intensidad": 3,
+      "gancho": "Las dos etiquetas hacen lo mismo: convertirte en un veredicto.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "pin"
+      ],
+      "capitulo": "Capítulo 14. Lo que se gana, sin inflarlo"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Si lees la lista de lo que se gana y no te reconoces en nada, no te has quedado fuera de nada. No hay ninguna parte buena que sea obligatoria, y nada de lo que se puede pedir en el trabajo depende de tener una contrapartida que enseñar.",
+      "es_literal": false,
+      "ancla": "no hay ninguna parte buena que sea obligatoria. Nada de lo que he descrito arriba es un requisito para tener una vida laboral que se pueda sostener, ni la prueba de que tu manera de funcionar sea la correcta, ni un certificado.",
+      "temas": [
+        "honestidad",
+        "pedir"
+      ],
+      "intensidad": 4,
+      "gancho": "Pedir el orden del día por adelantado no se gana con méritos.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "articulo"
+      ],
+      "capitulo": "Capítulo 14. Lo que se gana, sin inflarlo"
+    },
+    {
+      "tipo": "cita",
+      "texto": "pedir que algo se mire no requiere haber demostrado antes que es grave. Que sea o no grave es justamente lo que se va a mirar.",
+      "es_literal": true,
+      "ancla": "Solo dejo el dato: pedir que algo se mire no requiere haber demostrado antes que es grave. Que sea o no grave es justamente lo que se va a mirar.",
+      "temas": [
+        "ayuda",
+        "salud"
+      ],
+      "intensidad": 4,
+      "gancho": "No hace falta demostrar nada antes de pedir que lo miren.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+    },
+    {
+      "tipo": "escena",
+      "texto": "Mirar la agenda para ver si hoy está. Cambiar de pasillo. Preparar cada frase antes de entrar en su despacho. Que se te cierre el estómago al ver su nombre en la pantalla del teléfono.",
+      "es_literal": false,
+      "ancla": "Mirar la agenda para ver si hoy está. Cambiar de pasillo. Preparar cada frase antes de entrar en su despacho. Que se te cierre el estómago cuando ves su nombre en la pantalla del teléfono.",
+      "temas": [
+        "miedo",
+        "señales",
+        "trabajo"
+      ],
+      "intensidad": 5,
+      "gancho": "No incomodidad, no antipatía. Miedo.",
+      "formatos": [
+        "carrusel",
+        "reel",
+        "audio"
+      ],
+      "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Este libro no dice si dejar el trabajo. Ni que te vayas ni que aguantes: esa decisión depende de la hipoteca, de quién come de tu sueldo, de tu comarca, de tu edad y de veinte cosas que están en tu vida y no en un libro.",
+      "es_literal": false,
+      "ancla": "Esa decisión depende de cosas que un libro no conoce y no puede conocer: de si hay hipoteca y de cuánto queda; de quién come de tu sueldo el mes que viene; de qué hay donde vives, que igual son cuatro empresas del sector o igual son dos",
+      "temas": [
+        "decidir",
+        "honestidad"
+      ],
+      "intensidad": 4,
+      "gancho": "La línea que este libro no cruza.",
+      "formatos": [
+        "carrusel",
+        "articulo",
+        "cita"
+      ],
+      "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Cuando llevas meses en un sitio que te va vaciando, se pierde la escala: cosas enormes empiezan a parecer normales. No hace falta que nadie te aconseje, basta con que alguien de fuera reaccione.",
+      "es_literal": false,
+      "ancla": "cuando llevas meses en un sitio que te va vaciando, se pierde por completo la escala. Cosas enormes empiezan a parecer normales, y una persona de fuera las nombra en cuatro segundos.",
+      "temas": [
+        "decidir",
+        "escala"
+      ],
+      "intensidad": 4,
+      "gancho": "Su reacción te devuelve la medida que se te había perdido.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Dos condiciones para una decisión grande: 1) No se toma a solas: hace falta alguien delante. 2) No se toma el peor día. Si redactas la carta un jueves a las once de la noche, ciérrala sin enviarla y léela el lunes.",
+      "es_literal": false,
+      "ancla": "Si te descubres redactando la carta a las once de la noche de un jueves horrible, ciérrala sin enviarla y guárdala. Si al lunes por la mañana sigue diciendo lo que querías decir, seguirá ahí.",
+      "temas": [
+        "herramienta",
+        "decidir"
+      ],
+      "intensidad": 3,
+      "gancho": "Los peores días solo dejan ver dos opciones, y las dos definitivas.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "reel"
+      ],
+      "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "La oficina va a seguir siendo diáfana y las reuniones van a seguir convocándose sin orden del día. Nada de eso se desmonta por haber leído dieciséis capítulos ni por haber aprendido a pedir mejor.",
+      "es_literal": false,
+      "ancla": "La oficina va a seguir siendo diáfana. Las reuniones van a seguir convocándose sin orden del día. El «hazlo como veas» va a seguir apareciendo en tu bandeja de entrada un viernes a las siete.",
+      "temas": [
+        "expectativas",
+        "honestidad"
+      ],
+      "intensidad": 3,
+      "gancho": "Empiezo por lo más desagradable, para que no quede escondido.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "articulo"
+      ],
+      "capitulo": "Capítulo 16. Trabajar sin romperte"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Un no no invalida la petición ni te invalida a ti.",
+      "es_literal": true,
+      "ancla": "Puedes hacer una petición perfecta —pequeña, concreta, reversible, explicada por su efecto en el resultado, como decía el capítulo 5— y recibir un no. Los noes existen.",
+      "temas": [
+        "pedir",
+        "noes"
+      ],
+      "intensidad": 3,
+      "gancho": "Puedes pedirlo perfecto y recibir un no. Los noes existen.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 16. Trabajar sin romperte"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Lo que más baja es la culpa: esa sensación difusa de estar haciéndolo mal porque los demás no se quejan. Cuando el cansancio pasa a ser un gasto con causas identificables, se apaga una radio que llevaba años de fondo.",
+      "es_literal": false,
+      "ancla": "Cuando el cansancio deja de ser un defecto de carácter y pasa a ser un gasto con causas identificables, se apaga una radio que llevaba años puesta de fondo.",
+      "temas": [
+        "culpa",
+        "cansancio"
+      ],
+      "intensidad": 4,
+      "gancho": "Una radio que llevaba años puesta de fondo.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "reel"
+      ],
+      "capitulo": "Capítulo 16. Trabajar sin romperte"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "Hay incomodidades que bajan con la exposición y hay incomodidades que no bajan nunca, por muchas veces que se pase por ellas. Exponerse cien veces a una sala con eco no cambia la sala.",
+      "es_literal": false,
+      "ancla": "hay incomodidades que bajan con la exposición y hay incomodidades que no bajan nunca, por muchas veces que se pase por ellas. Exponerse cien veces a una sala con eco no mejora la sala.",
+      "temas": [
+        "rodeos",
+        "exposicion"
+      ],
+      "intensidad": 3,
+      "gancho": "En ese terreno, el rodeo no es cobardía: es la única ingeniería.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 16. Trabajar sin romperte"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Ese es el gasto grande, el que no aparece en ninguna nómina y no se recupera durmiendo: el interrogatorio de camino a casa.",
+      "es_literal": true,
+      "ancla": "Ese es el gasto grande, el que no aparece en ninguna nómina y no se recupera durmiendo: el interrogatorio de camino a casa. Qué me pasa. Por qué los demás no llegan así.",
+      "temas": [
+        "cierre",
+        "culpa",
+        "trayecto"
+      ],
+      "intensidad": 5,
+      "gancho": "Qué me pasa. Por qué a los demás les sale gratis.",
+      "formatos": [
+        "cita",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Cierre — Que no te cueste la salud"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Un cansancio con cuenta se lleva de otra manera que un cansancio inexplicable. No termina el trabajo pendiente ni quita las tres reuniones, pero a lo largo de una vida laboral esa diferencia se acumula.",
+      "es_literal": false,
+      "ancla": "un cansancio con cuenta se lleva de otra manera que un cansancio inexplicable, y a lo largo de una vida laboral esa diferencia se acumula.",
+      "temas": [
+        "cierre",
+        "contabilidad"
+      ],
+      "intensidad": 3,
+      "gancho": "El jueves no se resuelve. Pero ahora sale una cuenta.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "hilo"
+      ],
+      "capitulo": "Cierre — Que no te cueste la salud"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Solo pido una cosa, y es la que da título a estas páginas: que no te cueste la salud.",
+      "es_literal": true,
+      "ancla": "Solo pido una cosa, y es la que da título a estas páginas: que no te cueste la salud. Un trabajo puede costar dinero, tiempo, oportunidades, comodidad, unas cuantas cosas que te gustaría hacer y no haces. Todo eso entra en el trato",
+      "temas": [
+        "cierre",
+        "salud",
+        "limites"
+      ],
+      "intensidad": 5,
+      "gancho": "Un trabajo puede costar muchas cosas. La salud no entra en el trato.",
+      "formatos": [
+        "cita",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Cierre — Que no te cueste la salud"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "El libro no ha resuelto las entregas acumuladas, ni la evaluación, ni el pósit que sigue debajo de la taza. Lo que ha intentado es que el jueves te cueste lo que cuesta y no el doble.",
+      "es_literal": false,
+      "ancla": "Este libro no ha resuelto nada de eso y no está en su mano resolverlo. Lo que ha intentado es que el jueves te cueste lo que cuesta y no el doble.",
+      "temas": [
+        "cierre",
+        "honestidad"
+      ],
+      "intensidad": 3,
+      "gancho": "Que el jueves te cueste lo que cuesta y no el doble.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Cierre — Que no te cueste la salud"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Peticiones ya redactadas para llevar a una reunión: una sola por conversación, explicada por su efecto en el resultado. «¿Podría cambiar a la mesa del fondo? Con menos gente pasando por detrás saco el informe en una mañana en vez de en dos.»",
+      "es_literal": false,
+      "ancla": "«¿Podría cambiar de sitio a la mesa del fondo? Con menos gente pasando por detrás saco el informe en una mañana en vez de en dos.»",
+      "temas": [
+        "herramienta",
+        "pedir",
+        "anexos"
+      ],
+      "intensidad": 2,
+      "gancho": "Cómo suena una petición dicha en voz alta.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "pin"
+      ],
+      "capitulo": "Anexos"
+    },
+    {
+      "tipo": "cita",
+      "texto": "«Con la información por escrito me equivoco menos» es una razón completa.",
+      "es_literal": true,
+      "ancla": "Ninguna de estas frases necesita la palabra TDAH, ni autismo, ni sensibilidad, ni nada. «Con la información por escrito me equivoco menos» es una razón completa.",
+      "temas": [
+        "pedir",
+        "decirlo",
+        "anexos"
+      ],
+      "intensidad": 2,
+      "gancho": "Se pide por su efecto en el trabajo, no por su causa.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Anexos"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Ninguna herramienta de este libro funciona para todo el mundo ni todos los días, y una que hoy no sirve no es un fracaso tuyo. Aquí la neurodivergencia no se trata ni como regalo ni como avería.",
+      "es_literal": false,
+      "ancla": "Ninguna herramienta de este libro funciona para todo el mundo ni todos los días, y una que hoy no sirve no es un fracaso tuyo. Una adaptación no puede convertirse en el trabajo extra de otra persona",
+      "temas": [
+        "enfoque",
+        "honestidad",
+        "anexos"
+      ],
+      "intensidad": 2,
+      "gancho": "Una herramienta que hoy no sirve no es un fracaso tuyo.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Anexos"
+    }
+  ]
+}

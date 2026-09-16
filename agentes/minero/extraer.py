@@ -350,6 +350,46 @@ def minar_libro(sello: Sello, serie: Serie, libro: Libro, con, *, extractor: Ext
     return {"tramos": len(tramos), "atomos": total, "verificados": verificados}
 
 
+def importar_json(sello: Sello, ruta_json: Path, con, *, solo_validar: bool = False) -> dict[str, int]:
+    """Importa átomos escritos por un agente externo (mismo esquema que la salida del modelo).
+
+    Formato del fichero: {"serie": id, "libro": slug, "atomos": [{tipo, texto, es_literal, ancla, temas,
+    intensidad, gancho, formatos, capitulo}]}. Se verifica exactamente igual que la extracción por API.
+    Con solo_validar, imprime el informe y no toca la base de datos (para que el agente corrija).
+    """
+    datos = json.loads(ruta_json.read_text(encoding="utf-8"))
+    serie = sello.series[datos["serie"]]
+    libro = serie.libro(datos["libro"])
+    manuscrito = sello.ruta_manuscrito(libro).read_text(encoding="utf-8")
+    cache = normalizar_con_mapa(manuscrito)
+    idioma = sello.datos["sello"].get("idioma", "es")
+    tramo_total = Tramo("(importado)", manuscrito, 0)
+    filas = []
+    for a in datos.get("atomos", []):
+        if a.get("tipo") not in TIPOS:
+            print(f"  ✗ tipo desconocido «{a.get('tipo')}»: {str(a.get('texto'))[:60]}")
+            continue
+        v = verificar_atomo(a, tramo_total, manuscrito, cache, cache, idioma)
+        v["capitulo"] = a.get("capitulo") or v["capitulo"]
+        v["libro_id"] = libro.id
+        filas.append(v)
+    ok = [f for f in filas if f["verificado"]]
+    malos = [f for f in filas if not f["verificado"]]
+    print(f"  {libro.titulo}: {len(filas)} átomos, {len(ok)} verificados, {len(malos)} rechazados")
+    for f in malos:
+        print(f"    ✗ [{f['tipo']}] «{f['texto'][:70]}» → {f['motivo_no_verificado']}")
+    if solo_validar or not con:
+        return {"tramos": 0, "atomos": len(filas), "verificados": len(ok)}
+    db.borrar_atomos_de(con, libro.id)
+    db.registrar_libro(con, id=libro.id, sello=sello.id, serie=serie.id, numero=libro.numero, slug=libro.slug,
+                       titulo=libro.titulo, subtitulo=libro.subtitulo, palabras=len(manuscrito.split()),
+                       hash_manuscrito=hash_texto(manuscrito))
+    n = db.insertar_atomos(con, filas)
+    con.commit()
+    print(f"    → {n} guardados ({len(ok)} usables)")
+    return {"tramos": 0, "atomos": n, "verificados": len(ok)}
+
+
 def estimar(sello: Sello, libros: list[Libro], modelo: str) -> None:
     pe, ps = sello.precio(modelo)
     tot_in = tot_out = 0
@@ -402,9 +442,29 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--estimar", action="store_true", help="estima tokens y coste sin llamar a la API")
     p.add_argument("--listar", action="store_true", help="muestra una muestra de átomos guardados")
     p.add_argument("--limite", type=int, default=20)
+    p.add_argument("--importar-json", type=Path, action="append", metavar="FICHERO_O_DIR",
+                   help="importa átomos de un JSON (o de todos los .json de un directorio) verificándolos")
+    p.add_argument("--solo-validar", action="store_true", help="con --importar-json: informa sin guardar")
     args = p.parse_args(argv)
 
     sello = cargar_sello(args.sello)
+    if args.importar_json:
+        ficheros: list[Path] = []
+        for r in args.importar_json:
+            ficheros += sorted(r.glob("*.json")) if r.is_dir() else [r]
+        con = None if args.solo_validar else db.conectar(args.db)
+        tot = {"atomos": 0, "verificados": 0}
+        for f in ficheros:
+            try:
+                r = importar_json(sello, f, con, solo_validar=args.solo_validar)
+            except (KeyError, json.JSONDecodeError, FileNotFoundError) as e:
+                print(f"  ✗ {f.name}: {type(e).__name__}: {e}")
+                continue
+            tot["atomos"] += r["atomos"]
+            tot["verificados"] += r["verificados"]
+        print(f"Total: {tot['atomos']} átomos, {tot['verificados']} verificados"
+              + (" (solo validación, nada guardado)" if args.solo_validar else ""))
+        return 0 if tot["verificados"] else 1
     series = [sello.series[args.serie]] if args.serie else sello.series_activas()
     libros: list[tuple[Serie, Libro]] = []
     for s in series:

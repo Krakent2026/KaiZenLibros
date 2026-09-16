@@ -1,0 +1,1301 @@
+{
+ "serie": "mente_distinta",
+ "libro": "relaciones-a-otra-frecuencia",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "No necesitas que te entiendan del todo: necesitas que te crean.",
+   "es_literal": true,
+   "ancla": "Que alguien entienda cómo funciona tu cabeza por dentro es un lujo, tarda años y a veces no llega nunca.",
+   "temas": [
+    "confianza",
+    "comunicación",
+    "vínculos"
+   ],
+   "intensidad": 4,
+   "gancho": "La frase que sostiene el libro entero",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Introducción — Dos personas y una conversación que no encaja"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro no promete que los malentendidos se acaben. No se acaban. Lo que puede cambiar es otra cosa: lo rápido que los detectas, el tamaño del destrozo y a cuánta gente tienes que explicarte.",
+   "es_literal": false,
+   "ancla": "Y no promete que los malentendidos se acaben. No se acaban. Lo que puede cambiar es otra cosa: lo rápido que los detectas, el tamaño del destrozo, lo que se tarda en volver a estar bien y a cuánta gente tienes que explicarte.",
+   "temas": [
+    "expectativas",
+    "honestidad"
+   ],
+   "intensidad": 2,
+   "gancho": "Lo que el libro se niega a prometer, dicho en la primera página",
+   "formatos": [
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Introducción — Dos personas y una conversación que no encaja"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es que te entiendan: es que te crean. Entender es un trabajo que la otra persona hace por dentro y que puede no llegar nunca. Creer es una decisión, es barata y se toma en un segundo.",
+   "es_literal": false,
+   "ancla": "Entender es un trabajo que la otra persona tiene que hacer por dentro, y no depende del todo de su voluntad: puede querer con toda su alma y no llegar. Creer es una decisión, es barata y se toma en un segundo.",
+   "temas": [
+    "confianza",
+    "comunicación"
+   ],
+   "intensidad": 4,
+   "gancho": "Entender tarda años. Creer se decide en un segundo",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Introducción — Dos personas y una conversación que no encaja"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Las diez y media de un martes. Dos personas llevan cuatro minutos discutiendo por una cena que se cambió de sitio, y de pronto dicen a la vez, con la misma cara de agotamiento, la misma frase: «no, si ya me lo has dicho». Los dos tienen razón. Por eso la escena no tiene salida por ninguno de los dos lados.",
+   "es_literal": false,
+   "ancla": "Lo que viene después es siempre parecido: alguien dice «es que no me escuchas» y el otro dice «es que contigo no se puede contar», y las dos frases son injustas y las dos tienen un trozo de verdad dentro",
+   "temas": [
+    "pareja",
+    "discusiones",
+    "malentendidos"
+   ],
+   "intensidad": 4,
+   "gancho": "Los dos con razón y la discusión sin salida",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "cita"
+   ],
+   "capitulo": "Introducción — Dos personas y una conversación que no encaja"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cada petición que hagas la va a recibir alguien. Cada límite que pongas le cambia el plan a alguien. Cada aviso que pidas es trabajo que alguien tiene que hacer. En este libro siempre hay dos personas en la escena, y la otra no está para servir.",
+   "es_literal": false,
+   "ancla": "en este libro siempre hay dos personas en la escena, y la otra no está para servir.",
+   "temas": [
+    "límites",
+    "reciprocidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Cada herramienta de este libro cae encima de otra persona",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Introducción — Dos personas y una conversación que no encaja"
+  },
+  {
+   "tipo": "cita",
+   "texto": "no eres la única persona que está haciendo trabajo en esa conversación.",
+   "es_literal": true,
+   "ancla": "La primera mitad de esa versión es verdad. El esfuerzo existe, es grande y casi nadie lo ve. La segunda mitad —que los demás van sobre ruedas— es donde el mapa se equivoca",
+   "temas": [
+    "esfuerzo",
+    "comunicación"
+   ],
+   "intensidad": 4,
+   "gancho": "La mitad del mapa que casi siempre está mal",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1. Los dos estáis traduciendo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Cuando dos personas no comparten convenciones, el fallo no está dentro de ninguna de las dos. Está en el hueco.",
+   "es_literal": true,
+   "ancla": "Y si el fallo está en el hueco, se arregla en el hueco. Eso es lo único que me interesa de todo este párrafo.",
+   "temas": [
+    "malentendidos",
+    "convenciones"
+   ],
+   "intensidad": 4,
+   "gancho": "El fallo no está dentro de nadie: está en el hueco",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1. Los dos estáis traduciendo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Si los dos están traduciendo, la salida no es que uno aprenda el idioma del otro. Es pactar un tercer idioma, más explícito y más pobre que los dos: feo, sin matices, en el que las cosas se dicen enteras. No es el idioma nativo de nadie, y esa es su ventaja.",
+   "es_literal": false,
+   "ancla": "Un idioma feo, sin matices, en el que las cosas se dicen enteras. No es el idioma nativo de nadie, y eso es precisamente su ventaja: los dos lo hablan un poco mal",
+   "temas": [
+    "comunicación",
+    "acuerdos",
+    "pareja"
+   ],
+   "intensidad": 3,
+   "gancho": "Un idioma feo que los dos hablan mal",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 1. Los dos estáis traduciendo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy. 1) Elige un malentendido de la última semana, pequeño, ya cerrado y sin heridos. 2) Ve a la persona con la que pasó y hazle una sola pregunta: «¿tú qué entendiste?». 3) Escucha la respuesta entera sin corregirla y sin explicar lo que tú querías decir.",
+   "es_literal": false,
+   "ancla": "Elige un malentendido de la última semana, uno pequeño, ya cerrado y sin heridos. Ve a la persona con la que pasó y hazle una sola pregunta: «¿tú qué entendiste?».",
+   "temas": [
+    "malentendidos",
+    "práctica"
+   ],
+   "intensidad": 2,
+   "gancho": "Una sola pregunta para un malentendido ya cerrado",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1. Los dos estáis traduciendo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "cuando una cosa tiene nombre, deja de ser un defecto de carácter.",
+   "es_literal": true,
+   "ancla": "Mientras el asunto se llama «es que no sé estar con la gente» o «es que él nunca me hace caso», no hay nada que hacer con eso; es una condena.",
+   "temas": [
+    "vergüenza",
+    "nombrar"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que tiene nombre deja de ser un defecto de carácter",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2. Lo que se pierde por el camino"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Alguien llega a casa un jueves, dice hola, deja las llaves y no habla en veinte minutos: está esperando a que se le apague el ruido de dentro. Desde la cocina, ese silencio significa que pasa algo. A los cuarenta minutos hay una discusión de verdad, sobre la confianza, montada entera encima de veinte minutos que no querían decir nada.",
+   "es_literal": false,
+   "ancla": "Lo que se pierde por el camino es un dato pequeñísimo y decisivo: que en un idioma el silencio es un mensaje y en el otro es un descanso.",
+   "temas": [
+    "silencio",
+    "pareja",
+    "malentendidos"
+   ],
+   "intensidad": 4,
+   "gancho": "Veinte minutos de silencio y una discusión sobre la confianza",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2. Lo que se pierde por el camino"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es lo mismo un silencio de descanso que un silencio de castigo, aunque por fuera se parezcan. El de descanso se puede anunciar. El de castigo funciona precisamente porque no se anuncia.",
+   "es_literal": false,
+   "ancla": "El de descanso se puede anunciar: «voy a estar en silencio media hora, no es contigo». El de castigo funciona precisamente porque no se anuncia",
+   "temas": [
+    "silencio",
+    "límites",
+    "daño"
+   ],
+   "intensidad": 4,
+   "gancho": "Se parecen por fuera y no son lo mismo",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2. Lo que se pierde por el camino"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy. 1) La próxima vez que te pregunten «¿estás bien?», contesta con una frase de titular: «mal, pero nada grave», «bien, con lío». 2) Añade una sola pregunta: «¿te lo cuento entero?». 3) Luego haz lo que te digan.",
+   "es_literal": false,
+   "ancla": "contesta primero con una frase de titular —«mal, pero nada grave», «bien, con lío»— y añade una sola pregunta: «¿te lo cuento entero?». Y luego haz lo que te diga.",
+   "temas": [
+    "conversación",
+    "práctica"
+   ],
+   "intensidad": 2,
+   "gancho": "Titular primero, informe solo si lo piden",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2. Lo que se pierde por el camino"
+  },
+  {
+   "tipo": "cita",
+   "texto": "antes de explicar una conversación por cómo son los cerebros, comprueba si se explica por cómo fue el día.",
+   "es_literal": true,
+   "ancla": "Lo cuento porque la sala con el aire acondicionado se comprueba en una tarde, y el problema de fondo se comprueba en dos años.",
+   "temas": [
+    "deslinde",
+    "cansancio"
+   ],
+   "intensidad": 3,
+   "gancho": "La causa aburrida acierta más veces",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3. Lo que no es esto"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Poner una etiqueta a alguien te deja con una explicación completa y con cero opciones. Ya no tienes una persona con la que negociar una cosa concreta: tienes un ejemplar de una categoría, y con una categoría no se negocia nada.",
+   "es_literal": false,
+   "ancla": "Ya no tienes una persona con la que negociar una cosa concreta; tienes un ejemplar de una categoría. Y con una categoría no se negocia nada, porque la categoría no cambia.",
+   "temas": [
+    "etiquetas",
+    "conversación"
+   ],
+   "intensidad": 4,
+   "gancho": "La etiqueta lo explica todo y no deja nada que pedir",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3. Lo que no es esto"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No «mi madre es así», sino «cada vez que hablamos de mudarme, cambia de tema o se pone a llorar». Una conducta se puede comprobar, tiene fecha y se puede pedir que cambie. Una identidad no.",
+   "es_literal": false,
+   "ancla": "No «mi madre es así», sino «cada vez que hablamos de mudarme, cambia de tema o se pone a llorar». No «no le importo», sino «he propuesto tres planes en dos meses y no ha contestado a ninguno».",
+   "temas": [
+    "etiquetas",
+    "familia",
+    "precisión"
+   ],
+   "intensidad": 4,
+   "gancho": "Conductas con fecha en vez de etiquetas",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3. Lo que no es esto"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "A veces no hay malentendido, ni cansancio, ni convenciones distintas: es que a la otra persona no le interesa. Y eso no convierte a nadie en mala persona. Poder decirlo es un acto de precisión.",
+   "es_literal": false,
+   "ancla": "Reconocerlo escuece un día. Buscar explicaciones amables durante dos años escuece dos años, y encima gasta muchísima energía en convencer a alguien que no quería ser convencido.",
+   "temas": [
+    "amistades",
+    "honestidad",
+    "deslinde"
+   ],
+   "intensidad": 4,
+   "gancho": "La parte que casi ningún libro del género escribe",
+   "formatos": [
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3. Lo que no es esto"
+  },
+  {
+   "tipo": "cita",
+   "texto": "se puede pedir mucho, no se puede pedir todo.",
+   "es_literal": true,
+   "ancla": "Engancha porque mucha gente que llega hasta aquí ha pasado años sin pedir nada, disculpándose por ocupar sitio, y la primera vez que alguien le dice «tienes derecho a que te tengan en cuenta» siente un alivio enorme.",
+   "temas": [
+    "peticiones",
+    "límites"
+   ],
+   "intensidad": 4,
+   "gancho": "El pilar del libro, dicho en el capítulo cuatro",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4. El otro no es personal de apoyo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "«Si te quisiera de verdad, se adaptaría» no es amor: es una vara de medir. En cuanto adaptarse es la prueba del amor, un «hoy no tengo cuerpo para eso» pasa a ser una confesión y un «lo intento pero se me olvida» pasa a ser una excusa.",
+   "es_literal": false,
+   "ancla": "Porque en cuanto adaptarse es la prueba del amor, la aritmética queda montada así: cada adaptación que la otra persona haga demuestra que te quiere, y cada vez que no pueda demuestra que no.",
+   "temas": [
+    "pareja",
+    "peticiones",
+    "tópicos"
+   ],
+   "intensidad": 5,
+   "gancho": "La frase bonita que convierte a alguien en un servicio",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4. El otro no es personal de apoyo"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Podría cumplirlo alguien que hoy está fatal y que no entiende nada de lo tuyo? Si la respuesta es sí, estás pidiendo un ajuste. Si para cumplirlo hace falta que la otra persona esté fina, atenta y de buen humor, estás pidiendo una buena racha. Y las buenas rachas no se piden.",
+   "es_literal": false,
+   "ancla": "¿podría cumplirlo alguien que hoy está fatal y que no entiende nada de lo tuyo?",
+   "temas": [
+    "peticiones",
+    "criterio"
+   ],
+   "intensidad": 3,
+   "gancho": "El criterio de diez segundos antes de pedir",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4. El otro no es personal de apoyo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay una asimetría real: tú traduces en todos los sitios y la otra persona traduce en uno. De ahí no se deduce que su cansancio no llegue al mínimo para mencionarse. Un cansancio no vale menos por no tener explicación técnica.",
+   "es_literal": false,
+   "ancla": "No. Un cansancio no vale menos por no tener explicación técnica. La persona que lleva la agenda de los dos, que hace las llamadas que a ti se te atragantan, que va traduciendo tus silencios delante de su familia y que se ha comido tres cambios de plan esta semana está haciendo trabajo, y ese trabajo se agota.",
+   "temas": [
+    "pareja",
+    "cansancio",
+    "reciprocidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Su cansancio cuenta igual que el tuyo",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4. El otro no es personal de apoyo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "no hace falta que nadie entienda cómo funciona tu cabeza para pasarte el plan por escrito.",
+   "es_literal": true,
+   "ancla": "Puedes tener a alguien que ha entendido perfectamente cómo funcionas y que no cambia nada, porque entender no era lo que le hacía falta para cambiarlo: le hacía falta que le dijeras qué.",
+   "temas": [
+    "peticiones",
+    "comunicación"
+   ],
+   "intensidad": 4,
+   "gancho": "La comprensión no es el paso previo a la concesión",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5. Pide cosas, no comprensión"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Alguien prepara durante una semana la conversación con su hermana sobre las comidas familiares. Habla cuarenta minutos. La escuchan, le dicen dos veces «ya, te entiendo» y le ponen la mano en el brazo. En la comida siguiente está todo exactamente igual, y entonces cae la cuenta: en cuarenta minutos no había pedido absolutamente nada.",
+   "es_literal": false,
+   "ancla": "En la comida siguiente estaba todo exactamente igual. Catorce personas, tres conversaciones, hora y media, ruido.",
+   "temas": [
+    "familia",
+    "peticiones",
+    "comidas"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuarenta minutos explicando y ni una sola petición",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5. Pide cosas, no comprensión"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Tres condiciones para mirar una petición antes de soltarla. 1) Está en su mano: depende de algo que esa persona puede hacer. 2) Cabe en un día malo suyo, no en su mejor día. 3) Se sabe si ha pasado, sin interpretar y sin deducirlo del tono.",
+   "es_literal": false,
+   "ancla": "Si tu petición solo se cumple cuando la otra persona está descansada, con tiempo y de buenas, no es una petición: es una condición de vida.",
+   "temas": [
+    "peticiones",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres condiciones para que una petición aguante",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5. Pide cosas, no comprensión"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El número de peticiones simultáneas cuenta. Tres peticiones vivas con la misma persona no son tres peticiones: son un régimen. Una regla tosca: una petición viva por persona, y la siguiente entra cuando la primera funciona sola.",
+   "es_literal": false,
+   "ancla": "Tres peticiones vivas con la misma persona no son tres peticiones: son un régimen.",
+   "temas": [
+    "peticiones",
+    "pareja",
+    "amistades"
+   ],
+   "intensidad": 3,
+   "gancho": "Una petición viva por persona",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5. Pide cosas, no comprensión"
+  },
+  {
+   "tipo": "cita",
+   "texto": "si una frase no la diría nadie en una cocina a las diez de la noche, no vale.",
+   "es_literal": true,
+   "ancla": "Si para soltarla hay que sentarse los dos, apagar la tele y adoptar un tono especial, ya se ha convertido en una ceremonia, y las ceremonias no se sostienen. Lo que se sostiene se dice de pasada, mientras se recoge la mesa.",
+   "temas": [
+    "comunicación",
+    "guiones"
+   ],
+   "intensidad": 3,
+   "gancho": "El criterio de la cocina a las diez de la noche",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6. Instrucciones claras sin sonar a manual"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Pedir claridad no autoriza a hablarle a nadie como a un electrodoméstico. La claridad tiene que ver con que el contenido no haya que descifrarlo; la sequedad, con que el otro note que le hablas como quien rellena un impreso.",
+   "es_literal": false,
+   "ancla": "La claridad tiene que ver con que el contenido no haya que descifrarlo. La sequedad tiene que ver con que la otra persona note que le hablas como quien rellena un impreso.",
+   "temas": [
+    "claridad",
+    "cortesía"
+   ],
+   "intensidad": 4,
+   "gancho": "Claro y seco no son la misma cosa",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6. Instrucciones claras sin sonar a manual"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando alguien te da una instrucción clara, dos movimientos. 1) Acuse de recibo corto: «vale, apuntado», sin disculpa larga ni justificación. 2) Una pregunta operativa, solo si de verdad no lo has entendido: «¿avisarte el mismo día vale o mejor antes?». Y nada de prometer para siempre.",
+   "es_literal": false,
+   "ancla": "«Vale, apuntado.» «Ah, vale, no lo sabía.» «Perfecto, te aviso.» Nada más. Sin disculpa larga, sin justificarse, sin explicar por qué lo hacías antes.",
+   "temas": [
+    "claridad",
+    "práctica",
+    "rechazo"
+   ],
+   "intensidad": 3,
+   "gancho": "Dos movimientos para recibir una preferencia ajena",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6. Instrucciones claras sin sonar a manual"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "«¿Esto es de ahora o llevabas tiempo?» Es una pregunta corta y se puede hacer una vez. Porque cuando una frase de siete palabras te está dando información sobre los últimos cuatro años, casi seguro que la mitad la has puesto tú.",
+   "es_literal": false,
+   "ancla": "Cuando notes que una frase de siete palabras te está dando información sobre los últimos cuatro años, casi seguro que la mitad la has puesto tú.",
+   "temas": [
+    "rechazo",
+    "conversación"
+   ],
+   "intensidad": 4,
+   "gancho": "Una preferencia ajena llega con el volumen de un reproche",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6. Instrucciones claras sin sonar a manual"
+  },
+  {
+   "tipo": "cita",
+   "texto": "un límite se avisa antes, no se aplica después.",
+   "es_literal": true,
+   "ancla": "«Me voy sobre las cinco» dicho a la una, cuando estás bien, suena a nada. Dicho a las cinco, cuando ya no puedes más, suena a bronca.",
+   "temas": [
+    "límites",
+    "previsibilidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Avisado a la una suena a nada; a las cinco suena a bronca",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7. Los límites que se sostienen"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Un límite es una frase con consecuencias para dos personas. Aquí no se vende que si lo pones bien no cuesta nada: de cada límite se dice qué se gana y qué se paga, porque las dos cosas son verdad.",
+   "es_literal": false,
+   "ancla": "Poner límites tiene un precio, el precio a veces vale la pena y a veces no, y decidir eso es tuyo. Lo que no puede hacer un libro es venderte que si lo haces bien no cuesta nada.",
+   "temas": [
+    "límites",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Ningún límite de este libro sale gratis",
+   "formatos": [
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7. Los límites que se sostienen"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Irse es un límite. Desaparecer no lo es. Irse tiene principio y fin, y la otra persona sabe dónde estás; desaparecer deja a alguien cinco días haciendo cábalas, y las cábalas casi nunca son amables consigo mismas.",
+   "es_literal": false,
+   "ancla": "Irse tiene principio y fin, y la otra persona sabe dónde está. Desaparecer es apagar el móvil un jueves y volver un martes sin decir nada, y desde fuera es indistinguible de un castigo, de una crisis o de un abandono.",
+   "temas": [
+    "límites",
+    "amistades",
+    "silencio"
+   ],
+   "intensidad": 4,
+   "gancho": "Irse tiene fecha; desaparecer deja un agujero",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7. Los límites que se sostienen"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un límite solo dice lo que no hay; añádele una línea de lo que sí hay. 1) Di el límite: «a las once me voy». 2) Añade el qué sí: «pero vengo a comer si quieres». 3) Si lo que cierras es un canal, ofrece el otro: «por teléfono no puedo, escríbeme y te contesto seguro».",
+   "es_literal": false,
+   "ancla": "Un límite solo dice lo que no hay. Añadirle una línea de lo que sí hay cambia por completo cómo aterriza.",
+   "temas": [
+    "límites",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Di también qué sí queda cuando pones un límite",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7. Los límites que se sostienen"
+  },
+  {
+   "tipo": "cita",
+   "texto": "la intención no borra el impacto, y el impacto tampoco borra la intención.",
+   "es_literal": true,
+   "ancla": "Y hay un orden que importa. Primero el impacto, después la intención. No por educación, sino porque quien se ha llevado el golpe necesita saber que lo has visto antes de poder oír nada más.",
+   "temas": [
+    "reparación",
+    "disculpas"
+   ],
+   "intensidad": 4,
+   "gancho": "Las dos son verdad a la vez y no hay que elegir",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8. Cuando el malentendido ya ha pasado"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Una disculpa en tres partes. 1) Di qué pasó, con los hechos como los cuenta la otra persona, sin interpretar. 2) Di que no lo viste venir, sin usarlo de escudo: «no sé por qué te ha dolido, y me lo creo». 3) Pregunta una sola cosa, pequeña, que puedas hacer distinto la próxima vez.",
+   "es_literal": false,
+   "ancla": "«Dije que tu trabajo no tenía complicaciones y lo dije delante de tus amigos.» Sin interpretar, sin añadir tu lectura, sin explicar el contexto todavía. Esta parte es la que más se salta y la que más hace.",
+   "temas": [
+    "disculpas",
+    "reparación",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Cómo se pide perdón por algo que no viste venir",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8. Cuando el malentendido ya ha pasado"
+  },
+  {
+   "tipo": "cita",
+   "texto": "«No sé qué ha sido, pero algo me ha dejado mal cuerpo. Ya te digo cuando lo sepa.»",
+   "es_literal": true,
+   "ancla": "Suena a poco y hace bastante. Deja constancia de que existe algo, no acusa de nada porque no puede, y no te obliga a tener una explicación en un momento en el que no la tienes.",
+   "temas": [
+    "reparación",
+    "pareja",
+    "claridad"
+   ],
+   "intensidad": 3,
+   "gancho": "La frase para cuando algo te ha dolido y no sabes qué",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8. Cuando el malentendido ya ha pasado"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "No todo hay que procesarlo. Hay comentarios que escuecen tres horas y se van solos. Si mañana ya no te importa, ya no importaba: la conversación es para lo que sigue ahí a las cuarenta y ocho horas.",
+   "es_literal": false,
+   "ancla": "Hay comentarios que escuecen tres horas y se van solos. Convertir cada roce en una conversación es una manera segura de agotar a las dos personas y de que a los seis meses nadie se atreva a decir nada por miedo a la reunión posterior.",
+   "temas": [
+    "reparación",
+    "honestidad",
+    "pareja"
+   ],
+   "intensidad": 3,
+   "gancho": "Si mañana ya no te importa, ya no importaba",
+   "formatos": [
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8. Cuando el malentendido ya ha pasado"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "En una casa hay dos repartos. Uno es el visible: lavadoras, compra, basura. El otro es el de acordarse, y no se ve: alguien lleva la agenda de los dos y hace de sistema de alarma de la casa. Eso pesa raro, porque no se puede señalar.",
+   "es_literal": false,
+   "ancla": "Alguien tiene en la cabeza que el seguro del coche vence en octubre, que a la sobrina hay que comprarle un regalo antes del sábado, que el bote del lavavajillas está en la última pastilla",
+   "temas": [
+    "pareja",
+    "carga mental",
+    "convivencia"
+   ],
+   "intensidad": 4,
+   "gancho": "El reparto que no se ve: quién se acuerda",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 9. La pareja"
+  },
+  {
+   "tipo": "cita",
+   "texto": "quien lleva la agenda de los dos no está haciendo ningún sacrificio heroico, y quien no la lleva no es un desastre.",
+   "es_literal": true,
+   "ancla": "no le está quitando una tarea de encima: le está pasando una tarea y quedándose con la de comprobar que se ha hecho. Y comprobar es lo que agota, porque comprobar significa que la cosa sigue viviendo en tu cabeza.",
+   "temas": [
+    "pareja",
+    "carga mental"
+   ],
+   "intensidad": 4,
+   "gancho": "Delegar también es trabajo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9. La pareja"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El termostato, el ruido de los cajones y la hora de dormir no son problemas de amor: son problemas de logística, y conviene tratarlos como logística. La pregunta que los devuelve a su sitio es aburrida: qué cosa concreta hace ruido, a qué hora, y qué se puede poner en medio.",
+   "es_literal": false,
+   "ancla": "El día que el ruido de los cajones deja de ser «no te importa cómo me siento» y pasa a ser «los cajones hacen ruido, vamos a ver qué hacemos con los cajones», la casa baja de temperatura.",
+   "temas": [
+    "convivencia",
+    "ruido",
+    "pareja"
+   ],
+   "intensidad": 3,
+   "gancho": "Los cajones hacen ruido: eso es lo que se discute",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9. La pareja"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro no dice si seguir o no seguir. No sabe nada de tu casa, ni cuánto queda, ni qué se ha intentado. Y quien te prometa una respuesta a eso desde una página impresa te está vendiendo algo.",
+   "es_literal": false,
+   "ancla": "Hay parejas que encuentran la manera. Hay parejas que la buscan durante años y no la encuentran. Y hay parejas que se separan queriéndose todavía, porque el desgaste diario no se arregla con cariño.",
+   "temas": [
+    "pareja",
+    "honestidad",
+    "límites del libro"
+   ],
+   "intensidad": 4,
+   "gancho": "La pregunta que no se contesta en un libro",
+   "formatos": [
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9. La pareja"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Las amistades no se rompen. Se dejan de contestar.",
+   "es_literal": true,
+   "ancla": "Luego pasaron cuatro días y ya había que disculparse, así que era peor. Luego dos semanas, y ya había que explicar dos semanas. Al mes, contestar se había convertido en una tarea grande, con introducción y justificación.",
+   "temas": [
+    "amistades",
+    "silencio"
+   ],
+   "intensidad": 5,
+   "gancho": "No hubo bronca: hubo un mensaje sin contestar",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10. Las amistades"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Contestar el mensaje de alguien que importa exige decidir el tono, calcular cuánto se cuenta, acordarse de lo último que pasó en su vida y explicar de alguna forma los cuatro meses de silencio. Eso no es un mensaje: es una redacción con contexto histórico.",
+   "es_literal": false,
+   "ancla": "Eso no es un mensaje. Es una redacción con contexto histórico. Y como es una redacción, se aparta para «cuando tenga un rato», y ese rato no existe.",
+   "temas": [
+    "amistades",
+    "mensajes",
+    "latencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Por qué el mensaje que más importa es el que más tarda",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 10. Las amistades"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Una amistad de dos encuentros al año no es una amistad deteriorada: es de baja frecuencia y alta fidelidad. Se reconoce por una señal muy concreta: al volver a veros no hay peaje, nadie cobra el silencio a la entrada.",
+   "es_literal": false,
+   "ancla": "Se reconoce por una señal muy concreta: cuando os volvéis a ver, no hay peaje. Nadie cobra el silencio a la entrada.",
+   "temas": [
+    "amistades",
+    "frecuencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Baja frecuencia no es poca lealtad",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10. Las amistades"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando venga la temporada en que desapareces, el aviso va delante. 1) Dos líneas, sin diagnóstico y sin memoria justificativa: «voy a estar unas semanas fuera del mapa, no es por nada tuyo. Vuelvo». 2) Se manda a tres o cuatro personas, no a treinta. 3) Se manda antes de tocar fondo, porque con la cueva cerrada ya no se escribe nada.",
+   "es_literal": false,
+   "ancla": "«Voy a estar unas semanas fuera del mapa, no es por nada tuyo. Vuelvo.»",
+   "temas": [
+    "amistades",
+    "límites",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "El aviso delante es información; después es disculpa",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10. Las amistades"
+  },
+  {
+   "tipo": "cita",
+   "texto": "se piden conductas, no se piden conversiones.",
+   "es_literal": true,
+   "ancla": "Tu tío puede seguir pensando que todo esto son modas de ahora y, aun así, mandarte la dirección por escrito.",
+   "temas": [
+    "familia",
+    "peticiones"
+   ],
+   "intensidad": 4,
+   "gancho": "Conductas, no conversiones",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11. La familia de origen"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Tu familia te conoció antes de que hubiera palabras para esto, y la explicación que se hizo de ti no se actualiza sola. Por eso repetir la información con más datos y más paciencia no la mueve: la conversación que crees que estás teniendo es otra conversación.",
+   "es_literal": false,
+   "ancla": "Cuando alguien de tu familia rechaza esa información, muchas veces no está rechazándote a ti. Está defendiéndose de una implicación que ha oído y que tú no has dicho: que lo hizo mal.",
+   "temas": [
+    "familia",
+    "explicarse"
+   ],
+   "intensidad": 4,
+   "gancho": "La explicación sobre ti se hizo hace cuarenta años",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11. La familia de origen"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Tres cosas de logística para la comida familiar. 1) Decide la hora de salida antes de entrar y dila al llegar: «me tengo que ir a las cinco». 2) Sal de la mesa a mitad: diez minutos en el balcón, en el pasillo, fregando algo. 3) Elige de antemano una sola cosa que hoy no se va a discutir.",
+   "es_literal": false,
+   "ancla": "Se decide la hora de salida antes de entrar, y se dice al llegar. «Me tengo que ir a las cinco.» Dicho al principio es un dato; dicho a las cinco es un abandono.",
+   "temas": [
+    "familia",
+    "comidas",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres cosas de logística para la comida del domingo",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11. La familia de origen"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Hay gente en tu familia que no lo va a aceptar nunca. Aquí no se propone una conversación reparadora, ni que nadie pida disculpas, ni se dice si cortar o no cortar. Lo que se propone es retirar la energía de ahí y reducir la exposición en dosis reales.",
+   "es_literal": false,
+   "ancla": "Hay gente en tu familia que no lo va a aceptar nunca. No dentro de dos años, no cuando lea algo, no cuando encuentres la manera de explicárselo mejor. Nunca.",
+   "temas": [
+    "familia",
+    "honestidad",
+    "expectativas"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que este libro no te va a proponer con tu familia",
+   "formatos": [
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11. La familia de origen"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No hay que caer bien. No hay que conseguir que nadie te entienda. No hay que dejar buena impresión. Hay que salir del ascensor sin haber empeorado nada.",
+   "es_literal": true,
+   "ancla": "Deja de tener sentido preocuparse por si tu vecina cree que le caes mal, porque tu vecina no necesita tener una opinión ajustada sobre ti: necesita saber que la saludas y que puede contar contigo si se le inunda el baño.",
+   "temas": [
+    "vecinos",
+    "trabajo",
+    "objetivo"
+   ],
+   "intensidad": 4,
+   "gancho": "En el ascensor el objetivo no es caer bien",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12. Los vínculos que no se eligen"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Ten preparado de antemano lo que vas a hacer en los cuatro o cinco encuentros que se repiten cada semana. 1) Para el ascensor: saludo, fórmula neutra y la salida incluida desde el principio. 2) Para quien te cuenta lo suyo siete minutos: una frase de cierre elegida antes. 3) Para el compañero que se apoya en tu mesa: «dame diez minutos y soy contigo».",
+   "es_literal": false,
+   "ancla": "«Buenas. Vaya semanita, ¿eh? Voy con retraso, hasta luego.» Se puede decir con el depósito a cero y no hay que improvisar nada.",
+   "temas": [
+    "vecinos",
+    "trabajo",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Dos frases y una salida, preparadas antes",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12. Los vínculos que no se eligen"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Renunciar a que te entienda la vecina del cuarto no es rendirse: es recuperar la energía que estabas gastando en un proyecto imposible. Y conviene no olvidar la otra mitad: en el ascensor hay dos personas, y la otra tampoco te eligió.",
+   "es_literal": false,
+   "ancla": "El presupuesto es uno. Lo que gastas en que te entiendan quince conocidos no está disponible para los cuatro vínculos que te importan.",
+   "temas": [
+    "vecinos",
+    "energía",
+    "reciprocidad"
+   ],
+   "intensidad": 4,
+   "gancho": "El presupuesto es uno y se gasta donde importa",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12. Los vínculos que no se eligen"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una comida a las doce, en un local con la luz suficiente y la música apagada, con gente que se junta a hablar de una cosa muy concreta. A las dos y veinte alguien dice «me voy» y se va, y nadie pregunta por qué tan pronto ni pone la cara. A las cinco de la tarde cae la cuenta: no ha habido nada que repasar.",
+   "es_literal": false,
+   "ancla": "Aquel domingo se dio cuenta a las cinco de la tarde de que no había repasado nada, y que no había nada que repasar.",
+   "temas": [
+    "comunidad",
+    "descanso"
+   ],
+   "intensidad": 4,
+   "gancho": "La tarde en que no hubo nada que repasar",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 13. Ni traducción permanente ni solo los que te entienden"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El sitio donde no hay que traducir arregla una cosa concreta: la prueba de que la fricción no vive dentro de ti como una avería fija. No arregla la vida entera. Es un sitio donde descansas y un mapa donde vives, y no son el mismo sitio.",
+   "es_literal": false,
+   "ancla": "Ese grupo de los domingos no te va a acompañar al médico, ni va a estar en la cena de Navidad, ni va a firmar contigo el alquiler, ni va a ser el padre de tus hijos",
+   "temas": [
+    "comunidad",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Un sitio donde descansas y un mapa donde vives",
+   "formatos": [
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13. Ni traducción permanente ni solo los que te entienden"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Reducir por descanso no es lo mismo que mudarse. El descanso tiene una vuelta prevista, aunque sea vaga; la mudanza no se decide, se instala. La pregunta útil no es «¿tengo pocos vínculos?», sino «¿esto lo he decidido o lo he dejado pasar?».",
+   "es_literal": false,
+   "ancla": "El descanso tiene una vuelta prevista, aunque sea vaga: «este invierno no, en primavera vuelvo a mirar». La mudanza no la tiene: no se decide, se instala.",
+   "temas": [
+    "aislamiento",
+    "descanso",
+    "decisiones"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Esto lo he decidido o lo he dejado pasar?",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13. Ni traducción permanente ni solo los que te entienden"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Aquí no se escribe que la gente como tú quiera más, sienta más hondo o sea más leal que los demás. No se puede saber. Y además es exactamente el movimiento que se ha hecho contra ti toda la vida, solo que cambiado de asiento.",
+   "es_literal": false,
+   "ancla": "Nadie tiene acceso a cómo quiere otra persona. Yo no sé cómo quiere mi vecino a su mujer, ni con qué intensidad, ni qué nota él en una habitación y qué no.",
+   "temas": [
+    "honestidad",
+    "comparaciones"
+   ],
+   "intensidad": 4,
+   "gancho": "La frase halagadora que este capítulo no escribe",
+   "formatos": [
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14. Lo que se gana, sin inflarlo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Se puede reconocer lo que se gana y a la vez decir que lo que cuesta es mucho, y las dos frases no se anulan.",
+   "es_literal": true,
+   "ancla": "Lo que se puede contestar es corto y no es una bronca: «ya lo sé, y hoy no me sirve». Con eso normalmente basta.",
+   "temas": [
+    "honestidad",
+    "familia",
+    "consuelo"
+   ],
+   "intensidad": 4,
+   "gancho": "No hay balanza, y las dos frases no se anulan",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14. Lo que se gana, sin inflarlo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La franqueza dicha sin cuidado hace daño, y la salida no es dejar de ser franco. 1) Elige el sitio: a solas casi siempre es información, delante de gente casi siempre es una exposición. 2) Elige el tamaño: decir la verdad no es decirla toda. 3) Pregunta si se quería: «¿quieres mi opinión de verdad o quieres contármelo?».",
+   "es_literal": false,
+   "ancla": "«¿Quieres mi opinión de verdad o quieres contármelo?» son ocho palabras y ahorran discusiones enteras.",
+   "temas": [
+    "franqueza",
+    "cuidado",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres cosas antes de decir una verdad que nadie pidió",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14. Lo que se gana, sin inflarlo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que distingue no es el volumen. Es si hay alguien administrando la vida del otro.",
+   "es_literal": true,
+   "ancla": "Y puede haber una casa muy tranquila, sin un grito, donde una persona no tiene acceso a su dinero y calcula cada frase antes de decirla.",
+   "temas": [
+    "daño",
+    "deslinde"
+   ],
+   "intensidad": 5,
+   "gancho": "El daño no es fricción en cantidad grande",
+   "formatos": [
+    "cita",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15. Cuándo esto ya no es un malentendido"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro no dice si dejar una relación. Y tampoco dice lo contrario: que aguantes, que lo intentes un año más, que con paciencia y buena comunicación esto se arregla. Lo que hay es información, unos números y una conversación que se tiene con personas.",
+   "es_literal": false,
+   "ancla": "No sé cómo es tu casa. No sé si hay niños, ni si tienes dónde ir, ni si hay dinero, ni cuánta gente tienes alrededor, ni si estás en un sitio donde salir es peligroso.",
+   "temas": [
+    "daño",
+    "honestidad",
+    "decisiones"
+   ],
+   "intensidad": 5,
+   "gancho": "Ni te dice que te vayas ni te dice que aguantes",
+   "formatos": [
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15. Cuándo esto ya no es un malentendido"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El capítulo va en las dos direcciones, también si quien hace algo de esa lista eres tú. Funcionar de otra manera explica que te desborde una discusión; no explica el control ni el miedo, que tienen dirección y mantenimiento. Y la conducta se para antes de entenderla.",
+   "es_literal": false,
+   "ancla": "la conducta se para antes de entenderla. No hace falta saber de dónde viene para dejar de mirar un móvil esta noche. Primero se para, y luego se trabaja.",
+   "temas": [
+    "daño",
+    "responsabilidad"
+   ],
+   "intensidad": 5,
+   "gancho": "Primero se para la conducta, luego se entiende",
+   "formatos": [
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15. Cuándo esto ya no es un malentendido"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Esa es la diferencia real entre «me has entendido mal» y «tú nunca me escuchas». La segunda no es un malentendido: es un malentendido con tres días de intereses.",
+   "es_literal": true,
+   "ancla": "Un malentendido detectado a los veinte minutos ocupa veinte minutos. Detectado a los tres días, ha tenido tiempo de convertirse en una conversación sobre quién es cada uno.",
+   "temas": [
+    "malentendidos",
+    "discusiones"
+   ],
+   "intensidad": 4,
+   "gancho": "Un malentendido con tres días de intereses",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16. Vínculos que aguantan la verdad"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Los malentendidos no se acaban. Lo que cambia es otra cosa: se detectan antes, el destrozo es más pequeño, se tarda menos en cerrar y baja mucho el número de personas a las que hay que explicarse. Casi nadie necesita entenderte: necesita una instrucción.",
+   "es_literal": false,
+   "ancla": "No porque los demás lo hayan entendido, sino porque se descubre que casi nadie necesita entenderlo: necesita una instrucción.",
+   "temas": [
+    "malentendidos",
+    "expectativas"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuatro cosas que cambian, y la frecuencia no es una",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16. Vínculos que aguantan la verdad"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Lo que no cambia también se dice: la cara neutra se seguirá leyendo mal, el silencio seguirá pareciendo enfado a mucha gente y el cansancio después de un día social se queda. Se puede avisar por adelantado; no se puede corregir.",
+   "es_literal": false,
+   "ancla": "La cara neutra se seguirá leyendo mal. Es información que sale de ti sin que la controles y que otras personas interpretan con su propio manual; se puede avisar, no se puede corregir.",
+   "temas": [
+    "expectativas",
+    "honestidad",
+    "cara neutra"
+   ],
+   "intensidad": 3,
+   "gancho": "La lista de lo que no se arregla, también dicha",
+   "formatos": [
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16. Vínculos que aguantan la verdad"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy. 1) Acuerda con la persona con la que más te pasa una palabra corta para decir «creo que nos estamos malentendiendo»: «espera», «pausa», la que sea. 2) Que la sepáis los dos. 3) Si le parece una tontería y dice que no, la palabra sirve igual dicha por uno solo.",
+   "es_literal": false,
+   "ancla": "Acuerda hoy con la persona con la que más te pasa una palabra corta para decir «creo que nos estamos malentendiendo»: «espera», «pausa», lo que sea.",
+   "temas": [
+    "pareja",
+    "malentendidos",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Una palabra corta para parar un malentendido a tiempo",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16. Vínculos que aguantan la verdad"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Eso es lo que este libro puede ofrecer. No que os entendáis. Que el malentendido deje de ser una prueba contra alguien.",
+   "es_literal": true,
+   "ancla": "El problema era otra cosa: que cada malentendido se convertía en un juicio sobre si dices la verdad.",
+   "temas": [
+    "malentendidos",
+    "confianza"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que el libro puede ofrecer, dicho sin inflarlo",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Cierre — Que te crean"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Que te crean cuando dices que no lo oíste, que no lo dijiste con esa intención, que a las once ya no puedes. Y creer tú a la otra persona cuando dice que lo dijo, o que hoy no puede con una conversación difícil. Un acuerdo que solo funciona en una dirección no es un acuerdo.",
+   "es_literal": false,
+   "ancla": "Un acuerdo que solo funciona en una dirección no es un acuerdo; es una factura que alguien paga hasta que se cansa.",
+   "temas": [
+    "confianza",
+    "reciprocidad",
+    "pareja"
+   ],
+   "intensidad": 5,
+   "gancho": "Que te crean, y creer tú también",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Cierre — Que te crean"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Cuando los dos tienen razón no hay nada que ganar, y la discusión parece no tener salida. Tiene una, y es rara al principio: dejarla sin resolver y arreglar lo práctico. No hace falta saber quién falló para escribir la hora del sábado donde los dos la vean.",
+   "es_literal": false,
+   "ancla": "Tiene una, y es rara al principio: dejarla sin resolver y arreglar lo práctico. No hace falta saber quién falló para escribir la hora del sábado en algún sitio donde los dos la vean.",
+   "temas": [
+    "discusiones",
+    "pareja",
+    "acuerdos"
+   ],
+   "intensidad": 4,
+   "gancho": "Dejarla sin resolver y arreglar lo práctico",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Cierre — Que te crean"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "«¿Qué querías que pasara y no llegaste a pedir?» Es una de las doce preguntas para el rato de después de una discusión. No sirven para decidir quién tenía razón: si las estás usando para montar el caso contra alguien, has cambiado de herramienta sin darte cuenta.",
+   "es_literal": false,
+   "ancla": "Doce preguntas cortas para el rato de después, cuando todavía te tiembla algo. Cada una se contesta con una frase. No hace falta bolígrafo y no hace falta calma: están pensadas para un día ya malo y para justo después de la bronca.",
+   "temas": [
+    "discusiones",
+    "anexos"
+   ],
+   "intensidad": 3,
+   "gancho": "Una pregunta para el rato de después de la bronca",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Anexos · 12 preguntas para después de una discusión, sin castigarte"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Nota de enfoque: aquí no se diagnostica a nadie del entorno, no hay terapias recomendadas ni desaconsejadas, ninguna lista se puntúa y no se dice si dejar o no dejar una relación. Y ninguna herramienta vale siempre: la que hoy te salva la conversación mañana te da vergüenza, y eso no es un fallo tuyo.",
+   "es_literal": false,
+   "ancla": "la que hoy te salva la conversación mañana te da vergüenza, y eso no es un fallo tuyo.",
+   "temas": [
+    "honestidad",
+    "anexos",
+    "enfoque"
+   ],
+   "intensidad": 2,
+   "gancho": "Lo que el libro dice, con todas las letras, que no hace",
+   "formatos": [
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Anexos · Nota de enfoque"
+  }
+ ]
+}

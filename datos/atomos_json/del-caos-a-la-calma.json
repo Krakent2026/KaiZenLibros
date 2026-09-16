@@ -1,0 +1,1276 @@
+{
+ "serie": "mente_distinta",
+ "libro": "del-caos-a-la-calma",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "Lo llamativo es la desproporción entre el tamaño del estímulo y el tamaño de lo que movió: cuatro letras desmontaron cinco horas.",
+   "es_literal": true,
+   "ancla": "Lo llamativo es la desproporción entre el tamaño del estímulo y el tamaño de lo que movió: cuatro letras desmontaron cinco horas.",
+   "temas": [
+    "desproporcion",
+    "rechazo",
+    "mensajes"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuatro letras que desmontan cinco horas",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — De cero a cien sin escalones"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No se trata de sentir menos, sino de que lo que sientes no decida por ti.",
+   "es_literal": true,
+   "ancla": "No se trata de sentir menos, sino de que lo que sientes no decida por ti.",
+   "temas": [
+    "emociones",
+    "decisiones"
+   ],
+   "intensidad": 3,
+   "gancho": "La frase que sostiene el libro entero",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Introducción — De cero a cien sin escalones"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Aquí no hay ninguna técnica que baje la intensidad a la mitad ni un programa de cuatro semanas. El libro lo dice de entrada: prometer planicie sería mentir.",
+   "es_literal": false,
+   "ancla": "No existe aquí ninguna técnica que baje la intensidad a la mitad, ni un ejercicio de cuatro semanas que te deje sintiendo las cosas con la moderación de un termostato.",
+   "temas": [
+    "expectativas",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que este libro se niega a prometer",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Introducción — De cero a cien sin escalones"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es una excusa: es una explicación. Entender de dónde viene un grito no lo convierte en aceptable para quien lo recibió, y la reparación sigue siendo entera.",
+   "es_literal": false,
+   "ancla": "Entender de dónde viene un grito no lo convierte en aceptable para quien lo recibió.",
+   "temas": [
+    "responsabilidad",
+    "reparacion"
+   ],
+   "intensidad": 4,
+   "gancho": "Explicar no es excusar",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Introducción — De cero a cien sin escalones"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Giras un poco y estás en dos. Giras un milímetro más y estás en ocho. No has pasado por el cuatro. Nadie ha pasado por el cuatro. El cuatro es un sitio del que has oído hablar.",
+   "es_literal": true,
+   "ancla": "Giras un poco y estás en dos. Giras un milímetro más y estás en ocho. No has pasado por el cuatro. Nadie ha pasado por el cuatro. El cuatro es un sitio del que has oído hablar.",
+   "temas": [
+    "intensidad",
+    "escalon"
+   ],
+   "intensidad": 4,
+   "gancho": "El mando de volumen sin los números de en medio",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1. La emoción que llega antes que tú"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Es literalmente el orden de los acontecimientos. Primero llega. Después llegas tú.",
+   "es_literal": true,
+   "ancla": "No es una metáfora bonita. Es literalmente el orden de los acontecimientos. Primero llega. Después llegas tú.",
+   "temas": [
+    "emociones",
+    "autocontrol"
+   ],
+   "intensidad": 4,
+   "gancho": "Primero llega la emoción. Después llegas tú",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1. La emoción que llega antes que tú"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es que no te des cuenta: la conciencia está intacta, y a veces más despierta que nunca. Lo que falla no es la información, es la palanca.",
+   "es_literal": false,
+   "ancla": "Se dan cuenta muchísimo. La conciencia está intacta. A veces está más despierta que nunca. Lo que falla no es la información, es la palanca.",
+   "temas": [
+    "lucidez",
+    "autocontrol"
+   ],
+   "intensidad": 4,
+   "gancho": "No falla la información: falla la palanca",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1. La emoción que llega antes que tú"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso: abre una nota del móvil. Apunta la hora aproximada en que se te subió algo la última vez. Apunta la hora en que notaste que el cuerpo había bajado. Dos cifras, sin análisis y sin motivo.",
+   "es_literal": false,
+   "ancla": "Dos cifras, nada más. Sin análisis, sin explicar el motivo, sin escribir qué pasó ni quién estuvo delante.",
+   "temas": [
+    "bajada",
+    "registro"
+   ],
+   "intensidad": 2,
+   "gancho": "Dos horas apuntadas: cuándo empezó y cuándo bajó",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1. La emoción que llega antes que tú"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Si la subida es un segundo y la bajada es cinco horas, entonces casi todo el episodio ocurre en la bajada. No en el pico: en la cola.",
+   "es_literal": true,
+   "ancla": "Si la subida es un segundo y la bajada es cinco horas, entonces casi todo el episodio ocurre en la bajada. No en el pico: en la cola.",
+   "temas": [
+    "bajada",
+    "modelo"
+   ],
+   "intensidad": 3,
+   "gancho": "Casi todo el destrozo se hace en la cola",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2. Desregulación, en llano"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Nadie puede saber si siente más que otra persona. No existe manera de medirlo.",
+   "es_literal": true,
+   "ancla": "Nadie puede saber si siente más que otra persona. No existe manera de medirlo. No hay unidad, no hay aparato, no hay escala",
+   "temas": [
+    "comparacion",
+    "intensidad"
+   ],
+   "intensidad": 3,
+   "gancho": "«Siento más que los demás» no se puede comprobar",
+   "formatos": [
+    "cita",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2. Desregulación, en llano"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando te pilles pensando que exageras, di por dentro «esto va a tardar en bajar». No hace falta que te la creas. Y cambia la pregunta: en vez de «¿tengo derecho a estar así?», «¿en qué momento del recorrido estoy?».",
+   "es_literal": false,
+   "ancla": "Deja de preguntar «¿tengo derecho a estar así?», que es una pregunta que no tiene respuesta y que se puede rumiar durante horas",
+   "temas": [
+    "bajada",
+    "frases"
+   ],
+   "intensidad": 2,
+   "gancho": "Cambiar la pregunta que se rumia durante horas",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 2. Desregulación, en llano"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando la única forma de contar lo que te pasa es una palabra que ya te condena, no se puede contar.",
+   "es_literal": true,
+   "ancla": "Todas esas palabras traen dentro un juicio y una acusación de intención. Cuando la única forma de contar lo que te pasa es una palabra que ya te condena, no se puede contar.",
+   "temas": [
+    "lenguaje",
+    "meltdown"
+   ],
+   "intensidad": 4,
+   "gancho": "Rabieta, numerito, estar de morros: palabras que condenan",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3. Meltdown y shutdown"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es indiferencia: es un apagón. Por fuera, una cara que parece aburrida; por dentro, una urgencia enorme y ninguna manera de sacar la frase.",
+   "es_literal": false,
+   "ancla": "Y lo peor, dice, es que por dentro no hay indiferencia en absoluto. Por dentro hay una urgencia enorme, hay ganas de decir «espera, dame un momento»",
+   "temas": [
+    "shutdown",
+    "silencio"
+   ],
+   "intensidad": 4,
+   "gancho": "El silencio que parece desprecio y no lo es",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3. Meltdown y shutdown"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Aquí no hay absolución. Que no sea teatro no significa que no tenga consecuencias, y que no fuera elegido no borra lo que hay que reparar.",
+   "es_literal": false,
+   "ancla": "Y que no sea elegido no significa que no haya nada que reparar.",
+   "temas": [
+    "responsabilidad",
+    "reparacion"
+   ],
+   "intensidad": 4,
+   "gancho": "No era teatro. Sigue habiendo algo que reparar",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3. Meltdown y shutdown"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Eso es el autodiagnóstico tranquilizador, y es el riesgo específico de este libro. No el riesgo de que alguien se etiquete de más: el riesgo de que alguien deje de mirar.",
+   "es_literal": true,
+   "ancla": "Eso es el autodiagnóstico tranquilizador, y es el riesgo específico de este libro. No el riesgo de que alguien se etiquete de más: el riesgo de que alguien deje de mirar.",
+   "temas": [
+    "explicaciones",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "El riesgo no es etiquetarse: es dejar de mirar",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4. Lo que no es esto"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro lo dice sin rodeos: no diagnostica, no puede diagnosticar y no debe usarse para decidir qué te pasa.",
+   "es_literal": false,
+   "ancla": "Reconocerse en una descripción no es un diagnóstico. Encontrar una explicación que encaja no es una valoración.",
+   "temas": [
+    "diagnostico",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Reconocerse en una descripción no es una valoración",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4. Lo que no es esto"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "La pregunta que el libro propone no es «¿qué tengo?». Es más modesta: ¿esto ha sido siempre así, o empezó a ser así en algún momento?",
+   "es_literal": false,
+   "ancla": "Si hay una pregunta que merece la pena hacerse, no es «¿qué tengo?». Es otra, mucho más modesta y mucho más informativa",
+   "temas": [
+    "preguntas",
+    "cambio"
+   ],
+   "intensidad": 2,
+   "gancho": "¿Siempre ha sido así, o empezó en algún momento?",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4. Lo que no es esto"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Abre la agenda del móvil. Crea un contacto nuevo y ponle de nombre «Ayuda». Guarda dentro 024, 112 y 016. Un contacto, tres números, dos minutos, y hoy no hay que llamar a nadie.",
+   "es_literal": false,
+   "ancla": "Un solo contacto, tres números, dos minutos. No hay que llamar a nadie hoy. No hay que decidir nada, ni contárselo a nadie",
+   "temas": [
+    "ayuda",
+    "telefonos"
+   ],
+   "intensidad": 3,
+   "gancho": "Un contacto llamado «Ayuda», guardado en frío",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4. Lo que no es esto"
+  },
+  {
+   "tipo": "cita",
+   "texto": "llega ya doliendo, y la idea viene después, corriendo detrás, buscando una explicación para el dolor que ya está ahí.",
+   "es_literal": true,
+   "ancla": "no llega primero como una idea que luego duele: llega ya doliendo, y la idea viene después, corriendo detrás, buscando una explicación para el dolor que ya está ahí.",
+   "temas": [
+    "rechazo",
+    "cuerpo"
+   ],
+   "intensidad": 4,
+   "gancho": "Primero duele. La explicación llega corriendo detrás",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5. Cuando el rechazo duele en el cuerpo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un «ok» en vez de «ok!». Una coma corregida en un documento que escribiste tú. Dos segundos de silencio en una mesa justo cuando terminas de hablar. Disparos de ese tamaño, y la tarde entera dentro.",
+   "es_literal": false,
+   "ancla": "Fíjate en el tamaño de esos disparos. Una coma. Dos segundos. Un punto final.",
+   "temas": [
+    "rechazo",
+    "microseñales"
+   ],
+   "intensidad": 3,
+   "gancho": "Una coma. Dos segundos. Un punto final",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5. Cuando el rechazo duele en el cuerpo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es lo mismo el golpe que el veredicto. El golpe es el pecho, el estómago, el calor: viene sin permiso. El veredicto es la frase que llega detrás, y esa sí se puede mirar con algo de distancia.",
+   "es_literal": false,
+   "ancla": "El golpe es la sensación: el pecho, el estómago, el calor, el vacío. Dura lo que dura y viene sin permiso. No se decide y no se apaga a voluntad.",
+   "temas": [
+    "rechazo",
+    "conclusiones"
+   ],
+   "intensidad": 3,
+   "gancho": "El golpe no se decide. El veredicto sí se puede mirar",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5. Cuando el rechazo duele en el cuerpo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "«Disforia sensible al rechazo» no figura como diagnóstico en las clasificaciones clínicas. El término es discutible; lo que sientes, no. Que una palabra no esté en un manual no vuelve imaginaria la experiencia.",
+   "es_literal": false,
+   "ancla": "Que una palabra no esté en un manual no significa que la experiencia sea imaginaria. Significa exactamente lo que significa: que es una palabra útil, no una entidad médica.",
+   "temas": [
+    "rechazo",
+    "etiquetas",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Una palabra útil, no una entidad médica",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5. Cuando el rechazo duele en el cuerpo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tú no piensas «se me ocurre que quizá esté molesto»; tú sabes que está molesto. Lo ves. Es tan evidente como el color de la pared.",
+   "es_literal": true,
+   "ancla": "Tú no piensas «se me ocurre que quizá esté molesto»; tú sabes que está molesto. Lo ves. Es tan evidente como el color de la pared.",
+   "temas": [
+    "interpretacion",
+    "certeza"
+   ],
+   "intensidad": 4,
+   "gancho": "El relleno no se siente como un relleno",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6. Lo que el cerebro rellena"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es «no te fíes de lo que ves»: es fíate de lo que notas y desconfía de lo que concluyes. Dos operaciones distintas que hasta ahora venían pegadas.",
+   "es_literal": false,
+   "ancla": "Tiene que ser algo bastante distinto: fíate de lo que notas y desconfía de lo que concluyes. Son dos operaciones separadas y hasta ahora venían pegadas.",
+   "temas": [
+    "percepcion",
+    "conclusiones"
+   ],
+   "intensidad": 3,
+   "gancho": "Fíate de lo que notas. Desconfía de lo que concluyes",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6. Lo que el cerebro rellena"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La antena capta el clima. No capta el motivo. Y el relleno pone el motivo en un segundo y siempre pone el mismo: tú.",
+   "es_literal": true,
+   "ancla": "La antena capta el clima. No capta el motivo. Y el relleno pone el motivo en un segundo y siempre pone el mismo: tú.",
+   "temas": [
+    "percepcion",
+    "interpretacion"
+   ],
+   "intensidad": 4,
+   "gancho": "La antena capta el clima, no el motivo",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6. Lo que el cerebro rellena"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando se te dispare, di por dentro dos frases seguidas: «Lo que he visto es esto. Lo que he concluido es esto otro.» Veinte segundos. No hay que discutir nada: la diferencia de tamaño entre las dos se oye sola.",
+   "es_literal": false,
+   "ancla": "Dicho así, seguidas, la diferencia de tamaño entre las dos frases se oye. No hace falta discutir nada, ni buscar pruebas en contra, ni convencerse de que no pasa nada.",
+   "temas": [
+    "interpretacion",
+    "frases"
+   ],
+   "intensidad": 2,
+   "gancho": "He visto ___. He concluido ___",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6. Lo que el cerebro rellena"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando el relleno resulte falso, dilo en voz alta: «esta vez no era.» Tres palabras, sin cuaderno y sin registro. Si no se dice, se borra: los rellenos que se cumplen se recuerdan años y los que se caen se evaporan con el alivio.",
+   "es_literal": false,
+   "ancla": "Basta con decírtelo en voz alta cuando pasa: «esta vez no era.» Tres palabras.",
+   "temas": [
+    "interpretacion",
+    "memoria"
+   ],
+   "intensidad": 2,
+   "gancho": "«Esta vez no era.» Tres palabras que no se archivan solas",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 6. Lo que el cerebro rellena"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Complacer no es ser amable. La amabilidad se elige.",
+   "es_literal": true,
+   "ancla": "Complacer no es ser amable. La amabilidad se elige. Complacer, en la versión que estamos hablando, no se elige",
+   "temas": [
+    "complacer",
+    "limites"
+   ],
+   "intensidad": 3,
+   "gancho": "La amabilidad se elige. Complacer, no",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7. Complacer, evitar, estallar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No mandas el trabajo, y entonces sí hay una queja sobre tu trabajo. No llamas a tu amiga durante dos meses, y entonces sí se enfría la amistad.",
+   "es_literal": true,
+   "ancla": "No mandas el trabajo, y entonces sí hay una queja sobre tu trabajo. No llamas a tu amiga durante dos meses, y entonces sí se enfría la amistad. No pides la reunión, y entonces sí se decide sin ti.",
+   "temas": [
+    "evitacion",
+    "consecuencias"
+   ],
+   "intensidad": 4,
+   "gancho": "Evitar produce exactamente lo que temías",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7. Complacer, evitar, estallar"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Aplazar no es evitar: cuando aplazas hay un momento en el que lo vas a hacer y lo sabes. Cuando evitas solo hay un «cuando esté bien» que no llega, porque estar bien no era el requisito.",
+   "es_literal": false,
+   "ancla": "La diferencia es concreta y se puede comprobar: cuando aplazas, hay un momento en el que lo vas a hacer y lo sabes. Cuando evitas, no hay tal momento, hay un «cuando esté bien» que no llega nunca porque estar bien no era el requisito.",
+   "temas": [
+    "evitacion",
+    "aplazar"
+   ],
+   "intensidad": 3,
+   "gancho": "Si no puedes decir cuándo, no lo estás aplazando",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7. Complacer, evitar, estallar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La próxima vez que estés a punto de usar una de tus tres salidas, dile su nombre por dentro, una sola vez: «esta es la de complacer», «esta es la de no mandarlo», «esta es la de adelantarme». No hay que hacer nada distinto después.",
+   "es_literal": false,
+   "ancla": "«Esta es la de complacer.» «Esta es la de no mandarlo.» «Esta es la de adelantarme.»",
+   "temas": [
+    "complacer",
+    "evitacion",
+    "nombrar"
+   ],
+   "intensidad": 2,
+   "gancho": "Una salida con nombre deja de ser automática",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 7. Complacer, evitar, estallar"
+  },
+  {
+   "tipo": "escena",
+   "texto": "«Oye, esto hay que rehacerlo.» Cinco palabras, y de golpe dejas de oír. La otra persona sigue explicando cuarenta segundos y tú no estás ahí: estás gestionando lo que te ha caído dentro.",
+   "es_literal": false,
+   "ancla": "Y luego pasa lo raro: dejas de oír. La otra persona sigue hablando durante cuarenta segundos, probablemente explicando qué hay que rehacer y por qué, y tú no estás ahí.",
+   "temas": [
+    "critica",
+    "trabajo"
+   ],
+   "intensidad": 3,
+   "gancho": "Los cuarenta segundos de crítica que no llegaste a oír",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8. La crítica, en el trabajo y en casa"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Ten dos frases fijas y deja de improvisar: una para el trabajo, «Vale, lo reviso y te digo algo mañana»; otra para casa, «Te he oído, dame un rato y lo hablamos». No son sumisión: son un recibo, y salen solas cuando ya no queda nada más.",
+   "es_literal": false,
+   "ancla": "«Vale. Lo miro y te digo.» «Entendido, ¿te lo confirmo mañana?» «Gracias, déjame darle una vuelta.» Tres palabras, cuatro palabras. No son cobardía ni sumisión: son un recibo.",
+   "temas": [
+    "critica",
+    "frases"
+   ],
+   "intensidad": 2,
+   "gancho": "Dos frases fijas para no improvisar en caliente",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8. La crítica, en el trabajo y en casa"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "«¿Esto es un ajuste o es un problema?» La única persona que tiene el dato real sobre el tamaño de una crítica es quien te la ha hecho.",
+   "es_literal": false,
+   "ancla": "Porque el relleno del capítulo 6 se dedica precisamente a inflar el tamaño, y la única persona que tiene el dato real es quien te ha hecho la crítica.",
+   "temas": [
+    "critica",
+    "tamaño"
+   ],
+   "intensidad": 2,
+   "gancho": "Preguntar por el tamaño, en vez de calcularlo dos horas",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8. La crítica, en el trabajo y en casa"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es que no les importe: es que no hay manera. Pedir que te lean la intención —que noten que hoy no, que adivinen el estado en que estás— agota cualquier relación, aunque nadie discuta nunca.",
+   "es_literal": false,
+   "ancla": "Que noten que estás al límite. Que se den cuenta de que hoy no. Que entiendan que cuando dijiste «me da igual» querías decir lo contrario.",
+   "temas": [
+    "critica",
+    "vinculos",
+    "limites"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que no es justo pedirle a quien te corrige",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8. La crítica, en el trabajo y en casa"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Sin vender nada: recibir críticas no va a dejar de doler, ni con frases ni con práctica. Lo que puede cambiar es más modesto: que entre la crítica y lo que haces con ella haya unos minutos en lugar de ninguno.",
+   "es_literal": false,
+   "ancla": "Y para cerrar sin vender nada: recibir críticas no va a dejar de doler. Ni con estas frases, ni con el tiempo, ni con práctica.",
+   "temas": [
+    "critica",
+    "expectativas",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Unos minutos en lugar de ninguno. Eso es todo",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8. La crítica, en el trabajo y en casa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Si una herramienta te pone peor, no insistas. No es cuestión de práctica.",
+   "es_literal": true,
+   "ancla": "Si una herramienta te pone peor, no insistas. No es cuestión de práctica.",
+   "temas": [
+    "herramientas",
+    "cuerpo"
+   ],
+   "intensidad": 3,
+   "gancho": "La regla que va contra casi todo lo que se dice",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9. Primero el cuerpo, y con honestidad"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Sal del sitio donde está pasando: la habitación, la cocina, el portal, el rellano. Y di una frase antes de salir: «salgo dos minutos y vuelvo». Sin esa frase, salir es media herramienta y media herida.",
+   "es_literal": false,
+   "ancla": "«Salgo dos minutos y vuelvo» convierte una huida en una pausa.",
+   "temas": [
+    "cuerpo",
+    "pausa"
+   ],
+   "intensidad": 2,
+   "gancho": "Salir sin avisar es media herramienta y media herida",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9. Primero el cuerpo, y con honestidad"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es un fallo tuyo: es que hay herramientas hechas de un material que a ti te sienta mal. Eso les pasa a las herramientas, no a las personas.",
+   "es_literal": false,
+   "ancla": "No es falta de práctica, ni resistencia, ni que no te lo tomes en serio, ni que en el fondo no quieras estar mejor.",
+   "temas": [
+    "herramientas",
+    "cuerpo",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuando «céntrate en tu respiración» empeora la cosa",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9. Primero el cuerpo, y con honestidad"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Hay un punto a partir del cual ninguna de estas cosas hace gran cosa. Son para la rampa, no para la cima: arriba del todo lo que hay es esperar a que baje, y eso es lo que hay.",
+   "es_literal": false,
+   "ancla": "Si la subida ya está arriba del todo, si ya has empezado a gritar o ya te has quedado sin palabras y sin poder moverte, el agua fría no va a arreglar eso.",
+   "temas": [
+    "herramientas",
+    "limites",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Para la rampa, no para la cima",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9. Primero el cuerpo, y con honestidad"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es reprimir: es aplazar. Reprimir sería intentar no sentir. Aplazar es sentirlo entero y no tocar nada durante diez minutos.",
+   "es_literal": false,
+   "ancla": "Aplazar es sentirlo entero y no tocar nada durante diez minutos.",
+   "temas": [
+    "ventana",
+    "impulsos"
+   ],
+   "intensidad": 3,
+   "gancho": "Se aplaza la acción, no la emoción",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10. La ventana de los diez minutos"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Diez minutos sin hacer cinco cosas: no mandar, no contestar, no decidir, no dejar y no romper. Fuera de esas cinco puedes hacer lo que quieras, incluido escribir el mensaje entero y no enviarlo.",
+   "es_literal": false,
+   "ancla": "Cinco. Fuera de esas cinco puedes hacer lo que quieras. Puedes llorar, puedes andar en círculos",
+   "temas": [
+    "ventana",
+    "impulsos"
+   ],
+   "intensidad": 3,
+   "gancho": "No mandar, no contestar, no decidir, no dejar, no romper",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10. La ventana de los diez minutos"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando hay alguien delante, una frase con tres partes: que te vas por lo que te pasa a ti y no por lo que ha hecho la otra persona, cuánto vas a tardar, y que vas a volver. Si falta la tercera, es un portazo con buenos modales.",
+   "es_literal": false,
+   "ancla": "Las tres partes son: que te estás yendo por lo que te pasa a ti y no por lo que ha hecho la otra persona; cuánto vas a tardar; y que vas a volver.",
+   "temas": [
+    "ventana",
+    "vinculos",
+    "frases"
+   ],
+   "intensidad": 3,
+   "gancho": "La frase que compra diez minutos sin ser un portazo",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 10. La ventana de los diez minutos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La frase empezó a servir de algo el día en que volvió. No cuando la dijo mejor: cuando volvió.",
+   "es_literal": true,
+   "ancla": "La frase empezó a servir de algo el día en que volvió. No cuando la dijo mejor: cuando volvió.",
+   "temas": [
+    "ventana",
+    "vinculos",
+    "confianza"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que compra la vuelta: que la pausa no parezca fuga",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10. La ventana de los diez minutos"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Te la vas a saltar muchas veces. Si la ventana funciona una de cada cinco, ya has quitado una tormenta de cada cinco del año. No es una racha que se rompe.",
+   "es_literal": false,
+   "ancla": "Si la ventana te salva una de cada cinco veces, has quitado una tormenta de cada cinco del año",
+   "temas": [
+    "ventana",
+    "expectativas"
+   ],
+   "intensidad": 3,
+   "gancho": "Una de cada cinco ya cuenta. No hay racha que perder",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 10. La ventana de los diez minutos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Sigue estando ahí, sigue siendo desagradable, pero ahora tiene bordes.",
+   "es_literal": true,
+   "ancla": "Sigue estando ahí, sigue siendo desagradable, pero ahora tiene bordes. Es «un rechazo», y no «el estado permanente del universo».",
+   "temas": [
+    "nombrar",
+    "emociones"
+   ],
+   "intensidad": 3,
+   "gancho": "Sin nombre es niebla; con nombre, un objeto en la mesa",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11. Nombrar sin abrir una investigación"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Nombrar no es analizar: «esto es rechazo» no abre nada. «¿Por qué me hace esto?» abre una investigación con presupuesto ilimitado.",
+   "es_literal": false,
+   "ancla": "si después de la frase queda alguna pregunta abierta, ya no estás nombrando.",
+   "temas": [
+    "nombrar",
+    "rumiacion"
+   ],
+   "intensidad": 3,
+   "gancho": "En cuanto aparece un «por qué», ya no estás nombrando",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11. Nombrar sin abrir una investigación"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay un vocabulario que delata la excavación: «siempre» y «nunca». Ninguna de las dos describe lo que ha pasado esta tarde; las dos describen una sentencia.",
+   "es_literal": false,
+   "ancla": "Cuando estás excavando aparecen dos palabras que no fallan nunca: «siempre» y «nunca».",
+   "temas": [
+    "rumiacion",
+    "lenguaje"
+   ],
+   "intensidad": 3,
+   "gancho": "«Siempre» y «nunca»: el ruido del motor pasado de vueltas",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11. Nombrar sin abrir una investigación"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando notes que algo empieza a subir, dilo en voz baja con tres palabras y con «esto es» delante: «esto es hambre», «esto es ruido», «esto es rechazo». Una sola frase, y sigues con lo que estabas haciendo. Si sale un «por qué», ciérralo ahí.",
+   "es_literal": false,
+   "ancla": "La próxima vez que notes que algo empieza a subir, dilo en voz baja con tres palabras y con «esto es» delante. Una sola frase, y sigue con lo que estabas haciendo.",
+   "temas": [
+    "nombrar",
+    "frases"
+   ],
+   "intensidad": 2,
+   "gancho": "Cinco segundos y la palabra más tonta que encuentres",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 11. Nombrar sin abrir una investigación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La explicación cambia lo que sabes tú. No cambia lo que le pasó al otro.",
+   "es_literal": true,
+   "ancla": "Nada de eso se modifica retroactivamente por el hecho de que tú entiendas de dónde venía.",
+   "temas": [
+    "reparacion",
+    "responsabilidad"
+   ],
+   "intensidad": 5,
+   "gancho": "La explicación cambia lo que sabes tú",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12. Después de la tormenta"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Una disculpa tiene tres partes: qué hiciste, dicho en concreto; que estuvo mal, sin peros; y qué vas a hacer distinto, pequeño y comprobable. La palabra «pero» anula todo lo que va antes.",
+   "es_literal": false,
+   "ancla": "«Siento haberte gritado, pero llevaba tres horas esperando» no es una disculpa, es una acusación con introducción amable.",
+   "temas": [
+    "reparacion",
+    "disculpa"
+   ],
+   "intensidad": 4,
+   "gancho": "Tres partes, ninguna opcional, y ningún «pero»",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12. Después de la tormenta"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Una disculpa que se hunde obliga al otro a consolarte, y la escena cambia de protagonista. Una disculpa buena es sorprendentemente corta: treinta segundos y luego callarse y escuchar.",
+   "es_literal": false,
+   "ancla": "Tú has hecho algo, la otra persona está dolida, y a los cinco minutos ella te está diciendo que no es para tanto y acariciándote la espalda.",
+   "temas": [
+    "disculpa",
+    "reparacion"
+   ],
+   "intensidad": 4,
+   "gancho": "Hundirse en la disculpa es ocupar todo el espacio otra vez",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12. Después de la tormenta"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Una disculpa bien hecha no siempre arregla las cosas. Que la otra persona diga que ya no se fía es legítimo, y eso no se mueve con palabras: se mueve con tiempo y con que pase menos.",
+   "es_literal": false,
+   "ancla": "No fiarse de alguien que ha estallado varias veces no es rencor ni castigo ni falta de comprensión: es una conclusión razonable sacada de la experiencia",
+   "temas": [
+    "confianza",
+    "reparacion"
+   ],
+   "intensidad": 5,
+   "gancho": "«Ya no me fío» también es una respuesta legítima",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12. Después de la tormenta"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que más credibilidad da no es la disculpa. Es la repetición pequeña.",
+   "es_literal": true,
+   "ancla": "Lo que más credibilidad da no es la disculpa. Es la repetición pequeña. Es la persona que dice «necesito diez minutos» y vuelve a los diez minutos, treinta veces, durante meses.",
+   "temas": [
+    "confianza",
+    "reparacion",
+    "vinculos"
+   ],
+   "intensidad": 4,
+   "gancho": "No lo consigue una explicación. Lo consigue volver",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12. Después de la tormenta"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El mismo comentario, dicho por la misma persona, con el mismo tono, cae distinto a las once de la mañana de un día dormido que a las siete y media de la tarde de un día de pie y sin comer.",
+   "es_literal": true,
+   "ancla": "El mismo comentario, dicho por la misma persona, con el mismo tono, cae distinto a las once de la mañana de un día dormido que a las siete y media de la tarde de un día de pie y sin comer.",
+   "temas": [
+    "detonantes",
+    "margen"
+   ],
+   "intensidad": 3,
+   "gancho": "Los detonantes no causan: estrechan el margen",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13. Lo que enciende la mecha"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Casi ninguna tormenta la enciende un solo detonante: se encienden por acumulación. Y el que se lleva la culpa siempre es el último de la fila, el que llegó cuando ya no quedaba sitio.",
+   "es_literal": false,
+   "ancla": "Lo que ocurre es que el que se lleva la culpa siempre es el último de la fila, el que llegó cuando ya no quedaba sitio.",
+   "temas": [
+    "detonantes",
+    "acumulacion"
+   ],
+   "intensidad": 3,
+   "gancho": "No era la basura: era el quinto de la tarde",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13. Lo que enciende la mecha"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Coge las tres o cuatro últimas veces que algo se te fue de las manos y contesta solo tres cosas de cada una: qué hora era, cuánto llevabas sin comer o sin dormir bien, y qué pasó justo antes. Ni por qué, ni origen.",
+   "es_literal": false,
+   "ancla": "Nada más. No se pregunta por qué, no se busca el origen, no se abre una investigación",
+   "temas": [
+    "detonantes",
+    "mapa"
+   ],
+   "intensidad": 2,
+   "gancho": "El mapa se hace con la semana pasada, no con la teoría",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13. Lo que enciende la mecha"
+  },
+  {
+   "tipo": "cita",
+   "texto": "se puede pedir ayuda para regular; no se puede pedir que se aguante el daño.",
+   "es_literal": true,
+   "ancla": "se puede pedir ayuda para regular; no se puede pedir que se aguante el daño.",
+   "temas": [
+    "vinculos",
+    "limites"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo primero es cooperación. Lo segundo es pasar la factura",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14. Los vínculos que aguantan"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Avisar antes no es anunciar una tormenta ni pedir permiso para tenerla. Un aviso va seguido de lo que vas a hacer tú; una amenaza, de lo que le va a pasar al otro.",
+   "es_literal": false,
+   "ancla": "Un aviso va seguido de lo que uno va a hacer —salir, esperar, no hablar de eso hoy—. Una amenaza va seguida de lo que va a pasarle al otro.",
+   "temas": [
+    "vinculos",
+    "avisos"
+   ],
+   "intensidad": 3,
+   "gancho": "La diferencia está en lo que va después de la coma",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14. Los vínculos que aguantan"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un vaso que se cae en la cocina. La respuesta puede ser «no pasa nada» o puede ser un grito, según el día. Lo que desgasta a un niño no es el volumen: es estar pendiente todo el rato de cuál de las dos toca hoy.",
+   "es_literal": false,
+   "ancla": "Lo que desgasta es no saber si la respuesta a «se me ha caído el vaso» va a ser «no pasa nada» o va a ser un grito, según el día.",
+   "temas": [
+    "hijos",
+    "previsibilidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que pesa no es el volumen: es la imprevisibilidad",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14. Los vínculos que aguantan"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Nada de esta lista es un test. No hay un número de señales a partir del cual toque. Una basta.",
+   "es_literal": true,
+   "ancla": "Nada de esta lista es un test. No hay un número de señales a partir del cual toque. Una basta.",
+   "temas": [
+    "ayuda",
+    "señales"
+   ],
+   "intensidad": 4,
+   "gancho": "No hay un número de señales a partir del cual toque",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La reacción habitual ante esa lista no es pedir cita: es un regateo. «Lo mío no es exactamente eso», «solo fue una vez». Nadie negocia consigo mismo si le tiene que mirar un traumatólogo una muñeca hinchada.",
+   "es_literal": false,
+   "ancla": "«Bueno, pero lo mío no es exactamente eso.» «Sí, pero solo me pasa cuando estoy muy mal.» «Eso lo hacía antes, ahora ya casi no.» «Solo fue una vez.»",
+   "temas": [
+    "ayuda",
+    "regateo"
+   ],
+   "intensidad": 4,
+   "gancho": "El regateo es parte del cuadro, no un razonamiento",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para una primera cita, escribe cinco líneas en frío: qué te pasa, desde cuándo, con qué frecuencia y la frase que sabes que no serás capaz de decir en voz alta. Se entrega o se lee. Sirve un papel arrugado.",
+   "es_literal": false,
+   "ancla": "En una hoja, o en el móvil, y en frío: qué te pasa, desde cuándo, con qué frecuencia, qué has probado, y lo que sabes que no vas a ser capaz de decir en voz alta.",
+   "temas": [
+    "ayuda",
+    "consulta"
+   ],
+   "intensidad": 3,
+   "gancho": "Llevarlo escrito, para que el bloqueo no decida qué se cuenta",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No hay control. Hay margen, que es otra cosa: un poco más de espacio entre lo que pasa y lo que se hace",
+   "es_literal": true,
+   "ancla": "No hay control. Hay margen, que es otra cosa: un poco más de espacio entre lo que pasa y lo que se hace",
+   "temas": [
+    "expectativas",
+    "margen"
+   ],
+   "intensidad": 3,
+   "gancho": "Quien se propone control ve recaídas. Quien se propone margen ve martes",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16. Calma no es planicie"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no lo esconde: el volumen se queda. La intensidad de lo que se siente por dentro no baja, y puede que no baje nunca. Lo que se organiza es lo que ocurre alrededor.",
+   "es_literal": false,
+   "ancla": "La intensidad de lo que se siente por dentro, en el momento, no baja. Puede que no baje nunca. Lo que se organiza es lo que ocurre alrededor, no lo de dentro.",
+   "temas": [
+    "expectativas",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Calma no es planicie. Y la planicie no existe para nadie",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16. Calma no es planicie"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "La medida más honesta no es cuántas tormentas hubo este mes: es cuántas conversaciones pendientes dejaron.",
+   "es_literal": false,
+   "ancla": "no cuántas tormentas ha habido este mes, sino cuántas conversaciones pendientes han dejado",
+   "temas": [
+    "progreso",
+    "reparacion"
+   ],
+   "intensidad": 3,
+   "gancho": "No cuántas tormentas: cuántas deudas",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16. Calma no es planicie"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Es una característica. Como tener el oído fino o el sueño ligero: hace algunas cosas más difíciles, no dice nada sobre lo que vales, y no se arregla porque no está roto.",
+   "es_literal": true,
+   "ancla": "Es una característica. Como tener el oído fino o el sueño ligero: hace algunas cosas más difíciles, no dice nada sobre lo que vales, y no se arregla porque no está roto.",
+   "temas": [
+    "identidad",
+    "intensidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Ni defecto de fábrica ni medalla: una característica",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Cierre — Sentir mucho no es un defecto de fábrica"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Nada de esto es un mérito personal. Buena parte de lo que funciona es logística de nevera y de horarios: comer a las seis y media, no hablar de dinero después de cenar, salir de la habitación cuando hay que salir.",
+   "es_literal": false,
+   "ancla": "Buena parte de lo que funciona es logística de nevera y de horarios: comer a las seis y media, no hablar de dinero después de cenar, no contestar mensajes a la hora en que se leen, salir de la habitación cuando hay que salir.",
+   "temas": [
+    "logistica",
+    "expectativas"
+   ],
+   "intensidad": 2,
+   "gancho": "Es aburridísimo y no da para ninguna conversación interesante",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Cierre — Sentir mucho no es un defecto de fábrica"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando sube, lo primero no es calmarse: es no hacer daño ni tomar decisiones. No decides, no escribes, no mandas, no dejas, no rompes. Sal del sitio. Deja el teléfono en otra habitación.",
+   "es_literal": false,
+   "ancla": "La regla que manda: no decides, no escribes, no mandas, no dejas, no rompes.",
+   "temas": [
+    "plan",
+    "impulsos"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo primero no es calmarse. Es no romper nada",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Anexos — Plan de tormenta en una página"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El mapa de detonantes no es un test ni un diagnóstico: no hay puntuación ni resultado. Sirve para recortar exposición donde se puede, no para construir una vida cada vez más pequeña.",
+   "es_literal": false,
+   "ancla": "No hay puntuación, no hay resultado y marcar muchas casillas no significa nada clínico",
+   "temas": [
+    "detonantes",
+    "honestidad"
+   ],
+   "intensidad": 2,
+   "gancho": "Un mapa que acaba en «entonces no salgo» se ha usado al revés",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Anexos — Mapa de detonantes"
+  }
+ ]
+}

@@ -1,0 +1,1321 @@
+{
+ "serie": "mente_distinta",
+ "libro": "diagnostico-tarde",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "No has descubierto quién eres: has descubierto por qué te costaba.",
+   "es_literal": true,
+   "ancla": "No has descubierto quién eres: has descubierto por qué te costaba.",
+   "temas": [
+    "diagnóstico tardío",
+    "identidad",
+    "relectura"
+   ],
+   "intensidad": 4,
+   "gancho": "La frase con la que se abre y se cierra el libro",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Introducción — La noche que te lo leíste todo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro no reparte casillas ni respuestas cerradas sobre quién eres. Dice de dónde viene esa distinción y dónde se hace: un diagnóstico es un acto clínico, y un texto no está en condiciones de hacerlo.",
+   "es_literal": false,
+   "ancla": "Un diagnóstico es un acto clínico y lo hace un profesional que te ve, que te pregunta, que contrasta. No lo hace un texto, ni un vídeo de dos minutos, ni un foro a las dos de la madrugada, ni yo.",
+   "temas": [
+    "límites",
+    "honestidad",
+    "diagnóstico"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que un libro no puede hacer, dicho en la página 3",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "cita"
+   ],
+   "capitulo": "Introducción — La noche que te lo leíste todo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La una y media, el brillo al mínimo, catorce pestañas abiertas y un cuestionario de internet cerrado a la mitad porque en la pregunta siete te diste cuenta de que contestabas lo que querías que saliera.",
+   "es_literal": false,
+   "ancla": "En la novena hay un cuestionario de esos de internet, con casillas, que empezaste y cerraste a la mitad porque a la pregunta siete te diste cuenta de que estabas contestando lo que querías que saliera.",
+   "temas": [
+    "la noche de las pestañas",
+    "reconocerse"
+   ],
+   "intensidad": 3,
+   "gancho": "La noche de las catorce pestañas, contada por dentro",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Introducción — La noche que te lo leíste todo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es que la lista te conozca: es que está escrita para que quepa el mayor número posible de personas dentro. Reconocerse mucho es un punto de partida, no una conclusión.",
+   "es_literal": false,
+   "ancla": "Cuanto más se reconoce alguien en una lista de internet, menos información aporta esa lista, porque una descripción que le encaja a casi todo el mundo no distingue a nadie de nadie.",
+   "temas": [
+    "reconocerse",
+    "listas de internet",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Por qué reconocerse en una lista dice menos de lo que parece",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 1. El día que encaja todo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que se reconoce a la una y media de la madrugada no es prueba de nada, y a la vez no es basura: es un punto de partida, que es exactamente lo que es, ni más ni menos.",
+   "es_literal": true,
+   "ancla": "Lo que se reconoce a la una y media de la madrugada no es prueba de nada, y a la vez no es basura: es un punto de partida, que es exactamente lo que es, ni más ni menos.",
+   "temas": [
+    "reconocerse",
+    "punto de partida"
+   ],
+   "intensidad": 3,
+   "gancho": "Ni prueba ni basura: punto de partida",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1. El día que encaja todo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "«Fue como cuando te cambias las gafas y durante dos días la acera te parece más cerca. La acera está donde estaba siempre. Lo que ha cambiado es cómo pisas».",
+   "es_literal": true,
+   "ancla": "«Fue como cuando te cambias las gafas y durante dos días la acera te parece más cerca. La acera está donde estaba siempre. Lo que ha cambiado es cómo pisas».",
+   "temas": [
+    "lente nueva",
+    "día siguiente"
+   ],
+   "intensidad": 3,
+   "gancho": "La acera está donde estaba siempre",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1. El día que encaja todo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) abre una nota; 2) escribe en una frase cómo te llegó esto, dónde estabas y quién o qué lo dijo; 3) ponle la fecha; 4) ciérrala y no la releas.",
+   "es_literal": false,
+   "ancla": "Nada más: una frase y la fecha de hoy. No la comentes, no la desarrolles y no la releas. Dentro de unos meses vas a querer saber por dónde entró, y para entonces se te habrá deformado el recuerdo.",
+   "temas": [
+    "un paso hoy",
+    "registro"
+   ],
+   "intensidad": 2,
+   "gancho": "Una frase y la fecha: por dónde entró esto",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1. El día que encaja todo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es una escalera de fases con su flechita al final: es una mezcla, en desorden, con cosas que se van y vuelven. Aquí nadie te va a numerar etapas.",
+   "es_literal": false,
+   "ancla": "No voy a numerarte etapas, no voy a citarte ningún esquema de los que circulan ni voy a atribuirle a nadie un orden que nadie ha demostrado que exista.",
+   "temas": [
+    "emociones",
+    "fases",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Ni fases ni orden previsto: una mezcla en desorden",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 2. El alivio y lo que trae detrás"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No te estás poniendo peor. Estás haciendo un trabajo que no se ve, y los trabajos que no se ven cansan igual que los otros, con el añadido de que nadie te reconoce el esfuerzo, ni siquiera tú.",
+   "es_literal": true,
+   "ancla": "No te estás poniendo peor. Estás haciendo un trabajo que no se ve, y los trabajos que no se ven cansan igual que los otros, con el añadido de que nadie te reconoce el esfuerzo, ni siquiera tú.",
+   "temas": [
+    "cansancio",
+    "trabajo invisible"
+   ],
+   "intensidad": 4,
+   "gancho": "Es carga, no es empeoramiento",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2. El alivio y lo que trae detrás"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no promete que esto se cierre un día. Dice otra cosa, más pequeña: con el tiempo no baja la intensidad, baja la duración. De tres días a una tarde, y luego al rato que dura.",
+   "es_literal": false,
+   "ancla": "Lo que sí cambia con el tiempo, y esto es lo más honesto que puedo decir sobre el asunto, no es la intensidad: es la duración.",
+   "temas": [
+    "duración",
+    "honestidad",
+    "vuelve"
+   ],
+   "intensidad": 3,
+   "gancho": "No baja la intensidad: baja la duración",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2. El alivio y lo que trae detrás"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) vuelve a esa nota; 2) escribe una sola palabra para lo que hay ahora —alivio, rabia, pena, lío, nada—; 3) ponle la fecha; 4) ciérrala sin justificarla.",
+   "es_literal": false,
+   "ancla": "Alivio, rabia, pena, lío, nada. Ponle la fecha del día y ciérrala. No la expliques, no la justifiques y no decidas si es la que debería tocar.",
+   "temas": [
+    "un paso hoy",
+    "registro",
+    "emociones"
+   ],
+   "intensidad": 2,
+   "gancho": "Una palabra al día, con fecha, sin explicarla",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2. El alivio y lo que trae detrás"
+  },
+  {
+   "tipo": "cita",
+   "texto": "cuando una explicación sirve para el trabajo que dejaste, para la relación que se acabó, para el examen que suspendiste y para la discusión del martes, ha dejado de explicar y ha empezado a tapar.",
+   "es_literal": true,
+   "ancla": "cuando una explicación sirve para el trabajo que dejaste, para la relación que se acabó, para el examen que suspendiste y para la discusión del martes, ha dejado de explicar y ha empezado a tapar.",
+   "temas": [
+    "explicación total",
+    "freno",
+    "relectura"
+   ],
+   "intensidad": 5,
+   "gancho": "Cuando explica todo, ha dejado de explicar",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3. Lo que la lente explica y lo que no"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es que una explicación parcial sea una rebaja: es la única que deja algo por hacer. La total te da un veredicto; la parcial te deja trabajo.",
+   "es_literal": false,
+   "ancla": "Una explicación total no deja nada que hacer. Una explicación parcial deja trabajo. Y tener trabajo por delante, a estas alturas, es mucho mejor noticia que tener un veredicto.",
+   "temas": [
+    "explicación parcial",
+    "relectura"
+   ],
+   "intensidad": 4,
+   "gancho": "Explicación parcial: la que todavía deja trabajo",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3. Lo que la lente explica y lo que no"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La lente se aplica casi siempre a lo que salió mal. Casi nadie la aplica a lo que salió bien. Y una lente que se lo queda todo se queda también con lo que aguantaste, con lo que aprendiste solo y con la gente que sostuviste.",
+   "es_literal": false,
+   "ancla": "No explica que sacaras adelante a alguien. No explica que aguantaras aquel año. No explica que se te ocurriera aquello que se te ocurrió y que nadie más veía.",
+   "temas": [
+    "asimetría",
+    "lo que hiciste bien",
+    "relectura"
+   ],
+   "intensidad": 4,
+   "gancho": "Tampoco explica lo que hiciste bien",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 3. Lo que la lente explica y lo que no"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) coge una sola cosa que siempre te haya costado; 2) escribe en una línea qué explica de eso la lente; 3) escribe en otra qué más había alrededor cuando pasaba; 4) para ahí, sin hacer la lista entera.",
+   "es_literal": false,
+   "ancla": "en la primera, lo que la lente explica de esa cosa; en la segunda, qué más había alrededor cuando pasaba (dónde estabas, con quién, cómo iba todo lo demás). Solo esa cosa y solo dos líneas.",
+   "temas": [
+    "un paso hoy",
+    "dos columnas",
+    "contexto"
+   ],
+   "intensidad": 2,
+   "gancho": "Dos líneas: lo que explica la lente y lo que había alrededor",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3. Lo que la lente explica y lo que no"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Reconocerse es como empieza prácticamente todo el mundo. Incluida la gente que hoy tiene un informe con su nombre. Nadie llega a una consulta por sorteo.",
+   "es_literal": true,
+   "ancla": "Reconocerse es como empieza prácticamente todo el mundo. Incluida la gente que hoy tiene un informe con su nombre. Nadie llega a una consulta por sorteo.",
+   "temas": [
+    "con y sin diagnóstico",
+    "reconocerse"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie llega a una consulta por sorteo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4. Con diagnóstico y sin él"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Hay algo que no llega ni con informe ni sin él: la validación definitiva. Siempre queda alguien que no lo compra, y a veces esa persona vive en tu casa.",
+   "es_literal": false,
+   "ancla": "Ni el informe la trae ni el reconocimiento la trae. Siempre va a quedar alguien que no lo compre, y a veces ese alguien vive en tu casa.",
+   "temas": [
+    "validación",
+    "con y sin diagnóstico",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "La validación definitiva no llega con papel ni sin él",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4. Con diagnóstico y sin él"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) escribe una frase que empiece por «Lo que quiero de esto es»; 2) termínala como salga; 3) si sale «no lo sé», deja escrito «no lo sé»; 4) guárdala con las otras notas.",
+   "es_literal": false,
+   "ancla": "Si sale «no lo sé», escribe «no lo sé» y déjalo: también es una respuesta y es más honesta que muchas. Guárdala con las otras dos notas.",
+   "temas": [
+    "un paso hoy",
+    "duda abierta"
+   ],
+   "intensidad": 2,
+   "gancho": "Lo que quiero de esto es… y termínala como salga",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4. Con diagnóstico y sin él"
+  },
+  {
+   "tipo": "cita",
+   "texto": "«Podría más si se esforzara» no describe un comportamiento; explica uno. Dice: hay capacidad, no hay ganas.",
+   "es_literal": true,
+   "ancla": "«Podría más si se esforzara» no describe un comportamiento; explica uno. Dice: hay capacidad, no hay ganas.",
+   "temas": [
+    "boletines",
+    "infancia",
+    "voluntad"
+   ],
+   "intensidad": 4,
+   "gancho": "El boletín no describía: ponía una causa",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5. La infancia, otra vez"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Con diez años, «si puedo y no lo hago, es que no quiero» no produce esfuerzo. Produce vergüenza. Y el esfuerzo se puede aumentar; la vergüenza solo se puede esconder.",
+   "es_literal": false,
+   "ancla": "De ahí sale vergüenza, que es una cosa completamente distinta y bastante peor, porque el esfuerzo se puede aumentar y la vergüenza solo se puede esconder.",
+   "temas": [
+    "infancia",
+    "vergüenza",
+    "boletines"
+   ],
+   "intensidad": 4,
+   "gancho": "De ahí no salía esfuerzo: salía vergüenza",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5. La infancia, otra vez"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Cinco de la tarde, la libreta abierta. A las ocho seguías ahí. Del trabajo real habrían salido veinte minutos, repartidos por dentro de tres horas como migas. El resto no era descansar: era intentar empezar.",
+   "es_literal": false,
+   "ancla": "Tres horas de mesa y ningún descanso real, porque no estabas descansando: estabas intentando empezar.",
+   "temas": [
+    "deberes",
+    "infancia",
+    "esfuerzo invisible"
+   ],
+   "intensidad": 4,
+   "gancho": "Tres horas de mesa para veinte minutos de trabajo",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 5. La infancia, otra vez"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) piensa en un profesor o una profesora que te hiciera un curso más llevadero; 2) escribe su nombre en el móvil; 3) añade una sola cosa que hiciera; 4) déjalo ahí, sin buscarle ni escribirle.",
+   "es_literal": false,
+   "ancla": "El nombre y la cosa, en una línea. No hace falta que lo enseñes a nadie, ni que lo busques, ni que le escribas. Solo que exista escrito en algún sitio, porque la memoria, cuando está releyendo, tiende a no archivar esa parte.",
+   "temas": [
+    "un paso hoy",
+    "infancia",
+    "relectura honesta"
+   ],
+   "intensidad": 2,
+   "gancho": "Un nombre y una cosa: lo que la relectura no archiva",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5. La infancia, otra vez"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Hay una diferencia entre lo que te pasó y lo que te dijeron que eras. Lo primero se recuerda. Lo segundo se lleva puesto.",
+   "es_literal": true,
+   "ancla": "Hay una diferencia entre lo que te pasó y lo que te dijeron que eras. Lo primero se recuerda. Lo segundo se lleva puesto.",
+   "temas": [
+    "etiquetas",
+    "palabras",
+    "infancia"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que te pasó se recuerda; lo que te dijeron se lleva puesto",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6. Las palabras que te pusieron"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Las palabras que peor salen no fueron insultos: se dijeron con cariño, en la mesa, delante de las visitas. Una palabra dicha con cariño no se puede discutir, y si protestas te ganas otra.",
+   "es_literal": false,
+   "ancla": "Una palabra dicha con cariño no se puede discutir. Si protestas, te dicen que no es para tanto, que era una broma, que qué susceptible eres —y ahí acabas de ganar otra palabra—.",
+   "temas": [
+    "etiquetas",
+    "familia",
+    "palabras"
+   ],
+   "intensidad": 4,
+   "gancho": "Por qué las palabras dichas con cariño no salen",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 6. Las palabras que te pusieron"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Esa frase que te dices por dentro, ¿aparece después del error o antes, mientras decides? Lo mismo dicho en dos momentos distintos hace dos cosas distintas.",
+   "es_literal": false,
+   "ancla": "Si aparece después de un error, es una reacción y se pasa. Si aparece antes, mientras decides, es un filtro, y ese es el que conviene mirar, porque está eligiendo por ti.",
+   "temas": [
+    "palabras propias",
+    "filtro",
+    "decisiones"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Antes de decidir o después del error?",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6. Las palabras que te pusieron"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro se niega a venderte el espejo y la frase bonita: con miles de repeticiones detrás, sustituir una frase por otra más amable no cuela, y encima deja la sensación de que ni eso sabes hacer.",
+   "es_literal": false,
+   "ancla": "Si llevas miles de repeticiones de «soy un desastre», ponerte delante del espejo a decir «soy una persona valiosa y capaz» no funciona.",
+   "temas": [
+    "palabras propias",
+    "honestidad",
+    "afirmaciones"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que no se arregla delante del espejo",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6. Las palabras que te pusieron"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) coge la frase que más veces te dices por dentro; 2) no la niegues; 3) añádele en voz alta el final que le falta —no «soy un desastre», sino «soy un desastre con esto concreto»—; 4) dicha una vez, ya está.",
+   "es_literal": false,
+   "ancla": "y añádele en voz alta el final que se le quedó fuera: no «soy un desastre», sino «soy un desastre con esto concreto». No hace falta que te lo creas ni que lo repitas.",
+   "temas": [
+    "un paso hoy",
+    "palabras propias"
+   ],
+   "intensidad": 2,
+   "gancho": "Termínale la frase: una zona tiene bordes; una persona, no",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6. Las palabras que te pusieron"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "En la lista de lo que se cayó suele haber un patrón que casi nadie mira: muchas cosas no se cayeron por difíciles, se cayeron por repetitivas. Ver el patrón es útil; aplicarlo hacia atrás a todo, no.",
+   "es_literal": false,
+   "ancla": "Muchas veces no se caían por lo difícil. Se caían por lo repetitivo. El trabajo que se apagó no era el más exigente: era el que se volvió igual todos los días a partir del mes cinco.",
+   "temas": [
+    "trabajos",
+    "patrón",
+    "relectura"
+   ],
+   "intensidad": 3,
+   "gancho": "No se cayó por difícil: se cayó por repetitivo",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 7. Los que ahora tienen otra forma"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es lo mismo abandonar que fracasar. Fracasar es llegar al final y que salga mal. Abandonar es dejar de invertir, y a veces es la decisión correcta, tomada tarde o incluso a tiempo.",
+   "es_literal": false,
+   "ancla": "Fracasar es intentar algo hasta el final y que salga mal. Abandonar es dejar de invertir en algo, y en muchos casos es la decisión correcta tomada tarde, o incluso a tiempo.",
+   "temas": [
+    "proyectos",
+    "abandono",
+    "caja del armario"
+   ],
+   "intensidad": 3,
+   "gancho": "Media caja del armario no fracasó: se cerró",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7. Los que ahora tienen otra forma"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Una relectura que solo recoge lo que salió torcido no es más lúcida ni más valiente que una que recoge las dos cosas: es una relectura incompleta con aire de valentía.",
+   "es_literal": true,
+   "ancla": "Una relectura que solo recoge lo que salió torcido no es más lúcida ni más valiente que una que recoge las dos cosas: es una relectura incompleta con aire de valentía.",
+   "temas": [
+    "relectura",
+    "exactitud",
+    "biografía"
+   ],
+   "intensidad": 4,
+   "gancho": "Una relectura incompleta con aire de valentía",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7. Los que ahora tienen otra forma"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) elige una sola cosa de esos años que salió bien —un trabajo, un viaje, una amistad, una temporada—; 2) escríbela en una línea; 3) no la expliques ni justifiques por qué la eliges; 4) que exista fuera de tu cabeza.",
+   "es_literal": false,
+   "ancla": "y escríbela en una línea, sin explicarla y sin justificar por qué la eliges. Una línea, en el móvil o en un papel. Que exista en algún sitio además de en tu cabeza",
+   "temas": [
+    "un paso hoy",
+    "inventario",
+    "relectura"
+   ],
+   "intensidad": 2,
+   "gancho": "Una línea para lo que salió bien, sin justificarla",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7. Los que ahora tienen otra forma"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El «si me lo hubieran dicho a los diez años» no tiene respuesta, y el libro no le fabrica una. Ni la épica de «todo te ha traído hasta aquí» ni la condena de «te robaron treinta años».",
+   "es_literal": false,
+   "ancla": "No la tiene aquí, no la tiene en ningún otro libro y no la tiene en ninguna consulta. Y precisamente porque no la tiene, la única manera decente de tratarla es no fabricarle una.",
+   "temas": [
+    "la vida que no fue",
+    "honestidad",
+    "duelo"
+   ],
+   "intensidad": 5,
+   "gancho": "La pregunta que el libro se niega a contestar",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8. La vida que no fue"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En una cena, alguien cuenta de pasada que a su hija le han puesto apoyos en el colegio y que va mucho mejor. Lo dice entre el segundo plato y el postre. Y tú haces algo con las manos y dices que no, que nada.",
+   "es_literal": false,
+   "ancla": "Lo dice entre el segundo plato y el postre, como quien comenta una reforma. Y a ti se te va la cara, y tienes que hacer algo con las manos, y alguien te pregunta si te pasa algo, y dices que no, que nada.",
+   "temas": [
+    "la vida que no fue",
+    "duelo",
+    "escenas cotidianas"
+   ],
+   "intensidad": 4,
+   "gancho": "Entre el segundo plato y el postre",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 8. La vida que no fue"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No tiene martes de febrero, ni gripe, ni facturas, ni una discusión tonta de camino al supermercado, ni las tres semanas de octubre en las que nada tiene sentido y no es culpa de nada.",
+   "es_literal": true,
+   "ancla": "No tiene martes de febrero, ni gripe, ni facturas, ni una discusión tonta de camino al supermercado, ni las tres semanas de octubre en las que nada tiene sentido y no es culpa de nada.",
+   "temas": [
+    "vida alternativa",
+    "comparación",
+    "la vida que no fue"
+   ],
+   "intensidad": 4,
+   "gancho": "Una vida imaginada no tiene días",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8. La vida que no fue"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Casi nadie echa de menos una vida concreta. Lo que se echa de menos es la facilidad: la posibilidad de que aquello hubiera costado menos. Eso sí existió como posibilidad y no se dio.",
+   "es_literal": false,
+   "ancla": "Lo que se echa de menos, además, casi nunca es una vida concreta. Nadie llora por una carrera imaginaria.",
+   "temas": [
+    "duelo",
+    "facilidad",
+    "la vida que no fue"
+   ],
+   "intensidad": 4,
+   "gancho": "No se echa de menos una carrera: se echa de menos la facilidad",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8. La vida que no fue"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) espera a que vuelva el «si me lo hubieran dicho a los diez años»; 2) completa una sola frase que empiece por «echo de menos»; 3) que no sea lo que habrías conseguido, sino lo que te habría costado menos; 4) ahí lo dejas.",
+   "es_literal": false,
+   "ancla": "no lo que habrías conseguido, sino lo que te habría costado menos. «Echo de menos que estudiar no hubiera sido tan caro.» «Echo de menos no haber tenido tanto miedo a los lunes.»",
+   "temas": [
+    "un paso hoy",
+    "duelo",
+    "la vida que no fue"
+   ],
+   "intensidad": 3,
+   "gancho": "Echo de menos: no lo conseguido, lo que habría costado menos",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8. La vida que no fue"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Aquí no hay conversación pendiente que tengas que tener, ni carta que leer en voz alta, ni comida familiar donde se pongan las cosas en su sitio. El libro no propone la confrontación reparadora.",
+   "es_literal": false,
+   "ancla": "No hay aquí ninguna conversación pendiente que tengas que tener, ninguna carta que haya que escribir y leer en voz alta, ninguna comida familiar en la que se pongan las cosas en su sitio.",
+   "temas": [
+    "padres",
+    "límites",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Ninguna conversación pendiente que tengas que tener",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9. Los padres"
+  },
+  {
+   "tipo": "cita",
+   "texto": "cuando el objetivo de una conversación es que el otro reconozca algo, el resultado depende del otro. Le has entregado la llave de tu alivio a alguien que ni siquiera sabe que la tiene.",
+   "es_literal": true,
+   "ancla": "cuando el objetivo de una conversación es que el otro reconozca algo, el resultado depende del otro. Le has entregado la llave de tu alivio a alguien que ni siquiera sabe que la tiene.",
+   "temas": [
+    "padres",
+    "conversaciones",
+    "expectativas"
+   ],
+   "intensidad": 5,
+   "gancho": "La llave de tu alivio, en manos de quien no sabe que la tiene",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9. Los padres"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Que no supieran no borra lo que dolió. Y que doliera no convierte tu biografía en una condena a tus padres. Las dos frases valen a la vez, y si solo te sale una, la otra está tapada por algo.",
+   "es_literal": false,
+   "ancla": "Las dos frases valen a la vez. Dolió y no fue una condena. Si te sale una sola de las dos, sospecha; casi siempre es que la otra está tapada por algo.",
+   "temas": [
+    "padres",
+    "relectura",
+    "equilibrio"
+   ],
+   "intensidad": 4,
+   "gancho": "Dolió y no fue una condena: las dos a la vez",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9. Los padres"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) copia entero en una nota el mensaje de las dos de la madrugada; 2) ponle la fecha de hoy en la primera línea; 3) ciérrala sin mandarlo y sin borrarlo; 4) vuelve dentro de una semana, de día, y decide.",
+   "es_literal": false,
+   "ancla": "Sin mandarlo. No lo borres: guardarlo es la mitad del ejercicio. Vuelve a esa nota dentro de una semana y decide entonces, despierto y de día, si quieres mandarlo, cambiarlo o dejarlo donde está.",
+   "temas": [
+    "un paso hoy",
+    "padres",
+    "mensaje nocturno"
+   ],
+   "intensidad": 3,
+   "gancho": "El mensaje de las dos: escrito, fechado y sin mandar",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9. Los padres"
+  },
+  {
+   "tipo": "cita",
+   "texto": "explicar no es excusar. No has descubierto quién eres: has descubierto por qué te costaba. Y por qué te costaba no es lo mismo que qué le pasó a quien tenías delante.",
+   "es_literal": true,
+   "ancla": "explicar no es excusar. No has descubierto quién eres: has descubierto por qué te costaba. Y por qué te costaba no es lo mismo que qué le pasó a quien tenías delante.",
+   "temas": [
+    "explicar y no cancelar",
+    "vínculos",
+    "culpa"
+   ],
+   "intensidad": 5,
+   "gancho": "Explicar no es excusar",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10. Los que estaban delante"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La explicación cuenta lo que pasaba de tu lado del cristal. Del otro lado no llega. Puedes saber hoy por qué no contestaste aquel mensaje; eso no toca las tres horas que la otra persona pasó mirándolo.",
+   "es_literal": false,
+   "ancla": "Tú puedes saber ahora perfectamente por qué no contestaste aquel mensaje. Eso no cambia ni un milímetro las tres horas que la otra persona pasó mirando el móvil.",
+   "temas": [
+    "explicar y no cancelar",
+    "vínculos"
+   ],
+   "intensidad": 4,
+   "gancho": "Tu lado del cristal y el suyo",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10. Los que estaban delante"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es una disculpa: es una explicación con forma de disculpa. En cuanto aparece un «es que» detrás de un «perdón», lo que viene ya es defensa.",
+   "es_literal": false,
+   "ancla": "En cuanto aparece un «es que» detrás de un «perdón», lo que viene después ya no es la disculpa, es la defensa.",
+   "temas": [
+    "disculpas",
+    "vínculos",
+    "reparación"
+   ],
+   "intensidad": 4,
+   "gancho": "El «es que» que delata una disculpa",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10. Los que estaban delante"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) elige a una sola persona de la lista; 2) escribe una frase que diga lo que le pasó a ella; 3) sin «porque», sin «es que» y sin mencionarte; 4) si te salen tres, quédate con la primera.",
+   "es_literal": false,
+   "ancla": "Solo eso. Sin la palabra «porque», sin «es que», sin ninguna mención a ti ni a lo que has descubierto: «Se quedó esperándome en la puerta del cine.» «Llevó la casa sola aquel año.»",
+   "temas": [
+    "un paso hoy",
+    "vínculos",
+    "el otro lado"
+   ],
+   "intensidad": 3,
+   "gancho": "Escribir el otro lado del cristal sin ponerte tú dentro",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10. Los que estaban delante"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando se lo cuentas a quien se sabe tu versión antigua de memoria, no estás dando una noticia: estás proponiendo una edición. Y en ese archivo hay escenas suyas.",
+   "es_literal": false,
+   "ancla": "Si le cuentas que aquello que lleva veinte años contando de ti tenía otra explicación, le estás pidiendo que revise el archivo.",
+   "temas": [
+    "contarlo",
+    "amistades",
+    "versión antigua"
+   ],
+   "intensidad": 3,
+   "gancho": "No es una noticia: es una edición",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 11. Contarlo, otra vez"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Nadie va a darle a tu noticia el tamaño que tiene dentro de ti, porque ese tamaño está hecho de todo lo que no has contado.",
+   "es_literal": true,
+   "ancla": "Nadie va a darle a tu noticia el tamaño que tiene dentro de ti, porque ese tamaño está hecho de todo lo que no has contado.",
+   "temas": [
+    "contarlo",
+    "desproporción",
+    "expectativas"
+   ],
+   "intensidad": 4,
+   "gancho": "El tamaño está hecho de lo que no has contado",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11. Contarlo, otra vez"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Frases cortas para cuando el tema salga solo: para quien se siente acusado, «no te lo cuento para que te sientas mal»; si insiste, «no hace falta que estemos de acuerdo hoy». Cuanto más corto, mejor va.",
+   "es_literal": false,
+   "ancla": "«No te lo cuento para que te sientas mal por nada. Te lo cuento porque eres de las personas que más me conocen.» Y si insiste en discutir, se deja: «Vale, no hace falta que estemos de acuerdo hoy.»",
+   "temas": [
+    "contarlo",
+    "frases cortas",
+    "día malo"
+   ],
+   "intensidad": 2,
+   "gancho": "Frases de una línea que se dicen sin coger aire",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11. Contarlo, otra vez"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "No le debes a nadie convencerle de que existe lo que te pasa. No es un debate y tú no representas a nadie. Hay una frase que lo cierra sin romper nada.",
+   "es_literal": false,
+   "ancla": "Y hay una frase que cierra esa conversación sin romper nada: «No te lo estoy discutiendo. Te lo estoy contando.»",
+   "temas": [
+    "contarlo",
+    "límites",
+    "lo que no debes"
+   ],
+   "intensidad": 4,
+   "gancho": "No te lo estoy discutiendo: te lo estoy contando",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11. Contarlo, otra vez"
+  },
+  {
+   "tipo": "cita",
+   "texto": "«Es que ya no me pasan cosas. Me pasan ejemplos.»",
+   "es_literal": true,
+   "ancla": "Cosme lo describió así: «Es que ya no me pasan cosas. Me pasan ejemplos.»",
+   "temas": [
+    "relectura sin fin",
+    "vivir",
+    "señales"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuando el martes deja de ser un martes",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12. Cuando la palabra se come la biografía"
+  },
+  {
+   "tipo": "cita",
+   "texto": "una buena historia es una historia con causas claras, y tu vida no las tuvo.",
+   "es_literal": true,
+   "ancla": "Y ahí está el problema: **una buena historia es una historia con causas claras, y tu vida no las tuvo.**",
+   "temas": [
+    "versión oficial",
+    "biografía",
+    "relato"
+   ],
+   "intensidad": 4,
+   "gancho": "Tu vida no tuvo causas claras",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12. Cuando la palabra se come la biografía"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Los grupos y los foros hacen un bien enorme y también empiezan, sin querer, a contarte tu propia infancia. Coge lo que sirve, que es mucho, y no dejes que nadie te firme los recuerdos.",
+   "es_literal": false,
+   "ancla": "Nadie sabe qué significaba aquella tarde en el patio, ni si tu madre estaba enfadada o cansada, ni si el profesor te tenía manía o simplemente tenía treinta críos.",
+   "temas": [
+    "comunidad",
+    "memoria",
+    "relectura"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie más que tú estaba allí",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12. Cuando la palabra se come la biografía"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Cuando una explicación aparece demasiado rápido y demasiado redonda: ¿qué más podría ser esto? No para negarla. Para dejar sitio a las otras.",
+   "es_literal": false,
+   "ancla": "Cuando una explicación aparece demasiado rápido y demasiado redonda, pregunto: ¿qué más podría ser esto? No para negar la explicación. Para dejar sitio a las otras.",
+   "temas": [
+    "freno",
+    "explicación",
+    "relectura"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Qué más podría ser esto?",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12. Cuando la palabra se come la biografía"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) coge un recuerdo bueno, uno cualquiera; 2) escríbelo en tres líneas sin usar ni una vez la palabra nueva; 3) solo lo que pasó: dónde, quién, qué se oía; 4) ciérralo y no lo releas hoy.",
+   "es_literal": false,
+   "ancla": "Solo lo que pasó: dónde, quién, qué se oía, qué tal hacía. Tres líneas, cinco minutos. Cuando lo termines, ciérralo y no lo releas hoy.",
+   "temas": [
+    "un paso hoy",
+    "recuerdos",
+    "freno"
+   ],
+   "intensidad": 2,
+   "gancho": "Un recuerdo bueno escrito sin la palabra nueva",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12. Cuando la palabra se come la biografía"
+  },
+  {
+   "tipo": "cita",
+   "texto": "no ha empezado una vida nueva, se ha acabado una explicación equivocada. Son dos cosas de tamaño muy distinto, y la segunda es la que se sostiene.",
+   "es_literal": true,
+   "ancla": "no ha empezado una vida nueva, se ha acabado una explicación equivocada. Son dos cosas de tamaño muy distinto, y la segunda es la que se sostiene.",
+   "temas": [
+    "después",
+    "expectativas",
+    "renacimiento"
+   ],
+   "intensidad": 5,
+   "gancho": "Se ha acabado una explicación equivocada",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13. Ni renacimiento ni recaída"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No has cambiado de ojos: has cambiado de gafas. Y las gafas dejan ver la letra pequeña, pero no escriben el contrato.",
+   "es_literal": false,
+   "ancla": "Había cambiado de gafas, no de ojos. Y las gafas te dejan ver la letra pequeña, pero no escriben el contrato.",
+   "temas": [
+    "después",
+    "entender y ejecutar"
+   ],
+   "intensidad": 4,
+   "gancho": "Las gafas dejan ver la letra pequeña; no escriben el contrato",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13. Ni renacimiento ni recaída"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El relato del renacimiento cobra. Si te instalas en «ahora todo va a ser distinto», el reproche cambia de nombre y sigue funcionando igual.",
+   "es_literal": false,
+   "ancla": "Antes te reprochabas ser un desastre. Ahora te reprochas no estar aprovechando la información. Es el mismo látigo con otro mango.",
+   "temas": [
+    "renacimiento",
+    "expectativas",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "El mismo látigo con otro mango",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13. Ni renacimiento ni recaída"
+  },
+  {
+   "tipo": "cita",
+   "texto": "«Yo no he dejado de perder las llaves. He dejado de darme una charla cada vez que las pierdo».",
+   "es_literal": true,
+   "ancla": "«Yo no he dejado de perder las llaves. He dejado de darme una charla cada vez que las pierdo».",
+   "temas": [
+    "lo que se gana",
+    "pelea interna"
+   ],
+   "intensidad": 4,
+   "gancho": "Las llaves se siguen perdiendo; la charla, no",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14. Lo que se gana, sin inflarlo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Nada de esto compensa lo que costó. No es un trato ni una contabilidad que haya que cerrar en positivo: se puede agradecer la información y saber que el precio fue caro.",
+   "es_literal": false,
+   "ancla": "Se pueden tener las dos cosas a la vez: agradecer la información y saber que el precio fue caro. No hay ninguna obligación de cerrar esa cuenta en positivo.",
+   "temas": [
+    "lo que se gana",
+    "honestidad",
+    "precio"
+   ],
+   "intensidad": 5,
+   "gancho": "No hay obligación de cerrar esa cuenta en positivo",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14. Lo que se gana, sin inflarlo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando algo entendido sigue pasando, cambia la pregunta: 1) no «¿por qué no soy capaz?»; 2) sino «¿qué habría que cambiar alrededor?»; 3) la fecha en el calendario y no en la cabeza; 4) el aviso el día antes.",
+   "es_literal": false,
+   "ancla": "La fecha en el calendario y no en la cabeza. El aviso el día antes. La conversación por escrito. Nada de eso exige más fuerza de voluntad: exige montar cosas fuera.",
+   "temas": [
+    "sistemas",
+    "día malo",
+    "entender y ejecutar"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que se monta fuera aguanta los días malos",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14. Lo que se gana, sin inflarlo"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Si una persona a la que quieres te contara exactamente lo que te está pasando a ti, con las mismas palabras, ¿le dirías que espere a ver si se le pasa?",
+   "es_literal": true,
+   "ancla": "Si una persona a la que quieres te contara exactamente lo que te está pasando a ti, con las mismas palabras, ¿le dirías que espere a ver si se le pasa?",
+   "temas": [
+    "señales",
+    "minimizar",
+    "pedir ayuda"
+   ],
+   "intensidad": 4,
+   "gancho": "El antídoto contra minimizar lo tuyo",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Nada de lo leído aquí es motivo para dejar una terapia, un tratamiento o una medicación. El libro no revisa historiales ni sabe nada de tu caso: eso se lleva a la siguiente sesión.",
+   "es_literal": false,
+   "ancla": "Este libro no diagnostica, no revisa historiales, no reinterpreta lo que te haya dicho un profesional y no sabe nada de tu caso. Si estás en tratamiento, sigue en tratamiento.",
+   "temas": [
+    "límites",
+    "tratamiento",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Si estás en tratamiento, sigue en tratamiento",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) abre la agenda del móvil; 2) guarda el 024, atención a la conducta suicida; 3) ponle un nombre que reconozcas; 4) hazlo hoy, que estás bien, porque en un mal momento no se busca, solo se pulsa.",
+   "es_literal": false,
+   "ancla": "Guarda ahora mismo el **024** en la agenda del móvil, con un nombre que reconozcas. Un minuto. Aunque hoy estés bien, y sobre todo si hoy estás bien.",
+   "temas": [
+    "un paso hoy",
+    "teléfonos",
+    "pedir ayuda"
+   ],
+   "intensidad": 3,
+   "gancho": "Un teléfono guardado en un buen momento",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El avance no es que gane siempre la lectura nueva. Es saber cuál estás usando. Reconocer el tono —«esto es la lectura vieja»— ya es la única cosa que hay que hacer.",
+   "es_literal": false,
+   "ancla": "Cuando notas el pinchazo del reproche y puedes pensar «vale, esto es la lectura vieja, la de siempre», acabas de hacer la única cosa que hay que hacer.",
+   "temas": [
+    "dos lecturas",
+    "voz antigua"
+   ],
+   "intensidad": 4,
+   "gancho": "No hace falta ganar la discusión: basta con saber quién habla",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16. Una historia con dos lecturas"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Practicar la lectura nueva, en tres movimientos de medio minuto: 1) reconocer que ha hablado la vieja, por el tono; 2) reformular el hecho sin el veredicto; 3) preguntar qué hace falta ahora, en concreto.",
+   "es_literal": false,
+   "ancla": "Sin adornarlo y sin excusarlo. Solo lo que ocurrió: se me pasó la fecha, me quedé en blanco, no contesté al mensaje en dos semanas.",
+   "temas": [
+    "dos lecturas",
+    "práctica",
+    "día malo"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres movimientos que caben en medio minuto",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16. Una historia con dos lecturas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "«me ha bajado el volumen del comentarista»",
+   "es_literal": true,
+   "ancla": "Y añadió algo que me quedé apuntando: «me ha bajado el volumen del comentarista».",
+   "temas": [
+    "dos lecturas",
+    "escala real"
+   ],
+   "intensidad": 3,
+   "gancho": "No es una vida distinta: es un volumen distinto",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16. Una historia con dos lecturas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La pregunta de quién eres no se cierra nunca, y por eso deja la cabeza encendida. La de por qué costaba tiene contorno: se contesta, se guarda y se puede volver a la vida.",
+   "es_literal": true,
+   "ancla": "La pregunta de quién eres no se cierra nunca, y por eso deja la cabeza encendida. La de por qué costaba tiene contorno: se contesta, se guarda y se puede volver a la vida.",
+   "temas": [
+    "cierre",
+    "pregunta con contorno"
+   ],
+   "intensidad": 5,
+   "gancho": "Una pregunta con contorno es lo que permite apagar la luz",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Cierre — Por qué te costaba"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Mañana va a ser más o menos como hoy, y algunas cosas se van a atragantar igual. Lo que se puede cancelar es la parte de después: la reunión a solas para determinar qué falla en ti.",
+   "es_literal": false,
+   "ancla": "Lo que ya no vas a tener que hacer es la parte de después: la reunión a solas para determinar qué falla en ti. Esa se puede cancelar. Ya sabes por qué te costaba.",
+   "temas": [
+    "cierre",
+    "reproche",
+    "día a día"
+   ],
+   "intensidad": 4,
+   "gancho": "La reunión a solas para determinar qué falla en ti: cancelada",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Cierre — Por qué te costaba"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro termina sin tarea pendiente: no hay que ir a ningún sitio, ni contárselo a nadie, ni decidir nada esta semana. Se puede dejar reposar un año entero.",
+   "es_literal": false,
+   "ancla": "No hay ninguna tarea pendiente al terminar este libro. No hay que ir a ningún sitio, ni contárselo a nadie, ni tomar ninguna decisión esta semana. Se puede dejar reposar un año entero si es lo que hace falta.",
+   "temas": [
+    "cierre",
+    "sin deberes",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Ninguna tarea pendiente al terminar el libro",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Cierre — Por qué te costaba"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La relectura, con freno: 1) un tramo cada vez, con principio y final; 2) por escrito, nunca solo en la cabeza; 3) veinte minutos; 4) hora de terminar puesta antes de empezar.",
+   "es_literal": false,
+   "ancla": "Un curso, un trabajo, una relación, un año concreto. Algo con principio y final. «La infancia» no es un tramo; segundo de bachillerato sí.",
+   "temas": [
+    "anexos",
+    "relectura",
+    "freno"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuatro condiciones para releer sin quedarte a vivir ahí",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Anexos · La relectura, con freno"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Entender por qué llegabas tarde, por qué desaparecías durante semanas o por qué contestabas mal no borra lo que le pasó a quien estaba delante. Explica un mecanismo; no reparte absoluciones.",
+   "es_literal": true,
+   "ancla": "Entender por qué llegabas tarde, por qué desaparecías durante semanas o por qué contestabas mal no borra lo que le pasó a quien estaba delante. Explica un mecanismo; no reparte absoluciones.",
+   "temas": [
+    "anexos",
+    "explicar y no cancelar",
+    "vínculos"
+   ],
+   "intensidad": 5,
+   "gancho": "Explica un mecanismo; no reparte absoluciones",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Anexos · Lo que la lente explica y lo que no"
+  }
+ ]
+}

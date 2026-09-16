@@ -1,0 +1,1272 @@
+{
+ "serie": "mente_distinta",
+ "libro": "enmascarada",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "Lo que se te da bien es justo lo que hace invisible lo que cuesta.",
+   "es_literal": true,
+   "ancla": "Y tendrían razón, y eso es exactamente el problema. Lo que se te da bien es justo lo que hace invisible lo que cuesta.",
+   "temas": [
+    "máscara",
+    "invisibilidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie te vio esforzarte. Ese es el problema, no la prueba de que no costara",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — Se te da muy bien y nadie sabe lo que cuesta"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La máscara no fue una mentira: fue el precio de la entrada.",
+   "es_literal": true,
+   "ancla": "**La máscara no fue una mentira: fue el precio de la entrada.**",
+   "temas": [
+    "máscara",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "La frase que el libro pone en la primera página",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Introducción — Se te da muy bien y nadie sabe lo que cuesta"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La cena salió bien. Y luego el coche: sin radio, sin música, sin móvil. Las manos en el volante y la carretera delante, o la cabeza apoyada en el cristal frío notando cada bache. Alguien pregunta si estás enfadada y dices que no, que cansada. De qué, no lo sabes explicar.",
+   "es_literal": false,
+   "ancla": "Te quedaste con las manos en el volante y la carretera delante; y si ibas de pasajera, te quedaste mirando por la ventanilla con la cabeza apoyada en el cristal frío, notando cada bache.",
+   "temas": [
+    "agotamiento",
+    "vuelta a casa"
+   ],
+   "intensidad": 3,
+   "gancho": "El silencio del coche de vuelta, contado sin drama",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Introducción — Se te da muy bien y nadie sabe lo que cuesta"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "En este libro no hay cuestionarios, ni puntuaciones, ni «si te has reconocido en más de siete de estas frases». No faltan por descuido: reconocerse en una descripción no es un resultado ni una prueba.",
+   "es_literal": false,
+   "ancla": "Aquí no hay cuestionarios, ni puntuaciones, ni «si te has reconocido en más de siete de estas frases». No los hay por descuido: no los hay porque ponerte a puntuarte a ti misma en las páginas de un libro no ayuda a nadie.",
+   "temas": [
+    "límites del libro",
+    "sin test"
+   ],
+   "intensidad": 3,
+   "gancho": "Ni un test. Ni una puntuación. Ni una lista de señales",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Introducción — Se te da muy bien y nadie sabe lo que cuesta"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una mujer descubre a los cincuenta y cuatro que su risa del trabajo —corta, dos tiempos, la cabeza algo hacia atrás— es la de una compañera que se jubiló hace once años. La copió al entrar, porque a aquella mujer le caía bien a todo el mundo.",
+   "es_literal": false,
+   "ancla": "Once años después de que la otra se fuera, Adela sigue riéndose con la risa de una señora que ya no trabaja allí.",
+   "temas": [
+    "repertorio",
+    "gestos prestados"
+   ],
+   "intensidad": 3,
+   "gancho": "Gestos prestados que se quedan puestos once años después",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1. Actuar sin acordarse de haber empezado"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que es, en realidad, es alguien que se preparó los deberes.",
+   "es_literal": true,
+   "ancla": "Nunca se lo ha contado a nadie porque le da vergüenza. Piensa que si alguien lo leyera pensaría que es una psicópata. Lo que es, en realidad, es alguien que se preparó los deberes.",
+   "temas": [
+    "repertorio",
+    "vergüenza"
+   ],
+   "intensidad": 4,
+   "gancho": "Tener las frases apuntadas en el móvil no te convierte en nada raro",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1. Actuar sin acordarse de haber empezado"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Pedir cita en el dentista dura cuarenta segundos. Prepararla dura cuatro minutos: la primera frase palabra por palabra, las respuestas previstas, el bolígrafo a mano. Y hay días en los que la llamada se aplaza una semana porque esos cuatro minutos no están disponibles.",
+   "es_literal": false,
+   "ancla": "La llamada dura cuarenta segundos. La preparación, cuatro minutos. Y hay días en los que la llamada se pospone una semana, no por miedo al dentista, sino porque hoy no hay cuatro minutos disponibles para preparar cuarenta segundos.",
+   "temas": [
+    "ensayo",
+    "llamadas"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuarenta segundos de llamada, cuatro minutos de preparación",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1. Actuar sin acordarse de haber empezado"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) espera a la próxima conversación fuera de casa; 2) coge un papel; 3) escribe una sola cosa que hicieras a propósito para que saliera bien (preparé la primera frase, miré a la boca, saqué el tema del tiempo). Una frase, un papel, y ya está.",
+   "es_literal": false,
+   "ancla": "Una frase, un papel, y ya está. No es una lista, no es un examen y no se puntúa: es solo comprobar, una vez, que lo que llevas haciendo sin darte cuenta se puede ver cuando se mira.",
+   "temas": [
+    "un paso hoy",
+    "observarse"
+   ],
+   "intensidad": 2,
+   "gancho": "Una sola cosa, en un papel. No es una lista y no se puntúa",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1. Actuar sin acordarse de haber empezado"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Enmascarar es el conjunto de cosas que haces —la mayoría sin haberlas decidido— para que tu manera de estar con la gente se parezca a la que se espera, y para que no se note lo que te está costando parecerlo.",
+   "es_literal": true,
+   "ancla": "Enmascarar es el conjunto de cosas que haces —la mayoría sin haberlas decidido— para que tu manera de estar con la gente se parezca a la que se espera, y para que no se note lo que te está costando parecerlo.",
+   "temas": [
+    "definición",
+    "máscara"
+   ],
+   "intensidad": 4,
+   "gancho": "La definición del libro, en llano y sin jerga",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2. Qué es enmascarar, en llano"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque solo se suelta lo que se estaba sujetando.",
+   "es_literal": true,
+   "ancla": "Ese instante es la señal más clara de que había algo sostenido. Porque solo se suelta lo que se estaba sujetando.",
+   "temas": [
+    "máscara",
+    "cerrar la puerta"
+   ],
+   "intensidad": 4,
+   "gancho": "El momento de cerrar la puerta y que se caiga la postura",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2. Qué es enmascarar, en llano"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es timidez: la timidez es querer participar y no poder. Esto es participar, participar bien, ser a veces la que más habla de la mesa, y pagarlo después en privado, donde no lo ve nadie.",
+   "es_literal": false,
+   "ancla": "La timidez, tal como se entiende normalmente, es querer participar y no poder: se te cierra la garganta, te pones roja, no sales. Lo que describe este libro es a menudo lo contrario: se puede, se sale, se participa",
+   "temas": [
+    "timidez",
+    "confusiones"
+   ],
+   "intensidad": 4,
+   "gancho": "No es timidez: la factura llega después, no durante",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2. Qué es enmascarar, en llano"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Hay máscaras que no producen encanto, sino distancia. Un hombre de cuarenta y seis años no llega a casa agotado de haber sido amable: llega agotado de haberse contenido ocho horas. Los primeros veinte minutos en casa son malos, y en casa lo leen como desinterés.",
+   "es_literal": false,
+   "ancla": "Xabier no llega a casa agotado de haber sido amable: llega a casa agotado de haber estado conteniéndose ocho horas, y lo que sale entonces es irritabilidad.",
+   "temas": [
+    "hombres",
+    "máscara de piedra"
+   ],
+   "intensidad": 4,
+   "gancho": "Enmascarar no siempre produce simpatía. A veces produce distancia",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2. Qué es enmascarar, en llano"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro se niega a contarlo como un talento del que presumir. Lo llama trabajo: hecho con destreza, en unas condiciones que no se eligieron. Lo mismo que cualquier oficio duro que alguien aprendió porque no le quedaba otra.",
+   "es_literal": false,
+   "ancla": "Lo que haces es un trabajo, hecho con destreza, en unas condiciones que no elegiste. Lo mismo que se puede decir de cualquier oficio duro que alguien aprendió porque no le quedaba otra.",
+   "temas": [
+    "límites del libro",
+    "sin épica"
+   ],
+   "intensidad": 4,
+   "gancho": "Aquí no se llama talento a lo que es un trabajo",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2. Qué es enmascarar, en llano"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cómo es que algo que llevaba funcionando desde antes de tus primeros recuerdos no le llamó la atención a nadie en cuarenta años?",
+   "es_literal": false,
+   "ancla": "Si esto llevaba funcionando desde antes de tus primeros recuerdos, la pregunta se hace sola y suele hacerse con enfado: ¿y cómo es que nadie vio nada en cuarenta años?",
+   "temas": [
+    "reconocimiento tardío",
+    "enfado"
+   ],
+   "intensidad": 3,
+   "gancho": "La pregunta que se hace sola, y suele hacerse con enfado",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3. Por qué no se vio antes"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un niño que interrumpe una clase treinta veces genera una reunión con los padres. Una niña que se pasa la clase en las nubes y aprueba, no.",
+   "es_literal": true,
+   "ancla": "Un niño que interrumpe una clase treinta veces genera una reunión con los padres. Una niña que se pasa la clase en las nubes y aprueba, no.",
+   "temas": [
+    "colegio",
+    "invisibilidad"
+   ],
+   "intensidad": 4,
+   "gancho": "A la consulta llegaba quien daba problemas a un adulto",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3. Por qué no se vio antes"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Tímida, madura para su edad, muy suya, intensa, exagerada. No son descripciones de una dificultad: son descripciones de carácter. Y un carácter no se acompaña, un carácter se corrige.",
+   "es_literal": false,
+   "ancla": "Son descripciones de carácter. Ninguna es una descripción de una dificultad. Y esa diferencia tiene una consecuencia enorme, porque un carácter no se acompaña: un carácter se corrige.",
+   "temas": [
+    "etiquetas",
+    "infancia"
+   ],
+   "intensidad": 5,
+   "gancho": "Las palabras que sí llegaron venían con deberes: haz más máscara",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3. Por qué no se vio antes"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Nada de lo que leas en este libro es motivo para dejar una terapia, un tratamiento o una medicación.",
+   "es_literal": true,
+   "ancla": "**Nada de lo que leas en este libro es motivo para dejar una terapia, un tratamiento o una medicación.**",
+   "temas": [
+    "historial",
+    "límites del libro"
+   ],
+   "intensidad": 5,
+   "gancho": "La única frase del libro que no admite matices",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4. Lo que este libro no va a hacer con tu historial"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Reconocerse y cambiar un tratamiento son dos operaciones distintas. La segunda no se hace sola. Y la sensación de haberlo entendido todo de golpe, por muy verdadera que sea, es una sensación, no una indicación.",
+   "es_literal": false,
+   "ancla": "Lo que aprendió es otra cosa: que reconocerse y cambiar un tratamiento son dos operaciones distintas, que la segunda no se hace sola y que la sensación de haberlo entendido todo de golpe, por muy verdadera que sea, es una sensación y no una indicación.",
+   "temas": [
+    "historial",
+    "reconocimiento"
+   ],
+   "intensidad": 5,
+   "gancho": "Una sensación no es una indicación",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4. Lo que este libro no va a hacer con tu historial"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para la próxima consulta: 1) escribe tres líneas en una tarjeta o en el móvil; 2) cada línea describe algo que pasa, con un número dentro si se puede; 3) ninguna dice lo que crees que es. «Este mes he cancelado tres planes.» 4) Guárdalas donde las vayas a encontrar.",
+   "es_literal": false,
+   "ancla": "Una regla para escribirlas: cada línea describe **algo que pasa**, con un número dentro si se puede, y **ninguna** dice lo que crees que es.",
+   "temas": [
+    "consulta",
+    "un paso hoy"
+   ],
+   "intensidad": 3,
+   "gancho": "Lleva observaciones, no conclusiones: tres líneas bastan",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4. Lo que este libro no va a hacer con tu historial"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un café en una terraza, hora y media, dos personas con las que te ríes de verdad. Vuelves andando doce minutos, abres la puerta y te sientas en el suelo del pasillo con el abrigo puesto. Y debajo de todo, la frase de siempre: pero si no he hecho nada.",
+   "es_literal": false,
+   "ancla": "Y por debajo de todo eso, la frase que aparece siempre y que es la peor de todas: *pero si no he hecho nada*.",
+   "temas": [
+    "agotamiento",
+    "vida social"
+   ],
+   "intensidad": 4,
+   "gancho": "«Pero si no he hecho nada»: el cansancio que no cuadra con el día",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 5. El agotamiento que no cuadra con nada"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Puesto en fila, ya no parece hora y media de nada. Parece un turno.",
+   "es_literal": true,
+   "ancla": "Puesto en fila, ya no parece hora y media de nada. Parece un turno.",
+   "temas": [
+    "agotamiento",
+    "trabajo invisible"
+   ],
+   "intensidad": 4,
+   "gancho": "Elegir la silla, contar los turnos, medir la risa. Puesto en fila, es un turno",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5. El agotamiento que no cuadra con nada"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El cansancio corriente trae recibo: has cargado, has andado, has madrugado. Este no. Este llega con la factura en blanco, y una factura en blanco es justo lo que hace falta para acusarte de estar inventándotelo. Tú incluida.",
+   "es_literal": false,
+   "ancla": "Este no. Este llega con la factura en blanco, y una factura en blanco es exactamente lo que necesita cualquiera para acusarte de estar inventándotelo. Tú incluida.",
+   "temas": [
+    "agotamiento",
+    "duda"
+   ],
+   "intensidad": 4,
+   "gancho": "Un cansancio sin recibo es un cansancio que nadie te cree",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5. El agotamiento que no cuadra con nada"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "«Burnout autista» es lenguaje de experiencia compartida, no lenguaje de consulta. No está en los manuales, nadie te lo va a poner en un informe y no tiene una definición cerrada. Sirve para entenderse; no descarta nada ni sustituye a que alguien lo mire.",
+   "es_literal": false,
+   "ancla": "**No es una categoría clínica.** No está en los manuales de diagnóstico, no es algo que un profesional te vaya a poner en un informe y no tiene una definición cerrada con la que se pueda medir si lo tienes o no.",
+   "temas": [
+    "burnout autista",
+    "límites del libro"
+   ],
+   "intensidad": 3,
+   "gancho": "Una palabra de la comunidad, no una etiqueta clínica. Las dos cosas a la vez",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5. El agotamiento que no cuadra con nada"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) busca en el calendario la próxima cosa social que ya tengas; 2) ve a la casilla del día siguiente; 3) escribe una sola palabra: flojo. Nada más. No hay que planificar el descanso ni cancelar nada: solo dejar avisado que ese día va con el anterior.",
+   "es_literal": false,
+   "ancla": "Coge la próxima cosa social que ya tengas en el calendario y escribe, en la casilla del día siguiente, una sola palabra: **flojo**. Nada más.",
+   "temas": [
+    "un paso hoy",
+    "calendario"
+   ],
+   "intensidad": 2,
+   "gancho": "Una palabra en la casilla del día siguiente: flojo",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5. El agotamiento que no cuadra con nada"
+  },
+  {
+   "tipo": "escena",
+   "texto": "«Mamá, ¿qué te apetece cenar?» Y te quedas de pie con la nevera abierta y dentro no hay nada. No en la nevera: en la respuesta. Lo que sí tienes, con detalle, es el mapa completo de lo que le apetece a cada persona de esa casa.",
+   "es_literal": false,
+   "ancla": "Y Genoveva se quedó de pie en la cocina con la puerta de la nevera abierta, mirando dentro, y por dentro no había nada. No en la nevera: en la respuesta.",
+   "temas": [
+    "preferencias",
+    "vida doméstica"
+   ],
+   "intensidad": 4,
+   "gancho": "La pregunta de nada que te deja en blanco: qué quieres cenar",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 6. No saber quién hay debajo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No hay una persona escondida esperando el rescate: hay una persona sin practicar. Los gustos no están reprimidos, tienen muy pocas horas. Y eso cambia la tarea: no toca un acto valiente, tocan repeticiones y ensayos pequeños.",
+   "es_literal": false,
+   "ancla": "no hay una persona escondida, hay una persona **sin practicar**. No es que tus gustos estén reprimidos: es que tienen muy pocas horas.",
+   "temas": [
+    "identidad",
+    "sin practicar"
+   ],
+   "intensidad": 5,
+   "gancho": "Debajo no hay nadie encerrado. Hay alguien sin practicar",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6. No saber quién hay debajo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Se puede estar en obras sin publicar los planos.",
+   "es_literal": true,
+   "ancla": "no le debes a nadie la versión antigua, pero tampoco le debes a nadie una versión nueva y coherente entregada antes del viernes. Se puede estar en obras sin publicar los planos.",
+   "temas": [
+    "identidad",
+    "explicaciones"
+   ],
+   "intensidad": 3,
+   "gancho": "Ni la versión antigua ni una versión nueva entregada antes del viernes",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6. No saber quién hay debajo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) espera a que alguien te pregunte algo minúsculo (qué quieres beber, dónde te sientas, qué ponemos); 2) contesta lo primero que se te ocurra; 3) sin consultar y sin «me da igual». Una sola vez, con una sola pregunta.",
+   "es_literal": false,
+   "ancla": "contesta lo primero que se te ocurra, sin consultar y sin «me da igual». Una sola vez, con una sola pregunta. No hay que explicarlo ni sostener nada más que eso.",
+   "temas": [
+    "un paso hoy",
+    "preferencias"
+   ],
+   "intensidad": 2,
+   "gancho": "Contestar una pregunta minúscula antes de calcular a quién le conviene",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6. No saber quién hay debajo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La entrevista sale bien porque una entrevista es una actuación con principio y final. El puesto es improvisación sin final. No es que no supieras hacer el trabajo: el trabajo lo hacías. Lo que no se aguantaba era todo lo que había alrededor.",
+   "es_literal": false,
+   "ancla": "Y no es que no supieras hacer el trabajo: el trabajo lo hacías, a menudo mejor que la media. Lo que no se aguantaba era todo lo que había alrededor del trabajo, que es donde se te iba el día entero.",
+   "temas": [
+    "trabajo",
+    "entrevistas"
+   ],
+   "intensidad": 4,
+   "gancho": "Entrevista impecable, tres meses brillantes, y luego la cuesta abajo",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7. La cuenta de los años"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Ceder costaba una tarde. Explicar costaba una conversación entera, con preguntas, con caras, y con la posibilidad bastante real de acabar oyendo que eres complicada.",
+   "es_literal": true,
+   "ancla": "Ceder costaba una tarde. Explicar costaba una conversación entera, con preguntas, con caras, y con la posibilidad bastante real de acabar oyendo que eres complicada. Con esos precios, cualquiera cede.",
+   "temas": [
+    "decir que no",
+    "vínculos"
+   ],
+   "intensidad": 4,
+   "gancho": "Cedías porque era la opción barata. Y diez años de opción barata pesan",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7. La cuenta de los años"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Los años no se perdieron. Se vivieron con una carga encima que nadie había pesado, y aun así dentro hubo vida, trabajo, gente y cosas conseguidas.",
+   "es_literal": true,
+   "ancla": "Los años no se perdieron. Se vivieron con una carga encima que nadie había pesado, y aun así dentro hubo vida, trabajo, gente y cosas conseguidas.",
+   "temas": [
+    "años perdidos",
+    "biografía"
+   ],
+   "intensidad": 5,
+   "gancho": "«Años perdidos» es una afirmación sobre hechos, y es falsa",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7. La cuenta de los años"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Actuar tantos años entrenó habilidades reales: leer una sala en tres segundos, escribir bien, aguantar mucha incomodidad. El libro se niega a llamarlas regalo. Se aprendieron porque no había alternativa, y tener una buena herramienta no justifica lo que costó.",
+   "es_literal": false,
+   "ancla": "Tener una buena herramienta no justifica el precio de la herramienta. Simplemente, ya que se pagó, no tiene sentido fingir que no se compró nada.",
+   "temas": [
+    "habilidades",
+    "sin romantizar"
+   ],
+   "intensidad": 4,
+   "gancho": "Habilidades reales, sí. Compensación por lo que costó, no",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7. La cuenta de los años"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Sale de la consulta con un informe de cuatro folios en un sobre, se mete en el coche y no lo arranca. Veinte minutos en el aparcamiento. No llora, no celebra: mira el volante y piensa en lo que cuesta el parking.",
+   "es_literal": false,
+   "ancla": "Lo que estaba haciendo, y esto lo cuenta mucha gente, era una cosa rarísima: mirar el volante y pensar en el precio del parking.",
+   "temas": [
+    "diagnóstico tardío",
+    "informe"
+   ],
+   "intensidad": 3,
+   "gancho": "El día del informe, muchas veces, no pasa nada. Y eso también es normal",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8. El diagnóstico tardío, por dentro y por fuera"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El alivio y el duelo no se turnan. No es primero uno y luego el otro: es a la vez, el mismo día, a veces en la misma hora, y con la sensación de estar siendo un poco ridícula por las dos cosas.",
+   "es_literal": false,
+   "ancla": "No es primero el alivio y luego, cuando se pasa, la tristeza. Es a la vez, el mismo día, a veces en la misma hora, y con la sensación de estar siendo un poco ridícula por las dos cosas.",
+   "temas": [
+    "diagnóstico tardío",
+    "duelo"
+   ],
+   "intensidad": 4,
+   "gancho": "El alivio y el duelo llegan el mismo día, y nadie lo avisa",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8. El diagnóstico tardío, por dentro y por fuera"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Y si me lo hubieran dicho a los diez años? La respuesta honesta es que no se sabe, y que se puede dejar la pregunta sin resolverla.",
+   "es_literal": false,
+   "ancla": "Lo que toca aquí es la pregunta que va debajo de la rabia y que se repite palabra por palabra en todas las versiones de esta historia: ¿y si me lo hubieran dicho a los diez años?",
+   "temas": [
+    "rabia",
+    "reconocimiento tardío"
+   ],
+   "intensidad": 4,
+   "gancho": "La pregunta que va debajo de la rabia, y que no tiene respuesta",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8. El diagnóstico tardío, por dentro y por fuera"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Es una obra que salió carísima y que funcionó perfectamente, y ahora resulta que la prueba de que funcionó es que no te creen.",
+   "es_literal": true,
+   "ancla": "Es una obra que salió carísima y que funcionó perfectamente, y ahora resulta que la prueba de que funcionó es que no te creen.",
+   "temas": [
+    "pues yo no lo veo",
+    "familia"
+   ],
+   "intensidad": 5,
+   "gancho": "Quien menos lo ve suele ser quien te ha tenido más cerca",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8. El diagnóstico tardío, por dentro y por fuera"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Un informe es un documento clínico. No es automáticamente una adaptación en el trabajo, ni un reconocimiento administrativo, ni una explicación que te acepten en todas las mesas. Este libro no promete que el papel cambie eso.",
+   "es_literal": false,
+   "ancla": "Un informe es un documento clínico. No es automáticamente una adaptación en tu trabajo, ni un reconocimiento administrativo, ni un ajuste en la universidad, ni una explicación que te vayan a aceptar en todas las mesas.",
+   "temas": [
+    "diagnóstico tardío",
+    "trámite"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que cambia por escrito, y lo que no cambia nada",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8. El diagnóstico tardío, por dentro y por fuera"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La máscara funcionó y costó. Las dos cosas, a la vez. Si solo te quedas con que costó, acabas mirando tu propia vida como un daño; si solo te quedas con que funcionó, no cambias nada.",
+   "es_literal": false,
+   "ancla": "Funcionó **y** costó. No hay que elegir una de las dos. Si solo te quedas con que costó, acabas mirando tu propia vida como un daño; si solo te quedas con que funcionó, no cambias nada.",
+   "temas": [
+    "máscara",
+    "funcionó"
+   ],
+   "intensidad": 4,
+   "gancho": "Se quedó porque pagaba. Esa es la frase que casi nadie escribe",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9. La máscara vino de algún sitio"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "«Si te quisieras, no necesitarías fingir» coloca la causa dentro de ti y borra el contexto entero. Enmascarar no es un problema de autoestima: es una respuesta aprendida a un entorno concreto, y los entornos concretos siguen ahí.",
+   "es_literal": false,
+   "ancla": "Enmascarar no es un problema de autoestima. Es una respuesta aprendida a un entorno concreto, y los entornos concretos siguen existiendo por mucho que tú te quieras muchísimo.",
+   "temas": [
+    "eslóganes",
+    "autoestima"
+   ],
+   "intensidad": 4,
+   "gancho": "No es un problema de autoestima. Es el entorno, que sigue siendo el que es",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9. La máscara vino de algún sitio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Los modales se hacen y se olvidan. La máscara se prepara antes y se revisa después.",
+   "es_literal": true,
+   "ancla": "Ahí está la diferencia, y es fácil de recordar: **los modales se hacen y se olvidan. La máscara se prepara antes y se revisa después.**",
+   "temas": [
+    "modales",
+    "máscara"
+   ],
+   "intensidad": 4,
+   "gancho": "Buena parte de lo que llamas máscara no es máscara: son modales",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9. La máscara vino de algún sitio"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) elige una sola cosa que haces siempre cuando estás en tu personaje; 2) ponle nombre: máscara o modales; 3) la prueba es si la preparas antes y la repasas después, o si la haces y la olvidas. No hay que cambiarla ni apuntarla.",
+   "es_literal": false,
+   "ancla": "Elige **una sola** cosa que haces siempre cuando estás en tu personaje y ponle nombre: máscara o modales. Una. No hay que cambiarla, ni decidir nada sobre ella, ni apuntarla en ningún sitio si no quieres.",
+   "temas": [
+    "un paso hoy",
+    "modales"
+   ],
+   "intensidad": 2,
+   "gancho": "Una cosa, un nombre: ¿máscara o modales?",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9. La máscara vino de algún sitio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Bajar la máscara donde no cuesta nada no te hace más valiente que nadie, y no bajarla donde cuesta el sueldo no te hace cobarde. Te hace persona con calculadora.",
+   "es_literal": true,
+   "ancla": "Bajar la máscara donde no cuesta nada no te hace más valiente que nadie, y no bajarla donde cuesta el sueldo no te hace cobarde. Te hace persona con calculadora.",
+   "temas": [
+    "dosificar",
+    "coste"
+   ],
+   "intensidad": 4,
+   "gancho": "En este mapa no aparece la palabra valentía. Aparece la palabra coste",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10. Dónde sí, dónde no y a qué coste"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El error más frecuente no es bajarla en el sitio equivocado. Es no bajarla en ningún sitio durante meses y que se caiga sola un martes cualquiera, justo donde más caro sale. Eso no es desenmascararse: es que la olla ha reventado por donde le ha tocado.",
+   "es_literal": false,
+   "ancla": "Eso no es desenmascararse. Eso es que la olla ha reventado por donde le ha tocado.",
+   "temas": [
+    "dosificar",
+    "aguantar"
+   ],
+   "intensidad": 4,
+   "gancho": "Aguantar, aguantar, aguantar, y que se caiga sola donde más caro sale",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10. Dónde sí, dónde no y a qué coste"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Hay sitios donde bajar la máscara cuesta el empleo, la credibilidad ante un juez, la custodia de un hijo o la seguridad en casa. Ahí no se baja. Y eso no es una derrota: es criterio.",
+   "es_literal": true,
+   "ancla": "**Hay sitios donde bajar la máscara cuesta el empleo, la credibilidad ante un juez, la custodia de un hijo o la seguridad en casa. Ahí no se baja. Y eso no es una derrota: es criterio.**",
+   "temas": [
+    "dónde no se baja",
+    "criterio"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que ningún eslogan te va a decir: hay sitios donde no se baja",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 10. Dónde sí, dónde no y a qué coste"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para sostener un sitio caro sin salir destrozada: 1) acorta lo que se pueda (irse después del café); 2) deja el después vacío, sin nada detrás ese mismo día; 3) ten decidida de antes una frase para irte diez minutos sin explicaciones.",
+   "es_literal": false,
+   "ancla": "La segunda es dejar el después vacío. Si el jueves tienes la cosa cara, el jueves por la tarde no hay nada más. Nada.",
+   "temas": [
+    "sitios caros",
+    "planificación"
+   ],
+   "intensidad": 3,
+   "gancho": "Acortar, dejar el después vacío y tener una salida decidida de antes",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10. Dónde sí, dónde no y a qué coste"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué pasa cuando sales de ahí? Si no hay que recuperarse, si en el coche no vas repasando lo dicho, si esa noche no hay auditoría, el sitio era seguro. La vara no es «me lo he pasado bien»: es «me ha costado o no».",
+   "es_literal": false,
+   "ancla": "Si al salir no tienes que recuperarte, si en el coche no vas repasando lo que has dicho, si esa noche no hay auditoría, el sitio era seguro.",
+   "temas": [
+    "coste cero",
+    "señales"
+   ],
+   "intensidad": 3,
+   "gancho": "La señal no se lee durante. Se lee al salir",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10. Dónde sí, dónde no y a qué coste"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El criterio es lo que no cansa, no lo que apasiona.",
+   "es_literal": true,
+   "ancla": "Y aquí está el hallazgo de este capítulo, que vale más que cualquier lista de pasiones: **el criterio es lo que no cansa, no lo que apasiona.**",
+   "temas": [
+    "gustos",
+    "criterio"
+   ],
+   "intensidad": 4,
+   "gancho": "«Lo que me apasiona» es una vara altísima y encima se puede fingir",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11. Volver a saber qué te gusta"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Tres pasos, y no cambian: 1) elige una cosa concreta, una sola («oír un disco entero sentada»); 2) hazla quince minutos, sola y sin contárselo a nadie; 3) al acabar, una sola pregunta: ¿me ha cansado o no? Quince minutos, porque cabe en un día malo.",
+   "es_literal": false,
+   "ancla": "**Dos: hazla quince minutos, sola y sin contárselo a nadie.** Con reloj, si te ayuda a parar; si no, sin reloj. Quince minutos es la medida por una razón práctica: cabe en un día malo.",
+   "temas": [
+    "quince minutos",
+    "gustos"
+   ],
+   "intensidad": 3,
+   "gancho": "Una cosa, quince minutos, una pregunta. Sin cuaderno y sin proyecto",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11. Volver a saber qué te gusta"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Se acordó de que de niña copiaba mapas de un atlas con rotuladores y una regla, sin ningún motivo. A los cuarenta y siete compró papel y copió un mapa veinte minutos. No era exactamente placer: era que la cabeza se le quedaba quieta. Luego lo dejó dos meses y no pasó nada.",
+   "es_literal": false,
+   "ancla": "A los cuarenta y siete compró papel y copió un mapa durante veinte minutos y sintió algo que no sabía nombrar y que no era exactamente placer: era que la cabeza se le quedaba quieta.",
+   "temas": [
+    "gustos",
+    "los diez años"
+   ],
+   "intensidad": 3,
+   "gancho": "No es un renacer. Es una manera de estar sin tener que atender a nadie",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 11. Volver a saber qué te gusta"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Si pruebas cuatro cosas y ninguna te deja nada, el libro no concluye que estés vacía por dentro. Lo más probable es que estés demasiado cansada para notar la diferencia: cuando el agotamiento va por delante, todo sabe igual.",
+   "es_literal": false,
+   "ancla": "si pruebas cuatro cosas y ninguna te deja nada, no significa que estés vacía por dentro ni que hayas perdido la capacidad de disfrutar. Lo más probable es que estés demasiado cansada para notar la diferencia.",
+   "temas": [
+    "gustos",
+    "agotamiento"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuando el agotamiento va por delante, todo sabe igual",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11. Volver a saber qué te gusta"
+  },
+  {
+   "tipo": "cita",
+   "texto": "no contarlo es una opción legítima, y no es una traición a nadie ni a ninguna causa.",
+   "es_literal": true,
+   "ancla": "**no contarlo es una opción legítima, y no es una traición a nadie ni a ninguna causa.**",
+   "temas": [
+    "contarlo",
+    "privacidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Hay una diferencia enorme entre ocultar algo y no comentarlo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12. Lo que se cuenta y a quién"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Explicar una categoría abre un debate: si eso existe, si a todo el mundo le pasa un poco, si no será que estás cansada. Pedir una cosa concreta, no: la otra persona sabe qué hacer, que es lo que quiere saber.",
+   "es_literal": false,
+   "ancla": "Si decides contarlo, hay una diferencia que lo cambia todo: **explicar una categoría abre un debate; pedir una cosa concreta, no.**",
+   "temas": [
+    "contarlo",
+    "peticiones"
+   ],
+   "intensidad": 4,
+   "gancho": "Casi nadie está deseando entenderte. Casi todos agradecen saber qué necesitas",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12. Lo que se cuenta y a quién"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El guion tiene tres partes y siempre las mismas: 1) una frase de contexto, sin nombre técnico si no quieres; 2) lo que pides, concreto y pequeño; 3) cómo se traduce en la práctica. «Rindo mucho mejor con las cosas por escrito. Mándame un mensaje después.»",
+   "es_literal": false,
+   "ancla": "El guion tiene tres partes y siempre las mismas: **una frase de contexto** —sin nombre técnico si no quieres—, **lo que pides**, concreto y pequeño, y **cómo se traduce en la práctica**.",
+   "temas": [
+    "guiones",
+    "contarlo"
+   ],
+   "intensidad": 3,
+   "gancho": "Dos o tres frases. No se pide comprensión: se pide una conducta",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12. Lo que se cuenta y a quién"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Contarlo no se deshace. Es la única asimetría que importa: se puede empezar a contar, no se puede dejar de haber contado. Por eso estas decisiones van despacio y no hay ninguna prisa.",
+   "es_literal": false,
+   "ancla": "Es la única asimetría que importa de verdad en este capítulo. Se puede empezar a contar; no se puede dejar de haber contado.",
+   "temas": [
+    "contarlo",
+    "tiempos"
+   ],
+   "intensidad": 4,
+   "gancho": "Se puede empezar a contar. No se puede dejar de haber contado",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12. Lo que se cuenta y a quién"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Hay dos discursos en la misma tienda: el que dice que eres especial y el que dice que estás averiada. Los dos hacen el mismo movimiento: convertir una descripción parcial en un veredicto. Una descripción admite matices. Un veredicto, no.",
+   "es_literal": false,
+   "ancla": "coger una descripción de cómo le funcionan a ella algunas cosas y convertirla en un veredicto sobre quién es. Un veredicto glorioso o un veredicto triste, pero un veredicto.",
+   "temas": [
+    "identidad",
+    "relatos"
+   ],
+   "intensidad": 5,
+   "gancho": "Ni tribu ni personalidad entera: dos ventas en la misma tienda",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13. Ni tribu ni personalidad entera"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un valor que depende de rendir es exactamente el trato que tenías antes. Cambia la moneda, no el contrato.",
+   "es_literal": true,
+   "ancla": "El día en que no vieras lo que los demás no ven, el día en que no fueras especialmente creativa ni especialmente lúcida y solo estuvieras cansada, ¿qué queda? Un valor que depende de rendir es exactamente el trato que tenías antes. Cambia la moneda, no el contrato.",
+   "temas": [
+    "halago",
+    "identidad"
+   ],
+   "intensidad": 5,
+   "gancho": "Por qué el halago engancha, y por qué a los tres meses pesa",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13. Ni tribu ni personalidad entera"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Si mañana alguien te dijera con muy buenos modos que la palabra no encaja, ¿qué se caería? Si la respuesta es «un poco de orden», estás bien. Si es «me quedo sin nada», la etiqueta ha crecido más de lo que le convenía.",
+   "es_literal": false,
+   "ancla": "Es una pregunta única, y bastante desagradable: si mañana alguien te dijera con muy buenos modos que la palabra no encaja, ¿qué se caería?",
+   "temas": [
+    "etiquetas",
+    "identidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Una pregunta incómoda en vez de un cuestionario",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13. Ni tribu ni personalidad entera"
+  },
+  {
+   "tipo": "cita",
+   "texto": "exigirte retroactivamente que hubieras hecho con información que no tenías lo que se hace con información que sí se tiene no es honestidad; es una manera de seguir castigándote con mejor gramática.",
+   "es_literal": true,
+   "ancla": "Pero exigirte retroactivamente que hubieras hecho con información que no tenías lo que se hace con información que sí se tiene no es honestidad; es una manera de seguir castigándote con mejor gramática.",
+   "temas": [
+    "culpa",
+    "perdonarse"
+   ],
+   "intensidad": 5,
+   "gancho": "La condena permanente se disfraza de honestidad",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14. Perdonarse los años y no montar un juicio"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "En vez de dictar sentencia sobre tu pasado, ordénalo en tres montones: 1) lo que hiciste como pudiste, donde no hay nada que perdonar; 2) lo que hiciste mal y todavía tiene arreglo, que es corto y práctico; 3) lo que hiciste mal y ya no tiene arreglo, que se reconoce y se deja de tu lado.",
+   "es_literal": false,
+   "ancla": "en vez de dictar sentencia sobre tu pasado, ordenarlo en tres montones. Lo que hiciste como pudiste, y ahí no hay nada que perdonar porque no hay delito.",
+   "temas": [
+    "culpa",
+    "perdonarse"
+   ],
+   "intensidad": 4,
+   "gancho": "Tres montones en vez de una sentencia",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14. Perdonarse los años y no montar un juicio"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro no te propone la conversación reparadora con tus padres. No la prohíbe, pero no la presenta como paso del proceso ni como lo que hace la gente valiente. Una reparación que depende de que el otro coopere no es una reparación: es una espera.",
+   "es_literal": false,
+   "ancla": "Este libro no te propone esa conversación. No te la prohíbe: si la quieres tener y la tienes, allá tú y ojalá salga bien.",
+   "temas": [
+    "familia",
+    "límites del libro"
+   ],
+   "intensidad": 4,
+   "gancho": "Ninguna carta, ninguna conversación reparadora, ningún perdón obligatorio",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14. Perdonarse los años y no montar un juicio"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Al pedir cita: 1) una frase con lo concreto y otra con el tiempo («llevo cuatro meses durmiendo mal y no puedo con el día»); 2) se puede llevar escrito y leerlo en voz alta; 3) se puede ir con alguien. No hace falta explicar la teoría de tu vida.",
+   "es_literal": false,
+   "ancla": "No hace falta explicar la teoría de tu vida ni presentar tu historia entera. Hace falta el dato y el tiempo que llevas así.",
+   "temas": [
+    "pedir ayuda",
+    "consulta"
+   ],
+   "intensidad": 3,
+   "gancho": "El dato y el tiempo que llevas así. Con eso se pide una cita",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Se puede rectificar en voz alta: «he dicho bien de forma automática, en realidad no estoy bien». Esa frase ha desatascado muchas consultas.",
+   "es_literal": true,
+   "ancla": "Se puede rectificar en voz alta: «he dicho bien de forma automática, en realidad no estoy bien». Esa frase ha desatascado muchas consultas.",
+   "temas": [
+    "consulta",
+    "máscara"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuando te sale un «bien» por costumbre, se puede rectificar en voz alta",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Que en una consulta te digan que no lo ven no significa que no haya nada. Significa que esa consulta, ese día, con esa persona y en ese sistema, no dio para más. Son cosas distintas, y confundirlas es lo que hace que mucha gente abandone.",
+   "es_literal": false,
+   "ancla": "Significa que esa consulta, ese día, con ese profesional y en ese sistema, no dio para más. Son cosas distintas y conviene no confundirlas, porque la conclusión «entonces me lo estoy inventando» es falsa y es la que más gente abandona.",
+   "temas": [
+    "consulta",
+    "respuestas"
+   ],
+   "intensidad": 4,
+   "gancho": "Una consulta que salió mal no es un veredicto",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La diferencia entre las dos no está en la cantidad de actuación. Está en quién decide.",
+   "es_literal": true,
+   "ancla": "Hay una versión de ti que sabe lo que hace, decide dónde lo hace y ha dejado de creer que el precio es un defecto de carácter. La diferencia entre las dos no está en la cantidad de actuación. Está en quién decide.",
+   "temas": [
+    "expectativas",
+    "máscara"
+   ],
+   "intensidad": 4,
+   "gancho": "La máscara no desaparece. Lo que cambia es su estatus",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16. Una vida con menos actuación"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Lo que se queda tal cual: los sitios llenos van a seguir costando, las conversaciones de mucha gente van a seguir siendo trabajo y el día después de un día bueno va a seguir existiendo. No se acostumbra una. Se decide ir o no ir, y se paga.",
+   "es_literal": false,
+   "ancla": "Los sitios llenos van a seguir costando. La barra de un bar con música alta, la reunión con nueve personas hablando encima, el centro comercial de un sábado. No se acostumbra uno. Se decide ir o no ir, y se paga.",
+   "temas": [
+    "expectativas",
+    "sin promesas"
+   ],
+   "intensidad": 4,
+   "gancho": "La parte que casi nunca se escribe: qué no cambia",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16. Una vida con menos actuación"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un paso hoy: 1) mira la semana que tienes delante; 2) elige una sola cosa que ibas a hacer por costumbre; 3) quítala del calendario hoy, sin buscar una excusa buena y sin sustituirla por otra cosa.",
+   "es_literal": false,
+   "ancla": "Elige una sola cosa de esta semana que ibas a hacer por costumbre y quítala del calendario hoy. Sin buscar una excusa buena y sin sustituirla por otra cosa.",
+   "temas": [
+    "un paso hoy",
+    "calendario"
+   ],
+   "intensidad": 2,
+   "gancho": "Una cosa fuera del calendario, sin excusa y sin recambio",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16. Una vida con menos actuación"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El coche, el cinturón, y esa mano que va a la radio y no la enciende. Ni radio, ni música, ni móvil: una sola voz más, aunque fuera la de un locutor, era demasiado. Dijiste que estabas cansada, y era verdad. Lo que no supiste explicar fue de qué.",
+   "es_literal": false,
+   "ancla": "Y luego el coche, el cinturón, y esa mano que va a la radio y no la enciende. Ni radio, ni música, ni móvil, porque una sola voz más, incluso la de un locutor, era demasiado.",
+   "temas": [
+    "cierre",
+    "factura"
+   ],
+   "intensidad": 4,
+   "gancho": "La mano que va a la radio y no la enciende",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita",
+    "audio"
+   ],
+   "capitulo": "Cierre — Debajo no había nada roto"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No un defecto oculto: un esfuerzo oculto. Y la diferencia entre esas dos cosas es casi todo.",
+   "es_literal": true,
+   "ancla": "Eso es lo que había. No un defecto oculto: un esfuerzo oculto. Y la diferencia entre esas dos cosas es casi todo.",
+   "temas": [
+    "cierre",
+    "nada roto"
+   ],
+   "intensidad": 5,
+   "gancho": "Debajo no había nada roto. Había un esfuerzo que nadie veía",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Cierre — Debajo no había nada roto"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La escena no cambia: los mismos doce en la mesa, el mismo trayecto en silencio. Lo único que cambia es la interpretación del silencio. Antes era una prueba de que algo en ti no funcionaba. Ahora es un dato: cuatro horas de trabajo tienen su factura.",
+   "es_literal": false,
+   "ancla": "Antes ese silencio era una prueba —una prueba silenciosa y diaria de que algo en ti no funcionaba como en los demás—. Ahora es un dato: cuatro horas de trabajo tienen su factura, y esta es.",
+   "temas": [
+    "cierre",
+    "interpretación"
+   ],
+   "intensidad": 5,
+   "gancho": "No cambia la cena. Cambia lo que significa el silencio de vuelta",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Cierre — Debajo no había nada roto"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El «Mapa de la máscara» de los anexos no es un test ni un diagnóstico. No hay puntuación, no hay casillas que sumen y marcar muchas cosas no significa nada clínico. Sirve para una cosa: saber dónde se te va la energía.",
+   "es_literal": false,
+   "ancla": "**Esto no es un test ni un diagnóstico.** No hay puntuación, no hay casillas que sumen y marcar muchas cosas no significa nada clínico.",
+   "temas": [
+    "anexos",
+    "sin test"
+   ],
+   "intensidad": 3,
+   "gancho": "Un mapa para saber dónde se va la energía. Nada que puntuar",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Anexos · Mapa de la máscara"
+  }
+ ]
+}

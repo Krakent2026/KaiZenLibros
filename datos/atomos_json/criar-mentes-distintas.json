@@ -1,0 +1,1588 @@
+{
+  "serie": "mente_distinta",
+  "libro": "criar-mentes-distintas",
+  "atomos": [
+    {
+      "tipo": "cita",
+      "texto": "No hace falta ser un héroe. Hace falta estar, y estar mañana también.",
+      "es_literal": true,
+      "ancla": "No hace falta ser un héroe. Hace falta estar, y estar mañana también.",
+      "temas": [
+        "crianza",
+        "sostenibilidad"
+      ],
+      "intensidad": 4,
+      "gancho": "Lo que sostiene el resto, dicho en dos frases",
+      "formatos": [
+        "cita",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Introducción — Las cinco menos cuarto"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Aquí no hay ningún test. Ni uno. Ni un cuestionario, ni una lista de señales para adjudicarle a tu hijo qué tiene, ni diez cosas que hace tu hijo y no sabías lo que significaban.",
+      "es_literal": true,
+      "ancla": "Aquí no hay ningún test.** Ni uno. Ni un cuestionario, ni una lista de señales para adjudicarle a tu hijo qué tiene, ni diez cosas que hace tu hijo y no sabías lo que significaban.",
+      "temas": [
+        "crianza",
+        "limites"
+      ],
+      "intensidad": 3,
+      "gancho": "Ni un test. Ni un cuestionario. Ni una lista de señales.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Introducción — Las cinco menos cuarto"
+    },
+    {
+      "tipo": "escena",
+      "texto": "Así empieza muchas veces: no con un diagnóstico, ni con un nombre, ni con una noticia. Con una reunión de media hora a una hora rara, una silla pequeña, un papel grapado torcido y una pregunta desde el asiento de atrás.",
+      "es_literal": false,
+      "ancla": "Así empieza esto muchas veces. No con un diagnóstico, no con un nombre, no con una noticia. Con una reunión de media hora a una hora rara, una silla pequeña, un papel grapado torcido y una pregunta desde el asiento de atrás.",
+      "temas": [
+        "colegio",
+        "crianza"
+      ],
+      "intensidad": 4,
+      "gancho": "Casi nunca empieza con un nombre. Empieza con una silla pequeña.",
+      "formatos": [
+        "reel",
+        "carrusel",
+        "articulo"
+      ],
+      "capitulo": "Introducción — Las cinco menos cuarto"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "En este libro hay alguien que no ha elegido nada: no ha elegido ser el tema, ni que le observen, ni que se hable de él en un aula vacía, ni que alguien lea páginas sobre cómo tratarle. Está en el asiento de atrás preguntando qué han dicho de él.",
+      "es_literal": false,
+      "ancla": "Aquí hay alguien que no ha elegido nada de esto.** No ha elegido ser el tema. No ha elegido que le observen, ni que se hable de él en un aula vacía a las cinco menos cuarto, ni que alguien lea páginas sobre cómo tratarle.",
+      "temas": [
+        "crianza",
+        "respeto"
+      ],
+      "intensidad": 4,
+      "gancho": "Hay un tercero en esta conversación que no ha elegido estar en ella",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "articulo"
+      ],
+      "capitulo": "Introducción — Las cinco menos cuarto"
+    },
+    {
+      "tipo": "escena",
+      "texto": "El plan tiene rutinas nuevas, hora fija para los deberes, un cuadro semanal, un sitio para las llaves y tres cosas más que se te ocurrieron en la ducha. Empieza un lunes. Y el miércoles el plan ya no existe.",
+      "es_literal": false,
+      "ancla": "El plan es magnífico. El plan tiene rutinas nuevas, y una hora fija para los deberes, y un cuadro semanal, y un sitio para las llaves, y una conversación pendiente con el otro progenitor, y una llamada a pedir cita, y tres cosas más que se te ocurrieron en la ducha. El plan empieza un lunes. Los planes siempre empiezan un lunes.",
+      "temas": [
+        "crianza",
+        "planes"
+      ],
+      "intensidad": 3,
+      "gancho": "Los planes siempre empiezan un lunes",
+      "formatos": [
+        "reel",
+        "carrusel",
+        "cita"
+      ],
+      "capitulo": "Capítulo 1. No es un proyecto"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Si un sistema solo funciona cuando el niño se acuerda, el sistema está mal.",
+      "es_literal": true,
+      "ancla": "Esta es la regla más importante de todo el libro y merece estar en negrita: **si un sistema solo funciona cuando el niño se acuerda, el sistema está mal.",
+      "temas": [
+        "sistemas",
+        "crianza"
+      ],
+      "intensidad": 3,
+      "gancho": "La regla que se salta casi cualquier tabla de la nevera",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 1. No es un proyecto"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "No es una avería que tocaba haber detectado antes ni una obra que hay que terminar: es una persona con la que vas a convivir muchos años y que tiene derecho a que en su propia casa haya ratos que no vayan de esto.",
+      "es_literal": false,
+      "ancla": "Un hijo que procesa el mundo de otra manera no es una avería que tocaba haber detectado antes ni una obra que hay que terminar. Es una persona con la que te ha tocado convivir muchos años, a la que vas a conocer bastante mejor que la mayoría de la gente conoce a nadie, y que tiene derecho a que en su propia casa haya ratos que no vayan de esto.",
+      "temas": [
+        "crianza",
+        "respeto"
+      ],
+      "intensidad": 4,
+      "gancho": "Tiene derecho a que en casa haya ratos que no vayan de esto",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 1. No es un proyecto"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "La prueba del día malo, en cuatro condiciones: pocos pasos; sin mantenimiento diario obligatorio; ejecutable un día en que el adulto está fundido; reconstruible en diez minutos si se abandona tres semanas.",
+      "es_literal": false,
+      "ancla": "Cualquier cosa que montes tiene que aguantar un día en el que tú estás sin batería, hay fiebre en casa, ha habido bronca a las ocho de la mañana y nadie tiene ganas de nada. Pocos pasos. Sin mantenimiento diario obligatorio. Ejecutable un día en que el adulto está fundido. Y reconstruible en diez minutos si se abandona tres semanas.",
+      "temas": [
+        "sistemas",
+        "dia malo"
+      ],
+      "intensidad": 3,
+      "gancho": "Cuatro condiciones para saber si algo va a durar en tu casa",
+      "formatos": [
+        "carrusel",
+        "pin",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 1. No es un proyecto"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "La idea de que existe una fecha después de la cual ya no se puede hacer nada circula muchísimo y casi nunca se afirma del todo: se insinúa. No hay una puerta que se cierre. Lo que cambia con los años no es si se puede hacer algo: es qué se hace y con quién se habla.",
+      "es_literal": false,
+      "ancla": "Voy a decirlo claro, porque hay gente leyendo esto con un hijo de cinco años y hay gente leyendo esto con un hijo de dieciséis, y hay incluso quien lo lee con un hijo de veintitantos que ya no vive en casa. **No hay una puerta que se cierre.",
+      "temas": [
+        "culpa",
+        "tiempo"
+      ],
+      "intensidad": 4,
+      "gancho": "La puerta que se cierra no existe: solo se insinúa",
+      "formatos": [
+        "carrusel",
+        "articulo",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 1. No es un proyecto"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "«No ha entregado el trabajo de sociales» se puede comprobar, se puede contar y se puede llevar a una consulta. «Pasa de todo» es un juicio vestido de descripción, y lo peor no es que sea injusto: es que cierra. Ya no hay nada que averiguar.",
+      "es_literal": false,
+      "ancla": "La segunda no es comprobable, no es discutible y no lleva a ninguna parte. Es un juicio sobre una persona vestido de descripción. Y lo peor no es que sea injusto: lo peor es que cierra. Cuando alguien dice «pasa de todo», ya no hay nada que averiguar. La respuesta está dada. Solo queda decidir el castigo.",
+      "temas": [
+        "etiquetas",
+        "colegio"
+      ],
+      "intensidad": 3,
+      "gancho": "Una frase se puede comprobar. La otra solo deja decidir el castigo.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 2. Lo que ves y lo que interpretas"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Describir bien no consiste en explicar; consiste en no explicar todavía.",
+      "es_literal": true,
+      "ancla": "Y fíjate en una cosa: la segunda versión no dice por qué. No lo sabe. Y no pasa nada por no saberlo. **Describir bien no consiste en explicar; consiste en no explicar todavía.",
+      "temas": [
+        "observar",
+        "etiquetas"
+      ],
+      "intensidad": 3,
+      "gancho": "Describir bien no es explicar. Todavía no.",
+      "formatos": [
+        "cita",
+        "pin"
+      ],
+      "capitulo": "Capítulo 2. Lo que ves y lo que interpretas"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Para describir una conducta: qué hizo exactamente (lo que grabaría una cámara), cuándo, cuánto duró, qué pasaba justo antes, qué pasó después, dónde y con quién, y con qué frecuencia. No hace falta contestarlas todas: con tres ya es mucho más de lo que llega normalmente.",
+      "es_literal": false,
+      "ancla": "Siete preguntas. No hace falta contestarlas todas. Contestar tres ya es muchísimo más de lo que llega normalmente.",
+      "temas": [
+        "observar",
+        "colegio"
+      ],
+      "intensidad": 2,
+      "gancho": "Siete preguntas para contar lo que pasó sin decir lo que crees que es",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "pin"
+      ],
+      "capitulo": "Capítulo 2. Lo que ves y lo que interpretas"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Cada vez que apuntes algo que salió mal, apunta cuándo eso mismo salió bien.",
+      "es_literal": true,
+      "ancla": "Así que la regla es corta: **cada vez que apuntes algo que salió mal, apunta cuándo eso mismo salió bien.",
+      "temas": [
+        "observar",
+        "crianza"
+      ],
+      "intensidad": 3,
+      "gancho": "La información más valiosa suele estar en las excepciones",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 2. Lo que ves y lo que interpretas"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Hay una diferencia enorme entre alguien que se fija en lo que le pasa a su hijo y alguien que le vigila. Si a mitad de una comida te descubres redactando mentalmente la frase que vas a apuntar luego, eso ya no es observar.",
+      "es_literal": false,
+      "ancla": "Un niño no puede vivir observado.** Hay una diferencia enorme entre alguien que se fija en lo que le pasa a su hijo y alguien que le vigila. Y la diferencia se nota.",
+      "temas": [
+        "observar",
+        "limites"
+      ],
+      "intensidad": 4,
+      "gancho": "Un niño no puede vivir observado",
+      "formatos": [
+        "cita",
+        "articulo",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 2. Lo que ves y lo que interpretas"
+    },
+    {
+      "tipo": "cita",
+      "texto": "No criaste mal por no saber lo que no se sabía.",
+      "es_literal": true,
+      "ancla": "Lo voy a decir tal cual, y me da igual que suene simple, porque es la frase que hace falta a las tres de la mañana y a esa hora no sirven los matices:",
+      "temas": [
+        "culpa",
+        "crianza"
+      ],
+      "intensidad": 5,
+      "gancho": "La frase que hace falta a las tres de la mañana",
+      "formatos": [
+        "cita",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Capítulo 3. Ni culpa ni guerra"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "La culpa se siente como responsabilidad, pero la responsabilidad mira hacia delante y hace cosas. La culpa mira hacia atrás y consume.",
+      "es_literal": true,
+      "ancla": "La culpa se siente como responsabilidad, pero la responsabilidad mira hacia delante y hace cosas. La culpa mira hacia atrás y consume.",
+      "temas": [
+        "culpa"
+      ],
+      "intensidad": 4,
+      "gancho": "Se parecen mucho y no son lo mismo",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 3. Ni culpa ni guerra"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "Una tienda vende culpa y la otra vende épica. Parecen opuestas y hacen lo mismo: ponerle a un adulto encima un peso que no le corresponde, y convertir a un niño en la prueba de un error o en una bandera.",
+      "es_literal": false,
+      "ancla": "Las dos tiendas parecen opuestas. No lo son: las dos hacen lo mismo, que es ponerle a un adulto encima un peso que no le corresponde y del que además no se puede quejar. Y las dos convierten a un niño en otra cosa: en la primera, en la prueba de un error; en la segunda, en una bandera.",
+      "temas": [
+        "culpa",
+        "epica"
+      ],
+      "intensidad": 4,
+      "gancho": "Dos tiendas, el mismo precio, y lo paga un niño",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "articulo"
+      ],
+      "capitulo": "Capítulo 3. Ni culpa ni guerra"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Descansar no es quitarle tiempo a tu hijo. Es lo que hace posible el tiempo que le das.",
+      "es_literal": true,
+      "ancla": "Y una cosa más, que va en negrita: **descansar no es quitarle tiempo a tu hijo. Es lo que hace posible el tiempo que le das.",
+      "temas": [
+        "descanso",
+        "sostenibilidad"
+      ],
+      "intensidad": 4,
+      "gancho": "Sobre el rato que te tomas y crees que le quitas a él",
+      "formatos": [
+        "cita",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Capítulo 3. Ni culpa ni guerra"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "El filtro de sostenibilidad es una pregunta: esto que voy a montar, ¿puedo sostenerlo dentro de tres meses en una semana mala? Si la respuesta es no, no hace falta abandonarlo: hace falta reducirlo hasta que la respuesta sea sí.",
+      "es_literal": false,
+      "ancla": "Si la respuesta es no, no hace falta que lo abandones. Hace falta que lo reduzcas hasta que la respuesta sea sí. Media hora todos los días no vale nada si dura once días. Diez minutos que aguantan tres años valen muchísimo.",
+      "temas": [
+        "sostenibilidad",
+        "sistemas"
+      ],
+      "intensidad": 3,
+      "gancho": "Diez minutos que aguantan tres años valen más que media hora once días",
+      "formatos": [
+        "carrusel",
+        "pin",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 3. Ni culpa ni guerra"
+    },
+    {
+      "tipo": "escena",
+      "texto": "Estás leyendo algo sobre tu hijo, subrayando mentalmente lo que encaja con él. Y de pronto hay un párrafo que no va de él: va de ti a los ocho años. Y ahí te paras, y lo vuelves a leer una tercera vez.",
+      "es_literal": false,
+      "ancla": "Va de ti. De ti a los ocho años. De aquella libreta que empezabas en septiembre con una letra preciosa y que en noviembre daba pena. De las notas donde ponía siempre lo mismo, curso tras curso, con distintas palabras.",
+      "temas": [
+        "reconocerse",
+        "crianza"
+      ],
+      "intensidad": 4,
+      "gancho": "Un párrafo que empezó hablando de tu hijo y de pronto va de ti",
+      "formatos": [
+        "reel",
+        "carrusel",
+        "articulo"
+      ],
+      "capitulo": "Capítulo 4. Cuando te reconoces tú"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "«Yo eso lo he vivido» abre una puerta; «yo eso lo he vivido y no pasa nada» la cierra. La diferencia son cuatro palabras.",
+      "es_literal": true,
+      "ancla": "La alternativa no es dramatizar. Es no cerrar. «Yo eso lo he vivido» abre una puerta; «yo eso lo he vivido y no pasa nada» la cierra. La diferencia son cuatro palabras.",
+      "temas": [
+        "conversaciones",
+        "reconocerse"
+      ],
+      "intensidad": 3,
+      "gancho": "Cuatro palabras de diferencia entre abrir y cerrar una conversación",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 4. Cuando te reconoces tú"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "En lugar de «yo sé lo que sientes», dilo como hipótesis y espera la corrección: «A mí, cuando me pasaba algo así, lo que me daba era rabia. ¿A ti qué te da?». Y luego callarse.",
+      "es_literal": false,
+      "ancla": "Hay una manera bastante simple de no caer: **decirlo como hipótesis y esperar la corrección.** «A mí, cuando me pasaba algo así, lo que me daba era rabia. ¿A ti qué te da?» Y luego callarse.",
+      "temas": [
+        "conversaciones",
+        "escuchar"
+      ],
+      "intensidad": 3,
+      "gancho": "Dilo como hipótesis y espera que te corrija",
+      "formatos": [
+        "carrusel",
+        "reel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 4. Cuando te reconoces tú"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "No hace falta que lo tuyo esté resuelto para acompañarle a él. No hay ningún orden obligatorio: se hacen las dos cosas a la vez, mal las dos, como se hace casi todo. Esperar a tenerlo todo resuelto es una manera elegante de no empezar nunca.",
+      "es_literal": false,
+      "ancla": "Y una advertencia que hace falta, porque bloquea a mucha gente: **no hace falta que lo tuyo esté resuelto para acompañarle a él.** No hay ningún orden obligatorio.",
+      "temas": [
+        "reconocerse",
+        "culpa"
+      ],
+      "intensidad": 4,
+      "gancho": "Esperar a tenerlo resuelto es una forma elegante de no empezar",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "articulo"
+      ],
+      "capitulo": "Capítulo 4. Cuando te reconoces tú"
+    },
+    {
+      "tipo": "escena",
+      "texto": "Entre el despertador y la puerta del portal salen nueve cosas por las que corregir: el pijama en el suelo, el estuche que no está, el abrigo que no se coge con seis grados. Con el día entero delante llegan tranquilamente a quince.",
+      "es_literal": false,
+      "ancla": "No se ha levantado a la primera ni a la tercera. Se ha vestido con la camiseta de ayer, que estaba en el suelo. Ha dejado el pijama en el suelo, en el sitio exacto donde estaba la camiseta, como si aquello fuera un intercambio de rehenes.",
+      "temas": [
+        "dia a dia",
+        "corregir"
+      ],
+      "intensidad": 3,
+      "gancho": "Nueve cosas antes de salir de casa. Quince antes de cenar.",
+      "formatos": [
+        "reel",
+        "carrusel",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 5. Elegir batallas"
+    },
+    {
+      "tipo": "cita",
+      "texto": "El niño acaba oyendo su nombre casi siempre para lo mismo. No para que le cuenten algo, no para que le pregunten, no porque alguien se alegre de verle en la cocina. Para señalarle.",
+      "es_literal": true,
+      "ancla": "La segunda es peor y tarda más en verse: **el niño acaba oyendo su nombre casi siempre para lo mismo**. No para que le cuenten algo, no para que le pregunten, no porque alguien se alegre de verle en la cocina. Para señalarle.",
+      "temas": [
+        "corregir",
+        "crianza"
+      ],
+      "intensidad": 4,
+      "gancho": "Quince correcciones al día no corrigen nada",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 5. Elegir batallas"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Un papel y diez minutos: escribe todas las cosas por las que corriges, tal como salgan. Rodea dos. Las otras no se corrigen, no se mencionan de pasada y no se sueltan en forma de suspiro. Se dejan.",
+      "es_literal": false,
+      "ancla": "Se escriben las cosas por las que se corrige. Todas, tal como salgan, sin redactar bonito: el pijama, el tono, los deberes que se dicen hechos y no lo están, la ducha, la mochila, la mesa, el «ahora voy» que dura cuarenta minutos, lo de contestar cuando se le habla, el móvil, la hora de acostarse.",
+      "temas": [
+        "corregir",
+        "elegir batallas"
+      ],
+      "intensidad": 3,
+      "gancho": "Escribe las quince. Rodea dos. Deja trece.",
+      "formatos": [
+        "carrusel",
+        "pin",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 5. Elegir batallas"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "«El móvil se deja en el cajón a las nueve en punto» exige un acto de vigilancia diaria. «El móvil no duerme en el dormitorio, se carga en la cocina» exige una decisión que se toma una vez.",
+      "es_literal": false,
+      "ancla": "La diferencia entre las dos es esta: **la primera exige un acto de vigilancia diaria, la segunda exige una decisión que se toma una vez**. Siempre que se pueda, la norma se ancla a un sitio, a un objeto o a un momento que ya ocurre igualmente —la puerta, la mesa, el coche, la mochila— y no a la constancia de nadie.",
+      "temas": [
+        "normas",
+        "sistemas"
+      ],
+      "intensidad": 2,
+      "gancho": "Una norma que depende de un cable dura más que una que depende de ti",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "pin"
+      ],
+      "capitulo": "Capítulo 5. Elegir batallas"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Cuando hay público, se corrige para el público: la corrección deja de ir dirigida al niño y pasa a ser un mensaje a los adultos que miran. El niño es el altavoz, y lo nota.",
+      "es_literal": false,
+      "ancla": "Eso es lo que hay que ver, porque pasa a todo el mundo y no se ve desde dentro: cuando hay público, **se corrige para el público**. La corrección deja de ir dirigida al niño y pasa a ser un mensaje a los adultos que miran, que dice «tranquilos, yo sé lo que hay que hacer, no piensen que aquí no se educa",
+      "temas": [
+        "corregir",
+        "familia"
+      ],
+      "intensidad": 4,
+      "gancho": "En casa de la abuela se le corrige más, y no es por él",
+      "formatos": [
+        "carrusel",
+        "reel",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 5. Elegir batallas"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Bajar la fricción es esto: en vez de pedir más esfuerzo a alguien que ya está poniendo el que tiene, se cambia algo del entorno para que haga falta menos. Lo hace el adulto, una vez, y luego se queda hecho.",
+      "es_literal": false,
+      "ancla": "Imagina una puerta que se atasca. Todos los días, cada persona de la casa empuja un poco más fuerte, y funciona: la puerta se abre. Se puede vivir así diez años. También se puede coger una lija una tarde de sábado, quitar dos milímetros de madera y no volver a pensar en ello nunca más.",
+      "temas": [
+        "casa",
+        "friccion"
+      ],
+      "intensidad": 2,
+      "gancho": "Diez años empujando una puerta que se podía lijar un sábado",
+      "formatos": [
+        "carrusel",
+        "reel",
+        "articulo"
+      ],
+      "capitulo": "Capítulo 6. La casa no es una consulta"
+    },
+    {
+      "tipo": "cita",
+      "texto": "En muchas casas no se rompe nada durante las actividades, se rompe entre ellas.",
+      "es_literal": true,
+      "ancla": "Si hubiera que quedarse con un solo párrafo de todo esto, sería este: **en muchas casas no se rompe nada durante las actividades, se rompe entre ellas",
+      "temas": [
+        "transiciones",
+        "casa"
+      ],
+      "intensidad": 3,
+      "gancho": "El problema no es la ducha: es entrar en la ducha y salir de ella",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 6. La casa no es una consulta"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Coge un cuenco o una caja de zapatos y déjalo junto a la puerta por donde se sale. Mete dentro las dos cosas que se buscan todas las mañanas. No lo anuncies ni esperes que nadie más lo use: el sistema no se apoya en su memoria.",
+      "es_literal": false,
+      "ancla": "Una caja, un cuenco, una bandeja, un gancho. Junto a la puerta por donde se sale, no en su habitación. Y durante bastante tiempo, la única persona que va a meter cosas ahí es quien lo ha puesto. No hay que anunciarlo, ni pactarlo, ni convertirlo en norma.",
+      "temas": [
+        "casa",
+        "objetos"
+      ],
+      "intensidad": 2,
+      "gancho": "Se crea el sitio y lo usa el adulto",
+      "formatos": [
+        "carrusel",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Capítulo 6. La casa no es una consulta"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Hacer de terapeuta de tu hijo no es tu trabajo.",
+      "es_literal": true,
+      "ancla": "Lo digo con todas las letras, porque es de las pocas cosas de este libro que me atrevo a decir sin matices: **hacer de terapeuta de tu hijo no es tu trabajo",
+      "temas": [
+        "limites",
+        "casa"
+      ],
+      "intensidad": 4,
+      "gancho": "De las pocas cosas que este libro dice sin matices",
+      "formatos": [
+        "cita",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Capítulo 6. La casa no es una consulta"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "Bajar la fricción es quitar los obstáculos que no sirven para nada. Blindar es quitar también los que forman parte de vivir: esperar, aburrirse, que un plan cambie. Una casa que elimina toda dificultad deja de ser una casa.",
+      "es_literal": false,
+      "ancla": "Bajar la fricción es quitar los obstáculos que no sirven para nada: la bombilla que molesta, los ocho minutos de búsqueda, la costura de la camiseta, el aviso que no se dio.",
+      "temas": [
+        "casa",
+        "limites"
+      ],
+      "intensidad": 3,
+      "gancho": "¿Esto que estoy quitando es un obstáculo o es el mundo?",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "cita"
+      ],
+      "capitulo": "Capítulo 6. La casa no es una consulta"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Una tormenta es el punto en el que ya no se está eligiendo.",
+      "es_literal": true,
+      "ancla": "A eso lo voy a llamar tormenta, y voy a proponer una manera de entenderlo, dejando claro que es una manera de entenderlo y no una explicación de lo que ocurre dentro de nadie: **una tormenta es el punto en el que ya no se está eligiendo",
+      "temas": [
+        "tormenta",
+        "emociones"
+      ],
+      "intensidad": 4,
+      "gancho": "Antes del salto había alguien decidiendo. Después no hay nadie al volante.",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 7. La tormenta"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Durante una tormenta: asegurar que nadie se hace daño, bajar el estímulo (menos luz, menos ruido, quitar público), menos palabras —frases de tres, siempre las mismas— y esperar. No es el momento de enseñar nada.",
+      "es_literal": false,
+      "ancla": "Menos palabras.** Este es el que más cuesta. La reacción natural es hablar más, más rápido y más alto, y es exactamente lo contrario de lo que ayuda. Frases de tres palabras o ninguna: «estoy aquí», «no pasa nada», «cuando quieras». Repetidas igual, sin variaciones y sin subir el tono.",
+      "temas": [
+        "tormenta",
+        "dia malo"
+      ],
+      "intensidad": 3,
+      "gancho": "Lo que hay que hacer durante es aburridísimo",
+      "formatos": [
+        "carrusel",
+        "pin",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 7. La tormenta"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Se hace todo bien, se baja la voz, se quita el público, se espera, y da igual. Eso no significa que se haya hecho mal. Significa que ese día era así.",
+      "es_literal": true,
+      "ancla": "También hay que decir la parte que no aparece en ningún sitio: **hay veces en que nada de esto sirve**. Se hace todo bien, se baja la voz, se quita el público, se espera, y da igual. Eso no significa que se haya hecho mal. Significa que ese día era así.",
+      "temas": [
+        "tormenta",
+        "honestidad"
+      ],
+      "intensidad": 4,
+      "gancho": "La parte que no aparece en ningún sitio",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 7. La tormenta"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "La respuesta a un no es firmeza, la respuesta a una tormenta es calma, y esas dos cosas no son incompatibles.",
+      "es_literal": true,
+      "ancla": "Es decir: **la respuesta a un no es firmeza, la respuesta a una tormenta es calma, y esas dos cosas no son incompatibles",
+      "temas": [
+        "tormenta",
+        "limites"
+      ],
+      "intensidad": 3,
+      "gancho": "No hace falta acertar en qué está pasando para responder bien",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 7. La tormenta"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Elige hoy, en frío, la frase corta que vas a repetir la próxima vez: «estoy aquí», «no pasa nada», «cuando quieras». Dila en voz alta una vez, a solas. Tenerla decidida antes es lo que hace que salga en el peor minuto.",
+      "es_literal": false,
+      "ancla": "Elige por adelantado, hoy y en frío, **la frase corta que vas a repetir la próxima vez**. Una sola, de tres o cuatro palabras: «estoy aquí», «no pasa nada», «cuando quieras».",
+      "temas": [
+        "tormenta",
+        "dia malo"
+      ],
+      "intensidad": 3,
+      "gancho": "Decide hoy la frase que vas a repetir el peor día",
+      "formatos": [
+        "carrusel",
+        "reel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 7. La tormenta"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Los niños oyen mucho más de lo que se cree, y entienden el tono antes que las palabras.",
+      "es_literal": true,
+      "ancla": "Esto es lo primero que conviene asumir, y no como amenaza sino como dato doméstico: **los niños oyen mucho más de lo que se cree, y entienden el tono antes que las palabras",
+      "temas": [
+        "hablar de el",
+        "casa"
+      ],
+      "intensidad": 3,
+      "gancho": "Los cascos son una de las grandes mentiras piadosas de la vida familiar",
+      "formatos": [
+        "cita",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Capítulo 8. El niño oye cómo hablas de él"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "«Es que este es muy suyo.» «Con este no se puede.» La fórmula corta que ahorra explicaciones acaba siendo su titular. Y los titulares se pegan: con el tiempo la dice él mismo cuando alguien le pregunta cómo es.",
+      "es_literal": false,
+      "ancla": "Esa frase se convierte en su titular. Y los titulares se pegan: pasan de la abuela al tío, del tío al vecino, y con el tiempo la dice él mismo cuando alguien le pregunta cómo es. Nadie ha decidido eso nunca. Se ha ido diciendo.",
+      "temas": [
+        "etiquetas",
+        "hablar de el"
+      ],
+      "intensidad": 4,
+      "gancho": "La frase que se dice cincuenta veces al año acaba siendo suya",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "cita"
+      ],
+      "capitulo": "Capítulo 8. El niño oye cómo hablas de él"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Antes de contestar en voz alta, dos segundos: ¿está él aquí, y esto que voy a decir me gustaría que lo oyera? Si la respuesta es que no, sirve cualquier cosa: «luego te cuento», «ahora no». Lo que oiga hoy no se puede recoger.",
+      "es_literal": false,
+      "ancla": "Basta con una comprobación de dos segundos antes de contestar en voz alta: ¿está él aquí, y esto que voy a decir me gustaría que lo oyera? Si la respuesta es que no, sirve cualquier cosa: «luego te cuento», «ahora no».",
+      "temas": [
+        "hablar de el",
+        "familia"
+      ],
+      "intensidad": 3,
+      "gancho": "Dos segundos antes de contestar delante de él",
+      "formatos": [
+        "carrusel",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Capítulo 8. El niño oye cómo hablas de él"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Cuatro preguntas antes de darle a publicar: ¿esto lo aprobaría él a los quince?; ¿lo contarías igual de un adulto?; ¿quién gana con que esto se publique?; ¿hace falta que se le reconozca?",
+      "es_literal": false,
+      "ancla": "¿Esto lo aprobaría él a los quince?** No lo que le parece hoy, que a lo mejor le hace gracia o ni se entera. A los quince, cuando le importe muchísimo lo que los demás sepan de él.",
+      "temas": [
+        "internet",
+        "intimidad"
+      ],
+      "intensidad": 3,
+      "gancho": "Cuatro segundos antes de publicar algo suyo",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "pin"
+      ],
+      "capitulo": "Capítulo 8. El niño oye cómo hablas de él"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Lo que se publicó buscando apoyo un jueves de marzo se queda a vivir en su biografía. Se puede borrar el original, no las copias, ni las capturas, ni lo que ya vio la gente del barrio.",
+      "es_literal": false,
+      "ancla": "Y todo eso no dura una tarde. Sigue ahí. Sigue ahí cuando tenga once y sus compañeros busquen su nombre. Sigue ahí cuando tenga quince y lo busque él, que es lo que hacen todos. Sigue ahí cuando tenga veintidós y lo busque alguien antes de una entrevista.",
+      "temas": [
+        "internet",
+        "intimidad"
+      ],
+      "intensidad": 4,
+      "gancho": "La cuenta la paga alguien que no está en la conversación",
+      "formatos": [
+        "carrusel",
+        "articulo",
+        "cita"
+      ],
+      "capitulo": "Capítulo 8. El niño oye cómo hablas de él"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Preparar una reunión de colegio son tres cosas: qué se observa en casa (conductas, no interpretaciones), qué se pregunta, y qué se acuerda y cuándo se revisa. Y una decisión antes de entrar: se va a una sola cosa.",
+      "es_literal": false,
+      "ancla": "Preparar una reunión, en la práctica, es preparar tres cosas. Tres, no diez, porque esto tiene que poder hacerse la noche antes, con la cabeza fundida y el niño ya dormido.",
+      "temas": [
+        "colegio",
+        "reuniones"
+      ],
+      "intensidad": 2,
+      "gancho": "Tres cosas, no diez, porque se prepara la noche antes",
+      "formatos": [
+        "carrusel",
+        "pin",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 9. El colegio"
+    },
+    {
+      "tipo": "pregunta",
+      "texto": "«¿Qué se puede hacer desde aquí, y a quién le pregunto lo que no dependa de ti?»",
+      "es_literal": true,
+      "ancla": "Y una pregunta que abre casi todas las puertas: **«¿Qué se puede hacer desde aquí, y a quién le pregunto lo que no dependa de ti?»** Fíjate en lo que hace esa frase. No exige. No adjudica.",
+      "temas": [
+        "colegio",
+        "reuniones"
+      ],
+      "intensidad": 2,
+      "gancho": "La pregunta que abre casi todas las puertas en un colegio",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 9. El colegio"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Un correo de seis líneas la misma tarde no es desconfianza: fija lo acordado, deja matizar sin que nadie quede mal y sigue existiendo dentro de dos cursos, cuando ya no esté nadie de los que estaban. Es cortesía y es archivo al mismo tiempo.",
+      "es_literal": false,
+      "ancla": "La memoria de una familia y la memoria de una institución no tienen el mismo tamaño. La tuya guarda todo. La de un colegio guarda lo que está escrito.",
+      "temas": [
+        "colegio",
+        "papeles"
+      ],
+      "intensidad": 2,
+      "gancho": "La memoria de una familia y la de un colegio no tienen el mismo tamaño",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "articulo"
+      ],
+      "capitulo": "Capítulo 9. El colegio"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "«Es que si lo hago con él, tengo que hacerlo con todos.» La mayoría de las veces eso no es un no a tu hijo: es un no a la situación, dicho a la persona que tiene delante, que resultas ser tú.",
+      "es_literal": false,
+      "ancla": "Porque pasa mucho: quien tienes enfrente no está en contra de tu hijo. Está tan sin recursos como tú, en otro formato.",
+      "temas": [
+        "colegio",
+        "reuniones"
+      ],
+      "intensidad": 3,
+      "gancho": "Quien tienes enfrente está sin recursos en otro formato",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "cita"
+      ],
+      "capitulo": "Capítulo 9. El colegio"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Quien trabaja bien asume que su propuesta puede no funcionar, y lo dice antes de empezar.",
+      "es_literal": true,
+      "ancla": "Un criterio limpio: **quien trabaja bien asume que su propuesta puede no funcionar, y lo dice antes de empezar.",
+      "temas": [
+        "profesionales",
+        "criterio"
+      ],
+      "intensidad": 3,
+      "gancho": "Si el método no puede fallar, el que falla vas a ser tú",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 10. Los profesionales, y quien vende curas"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Cuatro preguntas que valen para cualquier puerta: ¿en qué consiste exactamente lo que vais a hacer?; ¿cómo sabremos si está sirviendo, y cuándo lo miramos?; ¿qué pasa si esto no funciona?; ¿puede hablar con el médico que le lleva, o con el colegio?",
+      "es_literal": false,
+      "ancla": "¿Qué pasa si esto no funciona?»** Ya la conoces del segundo de los olores de más arriba, y está aquí porque es la reina. Alguien que trabaja bien tiene pensado un plan B y lo cuenta sin problema: se replantea, se prueba otra cosa, se deriva a alguien.",
+      "temas": [
+        "profesionales",
+        "criterio"
+      ],
+      "intensidad": 2,
+      "gancho": "Se pueden llevar apuntadas en el móvil y leerlas de ahí",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "pin"
+      ],
+      "capitulo": "Capítulo 10. Los profesionales, y quien vende curas"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "«Esto fuera no lo entienden.» «Yo que vosotros no se lo diría al pediatra.» El secreto es de las señales más fiables que existen, y por una razón simple: el trabajo que se sostiene no necesita esconderse.",
+      "es_literal": false,
+      "ancla": "El secreto es de las señales más fiables que existen, y por una razón simple: **el trabajo que se sostiene no necesita esconderse.",
+      "temas": [
+        "profesionales",
+        "criterio"
+      ],
+      "intensidad": 3,
+      "gancho": "Si te piden silencio, la pregunta se hace en voz alta",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 10. Los profesionales, y quien vende curas"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Quien admite un límite te está diciendo dónde termina lo que puede sostener, y eso es lo contrario de vender.",
+      "es_literal": true,
+      "ancla": "Cuesta oírlo cuando lo que buscas son certezas, y es justo por eso que vale tanto: **quien admite un límite te está diciendo dónde termina lo que puede sostener, y eso es lo contrario de vender.",
+      "temas": [
+        "profesionales",
+        "criterio"
+      ],
+      "intensidad": 3,
+      "gancho": "«No lo sé» es la señal más limpia de todas",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 10. Los profesionales, y quien vende curas"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Lo que abre la puerta a quien vende humo no es la ingenuidad: es llevar dos años esperando. No es tontería de quien cae. Es lo que pasa cuando llevas dos años esperando y alguien, por fin, te dice que sí a algo.",
+      "es_literal": false,
+      "ancla": "Así que aquí no hay ninguna lección. Si en tu casa se probó algo que luego resultó ser humo, eso no dice nada malo de tu cabeza. Dice que había desesperación, que es exactamente lo que había.",
+      "temas": [
+        "profesionales",
+        "espera"
+      ],
+      "intensidad": 4,
+      "gancho": "Nadie firma una promesa un martes tranquilo",
+      "formatos": [
+        "carrusel",
+        "articulo",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 10. Los profesionales, y quien vende curas"
+    },
+    {
+      "tipo": "escena",
+      "texto": "Son las diez y media. En la cocina hay dos adultos y una conversación que empieza en voz baja y a los cuatro minutos ya no lo es. Uno dice que le deja pasar todo; el otro, que le exige cosas que no puede hacer.",
+      "es_literal": false,
+      "ancla": "Son las diez y media de la noche. El niño ya está dormido, o eso parece. En la cocina hay dos adultos y una conversación que empieza en voz baja para no despertarlo y que a los cuatro minutos ya no es en voz baja.",
+      "temas": [
+        "pareja",
+        "desacuerdo"
+      ],
+      "intensidad": 4,
+      "gancho": "Dos personas convencidas de que la otra le está haciendo daño",
+      "formatos": [
+        "reel",
+        "carrusel",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 11. Dos relatos del mismo niño"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "No ven las mismas horas. Quien está con un crío a las siete y media de la tarde, después de un día entero de aguantar, no ve al mismo crío que quien está con él el sábado por la mañana. No es que uno mienta: el material del que hablan es distinto.",
+      "es_literal": false,
+      "ancla": "Aquí hay un detalle que explica bastante y que casi nadie tiene en cuenta: **no ven las mismas horas.** Quien está con un crío a las siete y media de la tarde, después de un día entero de aguantar, no ve al mismo crío que quien está con él el sábado por la mañana.",
+      "temas": [
+        "pareja",
+        "desacuerdo"
+      ],
+      "intensidad": 3,
+      "gancho": "No es que uno mienta. Es que no ven las mismas horas.",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "cita"
+      ],
+      "capitulo": "Capítulo 11. Dos relatos del mismo niño"
+    },
+    {
+      "tipo": "contraste",
+      "texto": "«Le pasa algo» y «está consentido» son dos interpretaciones, y las interpretaciones no se pueden comprobar. Lo que sí se puede discutir es lo que pasó: qué hizo, cuándo, cuánto duró, qué había pasado justo antes.",
+      "es_literal": false,
+      "ancla": "No se resuelve. Y no se resuelve por una razón técnica, no moral: **las dos frases son interpretaciones, y las interpretaciones no se pueden comprobar.",
+      "temas": [
+        "pareja",
+        "etiquetas"
+      ],
+      "intensidad": 3,
+      "gancho": "Por qué discutir de etiquetas no se acaba nunca",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "pin"
+      ],
+      "capitulo": "Capítulo 11. Dos relatos del mismo niño"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Una vez a la semana, diez minutos, sin el niño delante: cada uno cuenta dos cosas que ha visto, no dos que piensa, y sin discutir lo que cuenta el otro. Y una tercera: una que ha salido bien.",
+      "es_literal": false,
+      "ancla": "Una vez a la semana, diez minutos, sin el niño delante. Cada uno cuenta **dos cosas que ha visto**, no dos cosas que piensa. Sin discutir lo que cuenta el otro. Solo escuchar y anotar, aunque sea en el móvil.",
+      "temas": [
+        "pareja",
+        "observar"
+      ],
+      "intensidad": 2,
+      "gancho": "Diez minutos que no arreglan el desacuerdo: cambian el material",
+      "formatos": [
+        "carrusel",
+        "pin",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 11. Dos relatos del mismo niño"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Un niño no lleva recados entre dos adultos.",
+      "es_literal": true,
+      "ancla": "Aquí no hay medias tintas y es de lo poco de este capítulo que se dice con rotundidad: **un niño no lleva recados entre dos adultos.** Ni información del médico, ni preguntas de logística, ni quejas.",
+      "temas": [
+        "dos casas",
+        "limites"
+      ],
+      "intensidad": 4,
+      "gancho": "Ni información del médico, ni logística, ni quejas",
+      "formatos": [
+        "cita",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Capítulo 11. Dos relatos del mismo niño"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Nadie le ha enseñado eso. Lo ha deducido. Ha mirado cómo funciona su casa y ha sacado una conclusión perfectamente lógica: solo hay sitio para una crisis a la vez.",
+      "es_literal": true,
+      "ancla": "Nadie le ha enseñado eso. Lo ha deducido. Ha mirado cómo funciona su casa y ha sacado una conclusión perfectamente lógica: **solo hay sitio para una crisis a la vez.",
+      "temas": [
+        "hermanos",
+        "casa"
+      ],
+      "intensidad": 4,
+      "gancho": "Se porta bien porque ha sacado una conclusión lógica",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "reel"
+      ],
+      "capitulo": "Capítulo 12. El hermano que no"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "«Tú es que eres el fácil.» Dicha una vez no hace nada. Dicha durante toda una infancia enseña que la tranquilidad es la condición, y que si un día no puede sostener el formato, no sabe qué pasará, porque nunca lo ha probado.",
+      "es_literal": false,
+      "ancla": "que ser fácil es su trabajo.** Esto viene casi siempre de una frase que se dice con cariño y con alivio, y por eso es tan difícil de detectar: «tú es que eres el fácil», «menos mal que contigo no tengo problemas», «tú eres la que no me da trabajo».",
+      "temas": [
+        "hermanos",
+        "etiquetas"
+      ],
+      "intensidad": 4,
+      "gancho": "«Menos mal que contigo no tengo problemas»",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "cita"
+      ],
+      "capitulo": "Capítulo 12. El hermano que no"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Diez minutos sentados en su cama antes de dormir, sin móvil, sin agenda y sin mencionar a nadie más. Si esta noche no hay diez, que sean tres. Lo que hace el trabajo no son los minutos: es que en ese rato el tema sea él.",
+      "es_literal": false,
+      "ancla": "Y la versión para los días malos, que es la que va a usarse la mayoría de las veces: **diez minutos sentados en su cama antes de dormir, sin móvil, sin agenda y sin mencionar a nadie más.** Eso se puede hacer con el día perdido y con la casa desordenada. Cuenta igual.",
+      "temas": [
+        "hermanos",
+        "dia malo"
+      ],
+      "intensidad": 3,
+      "gancho": "Diez minutos en los que no se habla de su hermano",
+      "formatos": [
+        "carrusel",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Capítulo 12. El hermano que no"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Se puede validar el fastidio de un crío sin poner en cuestión a nadie.",
+      "es_literal": true,
+      "ancla": "Lo que abre la puerta es más aburrido y funciona mejor: **«Ya. Es un rollo. Tienes razón en que es un rollo.»** Sin defender a nadie, sin explicar nada, sin añadir un «pero». Se puede validar el fastidio de un crío sin poner en cuestión a nadie.",
+      "temas": [
+        "hermanos",
+        "escuchar"
+      ],
+      "intensidad": 3,
+      "gancho": "«No digas eso, que él no tiene la culpa» cierra la puerta",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 12. El hermano que no"
+    },
+    {
+      "tipo": "pregunta",
+      "texto": "¿Esto que está haciendo, lo haría cualquier crío de su edad, o lo está haciendo porque aquí no hay nadie más? Si es lo segundo, eso no es suyo: es de un adulto, aunque hoy no haya adulto disponible.",
+      "es_literal": false,
+      "ancla": "La pregunta que separa las dos cosas es sencilla y se puede hacer en cualquier momento del día: **¿esto que está haciendo, lo haría cualquier crío de su edad, o lo está haciendo porque aquí no hay nadie más?** Si la respuesta es la segunda, eso no es suyo.",
+      "temas": [
+        "hermanos",
+        "limites"
+      ],
+      "intensidad": 3,
+      "gancho": "La pregunta que separa echar una mano de tener un puesto",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "pin"
+      ],
+      "capitulo": "Capítulo 12. El hermano que no"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Esto no es una conversación. Son treinta conversaciones de dos minutos. Y ninguna de las treinta tiene que ser perfecta, porque hay veintinueve más.",
+      "es_literal": true,
+      "ancla": "Así que empecemos por ahí, porque descarga mucho peso: **esto no es una conversación. Son treinta conversaciones de dos minutos.** Y ninguna de las treinta tiene que ser perfecta, porque hay veintinueve más.",
+      "temas": [
+        "contarselo",
+        "conversaciones"
+      ],
+      "intensidad": 3,
+      "gancho": "La conversación solemne casi nunca ocurre",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 13. Contárselo a él"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Explica por qué algo cuesta; no cancela lo que hay que hacer.",
+      "es_literal": true,
+      "ancla": "La distinción que hay que sostener es esta, y cabe en una línea: **explica por qué algo cuesta; no cancela lo que hay que hacer.",
+      "temas": [
+        "contarselo",
+        "limites"
+      ],
+      "intensidad": 3,
+      "gancho": "La distinción que hay que sostener, y cabe en una línea",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 13. Contárselo a él"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Cuando dice «soy tonto», la reacción instintiva es discutir, y no funciona: no se discute con datos un sentimiento. Lo que sí funciona es repetir lo que se ha oído, sin adornarlo —«te sientes tonto»— y esperar.",
+      "es_literal": false,
+      "ancla": "La reacción instintiva es discutir. «Pero qué dices, si eres listísimo, si en la excursión fuiste el que…». Y es un gesto de puro amor, y no funciona, por una razón sencilla: **no se discute con datos un sentimiento.",
+      "temas": [
+        "conversaciones",
+        "escuchar"
+      ],
+      "intensidad": 4,
+      "gancho": "No se discute con datos un sentimiento",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "reel"
+      ],
+      "capitulo": "Capítulo 13. Contárselo a él"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Se explica con lo que él ya vive, no con lo que pone en un papel: una frase que describa su martes. Y si dice «no, eso no me pasa», se le hace caso, porque el que está dentro es él.",
+      "es_literal": false,
+      "ancla": "A un niño pequeño no le dice nada una palabra técnica. Le dice todo una frase que describe su martes. «A tu cabeza le cuesta quedarse quieta en una cosa cuando esa cosa le aburre.» «El ruido del comedor a ti te entra muy fuerte, y por eso sales de ahí con dolor de cabeza.",
+      "temas": [
+        "contarselo",
+        "palabras"
+      ],
+      "intensidad": 3,
+      "gancho": "Se explica con lo que él ya vive, no con lo que pone en un papel",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "pin"
+      ],
+      "capitulo": "Capítulo 13. Contárselo a él"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "No hay una edad correcta y quien la dé se la está inventando. Se puede hablar de esto con un niño de ocho y con alguien de diecisiete al que nunca se le dijo nada. Llegar hoy no es llegar tarde.",
+      "es_literal": false,
+      "ancla": "Y una última cosa sobre esta decisión: **no hay una edad correcta y quien la dé se la está inventando.** Se puede hablar de esto con un niño de ocho y se puede hablar con alguien de diecisiete al que nunca se le dijo nada. Llegar hoy no es llegar tarde.",
+      "temas": [
+        "contarselo",
+        "tiempo"
+      ],
+      "intensidad": 4,
+      "gancho": "Llegar hoy no es llegar tarde",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 13. Contárselo a él"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Si la frase necesita a un tercero peor para funcionar, está mal.",
+      "es_literal": true,
+      "ancla": "Hay un filtro que resuelve casi todos los casos, y es el criterio con el que está escrita esta colección entera: **si la frase necesita a un tercero peor para funcionar, está mal.",
+      "temas": [
+        "filtro",
+        "palabras"
+      ],
+      "intensidad": 3,
+      "gancho": "Un filtro para las frases que suenan a elogio",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 14. Lo que se gana, sin inflarlo"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "No desaparecen las tareas; desaparece la parte de la tarea que era pelea moral. Y la pelea moral es lo que dejaba a todo el mundo fundido a las diez de la noche, no la mochila.",
+      "es_literal": true,
+      "ancla": "No desaparecen las tareas; desaparece la parte de la tarea que era pelea moral. Y la pelea moral es lo que dejaba a todo el mundo fundido a las diez de la noche, no la mochila.",
+      "temas": [
+        "casa",
+        "corregir"
+      ],
+      "intensidad": 3,
+      "gancho": "Los zapatos siguen sin aparecer. La bronca, no.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 14. Lo que se gana, sin inflarlo"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "En la lista de lo que se gana no aparece que le vaya a ir bien, ni que esto se le pase, ni que dentro de diez años agradezca nada. Nada de eso se puede saber. Lo que se gana, se gana ahora, dentro de una casa, esta semana.",
+      "es_literal": false,
+      "ancla": "No aparece que le vaya a ir bien. No aparece que esto se le vaya a pasar, ni que se le vaya a quedar. No aparece que vaya a encontrar su sitio, ni que vaya a estar contento, ni que dentro de diez años agradezca nada de lo que se hizo. No aparece que las herramientas funcionen ni que funcionen siempre.",
+      "temas": [
+        "honestidad",
+        "futuro"
+      ],
+      "intensidad": 3,
+      "gancho": "Lo que deliberadamente no está en la lista",
+      "formatos": [
+        "carrusel",
+        "articulo",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 14. Lo que se gana, sin inflarlo"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Puede pasar que recorras la lista entera y no reconozcas ninguna. Hay épocas en las que no se gana nada y solo se aguanta, y aguantar ya es la tarea completa. Lo que no hay que hacer es fabricar un lado bueno.",
+      "es_literal": false,
+      "ancla": "Eso no significa que se esté haciendo mal, ni que falte perspectiva, ni que haya que buscar más. Significa que hay épocas en las que no se gana nada y solo se aguanta, y aguantar ya es la tarea completa.",
+      "temas": [
+        "honestidad",
+        "dia malo"
+      ],
+      "intensidad": 4,
+      "gancho": "Si no hay, no hay. Y se puede decir así, en voz alta.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "reel"
+      ],
+      "capitulo": "Capítulo 14. Lo que se gana, sin inflarlo"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Los libros hacen mal una cosa por construcción: tranquilizan. Y a veces esa sensación de que la cosa se puede llevar es justo lo que retrasa una llamada que había que haber hecho hace tres semanas.",
+      "es_literal": false,
+      "ancla": "Hay además una cosa que los libros hacen mal por construcción: tranquilizan. Están escritos para que quien los lee salga con la sensación de que la cosa se puede llevar. Casi siempre eso es bueno. Y a veces es justo lo que sobra, porque la sensación de que la cosa se puede llevar es exactamente lo que retrasa una llamada que había que haber hecho hace tres semanas.",
+      "temas": [
+        "limites",
+        "ayuda"
+      ],
+      "intensidad": 4,
+      "gancho": "Un capítulo escrito para marcar dónde acaba este libro",
+      "formatos": [
+        "carrusel",
+        "articulo",
+        "cita"
+      ],
+      "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "Guarda hoy tres contactos en el móvil: 024, atención a la conducta suicida, gratuito y las veinticuatro horas, que atiende también a quien llama preocupado por otra persona; 112, emergencias; 016, violencia de género, que no deja rastro en la factura.",
+      "es_literal": false,
+      "ancla": "024 — atención a la conducta suicida.** Gratuito, las veinticuatro horas, todos los días del año. Atiende a quien lo está pasando así y también a quien está preocupado por otra persona: se puede llamar por un hijo, por una pareja, por un familiar o por uno mismo.",
+      "temas": [
+        "ayuda",
+        "telefonos"
+      ],
+      "intensidad": 3,
+      "gancho": "Tres números guardados hoy, para no buscarlos el día que hagan falta",
+      "formatos": [
+        "carrusel",
+        "pin",
+        "hilo"
+      ],
+      "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+    },
+    {
+      "tipo": "cita",
+      "texto": "No hay que esperar a que se junten varias, ni a estar seguro, ni a que se repita para poder decir que no fue un mal día. Consultar de más no rompe nada. Es una consulta.",
+      "es_literal": true,
+      "ancla": "una sola línea basta.** No hay que esperar a que se junten varias, ni a estar seguro, ni a que se repita para poder decir que no fue un mal día. Consultar de más no rompe nada. Es una consulta.",
+      "temas": [
+        "ayuda",
+        "consultar"
+      ],
+      "intensidad": 3,
+      "gancho": "No son criterios de nada. Son motivos para consultar.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+    },
+    {
+      "tipo": "pregunta",
+      "texto": "¿Cuánto lleva, cuánto se ha comido de su vida y algo cambió de golpe? La diferencia casi nunca está en la intensidad de una escena. Un enfado enorme un jueves no dice nada. Tres semanas sin salir de una habitación, sí.",
+      "es_literal": false,
+      "ancla": "La diferencia entre las dos cosas casi nunca está en la intensidad de una escena. Está en tres preguntas simples: **cuánto lleva, cuánto se ha comido de su vida y si algo cambió de golpe.** Un enfado enorme un jueves no dice nada. Tres semanas sin salir de una habitación, sí.",
+      "temas": [
+        "ayuda",
+        "consultar"
+      ],
+      "intensidad": 3,
+      "gancho": "Un enfado enorme un jueves no dice nada",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "pin"
+      ],
+      "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Llamar a un teléfono no es un acto de valor ni una lección para nadie. Es lo que se hace cuando algo se sale del alcance de quien está delante, igual que se llama a un electricista cuando salta la luz y no se sabe por qué.",
+      "es_literal": true,
+      "ancla": "Tampoco significa lo contrario, que es la otra tentación: no convierte a nadie en un ejemplo de nada. Llamar a un teléfono no es un acto de valor ni una lección para nadie. Es lo que se hace cuando algo se sale del alcance de quien está delante, igual que se llama a un electricista cuando salta la luz y no se sabe por qué.",
+      "temas": [
+        "ayuda",
+        "pedir"
+      ],
+      "intensidad": 3,
+      "gancho": "Es un trámite. Un trámite que cuesta, y sigue siendo un trámite.",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "reel"
+      ],
+      "capitulo": "Capítulo 15. Cuándo esto ya no es cosa de un libro"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Nadie recuerda su infancia por los temas. El esfuerzo y la huella no van juntos: no se acordará de las reuniones que costaron un mes de nervios, y sí de una tarde concreta en un coche. Eso no se puede administrar.",
+      "es_literal": false,
+      "ancla": "Es probable que no se acuerde de ninguna de las tres reuniones que costaron un mes de nervios, ni del nombre de ningún profesional. Y es bastante probable que se acuerde de algo minúsculo: una tarde concreta en un coche, una frase que se dijo sin darle importancia, la vez que alguien se rió con él en lugar de reñirle, o la vez que no.",
+      "temas": [
+        "largo plazo",
+        "memoria"
+      ],
+      "intensidad": 4,
+      "gancho": "El esfuerzo y la huella no van juntos",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "articulo"
+      ],
+      "capitulo": "Capítulo 16. Su historia la va a contar él"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Un adulto que no ha hecho nada mal en quince años de crianza es un adulto que no estuvo.",
+      "es_literal": true,
+      "ancla": "Eso pasa en todas las casas y va a pasar en esta, y no hay ninguna manera de criar sin que ocurra. Un adulto que no ha hecho nada mal en quince años de crianza es un adulto que no estuvo.",
+      "temas": [
+        "largo plazo",
+        "errores"
+      ],
+      "intensidad": 4,
+      "gancho": "A veces tendrá razón, y eso también se sostiene",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 16. Su historia la va a contar él"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Que se le creyó incluso las veces en que luego resultó que la cosa era distinta, porque creerle no era un dictamen: era el punto de partida.",
+      "es_literal": true,
+      "ancla": "Que se le creyó incluso las veces en que luego resultó que la cosa era distinta, porque creerle no era un dictamen: era el punto de partida.",
+      "temas": [
+        "creer",
+        "largo plazo"
+      ],
+      "intensidad": 4,
+      "gancho": "Creerle no era un dictamen: era el punto de partida",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Capítulo 16. Su historia la va a contar él"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "El futuro que se monta uno a las tres de la mañana no es información sobre el futuro: es información sobre el cansancio de esa noche. La vida de nadie es un solo día multiplicado.",
+      "es_literal": false,
+      "ancla": "Eso no es información sobre el futuro. Es información sobre el cansancio de esa noche. Un día malo proyectado a veinte años da un futuro malo, y un día bueno proyectado a veinte años da uno bueno, y ninguno de los dos dice nada, porque la vida de nadie es un solo día multiplicado.",
+      "temas": [
+        "noche",
+        "futuro"
+      ],
+      "intensidad": 4,
+      "gancho": "Basta con reconocerlo: esto es la proyección de las tres",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "reel"
+      ],
+      "capitulo": "Capítulo 16. Su historia la va a contar él"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Aquí no va ninguna promesa. No va «todo saldrá bien», que nadie puede firmar. Y tampoco va lo contrario: ninguna condena, ninguna insinuación de que se llegó tarde. Ninguna de las dos cosas se sabe.",
+      "es_literal": false,
+      "ancla": "Así que aquí no va ninguna promesa. No va «todo saldrá bien», que nadie puede firmar. Y tampoco va lo contrario, que es la otra manera de hacer daño: ninguna condena, ninguna insinuación de que se llegó tarde, de que lo que no se hizo a los seis años ya no se puede hacer.",
+      "temas": [
+        "honestidad",
+        "futuro"
+      ],
+      "intensidad": 3,
+      "gancho": "Los niños genéricos no existen",
+      "formatos": [
+        "carrusel",
+        "articulo",
+        "cita"
+      ],
+      "capitulo": "Capítulo 16. Su historia la va a contar él"
+    },
+    {
+      "tipo": "escena",
+      "texto": "La hoja de su hijo en el mural tenía la esquina despegada, y él se pasó media reunión pensando que si se levantara y la apretara con el dedo se quedaría pegada. Buena parte de lo que se puede hacer se parece a eso.",
+      "es_literal": false,
+      "ancla": "Es una imagen tonta y es bastante exacta. Buena parte de lo que se ha ido diciendo en estas páginas se parece a levantarse y apretar una esquina con el dedo. No arregla el mural, no cambia la cartulina y a lo mejor mañana vuelve a despegarse. Se hace igual, porque estaba al alcance de la mano y porque se puede volver a hacer.",
+      "temas": [
+        "cierre",
+        "crianza"
+      ],
+      "intensidad": 4,
+      "gancho": "No arregla el mural. Se hace igual.",
+      "formatos": [
+        "reel",
+        "carrusel",
+        "articulo"
+      ],
+      "capitulo": "Cierre — Las cinco menos cuarto, otra vez"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Los niños no leen informes, pero leen coches en silencio.",
+      "es_literal": true,
+      "ancla": "Los niños no leen informes, pero leen coches en silencio. Y lo que leyó en ese coche fue que no.",
+      "temas": [
+        "cierre",
+        "crianza"
+      ],
+      "intensidad": 5,
+      "gancho": "Lo que se lee en un coche en silencio",
+      "formatos": [
+        "cita",
+        "pin",
+        "reel"
+      ],
+      "capitulo": "Cierre — Las cinco menos cuarto, otra vez"
+    },
+    {
+      "tipo": "cita",
+      "texto": "La persona de la que se habla no es el papel. Es el del coche.",
+      "es_literal": true,
+      "ancla": "Esa es más o menos la única regla que este libro ha intentado sostener durante dieciséis capítulos: que la persona de la que se habla no es el papel. Es el del coche.",
+      "temas": [
+        "cierre",
+        "respeto"
+      ],
+      "intensidad": 5,
+      "gancho": "La única regla que este libro ha intentado sostener",
+      "formatos": [
+        "cita",
+        "pin",
+        "carrusel"
+      ],
+      "capitulo": "Cierre — Las cinco menos cuarto, otra vez"
+    },
+    {
+      "tipo": "herramienta",
+      "texto": "En vez de «pasa de todo»: «El lunes y el miércoles se quedó sentado sin empezar la tarea unos cuarenta minutos. Antes había estado en el patio con mucho ruido. Cuando le puse una sola hoja delante, en vez del cuaderno entero, empezó en cinco minutos.»",
+      "es_literal": false,
+      "ancla": "«El lunes y el miércoles se quedó sentado sin empezar la tarea unos cuarenta minutos. Antes había estado en el patio con mucho ruido. Cuando le puse una sola hoja delante, en vez del cuaderno entero, empezó en cinco minutos. Pasa casi todas las semanas, y más los días con cambio de horario.»",
+      "temas": [
+        "observar",
+        "colegio"
+      ],
+      "intensidad": 2,
+      "gancho": "Lo que sale sin pensar y lo que sirve",
+      "formatos": [
+        "carrusel",
+        "hilo",
+        "pin"
+      ],
+      "capitulo": "Anexos — Describir sin diagnosticar"
+    },
+    {
+      "tipo": "dato_honesto",
+      "texto": "Observar a tu hijo y anotar lo que ves no es valorarlo: no hay nada que sumar, que puntuar ni que interpretar, y ningún patrón que confirme o descarte nada. Lo que se entrega es materia prima, no conclusiones.",
+      "es_literal": false,
+      "ancla": "Esto no es un test ni una lista de señales. No hay aquí nada que sumar, que puntuar ni que interpretar, y ningún patrón que confirme o descarte nada. Observar a tu hijo y anotar lo que ves no es valorarlo clínicamente: valorar es trabajo de profesionales con formación para eso. Lo que se entrega es materia prima, no conclusiones.",
+      "temas": [
+        "observar",
+        "limites"
+      ],
+      "intensidad": 3,
+      "gancho": "Anotar no es valorar. Lo que se entrega es materia prima.",
+      "formatos": [
+        "carrusel",
+        "cita",
+        "articulo"
+      ],
+      "capitulo": "Anexos — Describir sin diagnosticar"
+    },
+    {
+      "tipo": "microleccion",
+      "texto": "Un detalle que ordena casi todo lo demás: quien trabaja bien te deja más libre después de hablar contigo; quien vende humo te deja más atado, con más urgencia y con menos gente a quien consultar.",
+      "es_literal": false,
+      "ancla": "Hay un detalle que ordena casi todo lo demás: quien trabaja bien te deja más libre después de hablar contigo; quien vende una cura te deja más atado, con más urgencia y con menos gente a quien consultar. El aislamiento es la herramienta principal de la venta.",
+      "temas": [
+        "profesionales",
+        "criterio"
+      ],
+      "intensidad": 3,
+      "gancho": "El aislamiento es la herramienta principal de la venta",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "hilo"
+      ],
+      "capitulo": "Anexos — Cómo huele quien vende una cura"
+    },
+    {
+      "tipo": "cita",
+      "texto": "Ni don ni avería. Ni culpa ni epopeya. Y algo que conviene no perder de vista en ninguna página: hay aquí un tercero que no ha elegido nada de esto, que crecerá, y que un día leerá lo que se dijo de él.",
+      "es_literal": true,
+      "ancla": "Ni don ni avería. Ni culpa ni epopeya. Y algo que conviene no perder de vista en ninguna página: hay aquí un tercero que no ha elegido nada de esto, que crecerá, y que un día leerá lo que se dijo de él. Se escribe pensando en esa persona.",
+      "temas": [
+        "enfoque",
+        "respeto"
+      ],
+      "intensidad": 4,
+      "gancho": "Se escribe pensando en la persona de la que se habla",
+      "formatos": [
+        "cita",
+        "carrusel",
+        "pin"
+      ],
+      "capitulo": "Anexos — Nota de enfoque"
+    }
+  ]
+}
