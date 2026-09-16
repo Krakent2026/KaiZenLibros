@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% set descripcion = post.resumen %}
+{% block clase_body %}{% if post.serie %}serie-{{ post.serie.replace('_', '-') }}{% endif %}{% endblock %}
+{% block contenido %}
+<article class="estrecho articulo">
+  <p class="sobre"><a href="{{ u('blog/') }}">Blog</a> · <time datetime="{{ post.fecha }}">{{ post.fecha.strftime('%d/%m/%Y') }}</time></p>
+  <h1>{{ post.titulo }}</h1>
+  {% if post.resumen %}<p class="entrada">{{ post.resumen }}</p>{% endif %}
+  <div class="cuerpo">{{ post.html | safe }}</div>
+  {% if post.libro %}
+    {% for s in series %}{% for lib in s.libros if lib.slug == post.libro %}
+    <aside class="caja-libro">
+      {% if portada(lib) %}<img src="{{ portada(lib) }}" alt="">{% endif %}
+      <div>
+        <p class="sobre">Este artículo sale de</p>
+        <p><strong><a href="{{ u('libros/' ~ lib.slug ~ '/') }}">{{ lib.titulo }}</a></strong><br><em>{{ lib.subtitulo }}</em></p>
+        <a class="boton" href="{{ enlace_compra(lib, 'blog') }}" rel="nofollow">Ver en Amazon</a>
+      </div>
+    </aside>
+    {% endfor %}{% endfor %}
+  {% endif %}
+</article>
+{% endblock %}

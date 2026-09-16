@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% set descripcion = serie.datos.descripcion_corta %}
+{% block clase_body %}serie-{{ serie_slug(serie) }}{% endblock %}
+{% block contenido %}
+<section class="portada-serie">
+  <div class="estrecho">
+    <p class="sobre">Serie · {{ serie.libros | length }} libros · {{ sello.nombre }}</p>
+    <h1>{{ serie.nombre_amazon }}</h1>
+    <p class="frase">«{{ serie.frase }}»</p>
+    <p class="entrada">{{ serie.datos.descripcion_corta }}</p>
+    {% set primero = serie.libros | min(attribute='numero') %}
+    <p><a class="boton" href="{{ enlace_compra(primero) }}" rel="nofollow">Empieza por el Libro 1: {{ primero.titulo }}</a></p>
+  </div>
+</section>
+
+<section class="estrecho">
+  <h2>Qué promete y qué se niega a decir</h2>
+  <p><strong>Promesa honesta:</strong> {{ serie.datos.promesa }}</p>
+  <p><strong>Lo que no vas a encontrar:</strong> {{ serie.datos.enemigo }}</p>
+</section>
+
+{% if serie.datos.bloques %}
+<section class="estrecho">
+  <h2>Mapa de lectura</h2>
+  <p>El Libro 1 es la puerta. Después, elige el bloque de lo que te está pasando ahora. Cada libro es dueño de un tema y no repite lo que cuentan los otros.</p>
+  {% for b in serie.datos.bloques %}
+  <div class="bloque">
+    <h3>{{ b.nombre }} <small>{{ b.que }}</small></h3>
+    <ol class="lista-libros" start="{{ b.libros[0] }}">
+      {% for n in b.libros %}{% set lib = serie.libro(n) %}
+      <li>
+        <a class="libro-mini" href="{{ u('libros/' ~ lib.slug ~ '/') }}">
+          {% if portada(lib) %}<img src="{{ portada(lib) }}" alt="" loading="lazy">{% endif %}
+          <span><strong>{{ lib.titulo }}</strong><br><em>{{ lib.subtitulo }}</em><br><small>{{ lib.para_que }}</small></span>
+        </a>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+  {% endfor %}
+</section>
+{% endif %}
+
+{% if serie.datos.itinerarios %}
+<section class="estrecho">
+  <h2>Cuatro formas de entrar</h2>
+  <ul class="itinerarios">
+    {% for it in serie.datos.itinerarios %}
+    <li><strong>«{{ it.nombre }}»:</strong>
+      {% for n in it.libros %}{% set lib = serie.libro(n) %}<a href="{{ u('libros/' ~ lib.slug ~ '/') }}">{{ lib.numero }}. {{ lib.titulo }}</a>{% if not loop.last %} → {% endif %}{% endfor %}
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if posts_serie %}
+<section class="estrecho">
+  <h2>Artículos de esta serie</h2>
+  <ul class="lista-posts">{% for p in posts_serie %}<li><a href="{{ u(p.ruta) }}">{{ p.titulo }}</a></li>{% endfor %}</ul>
+</section>
+{% endif %}
+
+{% if serie.datos.nota_enfoque %}
+<section class="estrecho nota-enfoque">
+  <h2>Nota de enfoque</h2>
+  <p>{{ serie.datos.nota_enfoque }}</p>
+</section>
+{% endif %}
+{% endblock %}

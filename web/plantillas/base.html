@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ titulo }}</title>
+{% if descripcion %}<meta name="description" content="{{ descripcion }}">{% endif %}
+<link rel="stylesheet" href="{{ u('static/variables.css') }}">
+<link rel="stylesheet" href="{{ u('static/estilo.css') }}">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22><circle cx=%2216%22 cy=%2216%22 r=%2214%22 fill=%22%23{{ paleta.dominante[1:] }}%22/></svg>">
+</head>
+<body class="{% block clase_body %}{% endblock %}">
+<header class="cabecera">
+  <a class="marca" href="{{ u('') }}">{{ sello.nombre }}</a>
+  <nav>
+    {% for s in series %}<a href="{{ u('series/' ~ serie_slug(s) ~ '/') }}">{{ s.nombre_amazon }}</a>{% endfor %}
+    {% if hay_blog %}<a href="{{ u('blog/') }}">Blog</a>{% endif %}
+    <a href="{{ u('#boletin') }}">Boletín</a>
+  </nav>
+</header>
+<main>
+{% block contenido %}{% endblock %}
+</main>
+<section id="boletin" class="boletin">
+  <div class="estrecho">
+    <h2>Un correo cada viernes. Ningún truco.</h2>
+    <p>Una idea de un libro, sin promesas y sin urgencia. De regalo al apuntarte: <em>{{ newsletter.regalo_bienvenida }}</em>.</p>
+    {% if newsletter.embed_html %}{{ newsletter.embed_html | safe }}{% else %}
+    <p class="aviso">El formulario se activa cuando exista la cuenta del boletín. Mientras tanto, los libros están en Amazon y los enlaces, en la página de cada serie.</p>
+    {% endif %}
+  </div>
+</section>
+<footer class="pie">
+  <p>{{ sello.nombre }} · «{{ sello.tagline }}»</p>
+  <p class="peq">Los libros del sello son divulgación y acompañamiento: no diagnostican, no tratan y no sustituyen a un profesional sanitario. En España: 024 (conducta suicida, 24 h), 112 (emergencias), 016 (violencia de género).</p>
+  <p class="peq">Los enlaces a Amazon pueden llevar seguimiento para saber qué funciona. No se usan datos personales.</p>
+  <p class="peq">© {{ anio }} {{ sello.nombre }}</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% set descripcion = libro.titulo ~ ". " ~ libro.subtitulo ~ ". Libro " ~ libro.numero ~ " de la serie " ~ serie.nombre_amazon ~ "." %}
+{% block clase_body %}serie-{{ serie_slug(serie) }}{% endblock %}
+{% block contenido %}
+<article class="estrecho ficha-libro">
+  <div class="ficha-libro__portada">
+    {% if portada(libro) %}<img src="{{ portada(libro) }}" alt="Portada de {{ libro.titulo }}">{% else %}<div class="portada-vacia grande">{{ libro.numero }}</div>{% endif %}
+  </div>
+  <div class="ficha-libro__texto">
+    <p class="sobre"><a href="{{ u('series/' ~ serie_slug(serie) ~ '/') }}">{{ serie.nombre_amazon }}</a> · Libro {{ libro.numero }} · {{ libro.bloque }}</p>
+    <h1>{{ libro.titulo }}</h1>
+    <p class="subtitulo">{{ libro.subtitulo }}</p>
+    <p class="entrada">{{ libro.para_que }}</p>
+    <p>
+      <a class="boton" href="{{ enlace_compra(libro) }}" rel="nofollow">Ver en Amazon</a>
+      <span class="peq">Ebook y tapa blanda. El enlace te lleva a la tienda de tu país.</span>
+    </p>
+    {% if libro.numero != 1 %}
+    {% set primero = serie.libro(1) %}
+    <p class="aviso">¿Primera vez en la serie? Empieza por <a href="{{ u('libros/' ~ primero.slug ~ '/') }}">{{ primero.titulo }}</a>: es la puerta, y los demás remiten a él.</p>
+    {% endif %}
+  </div>
+</article>
+
+<section class="estrecho">
+  <h2>Dónde encaja en la serie</h2>
+  <p>«{{ serie.frase }}» — {{ serie.datos.promesa }}</p>
+  <nav class="vecinos">
+    {% if anterior %}<a href="{{ u('libros/' ~ anterior.slug ~ '/') }}">← {{ anterior.numero }}. {{ anterior.titulo }}</a>{% else %}<span></span>{% endif %}
+    {% if siguiente %}<a href="{{ u('libros/' ~ siguiente.slug ~ '/') }}">{{ siguiente.numero }}. {{ siguiente.titulo }} →</a>{% endif %}
+  </nav>
+</section>
+
+{% if posts_libro %}
+<section class="estrecho">
+  <h2>Artículos sobre este libro</h2>
+  <ul class="lista-posts">{% for p in posts_libro %}<li><a href="{{ u(p.ruta) }}">{{ p.titulo }}</a></li>{% endfor %}</ul>
+</section>
+{% endif %}
+
+{% if serie.datos.nota_enfoque %}
+<section class="estrecho nota-enfoque"><p>{{ serie.datos.nota_enfoque }}</p></section>
+{% endif %}
+{% endblock %}

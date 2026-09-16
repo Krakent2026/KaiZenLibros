@@ -1,0 +1,92 @@
+/* Web del sello. Las variables de color vienen de variables.css (generado desde las portadas). */
+*,*::before,*::after{box-sizing:border-box}
+html{font-size:17px;-webkit-text-size-adjust:100%}
+body{margin:0;font-family:Georgia,"Times New Roman",serif;line-height:1.55;color:var(--tinta);background:var(--fondo)}
+a{color:inherit}
+img{max-width:100%;height:auto;display:block}
+h1,h2,h3{font-weight:normal;line-height:1.15;letter-spacing:-.01em}
+h1{font-size:clamp(1.9rem,4vw,2.8rem);margin:.2em 0 .4em}
+h2{font-size:1.45rem;margin:1.8em 0 .5em}
+h3{font-size:1.15rem;margin:1.4em 0 .4em}
+h3 small{display:block;font-size:.85rem;opacity:.75;margin-top:.15em}
+p{margin:.6em 0}
+.estrecho{max-width:920px;margin:0 auto;padding:0 1.2rem}
+.sobre{font-family:system-ui,sans-serif;font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;opacity:.75;margin:0}
+.sobre a{text-decoration:none}
+.entrada{font-size:1.15rem}
+.frase{font-style:italic;font-size:1.2rem;margin:.3em 0 .8em}
+.peq{font-family:system-ui,sans-serif;font-size:.82rem;opacity:.75}
+.aviso{font-family:system-ui,sans-serif;font-size:.9rem;padding:.7em 1em;border-left:3px solid var(--acento);background:rgba(0,0,0,.035)}
+.meta{font-family:system-ui,sans-serif;font-size:.85rem;opacity:.8}
+
+/* cabecera */
+.cabecera{display:flex;flex-wrap:wrap;gap:.6rem 1.4rem;align-items:baseline;justify-content:space-between;padding:1rem 1.2rem;max-width:920px;margin:0 auto}
+.marca{font-size:1.25rem;letter-spacing:.18em;text-transform:uppercase;text-decoration:none}
+.cabecera nav{display:flex;flex-wrap:wrap;gap:.3rem 1.1rem;font-family:system-ui,sans-serif;font-size:.9rem}
+.cabecera nav a{text-decoration:none;opacity:.85}
+.cabecera nav a:hover{opacity:1;text-decoration:underline}
+
+/* portadas de sección */
+.portada-sello,.portada-serie{background:var(--dominante);color:var(--sobre-dominante);padding:3.2rem 0 2.6rem;margin-bottom:1.5rem}
+.portada-sello .sobre,.portada-serie .sobre{opacity:.8}
+.portada-serie .boton{margin-top:.6rem}
+
+/* botones */
+.boton{display:inline-block;font-family:system-ui,sans-serif;font-size:.95rem;padding:.7em 1.2em;border-radius:6px;text-decoration:none;background:var(--acento);color:#fff;border:1px solid transparent}
+.boton:hover{filter:brightness(1.08)}
+.boton.ancho{display:block;text-align:center;margin:.9rem 0 .25rem;padding:1em 1.2em;background:var(--dominante);color:var(--sobre-dominante)}
+.boton.suave{background:transparent;color:var(--tinta);border-color:currentColor;opacity:.85}
+.enlace-secundario{display:block;text-align:center;font-family:system-ui,sans-serif;font-size:.85rem;margin-bottom:1rem}
+
+/* tarjetas de serie en portada */
+.tarjeta-serie{display:grid;grid-template-columns:1.2fr 1fr;gap:1.5rem;align-items:center;padding:1.6rem 0;border-top:1px solid rgba(0,0,0,.1)}
+.tarjeta-serie h2{margin-top:0}
+.tarjeta-serie h2 a{text-decoration:none}
+.fila-portadas{display:grid;grid-template-columns:repeat(3,1fr);gap:.5rem}
+.fila-portadas img{border-radius:3px;box-shadow:0 2px 8px rgba(0,0,0,.18)}
+.portada-vacia{display:grid;place-items:center;aspect-ratio:10/16;background:var(--dominante);color:var(--sobre-dominante);font-size:1.6rem;border-radius:3px}
+.portada-vacia.grande{font-size:3rem}
+
+/* mapa de lectura */
+.bloque{margin-bottom:1.2rem}
+.lista-libros{list-style:none;padding:0;margin:0;display:grid;gap:.6rem}
+.libro-mini{display:grid;grid-template-columns:64px 1fr;gap:.9rem;align-items:center;text-decoration:none;padding:.5rem;border-radius:6px;background:rgba(255,255,255,.55)}
+.libro-mini:hover{background:rgba(255,255,255,.9)}
+.libro-mini img{border-radius:2px;box-shadow:0 1px 4px rgba(0,0,0,.2)}
+.libro-mini em{font-size:.92rem;opacity:.85}
+.libro-mini small{font-family:system-ui,sans-serif;opacity:.7}
+.itinerarios{padding-left:1.1rem}
+.itinerarios li{margin:.5em 0}
+
+/* ficha de libro */
+.ficha-libro{display:grid;grid-template-columns:minmax(180px,280px) 1fr;gap:2rem;align-items:start;padding-top:2rem}
+.ficha-libro img{border-radius:4px;box-shadow:0 6px 24px rgba(0,0,0,.22)}
+.subtitulo{font-size:1.25rem;font-style:italic;margin-top:-.3em}
+.vecinos{display:flex;justify-content:space-between;gap:1rem;font-family:system-ui,sans-serif;font-size:.9rem;margin-top:1rem}
+.nota-enfoque{font-family:system-ui,sans-serif;font-size:.85rem;opacity:.8;margin-top:2.5rem}
+
+/* blog */
+.lista-posts{list-style:none;padding:0}
+.lista-posts li{margin:.6em 0}
+.lista-posts time{font-family:system-ui,sans-serif;font-size:.8rem;opacity:.7;margin-left:.5em}
+.lista-posts.grande li{margin:1.6em 0}
+.lista-posts.grande h2{margin:.1em 0 .3em}
+.articulo .cuerpo{font-size:1.06rem}
+.articulo .cuerpo h2{font-size:1.35rem}
+.caja-libro{display:grid;grid-template-columns:110px 1fr;gap:1.2rem;align-items:center;margin:2.5rem 0;padding:1.2rem;border-radius:8px;background:rgba(255,255,255,.6)}
+
+/* enlaces (bio) */
+.pagina-enlaces main{padding:2rem 0}
+.enlaces-bio{max-width:520px;text-align:center}
+.enlaces-bio h1{font-size:1.6rem}
+
+/* boletín y pie */
+.boletin{background:rgba(0,0,0,.05);margin-top:3rem;padding:2.2rem 0}
+.boletin h2{margin-top:0}
+.pie{padding:2rem 1.2rem 3rem;max-width:920px;margin:0 auto;font-size:.95rem}
+
+@media (max-width:700px){
+  .tarjeta-serie,.ficha-libro,.caja-libro{grid-template-columns:1fr}
+  .ficha-libro__portada{max-width:240px}
+  .fila-portadas{grid-template-columns:repeat(6,1fr)}
+}

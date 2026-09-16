@@ -1,0 +1,105 @@
+{
+  "dominante": "#dccaa9",
+  "acento": "#223c32",
+  "texto_sobre_dominante": "#1c1917",
+  "fondo_claro": "#faf7f2",
+  "tinta": "#1c1917",
+  "por_libro": {
+    "no-es-pereza": [
+      "#dcc9a8",
+      "#7b7e69",
+      "#576454",
+      "#374c3f",
+      "#bdb295",
+      "#68715f"
+    ],
+    "tu-cerebro-no-esta-roto": [
+      "#ddcaa9",
+      "#cabc9d",
+      "#68715f",
+      "#48594a",
+      "#7c7e69",
+      "#bcb194"
+    ],
+    "el-tiempo-no-me-obedece": [
+      "#ddcaa9",
+      "#2a4337",
+      "#bdb295",
+      "#7d806b",
+      "#cbbc9e",
+      "#596756"
+    ],
+    "sistemas-para-mentes-caoticas": [
+      "#dccaa9",
+      "#6a7360",
+      "#223c32",
+      "#cabd9f",
+      "#bdb396",
+      "#7f806b"
+    ],
+    "dopamina": [
+      "#dccaa9",
+      "#8b8c75",
+      "#beb295",
+      "#566453",
+      "#47594a",
+      "#394d40"
+    ],
+    "del-caos-a-la-calma": [
+      "#ddcbaa",
+      "#68725f",
+      "#c0b497",
+      "#384c3f",
+      "#495a4b",
+      "#b0a98e"
+    ],
+    "demasiado-intenso": [
+      "#dccaa9",
+      "#a29e84",
+      "#223c32",
+      "#586655",
+      "#beb295",
+      "#394d40"
+    ],
+    "enmascarada": [
+      "#dccaa9",
+      "#9c9980",
+      "#394d40",
+      "#223c32",
+      "#47594a",
+      "#cabc9e"
+    ],
+    "relaciones-a-otra-frecuencia": [
+      "#ddcaa9",
+      "#beb295",
+      "#7f816c",
+      "#6a7361",
+      "#2a4337",
+      "#223c32"
+    ],
+    "trabajar-sin-romperte": [
+      "#dccaa9",
+      "#beb295",
+      "#495a4b",
+      "#7d7d69",
+      "#68725f",
+      "#9f9a80"
+    ],
+    "diagnostico-tarde": [
+      "#dccaa9",
+      "#394d40",
+      "#223c32",
+      "#7c7e69",
+      "#68725f",
+      "#a29d82"
+    ],
+    "criar-mentes-distintas": [
+      "#dccaa9",
+      "#beb295",
+      "#394d40",
+      "#7d7d69",
+      "#9f9a81",
+      "#68725f"
+    ]
+  }
+}

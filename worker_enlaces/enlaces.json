@@ -1,0 +1,158 @@
+{
+  "sello": "kaizen",
+  "web": "https://krakent2026.github.io/KaiZenLibros",
+  "por_defecto": "amazon.es",
+  "marketplaces": {
+    "ES": "amazon.es",
+    "MX": "amazon.com.mx",
+    "BR": "amazon.com.br",
+    "US": "amazon.com",
+    "CA": "amazon.ca",
+    "GB": "amazon.co.uk",
+    "DE": "amazon.de",
+    "FR": "amazon.fr",
+    "IT": "amazon.it",
+    "NL": "amazon.nl",
+    "AR": "amazon.com",
+    "CO": "amazon.com",
+    "CL": "amazon.com",
+    "PE": "amazon.com",
+    "UY": "amazon.com",
+    "EC": "amazon.com",
+    "VE": "amazon.com",
+    "BO": "amazon.com",
+    "PY": "amazon.com",
+    "CR": "amazon.com",
+    "PA": "amazon.com",
+    "DO": "amazon.com",
+    "GT": "amazon.com",
+    "HN": "amazon.com",
+    "SV": "amazon.com",
+    "NI": "amazon.com",
+    "CU": "amazon.com",
+    "PR": "amazon.com"
+  },
+  "afiliados": {},
+  "utm_medium": "social",
+  "canales": {
+    "ig": "instagram",
+    "pin": "pinterest",
+    "fb": "facebook",
+    "th": "threads",
+    "bs": "bluesky",
+    "x": "x",
+    "yt": "youtube",
+    "tt": "tiktok",
+    "tg": "telegram",
+    "nl": "newsletter",
+    "web": "web",
+    "pod": "podcast"
+  },
+  "libros": {
+    "no-es-pereza": {
+      "titulo": "No es pereza",
+      "serie": "Mente distinta",
+      "numero": 1,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "No+es+pereza+Kai+Zen"
+    },
+    "tu-cerebro-no-esta-roto": {
+      "titulo": "Tu cerebro no está roto",
+      "serie": "Mente distinta",
+      "numero": 2,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Tu+cerebro+no+est%C3%A1+roto+Kai+Zen"
+    },
+    "el-tiempo-no-me-obedece": {
+      "titulo": "El tiempo no me obedece",
+      "serie": "Mente distinta",
+      "numero": 3,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "El+tiempo+no+me+obedece+Kai+Zen"
+    },
+    "sistemas-para-mentes-caoticas": {
+      "titulo": "Sistemas para mentes caóticas",
+      "serie": "Mente distinta",
+      "numero": 4,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Sistemas+para+mentes+ca%C3%B3ticas+Kai+Zen"
+    },
+    "dopamina": {
+      "titulo": "Dopamina",
+      "serie": "Mente distinta",
+      "numero": 5,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Dopamina+Kai+Zen"
+    },
+    "del-caos-a-la-calma": {
+      "titulo": "Del caos a la calma",
+      "serie": "Mente distinta",
+      "numero": 6,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Del+caos+a+la+calma+Kai+Zen"
+    },
+    "demasiado-intenso": {
+      "titulo": "Demasiado intenso",
+      "serie": "Mente distinta",
+      "numero": 7,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Demasiado+intenso+Kai+Zen"
+    },
+    "enmascarada": {
+      "titulo": "Enmascarada",
+      "serie": "Mente distinta",
+      "numero": 8,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Enmascarada+Kai+Zen"
+    },
+    "relaciones-a-otra-frecuencia": {
+      "titulo": "Relaciones a otra frecuencia",
+      "serie": "Mente distinta",
+      "numero": 9,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Relaciones+a+otra+frecuencia+Kai+Zen"
+    },
+    "trabajar-sin-romperte": {
+      "titulo": "Trabajar sin romperte",
+      "serie": "Mente distinta",
+      "numero": 10,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Trabajar+sin+romperte+Kai+Zen"
+    },
+    "diagnostico-tarde": {
+      "titulo": "Diagnóstico tarde",
+      "serie": "Mente distinta",
+      "numero": 11,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Diagn%C3%B3stico+tarde+Kai+Zen"
+    },
+    "criar-mentes-distintas": {
+      "titulo": "Criar mentes distintas",
+      "serie": "Mente distinta",
+      "numero": 12,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Criar+mentes+distintas+Kai+Zen"
+    },
+    "mente-distinta": {
+      "titulo": "No es pereza",
+      "serie": "Mente distinta",
+      "numero": 1,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "No+es+pereza+Kai+Zen",
+      "alias_de": "no-es-pereza"
+    }
+  }
+}

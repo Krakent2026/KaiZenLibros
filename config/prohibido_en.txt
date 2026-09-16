@@ -1,0 +1,23 @@
+# Banned vocabulary for promotional copy (English editions).
+# Format: level|regex (case-insensitive)|note
+# Source: 0_PROCEDIMIENTO_KAI_ZEN.md, section 5.1 (English covers) and 6.3.
+
+bloquea|\b(cure|cures|cured|curing)\b|Cure claim
+bloquea|\b(heal|heals|healed|healing)\b|Healing claim (if quoting the book critically, human decides)
+bloquea|\b(fix|fixes|fixed)\s+(your|the)\s+(brain|adhd|anxiety|life)\b|Fix claim
+bloquea|\b(treat|treats|treating)\s+(your|the)\s+(adhd|anxiety|depression|symptoms?)\b|Treatment claim
+bloquea|\b(relieve|relieves|reduce|reduces|eliminate|eliminates)\s+(your|the)\s+(anxiety|stress|symptoms?|pain|adhd)\b|Health outcome claim
+bloquea|\bguarantee[sd]?\b|Guarantee
+bloquea|\btransform\s+your\s+life\b|Absolute promise
+bloquea|\b(best[\s-]?seller|bestselling|#\s*1|number\s+one)\b|Not allowed on KDP pages; not claimed elsewhere without proof
+bloquea|\b(award[\s-]?winning|prize)\b|Not allowed on KDP pages
+bloquea|\b(scientifically\s+proven|studies\s+show|science\s+says)\b|Unverifiable claim
+bloquea|\b(superpower|it'?s\s+a\s+gift)\b|A Different Mind: neither gift nor defect
+bloquea|\b(do\s+you\s+have\s+adhd\?|adhd\s+test|find\s+out\s+if\s+you)\b|No tests, no diagnosis
+bloquea|\b(predicts?|your\s+future\s+will)\b|Numerology series does not predict
+
+avisa|\b(calm|calms)\s+(your|the)\b|Possible outcome claim
+avisa|\b(free|discount|deal|price|\$)\b|Prices: never on KDP pages; on social only with real dates
+avisa|\b(last\s+chance|today\s+only|hurry|don'?t\s+miss)\b|False urgency
+avisa|\b(always\s+works|works\s+for\s+everyone|foolproof)\b|Absolute
+avisa|(?-i:(?:\b[A-Z]{5,}\b[\s,.:;!?]*){3,})|All caps run

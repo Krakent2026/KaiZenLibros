@@ -1,0 +1,24 @@
+# Fechas señaladas por serie. El Estratega (Fase 1) las usa para planificar; el Bibliotecario, para los días gratis.
+# Formato: mes-día. Las que cambian de año se anotan con el año.
+
+globales:
+  - {fecha: "01-01", nombre: "Año Nuevo", series: [crecimiento_personal], gancho: "Empezar de nuevo sin épica"}
+  - {fecha: "01-15", nombre: "Tercera semana de enero: propósitos que se caen", series: [crecimiento_personal, mente_distinta]}
+  - {fecha: "03-08", nombre: "Día Internacional de la Mujer", series: [mente_distinta], gancho: "Enmascarada: diagnóstico tardío en mujeres"}
+  - {fecha: "04-02", nombre: "Día Mundial de Concienciación sobre el Autismo", series: [mente_distinta]}
+  - {fecha: "04-23", nombre: "Día del Libro", series: [todas]}
+  - {fecha: "05-01", nombre: "Día del Trabajo", series: [mente_distinta], gancho: "Trabajar sin romperte"}
+  - {fecha: "06-21", nombre: "Día Internacional del Yoga / solsticio", series: [espiritualidad_sin_doctrina]}
+  - {fecha: "09-01", nombre: "Vuelta al trabajo y al colegio", series: [mente_distinta, crecimiento_personal], gancho: "Sistemas que aguantan septiembre"}
+  - {fecha: "09-10", nombre: "Día Mundial para la Prevención del Suicidio", series: [mente_distinta], gancho: "Solo recursos y teléfonos. Ninguna venta ese día."}
+  - {fecha: "10-10", nombre: "Día Mundial de la Salud Mental", series: [mente_distinta], gancho: "Ni un test. No es pereza gratis."}
+  - {fecha: "10-01", nombre: "Mes de concienciación sobre el TDAH (octubre)", series: [mente_distinta], duracion_dias: 31}
+  - {fecha: "11-13", nombre: "Día Mundial de la Amabilidad", series: [crecimiento_personal], gancho: "Disciplina amable"}
+  - {fecha: "11-28", nombre: "Black Friday (viernes tras Acción de Gracias, cambia cada año)", series: [todas], gancho: "Ofertas relámpago del Libro 1", anio: 2026}
+  - {fecha: "12-01", nombre: "Campaña de Navidad y cierre de año", series: [crecimiento_personal, espiritualidad_sin_doctrina], duracion_dias: 31}
+  - {fecha: "12-26", nombre: "Semana entre Navidad y Año Nuevo: lectura y balance", series: [crecimiento_personal], gancho: "Cartas a mi yo del futuro"}
+
+reglas:
+  - "En fechas de duelo o prevención (09-10) no se publica nada con enlace de compra."
+  - "Un libro gratis por día como máximo en todo el sello; se reserva con dos semanas de antelación en KDP."
+  - "Las fechas comerciales (Black Friday, Navidad) se anuncian solo con precio real y fecha de fin real."

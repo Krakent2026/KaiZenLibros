@@ -1,0 +1,22 @@
+# secretos y entorno
+.env
+*.pem
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# salidas generadas
+web/dist/
+datos/*.sqlite-wal
+datos/*.sqlite-shm
+datos/salida/
+
+# los manuscritos nunca entran en el repositorio
+fuentes/
+
+# worker
+worker_enlaces/node_modules/
+worker_enlaces/.wrangler/

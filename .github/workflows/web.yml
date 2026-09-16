@@ -1,0 +1,54 @@
+name: Web del sello
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "web/**"
+      - "config/**"
+      - "agentes/config.py"
+      - ".github/workflows/web.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      # BASE_URL: variable del repositorio. Con GitHub Pages sin dominio propio es /<nombre-del-repo>/; con dominio propio, /
+      - run: python -m web.generar --base-url "${{ vars.BASE_URL || format('/{0}/', github.event.repository.name) }}"
+      # El despliegue a GitHub Pages solo se intenta si la variable PAGES_ACTIVAS vale "true"
+      # (Pages exige repositorio público en el plan gratuito). Sin ella, este job solo valida que la web se genera.
+      - if: vars.PAGES_ACTIVAS == 'true'
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - if: vars.PAGES_ACTIVAS == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+
+  desplegar:
+    if: vars.PAGES_ACTIVAS == 'true'
+    needs: construir
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    steps:
+      - id: despliegue
+        uses: actions/deploy-pages@v4

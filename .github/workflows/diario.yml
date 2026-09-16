@@ -1,0 +1,54 @@
+name: Ciclo diario
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 06:00 UTC (08:00 en España en verano)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  diario:
+    runs-on: ubuntu-latest
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_APROBACION: ${{ secrets.TELEGRAM_CHAT_APROBACION }}
+      TELEGRAM_CANAL: ${{ secrets.TELEGRAM_CANAL }}
+      PINTEREST_TOKEN: ${{ secrets.PINTEREST_TOKEN }}
+      PINTEREST_APP_ID: ${{ secrets.PINTEREST_APP_ID }}
+      PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
+      PINTEREST_REFRESH_TOKEN: ${{ secrets.PINTEREST_REFRESH_TOKEN }}
+      PINTEREST_TABLERO_ID: ${{ secrets.PINTEREST_TABLERO_ID }}
+      INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
+      INSTAGRAM_CUENTA_ID: ${{ secrets.INSTAGRAM_CUENTA_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Chromium para el Diseñador
+        run: playwright install --with-deps chromium
+      - name: Pipeline diario
+        run: python -m agentes.pipeline diario
+      - name: Estado
+        run: python -m agentes.pipeline estado
+      - name: Guardar cambios en datos y piezas
+        run: |
+          git config user.name "agentes-bot"
+          git config user.email "agentes-bot@users.noreply.github.com"
+          git add datos/*.sqlite web/static/piezas
+          if git diff --staged --quiet; then
+            echo "Sin cambios"
+          else
+            git commit -m "datos: ciclo diario $(date -u +%F)"
+            git pull --rebase
+            git push
+          fi

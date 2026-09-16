@@ -1,0 +1,17 @@
+# Cloudflare Worker del enlace universal. Plan gratuito: 100.000 peticiones/día.
+#
+# Despliegue (una vez creada la cuenta gratuita de Cloudflare):
+#   cd worker_enlaces
+#   npx wrangler login
+#   npx wrangler deploy
+# Después, en el panel de Cloudflare: Workers → enlaces-kaizen → Triggers → Custom Domains → enlaces.tudominio.es
+# (o usar la URL *.workers.dev que da Cloudflare, también gratuita).
+
+name = "enlaces-kaizen"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+# Registro de clics sin datos personales (Analytics Engine, gratuito). Comentar si no se quiere.
+[[analytics_engine_datasets]]
+binding = "CLICS"
+dataset = "clics_enlaces_kaizen"

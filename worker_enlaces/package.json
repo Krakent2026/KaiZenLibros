@@ -1,0 +1,13 @@
+{
+  "name": "enlaces-kaizen",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "regenerar": "python ../herramientas/generar_enlaces.py"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  }
+}

@@ -1,0 +1,29 @@
+# Vocabulario vetado en textos promocionales (español).
+# Formato: nivel|expresión regular (insensible a mayúsculas)|nota
+#   bloquea = la pieza no sale; vuelve al Redactor con el motivo
+#   avisa   = pasa, pero se marca para que el humano lo mire
+# Origen: 0_PROCEDIMIENTO_KAI_ZEN.md (fase 6.3) y notas de enfoque de cada serie.
+
+bloquea|\b(te\s+cura|cura(r|rá|n)?\s+(la|el|tu|tus|los|las)\s+\w+|curaci[óo]n\s+(del?|de\s+la)\b)|Promesa de curación («no se cura» no entra aquí a propósito)
+bloquea|\b(te\s+sana|san(a|ar|ará)\s+(tu|tus|la|el|los|las)\s+\w+)\b|Promesa de sanación
+bloquea|\b(reduce|reducir|reducirá|elimina|eliminar|eliminará|alivia|aliviar|aliviará|quita|quitar)\s+(la|el|tu|tus|los|las)\s+(ansiedad|estrés|depresión|síntomas?|dolor|insomnio|tdah|procrastinación|culpa)\b|Afirmación de salud o resultado
+bloquea|\b(mejora|mejorar|mejorará|aumenta|aumentar|aumentará)\s+(tu|tus|la|el)\s+(concentración|atención|memoria|salud|ansiedad|sueño|autoestima|vida|productividad|bienestar)\b|Afirmación de resultado
+bloquea|\btransforma(r|rá)?\s+tu\s+vida\b|Promesa absoluta
+bloquea|\bcambiar[áa]?\s+tu\s+vida\b|Promesa absoluta
+bloquea|\bgarantiza(do|da|mos|r)?\b|Garantía
+bloquea|\b(best[\s-]?seller|m[áa]s\s+vendidos?|n[úu]mero\s*1|nº\s*1|superventas)\b|Prohibido por KDP en ficha y A+; en redes tampoco se afirma sin prueba
+bloquea|\b(premio|galardonad[oa]|finalista)\b|Prohibido en ficha y A+; en redes solo con prueba y fuera de Kai Zen
+bloquea|\b(te\s+diagnostic(a|amos|o)|test\s+de\s+tdah|¿tienes\s+tdah\?|descubre\s+si\s+tienes)\b|Mente distinta no diagnostica ni ofrece tests
+bloquea|\b(cient[íi]ficamente\s+probado|estudios\s+demuestran|la\s+ciencia\s+dice|seg[úu]n\s+un\s+estudio)\b|Dato no verificable
+bloquea|\b(predice|predecir|te\s+espera\s+un|tu\s+futuro\s+ser[áa])\b|Los números del alma no predice
+bloquea|\b(superpoder|es\s+un\s+don)\b|Mente distinta: ni don ni avería
+bloquea|\b(abundancia\s+garantizada|atraer[áa]s?\s+dinero|c[óo]digos?\s+sagrados?\s+para\s+sanar)\b|Promesa esotérica
+
+avisa|\btrata(r|n|rá)?\s+(la|el|tu|tus)\s+(ansiedad|tdah|depresión|síntomas?|autismo)\b|Verbo «tratar» con dolencia: revisar
+avisa|\bcalma(r|rá)?\s+(la|el|tu|tus)\b|Posible afirmación de resultado
+avisa|\b(oferta|descuento|gratis|precio|€)\b|Precios: prohibidos en A+ y ficha; en redes solo con fecha y condición reales
+avisa|\b(última\s+oportunidad|solo\s+hoy|date\s+prisa|no\s+te\s+lo\s+pierdas|corre)\b|Urgencia falsa
+avisa|\b(siempre\s+funciona|para\s+todo\s+el\s+mundo|infalible)\b|Absoluto: ninguna herramienta funciona para todos ni todos los días
+avisa|\b(cuando\s+quieres,?\s+puedes|solo\s+es\s+cuestión\s+de\s+voluntad)\b|Contradice la tesis de la colección
+avisa|(?-i:(?:\b[A-ZÁÉÍÓÚÑ]{5,}\b[\s,.:;!?]*){3,})|Texto en mayúsculas seguidas
+avisa|\b(yo\s+viv[íi]|cuando\s+estuve\s+en|mi\s+maestro|en\s+jap[óo]n\s+aprend[íi])\b|Kai Zen es voz de sello: sin anécdotas personales inventadas

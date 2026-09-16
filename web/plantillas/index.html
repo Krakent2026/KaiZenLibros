@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% set descripcion = sello.tagline ~ " Libros de " ~ sello.nombre ~ ": series ordenadas, sin promesas." %}
+{% block contenido %}
+<section class="portada-sello">
+  <div class="estrecho">
+    <p class="sobre">Libros de {{ sello.nombre }}</p>
+    <h1>{{ sello.tagline }}</h1>
+    <p class="entrada">Series cerradas, ordenadas y escritas con una regla que no se rompe: aquí no se diagnostica, no se predice y no se promete nada. Cada serie tiene una puerta de entrada clara y un mapa de lectura para seguir por donde te toque.</p>
+  </div>
+</section>
+
+<section class="estrecho">
+  {% for s in series %}
+  <article class="tarjeta-serie serie-{{ serie_slug(s) }}">
+    <div class="tarjeta-serie__texto">
+      <h2><a href="{{ u('series/' ~ serie_slug(s) ~ '/') }}">{{ s.nombre_amazon }}</a></h2>
+      <p class="frase">«{{ s.frase }}»</p>
+      <p>{{ s.datos.descripcion_corta }}</p>
+      <p class="meta">{{ s.libros | length }} libros · <a href="{{ u('series/' ~ serie_slug(s) ~ '/') }}">Ver el mapa de lectura</a></p>
+    </div>
+    <div class="fila-portadas">
+      {% for lib in s.libros[:6] %}
+        <a href="{{ u('libros/' ~ lib.slug ~ '/') }}" title="{{ lib.titulo }}">
+          {% if portada(lib) %}<img src="{{ portada(lib) }}" alt="Portada de {{ lib.titulo }}" loading="lazy">{% else %}<span class="portada-vacia">{{ lib.numero }}</span>{% endif %}
+        </a>
+      {% endfor %}
+    </div>
+  </article>
+  {% endfor %}
+</section>
+
+{% if hay_blog %}
+<section class="estrecho">
+  <h2>Últimos artículos</h2>
+  <ul class="lista-posts">
+    {% for p in posts[:5] %}<li><a href="{{ u(p.ruta) }}">{{ p.titulo }}</a> <time datetime="{{ p.fecha }}">{{ p.fecha.strftime('%d/%m/%Y') }}</time></li>{% endfor %}
+  </ul>
+</section>
+{% endif %}
+{% endblock %}

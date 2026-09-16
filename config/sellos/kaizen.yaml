@@ -1,0 +1,223 @@
+# Configuración del sello Kai Zen.
+# Todo el sistema (Minero, Redactor, web, enlaces) lee de aquí. Un sello = un fichero.
+
+sello:
+  id: kaizen
+  nombre: Kai Zen
+  autor_amazon: Kai Zen
+  tagline: "Leer más no es hacer más."
+  idioma: es
+  # Cambiar por el dominio propio cuando exista. Con GitHub Pages queda https://<usuario>.github.io/Promocion_IA
+  web: "https://krakent2026.github.io/KaiZenLibros"
+  contacto_email: ""
+  voz: >
+    Primera persona cercana y sin género marcado. Directa, validante, con humor seco.
+    Nada clínico ni infantilizador. Sin urgencia falsa y sin promesas: se dice de qué
+    trata el libro, nunca qué le hará al lector. Kai Zen es una voz de sello, no una
+    persona con anécdotas: nunca se inventan vivencias personales.
+
+ia:
+  # Modelos por agente. Cambiar aquí, no en el código.
+  modelo_minero: claude-sonnet-5
+  modelo_redactor: claude-sonnet-5
+  modelo_estratega: claude-opus-5
+  modelo_guardian: claude-haiku-4-5
+  esfuerzo_minero: medium
+  # Precios USD por millón de tokens, para el registro de coste en la tabla ejecuciones.
+  precios:
+    claude-opus-5: {entrada: 5.0, salida: 25.0}
+    claude-sonnet-5: {entrada: 2.0, salida: 10.0}
+    claude-haiku-4-5: {entrada: 1.0, salida: 5.0}
+
+fuentes:
+  # Los manuscritos NO van al repositorio. Se leen de esta raíz (variable de entorno o ruta relativa al repo).
+  raiz_env: KAIZEN_FUENTES
+  raiz_por_defecto: "../8.Espiritualidad"
+  manuscrito: 11_Version_Definitiva.md
+  ficha: 7_Info_Comercial_Amazon.md
+
+amazon:
+  por_defecto: amazon.es
+  # País del visitante (ISO 3166-1 alpha-2) → tienda. Lo que no está aquí va a por_defecto.
+  marketplaces:
+    ES: amazon.es
+    MX: amazon.com.mx
+    BR: amazon.com.br
+    US: amazon.com
+    CA: amazon.ca
+    GB: amazon.co.uk
+    DE: amazon.de
+    FR: amazon.fr
+    IT: amazon.it
+    NL: amazon.nl
+    # Resto de Hispanoamérica compra Kindle en amazon.com
+    AR: amazon.com
+    CO: amazon.com
+    CL: amazon.com
+    PE: amazon.com
+    UY: amazon.com
+    EC: amazon.com
+    VE: amazon.com
+    BO: amazon.com
+    PY: amazon.com
+    CR: amazon.com
+    PA: amazon.com
+    DO: amazon.com
+    GT: amazon.com
+    HN: amazon.com
+    SV: amazon.com
+    NI: amazon.com
+    CU: amazon.com
+    PR: amazon.com
+  # Etiquetas de Amazon Afiliados por tienda. Vacío = sin afiliado. Comprobar condiciones del programa antes de usar.
+  afiliados:
+    amazon.es: ""
+    amazon.com: ""
+    amazon.com.mx: ""
+
+enlaces:
+  # URL base del Worker de Cloudflare (enlace universal). Vacío = la web usa su propia página /ir/<slug>/ (sin geolocalización).
+  base_url: ""
+
+utm:
+  medium_por_defecto: social
+  # Nombre corto de canal (parámetro ?c= del enlace universal) → utm_source
+  canales:
+    ig: instagram
+    pin: pinterest
+    fb: facebook
+    th: threads
+    bs: bluesky
+    x: x
+    yt: youtube
+    tt: tiktok
+    tg: telegram
+    nl: newsletter
+    web: web
+    pod: podcast
+
+plan:
+  zona_horaria: Europe/Madrid
+  # Formatos por día de la semana (0 = lunes). Cada entrada es una pieza; el orden fija la hora.
+  semana:
+    0: [carrusel, cita]
+    1: [cita, cita]
+    2: [carrusel, cita]
+    3: [cita, cita]
+    4: [carrusel, cita]
+    5: [cita]
+    6: [cita]
+  horas: ["12:30", "19:00"]
+  # Cuántos días hacia delante se planifica (para que el humano apruebe con margen)
+  dias_adelanto: 1
+  max_reintentos_redaccion: 2
+
+publicacion:
+  # Canales a los que sale cada pieza. Solo actúan los que tengan credenciales en el entorno.
+  canales: [telegram, pinterest, instagram]
+  # Las imágenes de las piezas se publican en la web para que Instagram las pueda leer (necesita URL pública).
+  ruta_piezas_web: static/piezas
+  dias_conservar_piezas: 21
+  hashtags_max: 8
+
+telegram:
+  # Chat (o usuario) que aprueba: se rellena con TELEGRAM_CHAT_APROBACION en el entorno.
+  # Canal público de lectores: TELEGRAM_CANAL en el entorno (@nombre o id numérico).
+  firma_canal: "— Kai Zen"
+
+newsletter:
+  proveedor: mailerlite
+  # HTML del formulario incrustado de MailerLite. Vacío = la web muestra un aviso de "próximamente".
+  embed_html: ""
+  regalo_bienvenida: "Diez sistemas que aguantan un día malo (guía breve derivada de Sistemas para mentes caóticas)"
+
+canales:
+  # Usuarios previstos. Se rellenan cuando se reserven (docs/CHECKLIST_CUENTAS.md).
+  instagram: ""
+  pinterest: ""
+  threads: ""
+  bluesky: ""
+  x: ""
+  youtube: ""
+  tiktok: ""
+  telegram_canal: ""
+  facebook_pagina: ""
+
+series:
+  mente_distinta:
+    activa: true
+    nombre_amazon: Mente distinta
+    carpeta: 1.Neurodivergente
+    tipo: ordenada
+    frase: "Ni un test. Ni una vez «es un superpoder»."
+    promesa: "Sistemas en lugar de fuerza de voluntad. Herramientas que funcionan un día malo."
+    enemigo: "La autoayuda que diagnostica y el discurso del «don»."
+    descripcion_corta: >
+      Doce libros para cerebros que funcionan distinto: TDAH adulto, alta sensibilidad y autismo
+      detectado tarde. Del «no es pereza» a criar a un hijo que procesa el mundo de otra manera.
+      Sin tests, sin diagnosticar a nadie y sin llamarlo un don. Sistemas en lugar de fuerza de voluntad.
+    nota_enfoque: >
+      Esta colección es divulgación y acompañamiento. No diagnostica ni al lector ni a nadie de su
+      entorno, no trata y no sustituye a un profesional sanitario. No contiene ningún test.
+      En España: 024 (conducta suicida, 24 h), 112 (emergencias), 016 (violencia de género).
+    palabras_clave:
+      - TDAH adulto
+      - neurodivergencia
+      - alta sensibilidad PAS
+      - autismo diagnosticado tarde
+      - colección TDAH español
+      - organización para TDAH
+      - neurodivergente sin diagnóstico
+    bloques:
+      - {nombre: Entender, libros: [1, 2], que: "Qué es esto y qué te ha hecho creer de ti."}
+      - {nombre: Organizarte, libros: [3, 4, 5], que: "Tiempo, sistemas y energía."}
+      - {nombre: Sentir, libros: [6, 7, 8], que: "Intensidad, entorno y máscara."}
+      - {nombre: Convivir, libros: [9, 10, 11, 12], que: "Pareja, trabajo, tu propia historia y tus hijos."}
+    itinerarios:
+      - {nombre: "Acabo de descubrirlo", libros: [1, 11, 2]}
+      - {nombre: "No me organizo", libros: [1, 3, 4, 5]}
+      - {nombre: "Lo llevo mal por dentro", libros: [6, 7, 8]}
+      - {nombre: "El problema está fuera", libros: [9, 10, 12]}
+    libros:
+      - {numero: 1, slug: no-es-pereza, titulo: "No es pereza", subtitulo: "TDAH adulto: por qué no es falta de voluntad", carpeta: Libro1_No_es_pereza, portada: PUBLICAR_NoEsPereza_PORTADA_EBOOK.jpg, bloque: Entender, para_que: "Empieza aquí. Qué es esto por dentro.", asin_ebook: null, asin_papel: null}
+      - {numero: 2, slug: tu-cerebro-no-esta-roto, titulo: "Tu cerebro no está roto", subtitulo: "Del déficit a la diferencia", carpeta: Libro2_Tu_cerebro_no_esta_roto, portada: PUBLICAR_CerebroNoRoto_PORTADA_EBOOK.jpg, bloque: Entender, para_que: "La identidad y la vergüenza acumulada.", asin_ebook: null, asin_papel: null}
+      - {numero: 3, slug: el-tiempo-no-me-obedece, titulo: "El tiempo no me obedece", subtitulo: "Vencer la procrastinación y la ceguera temporal", carpeta: Libro3_El_tiempo_no_me_obedece, portada: PUBLICAR_ElTiempo_PORTADA_EBOOK.jpg, bloque: Organizarte, para_que: "Por qué media hora dura lo que quiere.", asin_ebook: null, asin_papel: null}
+      - {numero: 4, slug: sistemas-para-mentes-caoticas, titulo: "Sistemas para mentes caóticas", subtitulo: "Organización diseñada para tu cerebro, no contra él", carpeta: Libro4_Sistemas_para_mentes_caoticas, portada: PUBLICAR_Sistemas_PORTADA_EBOOK.jpg, bloque: Organizarte, para_que: "Sistemas que aguantan un día malo.", asin_ebook: null, asin_papel: null}
+      - {numero: 5, slug: dopamina, titulo: "Dopamina", subtitulo: "Motivación, aburrimiento y las pantallas", carpeta: Libro5_Dopamina, portada: PUBLICAR_Dopamina_PORTADA_EBOOK.jpg, bloque: Organizarte, para_que: "De dónde sale el arranque y por qué se apaga.", asin_ebook: null, asin_papel: null}
+      - {numero: 6, slug: del-caos-a-la-calma, titulo: "Del caos a la calma", subtitulo: "Regular la tormenta emocional (y la sensibilidad al rechazo)", carpeta: Libro6_Del_caos_a_la_calma, portada: PUBLICAR_DelCaosALaCalma_PORTADA_EBOOK.jpg, bloque: Sentir, para_que: "Las subidas rápidas y la reparación.", asin_ebook: null, asin_papel: null}
+      - {numero: 7, slug: demasiado-intenso, titulo: "Demasiado intenso", subtitulo: "Vivir con alta sensibilidad en un mundo a todo volumen", carpeta: Libro7_Demasiado_intenso, portada: PUBLICAR_DemasiadoIntenso_PORTADA_EBOOK.jpg, bloque: Sentir, para_que: "El ruido, la luz y el presupuesto de exposición.", asin_ebook: null, asin_papel: null}
+      - {numero: 8, slug: enmascarada, titulo: "Enmascarada", subtitulo: "Autismo y TDAH diagnosticados tarde: el precio de haber encajado", carpeta: Libro8_Enmascarada, portada: PUBLICAR_Enmascarada_PORTADA_EBOOK.jpg, bloque: Sentir, para_que: "La máscara y lo que cuesta sostenerla.", asin_ebook: null, asin_papel: null}
+      - {numero: 9, slug: relaciones-a-otra-frecuencia, titulo: "Relaciones a otra frecuencia", subtitulo: "Vínculos, comunicación y límites para cerebros distintos", carpeta: Libro9_Relaciones_a_otra_frecuencia, portada: PUBLICAR_RelacionesAOtraFrecuencia_PORTADA_EBOOK.jpg, bloque: Convivir, para_que: "Pedir, poner límites, y que el otro también traduce.", asin_ebook: null, asin_papel: null}
+      - {numero: 10, slug: trabajar-sin-romperte, titulo: "Trabajar sin romperte", subtitulo: "Empleo, desgaste y adaptaciones para mentes distintas", carpeta: Libro10_Trabajar_sin_romperte, portada: PUBLICAR_TrabajarSinRomperte_PORTADA_EBOOK.jpg, bloque: Convivir, para_que: "El trabajo, incluido cuando no puedes irte.", asin_ebook: null, asin_papel: null}
+      - {numero: 11, slug: diagnostico-tarde, titulo: "Diagnóstico tarde", subtitulo: "Releer tu historia con la información que faltaba", carpeta: Libro11_Diagnostico_tarde, portada: PUBLICAR_DiagnosticoTarde_PORTADA_EBOOK.jpg, bloque: Convivir, para_que: "Qué hacer con una biografía entera.", asin_ebook: null, asin_papel: null}
+      - {numero: 12, slug: criar-mentes-distintas, titulo: "Criar mentes distintas", subtitulo: "Acompañar a un hijo que procesa el mundo de otra manera", carpeta: Libro12_Criar_mentes_distintas, portada: PUBLICAR_CriarMentesDistintas_PORTADA_EBOOK.jpg, bloque: Convivir, para_que: "Cierra la colección. Cuando quien procesa distinto es tu hijo.", asin_ebook: null, asin_papel: null}
+
+  # Series siguientes. Se activan en Fase 2 rellenando la lista de libros (mismo esquema).
+  numeros_del_alma:
+    activa: false
+    nombre_amazon: Los números del alma
+    carpeta: 3.Numerologia
+    tipo: ordenada
+    frase: "Aquí no se predice, no se diagnostica y no se promete nada."
+    libros: []
+  espiritualidad_sin_doctrina:
+    activa: false
+    nombre_amazon: Espiritualidad sin doctrina
+    carpeta: "6. Espiritualidad sin doctrina"
+    tipo: ordenada
+    frase: "Creer sin perder la cabeza."
+    libros: []
+  crecimiento_personal:
+    activa: false
+    nombre_amazon: Crecimiento personal
+    carpeta: 0.Crecimiento Personal
+    tipo: ordenada
+    frase: "Leer más no es hacer más."
+    libros: []
+  los_mensajeros:
+    activa: false
+    nombre_amazon: Los Mensajeros
+    carpeta: "2. Los mensajeros"
+    tipo: ordenada
+    frase: "Ni burla ni adhesión."
+    libros: []

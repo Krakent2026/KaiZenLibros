@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<title>{{ titulo }}</title>
+<link rel="stylesheet" href="{{ u('static/variables.css') }}">
+<link rel="stylesheet" href="{{ u('static/estilo.css') }}">
+<script>
+  // Redirección estática (sin geolocalización). El Worker de Cloudflare, cuando exista, sustituye a esta página.
+  (function () {
+    var p = new URLSearchParams(location.search);
+    var c = p.get("c");
+    var destino = "{{ destino }}";
+    if (c) destino = destino.replace(/utm_source=[^&]*/, "utm_source=" + encodeURIComponent(c));
+    location.replace(destino);
+  })();
+</script>
+</head>
+<body>
+<main class="estrecho">
+  <p class="sobre">Un momento…</p>
+  <h1>Te llevamos a «{{ libro.titulo }}» en {{ tienda }}</h1>
+  <p><a class="boton" href="{{ destino }}" rel="nofollow">Si no se abre, pulsa aquí</a></p>
+  <p class="peq">¿Compras desde otro país?
+    {% for t, url in alternativas %}<a href="{{ url }}" rel="nofollow">{{ t }}</a>{% if not loop.last %} · {% endif %}{% endfor %}
+  </p>
+</main>
+</body>
+</html>

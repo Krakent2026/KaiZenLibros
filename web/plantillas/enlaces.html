@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block clase_body %}pagina-enlaces{% endblock %}
+{% block contenido %}
+<section class="estrecho enlaces-bio">
+  <p class="sobre">{{ sello.nombre }}</p>
+  <h1>{{ sello.tagline }}</h1>
+  {% for s in series %}
+    {% set primero = s.libros | min(attribute='numero') %}
+    <a class="boton ancho serie-{{ serie_slug(s) }}" href="{{ enlace_compra(primero, 'bio') }}" rel="nofollow">
+      <strong>{{ s.nombre_amazon }}</strong><br><small>Empieza por «{{ primero.titulo }}»</small>
+    </a>
+    <a class="enlace-secundario" href="{{ u('series/' ~ serie_slug(s) ~ '/') }}">Mapa de lectura de {{ s.nombre_amazon }}</a>
+  {% endfor %}
+  {% if hay_blog %}<a class="boton ancho suave" href="{{ u('blog/') }}">Artículos</a>{% endif %}
+  <a class="boton ancho suave" href="{{ u('#boletin') }}">Boletín de los viernes</a>
+</section>
+{% endblock %}
