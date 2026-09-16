@@ -6,9 +6,10 @@
 from __future__ import annotations
 
 import argparse
+import os
 import sqlite3
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from agentes import db
@@ -46,12 +47,23 @@ def publicar_vencidas(con: sqlite3.Connection, sello: Sello, *, ahora: datetime 
     if not activos:
         print("  · ningún canal con credenciales; las piezas aprobadas esperan")
         return r
+    pub = sello.datos.get("publicacion", {})
+    antelacion = timedelta(minutes=int(pub.get("antelacion_minima_min", 0)))
+    hay_telegram = bool(os.environ.get("TELEGRAM_BOT_TOKEN") and os.environ.get("TELEGRAM_CHAT_APROBACION"))
     for fila in db.piezas(con, "aprobada"):
         if ids and fila["id"] not in ids:
             continue
         if not forzar_hora and fila["programado_para"] and datetime.fromisoformat(fila["programado_para"]) > ahora:
             r["esperando"] += 1
             continue
+        # Ventana de cancelación: la previa tiene que haber llegado a Telegram con antelación suficiente.
+        if not forzar_hora and hay_telegram and antelacion:
+            enviado = fila["enviado_humano_en"]
+            if not enviado or datetime.fromisoformat(enviado) + antelacion > ahora:
+                r["esperando"] += 1
+                print(f"  · pieza #{fila['id']}: ventana de cancelación abierta hasta {antelacion.seconds // 60} min "
+                      f"después del aviso en Telegram")
+                continue
         imagenes = activos_de(fila)
         if not imagenes:
             print(f"  ! pieza #{fila['id']} aprobada sin imágenes; se produce en la próxima corrida")

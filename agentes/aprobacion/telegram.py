@@ -109,7 +109,12 @@ def resumen_pieza(fila: sqlite3.Row, contenido: dict[str, Any]) -> str:
     return "\n".join(lineas)
 
 
-def teclado(id_pieza: int) -> list[list[dict[str, str]]]:
+def teclado(id_pieza: int, automatica: bool = False) -> list[list[dict[str, str]]]:
+    if automatica:
+        return [[
+            {"text": "✏️ Editar", "callback_data": f"ed:{id_pieza}"},
+            {"text": "❌ Cancelar publicación", "callback_data": f"no:{id_pieza}"},
+        ]]
     return [[
         {"text": "✅ Aprobar", "callback_data": f"ok:{id_pieza}"},
         {"text": "✏️ Editar", "callback_data": f"ed:{id_pieza}"},
@@ -117,27 +122,42 @@ def teclado(id_pieza: int) -> list[list[dict[str, str]]]:
     ]]
 
 
+def hora_local(iso_utc: str | None, sello: Sello) -> str:
+    if not iso_utc:
+        return "—"
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+
+    zona = sello.datos.get("plan", {}).get("zona_horaria", "Europe/Madrid")
+    return datetime.fromisoformat(iso_utc).astimezone(ZoneInfo(zona)).strftime("%d/%m %H:%M")
+
+
 def enviar_previas(con: sqlite3.Connection, sello: Sello, tg: Telegram | None = None) -> int:
+    """Envía la previa de cada pieza nueva: las `pendiente_humano` con botones de aprobar; las `aprobada`
+    automáticamente, como aviso con botón de cancelar. Sin Telegram, las automáticas siguen su curso."""
     tg = tg or Telegram()
     chat = os.environ.get("TELEGRAM_CHAT_APROBACION", "")
     if not tg.disponible or not chat:
         print("  · Telegram no configurado: las piezas quedan pendientes (aprobar con `pipeline aprobar --id N`)")
         return 0
     n = 0
-    for fila in db.piezas(con, "pendiente_humano"):
+    for fila in db.piezas(con, "pendiente_humano", "aprobada"):
         if fila["enviado_humano_en"] or not fila["ruta_activos"]:
             continue
+        automatica = fila["estado"] == "aprobada"
         contenido = db.contenido_de(fila)
         rutas = sorted((RAIZ_REPO / fila["ruta_activos"]).glob("*.jpg"))
+        cabecera = (f"⏱ SE PUBLICA SOLA a las {hora_local(fila['programado_para'], sello)} salvo que la canceles.\n\n"
+                    if automatica else "")
         try:
             tg.enviar_fotos(chat, rutas, f"Pieza #{fila['id']} · {fila['formato']} · {fila['libro_titulo']}")
-            msg = tg.enviar_texto(chat, resumen_pieza(fila, contenido), teclado(fila["id"]))
+            msg = tg.enviar_texto(chat, cabecera + resumen_pieza(fila, contenido), teclado(fila["id"], automatica))
         except RuntimeError as e:
             print(f"  ! pieza #{fila['id']}: {e}")
             continue
         db.actualizar_pieza(con, fila["id"], telegram_msg_id=msg["message_id"], enviado_humano_en=db.ahora())
         n += 1
-        print(f"  → pieza #{fila['id']} enviada a Telegram para aprobación")
+        print(f"  → pieza #{fila['id']} enviada a Telegram " + ("(aviso, cancelable)" if automatica else "para aprobación"))
     return n
 
 
@@ -149,11 +169,13 @@ def aplicar_decision(con: sqlite3.Connection, id_pieza: int, decision: str, nota
     if fila["estado"] not in ("pendiente_humano", "aprobada"):
         return f"ya está en estado {fila['estado']}"
     if decision == "ok":
+        if fila["estado"] == "aprobada":
+            return "ya estaba aprobada"
         db.actualizar_pieza(con, id_pieza, estado="aprobada", nota_humano=None)
         return "aprobada"
     if decision == "no":
         db.actualizar_pieza(con, id_pieza, estado="descartada", nota_humano=nota)
-        return "descartada"
+        return "publicación cancelada" if fila["estado"] == "aprobada" else "descartada"
     if decision == "ed":
         # vuelve al Redactor con la nota; conserva las imágenes anteriores hasta que se rehagan
         db.actualizar_pieza(con, id_pieza, estado="planificada", nota_humano=nota, ruta_activos=None,

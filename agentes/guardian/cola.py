@@ -153,8 +153,26 @@ def revisar_criterio(fila: sqlite3.Row, contenido: dict[str, Any], sello: Sello,
             [f"criterio: {a}" for a in r.get("avisos", [])])
 
 
+MODOS = ("manual", "mixto", "auto")
+
+
+def estado_tras_guardian(fila: sqlite3.Row, avisos: list[str], sello: Sello) -> str:
+    """Decide si la pieza que pasó el Guardián queda `aprobada` (automático) o `pendiente_humano`."""
+    pub = sello.datos.get("publicacion", {})
+    modo = pub.get("aprobacion", "manual")
+    if modo not in MODOS:
+        modo = "manual"
+    if pub.get("rechazadas_a_manual", True) and (fila["intentos"] or 0) > 0:
+        return "pendiente_humano"          # ya falló una vez: la mira el humano
+    if modo == "auto":
+        return "aprobada"
+    if modo == "mixto" and fila["formato"] == "cita" and fila["es_literal"] and not avisos:
+        return "aprobada"
+    return "pendiente_humano"
+
+
 def revisar_pendientes(con: sqlite3.Connection, sello: Sello, ia: ClienteIA | None) -> dict[str, int]:
-    r = {"aprobadas": 0, "rechazadas": 0}
+    r = {"aprobadas": 0, "rechazadas": 0, "automaticas": 0}
     for fila in db.piezas(con, "redactada"):
         contenido = db.contenido_de(fila)
         motivos, avisos = revisar_determinista(fila, contenido, sello)
@@ -170,7 +188,11 @@ def revisar_pendientes(con: sqlite3.Connection, sello: Sello, ia: ClienteIA | No
             r["rechazadas"] += 1
             print(f"  ✗ pieza #{fila['id']} rechazada: {motivos[0]}" + (f" (+{len(motivos)-1})" if len(motivos) > 1 else ""))
         else:
-            db.actualizar_pieza(con, fila["id"], estado="pendiente_humano", contenido=contenido)
+            estado = estado_tras_guardian(fila, avisos, sello)
+            db.actualizar_pieza(con, fila["id"], estado=estado, contenido=contenido)
             r["aprobadas"] += 1
-            print(f"  ✓ pieza #{fila['id']} pasa al humano" + (f" con {len(avisos)} avisos" if avisos else ""))
+            if estado == "aprobada":
+                r["automaticas"] += 1
+            destino = "aprobada automáticamente (cancelable en Telegram)" if estado == "aprobada" else "pasa al humano"
+            print(f"  ✓ pieza #{fila['id']} {destino}" + (f" · {len(avisos)} avisos" if avisos else ""))
     return r

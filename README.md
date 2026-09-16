@@ -71,7 +71,12 @@ python -m agentes.pipeline aprobaciones         # respuestas de Telegram + publi
 
 Qué se planifica cada día está en el YAML → `plan.semana` (formatos por día) y `plan.horas`. El Redactor usa `ia.modelo_redactor`; el Guardián de criterio, `ia.modelo_guardian`. Coste orientativo por pieza: 0,02-0,04 USD (redacción + revisión).
 
-**Aprobación en Telegram.** Crear un bot con @BotFather, abrir un chat con él y anotar el id del chat (`TELEGRAM_CHAT_APROBACION`). Cada pieza llega con sus imágenes y tres botones: Aprobar, Editar (pide una nota y devuelve la pieza al Redactor) y Descartar. También valen mensajes de texto: `ok 12`, `no 12`, `ed 12 quita la última frase`. Las respuestas se recogen en cada corrida del workflow `aprobaciones.yml` (cada dos horas); no hace falta servidor.
+**Aprobación en Telegram.** Crear un bot con @BotFather, abrir un chat con él y anotar el id del chat (`TELEGRAM_CHAT_APROBACION`). Cada pieza llega con sus imágenes y botones. También valen mensajes de texto: `ok 12`, `no 12`, `ed 12 quita la última frase`. Las respuestas se recogen en cada corrida del workflow `aprobaciones.yml` (cada dos horas); no hace falta servidor.
+
+**Modos de aprobación** (`publicacion.aprobacion` en el YAML):
+- `manual`: nada sale sin ✅ del humano.
+- `mixto`: se autoaprueban las citas literales sin avisos del Guardián; carruseles y piezas con avisos esperan al humano.
+- `auto` (activo): todo lo que pasa el Guardián queda aprobado. La previa llega a Telegram con «⏱ se publica sola a las HH:MM» y botones ✏️ Editar / ❌ Cancelar. Red de seguridad: la pieza no se publica hasta `antelacion_minima_min` (60) minutos después del aviso, y una pieza que el Guardián rechazó alguna vez siempre pasa por el humano (`rechazadas_a_manual`).
 
 **Canales.** Cada conector actúa solo si tiene credenciales (ver `.env.example`). Telegram publica en el canal `TELEGRAM_CANAL` (el bot debe ser administrador). Pinterest sube la imagen en base64 al tablero `PINTEREST_TABLERO_ID`. Instagram necesita que las imágenes sean públicas: se guardan en `web/static/piezas/<id>/` y salen con la web; si al publicar aún no responden, la pieza espera a la siguiente corrida. Las imágenes de piezas publicadas o descartadas se retiran del repositorio a los 21 días (`publicacion.dias_conservar_piezas`).
 

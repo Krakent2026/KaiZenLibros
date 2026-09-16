@@ -1,5 +1,5 @@
 import os
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import pytest
@@ -19,8 +19,11 @@ ATOMOS = [
 
 
 @pytest.fixture
-def entorno(tmp_path: Path):
+def entorno(tmp_path: Path, monkeypatch):
+    monkeypatch.delenv("TELEGRAM_BOT_TOKEN", raising=False)
+    monkeypatch.delenv("TELEGRAM_CHAT_APROBACION", raising=False)
     sello = cargar_sello("kaizen")
+    sello.datos["publicacion"]["aprobacion"] = "manual"   # los tests base usan el flujo manual
     con = db.conectar(tmp_path / "t.sqlite")
     serie = sello.series["mente_distinta"]
     for lib in serie.libros[:3]:
@@ -134,7 +137,7 @@ def test_redactor_fuerza_cita_y_guardian_pasa_al_humano(entorno):
     assert fila["estado"] == "redactada"
     assert db.contenido_de(fila)["diapositivas"][0]["cuerpo"] == fila["atomo_texto"]
     r = revisar_pendientes(con, sello, IAFalsa({"aprobado": True, "motivos": [], "avisos": ["gancho flojo"]}))
-    assert r == {"aprobadas": 1, "rechazadas": 0}
+    assert r == {"aprobadas": 1, "rechazadas": 0, "automaticas": 0}
     fila = db.pieza(con, ids[1])
     assert fila["estado"] == "pendiente_humano"
     assert db.contenido_de(fila)["avisos"] == ["criterio: gancho flojo"]
@@ -232,3 +235,53 @@ def test_publicar_vencidas_con_conector_falso(entorno, monkeypatch, tmp_path):
     r = pub.publicar_vencidas(con, sello, ahora=datetime(2026, 10, 12, 11, 0, tzinfo=timezone.utc))
     assert r["publicadas"] == 1 and db.pieza(con, ids[0])["estado"] == "publicada"
     assert db.canales_publicados(con, ids[0]) == {"telegram", "instagram"}
+
+
+def test_modo_auto_aprueba_y_rechazadas_van_a_manual(entorno):
+    from agentes.guardian.cola import estado_tras_guardian
+
+    sello, con = entorno
+    ids = planificar_dia(con, sello, date(2026, 10, 12))
+    fila = db.pieza(con, ids[1])
+    sello.datos["publicacion"]["aprobacion"] = "auto"
+    assert estado_tras_guardian(fila, ["aviso"], sello) == "aprobada"
+    db.actualizar_pieza(con, ids[1], intentos=1)
+    assert estado_tras_guardian(db.pieza(con, ids[1]), [], sello) == "pendiente_humano"
+    sello.datos["publicacion"]["aprobacion"] = "mixto"
+    fila = db.pieza(con, ids[1])  # cita literal
+    db.actualizar_pieza(con, ids[1], intentos=0)
+    fila = db.pieza(con, ids[1])
+    assert estado_tras_guardian(fila, [], sello) == "aprobada"
+    assert estado_tras_guardian(fila, ["gancho flojo"], sello) == "pendiente_humano"
+    carrusel = db.pieza(con, ids[0])
+    assert estado_tras_guardian(carrusel, [], sello) == "pendiente_humano"
+
+
+def test_ventana_de_cancelacion(entorno, monkeypatch, tmp_path):
+    from agentes.publicador import publicar as pub
+    from agentes.publicador.base import Publicador, Resultado
+
+    sello, con = entorno
+    monkeypatch.setenv("TELEGRAM_BOT_TOKEN", "x")
+    monkeypatch.setenv("TELEGRAM_CHAT_APROBACION", "1")
+    sello.datos["publicacion"]["antelacion_minima_min"] = 60
+    ids = planificar_dia(con, sello, date(2026, 10, 12))
+    carpeta = tmp_path / "p"; carpeta.mkdir(); (carpeta / "01.jpg").write_bytes(b"x")
+    monkeypatch.setattr(pub, "activos_de", lambda fila: [carpeta / "01.jpg"])
+
+    class Bueno(Publicador):
+        nombre = "telegram"
+        def disponible(self): return True
+        def publicar(self, fila, contenido, activos, sello): return Resultado("1", None)
+
+    monkeypatch.setattr(pub, "CONECTORES", {"telegram": Bueno})
+    db.actualizar_pieza(con, ids[0], estado="aprobada", contenido={"telegram": "hola"}, canal="telegram")
+    tarde = datetime(2026, 10, 12, 11, 0, tzinfo=timezone.utc)   # ya pasó la hora programada
+    # sin aviso enviado: espera
+    assert pub.publicar_vencidas(con, sello, ahora=tarde)["esperando"] == 1
+    # aviso hace 10 minutos: sigue esperando
+    db.actualizar_pieza(con, ids[0], enviado_humano_en=(tarde - timedelta(minutes=10)).isoformat())
+    assert pub.publicar_vencidas(con, sello, ahora=tarde)["esperando"] == 1
+    # aviso hace 61 minutos: publica
+    db.actualizar_pieza(con, ids[0], enviado_humano_en=(tarde - timedelta(minutes=61)).isoformat())
+    assert pub.publicar_vencidas(con, sello, ahora=tarde)["publicadas"] == 1

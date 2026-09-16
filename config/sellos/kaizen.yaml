@@ -115,6 +115,14 @@ plan:
 publicacion:
   # Canales a los que sale cada pieza. Solo actúan los que tengan credenciales en el entorno.
   canales: [telegram, pinterest, instagram]
+  # Aprobación: manual (todo lo decide el humano) · mixto (se autoaprueban las citas literales sin avisos)
+  # · auto (todo lo que pasa el Guardián queda aprobado). En cualquier modo la previa llega a Telegram y
+  # se puede cancelar (❌) o devolver al Redactor (✏️) hasta la hora de publicación.
+  aprobacion: auto
+  # Minutos mínimos entre el aviso en Telegram y la publicación automática (ventana para cancelar).
+  antelacion_minima_min: 60
+  # Una pieza que el Guardián rechazó alguna vez nunca se autoaprueba: pasa por el humano.
+  rechazadas_a_manual: true
   # Las imágenes de las piezas se publican en la web para que Instagram las pueda leer (necesita URL pública).
   ruta_piezas_web: static/piezas
   dias_conservar_piezas: 21
