@@ -143,7 +143,8 @@ def conectar(ruta: Path) -> sqlite3.Connection:
     con = sqlite3.connect(ruta)
     con.row_factory = sqlite3.Row
     con.execute("PRAGMA foreign_keys = ON")
-    con.execute("PRAGMA journal_mode = WAL")
+    # La base viaja en git: modo DELETE para que todo quede en el fichero principal (WAL deja cambios en -wal, que git ignora).
+    con.execute("PRAGMA journal_mode = DELETE")
     con.executescript(ESQUEMA)
     _migrar(con)
     return con

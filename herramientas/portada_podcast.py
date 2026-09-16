@@ -49,7 +49,12 @@ def main() -> int:
         d.text((180, y), parte.strip(), font=f_titulo, fill="#ffffff")
         y += 360
     d.rectangle([180, y + 60, 620, y + 72], fill="#ffffff")
-    d.text((180, y + 160), pod.get("descripcion", "")[:60], font=f_sub, fill="#ffffff")
+    import textwrap
+
+    yy = y + 160
+    for linea in textwrap.wrap(pod.get("descripcion", ""), width=42)[:3]:
+        d.text((180, yy), linea, font=f_sub, fill="#ffffff")
+        yy += 150
     destino = RAIZ_REPO / "web" / pod.get("ruta_web", "static/podcast").strip("/") / "portada.jpg"
     destino.parent.mkdir(parents=True, exist_ok=True)
     im.save(destino, "JPEG", quality=88, optimize=True)
