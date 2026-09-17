@@ -1,0 +1,1249 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "domar-el-ego",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "El ego no te protege: te encierra. Domarlo es abrir la puerta.",
+   "es_literal": true,
+   "ancla": "El ego no te protege: te encierra. Domarlo es abrir la puerta.",
+   "temas": [
+    "ego",
+    "libertad"
+   ],
+   "intensidad": 5,
+   "gancho": "La frase que sostiene el libro entero",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Introducción — El guardaespaldas que no descansa"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una ceja que se levanta cuando te corrigen delante de otros. Un «lo dije yo primero» un punto más alto de lo necesario. El ego casi nunca llega en forma de gran batalla: llega en microgestos que ni nombramos.",
+   "es_literal": false,
+   "ancla": "No hace falta que sea una gran batalla. Cuentan las pequeñas. La ceja que se te levantó cuando alguien te corrigió delante de otros. El «no, si yo lo dije primero» que soltaste con un tono un pelín más alto de lo necesario.",
+   "temas": [
+    "ego",
+    "cotidiano"
+   ],
+   "intensidad": 3,
+   "gancho": "El ego no llega en grandes batallas: llega en microgestos",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Introducción — El guardaespaldas que no descansa"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro no promete un ego resuelto. El ego no es una enfermedad que se quita y ya está: es parte del equipaje humano, se afloja un poco cada día y vuelve a apretar en cuanto te descuidas.",
+   "es_literal": false,
+   "ancla": "No lo tengo resuelto. Nadie lo tiene resuelto del todo. El ego no es una enfermedad que se cura y ya está; es una parte del equipaje humano que se afloja un poco cada día y que vuelve a apretar en cuanto te descuidas.",
+   "temas": [
+    "ego",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie lo tiene resuelto del todo, y el libro no finge lo contrario",
+   "formatos": [
+    "cita",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Introducción — El guardaespaldas que no descansa"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es matar al ego, ni disolverlo, ni aniquilarlo: es domarlo. A un guardaespaldas útil no lo despides; le enseñas a distinguir un peligro real de una sombra.",
+   "es_literal": false,
+   "ancla": "Domar. Esa es la palabra. No matar, no disolver, no aniquilar. Domar. A un guardaespaldas útil no lo despides: lo pones a raya, le enseñas a distinguir un peligro real de una sombra",
+   "temas": [
+    "ego",
+    "método"
+   ],
+   "intensidad": 4,
+   "gancho": "No se trata de matar al ego: se trata de ponerlo a raya",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Introducción — El guardaespaldas que no descansa"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cazar el ego en vivo, en tres tiempos. Uno: nota la señal del cuerpo o la punzada de la comparación. Dos: para un segundo. Tres: di para tus adentros «ahí está otra vez» y sigue con lo tuyo. No hace falta nada más.",
+   "es_literal": false,
+   "ancla": "cuando notes esa señal física tan conocida —la alarma del cuerpo que aprenderás a reconocer— o la punzada de la comparación al ver el logro de otro, para un segundo y di para tus adentros: «ahí está otra vez». No hace falta que hagas nada más.",
+   "temas": [
+    "ego",
+    "práctica",
+    "atención"
+   ],
+   "intensidad": 3,
+   "gancho": "Cazarlo en directo, sin drama y hasta con una sonrisa",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Introducción — El guardaespaldas que no descansa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El ego no reacciona a lo que pasa, sino a lo que cree que dice de ti lo que pasa.",
+   "es_literal": true,
+   "ancla": "El ego no reacciona a lo que pasa, sino a lo que cree que dice de ti lo que pasa.",
+   "temas": [
+    "ego",
+    "interpretación"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que duele no es el hecho: es lo que crees que dice de ti",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — Qué es el ego (y qué no)"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El ego no es autoestima: suelen ir en direcciones opuestas. La valía tranquila no necesita demostrarse a cada rato; el ego es la inseguridad disfrazada de seguridad.",
+   "es_literal": false,
+   "ancla": "Dicho crudo: **el ego suele ser la inseguridad disfrazada de seguridad.** El que necesita demostrar todo el rato que es el mejor no suele ser el que más se quiere; suele ser el que menos se lo cree.",
+   "temas": [
+    "ego",
+    "autoestima"
+   ],
+   "intensidad": 4,
+   "gancho": "El que más necesita demostrar que vale suele ser el que menos se lo cree",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — Qué es el ego (y qué no)"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Alguien suelta en la sobremesa que hay gente que no sabe aparcar. No mira a nadie. Pero uno de los comensales salta: «¿eso lo dices por mí?». Del comentario neutro a la ofensa pasó medio segundo, sin un solo pensamiento en medio.",
+   "es_literal": false,
+   "ancla": "Del comentario neutro a la ofensa hubo, quizá, medio segundo. No hubo pensamiento en medio. No hubo un Fernando sopesando «a ver, ¿esto va conmigo o no?». Hubo un salto automático, casi un reflejo, del oído a la herida.",
+   "temas": [
+    "ego",
+    "susceptibilidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Del comentario neutro a la ofensa: medio segundo",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — Qué es el ego (y qué no)"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El ego tiene un chivato físico: el calor que sube por el pecho o el cuello cuando alguien te lleva la contraria. No es tu enemigo. Es el aviso de que acaba de entrar en la sala.",
+   "es_literal": false,
+   "ancla": "El aviso **físico** es el calor. Esa oleada que sube por el pecho o el cuello cuando alguien te lleva la contraria o te critica. La tensión en la mandíbula. El corazón un poco más rápido.",
+   "temas": [
+    "ego",
+    "cuerpo"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuando notas el calor, el ego acaba de entrar en la sala",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 1 — Qué es el ego (y qué no)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El gesto de hoy, en tres pasos: una sola vez, caza a tu ego defendiéndote de algo que no era un ataque; nota el calor; ponle nombre —«ahí está, se ha sentido atacado»— y no hagas nada más.",
+   "es_literal": false,
+   "ancla": "hoy, una sola vez, caza a tu ego defendiéndote de algo que no era un ataque. Un comentario que te escueza, una corrección, una broma que te siente regular. Nota el calor, ponle nombre —«ahí está, se ha sentido atacado»— y no hagas nada más.",
+   "temas": [
+    "ego",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Cázalo una vez hoy, ponle nombre y no hagas nada más",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — Qué es el ego (y qué no)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El ego no es el problema. El ego suelto, disparándose solo, decidiendo por ti, ese es el problema.",
+   "es_literal": true,
+   "ancla": "El ego no es el problema. El ego suelto, disparándose solo, decidiendo por ti, ese es el problema.",
+   "temas": [
+    "ego",
+    "automatismo"
+   ],
+   "intensidad": 4,
+   "gancho": "El problema no es tener ego: es que decida él",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — Para qué sirve (y cuándo estorba)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tener razón sobre algo pequeño, al precio de una relación grande, es el peor negocio del mundo. Y el ego lo firma encantado.",
+   "es_literal": true,
+   "ancla": "Tener razón sobre algo pequeño, al precio de una relación grande, es el peor negocio del mundo. Y el ego lo firma encantado.",
+   "temas": [
+    "ego",
+    "relaciones",
+    "razón"
+   ],
+   "intensidad": 5,
+   "gancho": "El peor negocio del mundo, y el ego lo firma encantado",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — Para qué sirve (y cuándo estorba)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Tres filtros para saber en caliente si habla el ego. Uno: «¿esto me sirve a mí, o le sirve a mi ego?». Dos: mira el precio, qué te cuesta y qué ganas. Tres: mira el cuerpo; si quema, espera.",
+   "es_literal": false,
+   "ancla": "La regla, para cuando no tengas tiempo de filosofar, es aún más simple: **fíjate en el precio.** ¿Qué te va a costar esto?",
+   "temas": [
+    "ego",
+    "decisiones",
+    "práctica"
+   ],
+   "intensidad": 4,
+   "gancho": "Tres filtros en caliente: la pregunta, el precio y el cuerpo",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — Para qué sirve (y cuándo estorba)"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es lo mismo confianza que ego. La confianza viene de dentro y descansa; el ego viene de fuera y necesita que se lo confirmen a cada rato. La seguridad de verdad hace poco ruido.",
+   "es_literal": false,
+   "ancla": "De ahí una idea que conviene tener clara: la seguridad de verdad hace poco ruido. El que va por la vida demostrando lo seguro que está suele estar, por dentro, bastante menos seguro de lo que aparenta.",
+   "temas": [
+    "ego",
+    "confianza"
+   ],
+   "intensidad": 4,
+   "gancho": "La seguridad de verdad hace poco ruido",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — Para qué sirve (y cuándo estorba)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El ego nunca te da datos. Te da titulares, y siempre eres tú el protagonista de la mala noticia.",
+   "es_literal": true,
+   "ancla": "El ego nunca te da datos. Te da titulares, y siempre eres tú el protagonista de la mala noticia.",
+   "temas": [
+    "ego",
+    "pensamiento"
+   ],
+   "intensidad": 5,
+   "gancho": "El ego no da datos: da titulares",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — Cómo te habla el ego"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Tres pasos que caben en tres segundos. Uno: nota la señal, casi siempre física —el calor, la punzada, el nudo—. Dos: nombra la voz sin discutir con ella. Tres: elige qué quieres hacer tú, no qué quiere hacer el ego.",
+   "es_literal": false,
+   "ancla": "Nota, nombra, elige. Con la práctica, los tres pasos se funden en uno solo, casi instantáneo, y un día te descubres domando al ego sin apenas darte cuenta de que lo estás haciendo.",
+   "temas": [
+    "ego",
+    "práctica",
+    "atención"
+   ],
+   "intensidad": 4,
+   "gancho": "Nota, nombra, elige: tres pasos que caben en tres segundos",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — Cómo te habla el ego"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Las frases del ego son pocas y previsibles, y todas empiezan por «yo». Cuando te descubras contándote una historia en la que tú eres, casualmente, el centro de todo lo que ocurre, sospecha.",
+   "es_literal": false,
+   "ancla": "¿Ves lo que tienen en común las cinco? Todas empiezan por **yo**. La voz del ego es, siempre, una voz autocentrada.",
+   "temas": [
+    "ego",
+    "voz interior"
+   ],
+   "intensidad": 4,
+   "gancho": "Todas las frases del ego empiezan por «yo»",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — Cómo te habla el ego"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Cuando dudes de si habla tu ego o tu buen juicio, pregúntate una sola cosa: esta voz, ¿me acerca a la gente o me aleja de ella?",
+   "es_literal": false,
+   "ancla": "Cuando dudes de si una voz es tu ego o tu buen juicio, hazte una pregunta muy sencilla: esta voz, ¿me acerca a la gente o me aleja de ella? El buen juicio casi siempre acerca. El ego, casi siempre, aleja.",
+   "temas": [
+    "ego",
+    "voz interior",
+    "relaciones"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Esta voz me acerca a la gente o me aleja de ella?",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 3 — Cómo te habla el ego"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Humildad no es humillación. Es soltar la defensa, no la dignidad.",
+   "es_literal": true,
+   "ancla": "Humildad no es humillación. Es soltar la defensa, no la dignidad.",
+   "temas": [
+    "humildad",
+    "ego"
+   ],
+   "intensidad": 5,
+   "gancho": "La frase que separa humildad de humillación",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — Domar no es humillarte"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Tres semanas dándole vueltas a un problema en el trabajo, y la solución aparece en la cabeza mientras alguien se prepara un té. La escribe en una nota del móvil. Cuando llega el momento de decirla en voz alta, el miedo a parecer que busca protagonismo la hace callar. Minutos después, otra persona suelta la misma idea y se lleva el aplauso.",
+   "es_literal": false,
+   "ancla": "En la reunión del lunes, cuando el jefe preguntó si alguien tenía ideas, Lorena abrió la boca y la volvió a cerrar. Pensó: «A ver si va a parecer que quiero llamar la atención».",
+   "temas": [
+    "ego",
+    "autoimagen",
+    "miedo"
+   ],
+   "intensidad": 3,
+   "gancho": "Calló su idea por miedo al qué dirán; otro se llevó el aplauso",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Domar no es humillarte"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Una cosa es pensar menos de ti —rebajarte, sentirte poca cosa— y otra muy distinta pensar menos en ti —dejar de vigilar tu propia imagen todo el rato—. La primera es baja autoestima disfrazada de modestia; la segunda es humildad de verdad.",
+   "es_literal": false,
+   "ancla": "una cosa es pensar *menos de ti* y otra muy distinta pensar *menos en ti*.",
+   "temas": [
+    "humildad",
+    "autoestima"
+   ],
+   "intensidad": 4,
+   "gancho": "Pensar menos de ti no es lo mismo que pensar menos en ti",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Domar no es humillarte"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Ceder por paz es una decisión libre, tomada desde la calma: se puede seguir sabiendo que tenías razón y aun así soltarlo. Ceder por miedo es lo contrario: no eliges, te repliegas, y te queda ese regusto de haberte traicionado.",
+   "es_literal": false,
+   "ancla": "**Ceder por paz** es una decisión libre. La tomas desde arriba, no desde el miedo. Dices: «Esto no merece la pelea, prefiero mi tranquilidad a tener razón, elijo soltarlo».",
+   "temas": [
+    "ego",
+    "límites",
+    "humildad"
+   ],
+   "intensidad": 4,
+   "gancho": "Ceder por paz o ceder por miedo: se parecen y no lo son",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — Domar no es humillarte"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Antes de ceder algo: di lo tuyo antes de nada; distingue si cedes por calma o por miedo; separa lo que es solo orgullo de lo que es dignidad; revisa después si te quedas en paz o en falta.",
+   "es_literal": false,
+   "ancla": "**Segundo, distingue la fuente antes de ceder.** Cuando estés a punto de dar tu brazo a torcer, haz una pausa de dos segundos y pregúntate: «¿Cedo porque de verdad no me importa, o porque me da miedo lo que pensará?».",
+   "temas": [
+    "ego",
+    "práctica",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuatro pasos para ceder sin borrarte",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — Domar no es humillarte"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No necesitas tener razón: necesitas estar en paz.",
+   "es_literal": true,
+   "ancla": "No necesitas tener razón: necesitas estar en paz.",
+   "temas": [
+    "ego",
+    "razón",
+    "paz"
+   ],
+   "intensidad": 5,
+   "gancho": "La distinción que resuelve media discusión",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — La necesidad de tener razón"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En una cena entre amigos, alguien detecta una afirmación discutible y no la deja pasar. Aporta datos, rebate, matiza, hasta que el otro ya solo quiere que aquello acabe. Gana la discusión. Pierde la noche y, sin darse cuenta, empieza a perder al amigo.",
+   "es_literal": false,
+   "ancla": "Cuando Dani, ya cansado, dijo «bueno, cada uno tiene su opinión», Óscar remató: «Ya, pero es que las opiniones no todas valen lo mismo, y los datos me dan la razón a mí».",
+   "temas": [
+    "ego",
+    "relaciones",
+    "razón"
+   ],
+   "intensidad": 4,
+   "gancho": "Ganó la discusión y perdió la noche entera",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — La necesidad de tener razón"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Cuando ganas una discusión, conviene preguntarse qué se gana exactamente. No dinero, no tiempo, casi nunca afecto: solo una sensación fugaz de superioridad que se evapora antes de llegar a casa, a cambio de una noche tensa y una confianza que se enfría.",
+   "es_literal": false,
+   "ancla": "Hay una pregunta que a Óscar nunca se le ha ocurrido hacerse, y que lo cambiaría todo: cuando gano una discusión, ¿qué gano exactamente?",
+   "temas": [
+    "ego",
+    "razón",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Qué se gana exactamente al ganar una discusión?",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — La necesidad de tener razón"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuatro maneras de soltar la necesidad de ganar: decir «puede que tengas razón»; preguntar en vez de rebatir; dejar que el otro se quede con la última palabra; preguntarte antes de entrar si la discusión merece la pena.",
+   "es_literal": false,
+   "ancla": "**Primera: «Puede que tengas razón».** Es la frase más desarmante y más liberadora del idioma, y casi no la usamos.",
+   "temas": [
+    "ego",
+    "práctica",
+    "razón"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuatro formas de dejar de necesitar ganar",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — La necesidad de tener razón"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo firme aguanta el temporal, lo rígido se parte.",
+   "es_literal": true,
+   "ancla": "Ha confundido la firmeza con la rigidez, y no son lo mismo: lo firme aguanta el temporal, lo rígido se parte.",
+   "temas": [
+    "ego",
+    "razón"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo firme aguanta el temporal, lo rígido se parte",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — La necesidad de tener razón"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La comparación es el ladrón de la alegría. Roba en las dos direcciones y nunca deja nada a cambio.",
+   "es_literal": true,
+   "ancla": "La comparación es el ladrón de la alegría. Roba en las dos direcciones y nunca deja nada a cambio.",
+   "temas": [
+    "ego",
+    "comparación"
+   ],
+   "intensidad": 5,
+   "gancho": "El ladrón de la alegría roba en las dos direcciones",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — La trampa de la comparación"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En el sofá, con la cena a medias, aparece la noticia del ascenso de una compañera. La alegría ajena se convierte, en segundos, en una resta propia. Nada de lo suyo ha cambiado; solo ha cambiado con qué se compara.",
+   "es_literal": false,
+   "ancla": "Estaba en el sofá, con el móvil en la mano y la cena a medias, cuando apareció el post: Rubén, su compañero de departamento, anunciaba con una sonrisa de foto profesional que lo habían nombrado responsable de área.",
+   "temas": [
+    "ego",
+    "comparación",
+    "redes"
+   ],
+   "intensidad": 4,
+   "gancho": "El ascenso de otro le duró lo que tarda un post en cargar",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — La trampa de la comparación"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La envidia es una brújula, no una condena: señala algo que se desea. El error no está en sentirla, sino en leerla como «me han quitado lo mío» en vez de como «esto me importa, ¿qué hago yo con ese deseo?».",
+   "es_literal": false,
+   "ancla": "Cuando sientes envidia de algo, esa punzada te está señalando, sin querer, algo que deseas.",
+   "temas": [
+    "ego",
+    "envidia",
+    "comparación"
+   ],
+   "intensidad": 4,
+   "gancho": "La envidia es una brújula mal leída",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6 — La trampa de la comparación"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Cuando te sorprendas midiéndote con alguien, vuelve a tu propio cronómetro: ¿voy hacia donde yo quiero ir? ¿He mejorado respecto a quien era ayer? Esa es la única comparación que vale algo.",
+   "es_literal": false,
+   "ancla": "Cuando te sorprendas midiéndote contra alguien, redirige la mirada hacia tu propia carrera. «¿Voy hacia donde yo quiero? ¿He mejorado respecto a mí de ayer?».",
+   "temas": [
+    "ego",
+    "comparación",
+    "autoestima"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Voy hacia donde yo quiero, o solo detrás de otro?",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 6 — La trampa de la comparación"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para desactivar la comparación: nombra el pensamiento comparador en cuanto aparece; lee la envidia como una pista sobre lo que deseas, no como una herida; entrena la alegría por el bien ajeno empezando por lo fácil; cuida qué miras si siempre te deja con el mismo nudo.",
+   "es_literal": false,
+   "ancla": "**Primera: caza el pensamiento comparador y nómbralo.** No puedes soltar lo que no ves. Cuando notes esa punzada al ver el éxito de alguien —el nudo en el estómago de Natalia—, di para ti: «Ahí está otra vez el ego comparando».",
+   "temas": [
+    "ego",
+    "comparación",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuatro pasos para desactivar la comparación",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — La trampa de la comparación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No todo lo que te molesta va contigo. La mayoría de las cosas, sencillamente, no son sobre ti.",
+   "es_literal": true,
+   "ancla": "No todo lo que te molesta va contigo. La mayoría de las cosas, sencillamente, no son sobre ti.",
+   "temas": [
+    "ego",
+    "susceptibilidad"
+   ],
+   "intensidad": 5,
+   "gancho": "La mayoría de las cosas, sencillamente, no son sobre ti",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — Tomárselo todo personal"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un mensaje escueto de la jefa —«¿podemos hablar cuando tengas un momento?»— y en el tiempo que tarda la cafetera en terminar ya se ha construido una película entera sobre un despido inminente. La reunión, horas después, era para ofrecer un proyecto nuevo.",
+   "es_literal": false,
+   "ancla": "Fernando lo leyó a las diez y media de la mañana, de pie en la cocina de la oficina, con el café a medio hacer, y en el segundo y medio que tardó la cafetera en soltar el último chorro ya había construido una película entera.",
+   "temas": [
+    "ego",
+    "susceptibilidad",
+    "ansiedad"
+   ],
+   "intensidad": 4,
+   "gancho": "Ocho palabras sin punto final bastaron para arruinar la mañana",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — Tomárselo todo personal"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El sesgo del yo es el atajo mental de creer que ocupamos más espacio en la cabeza de los demás del que realmente ocupamos. Casi nadie está pendiente de ti tanto como tú crees: cada uno está ocupado con su propio foco.",
+   "es_literal": false,
+   "ancla": "El sesgo del yo es el atajo de suponer que somos más importantes en la cabeza de los demás de lo que realmente somos.",
+   "temas": [
+    "ego",
+    "susceptibilidad",
+    "psicología"
+   ],
+   "intensidad": 3,
+   "gancho": "Nadie te observa tanto como tu ego cree",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7 — Tomárselo todo personal"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Antes de darlo por personal: inventa tres explicaciones que no vayan sobre ti; no le pongas tono enfadado a un mensaje corto que solo era corto; y si dudas de verdad, pregunta en vez de suponer.",
+   "es_literal": false,
+   "ancla": "El primero: **inventa deliberadamente tres explicaciones que no vayan sobre ti**. Si tu pareja llega callada, oblígate a listar tres motivos ajenos —trabajo, sueño, algo que le ronda— antes de permitirte pensar «está enfadada conmigo».",
+   "temas": [
+    "ego",
+    "susceptibilidad",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres explicaciones que no vayan sobre ti, antes de ofenderte",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — Tomárselo todo personal"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Vivir para la imagen que das es vivir preso de una opinión que ni siquiera sabes si existe.",
+   "es_literal": true,
+   "ancla": "Vivir para la imagen que das es vivir preso de una opinión que ni siquiera sabes si existe.",
+   "temas": [
+    "ego",
+    "imagen"
+   ],
+   "intensidad": 5,
+   "gancho": "Preso de una opinión que ni siquiera sabes si existe",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8 — La obsesión por la imagen"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Veinte minutos delante del armario para una cena informal, calculando qué prenda generaría menos comentarios. Al final se elige no lo que gusta, sino lo que menos ruido hace: una distinción pequeña y demoledora entre vestirse para gustarse y vestirse para no ser juzgada.",
+   "es_literal": false,
+   "ancla": "Al final se puso lo que menos comentarios podía generar. No lo que más le gustaba. Lo que menos ruido haría. Esa es una distinción pequeña y demoledora: Lorena no vestía para gustarse, vestía para no ser juzgada.",
+   "temas": [
+    "ego",
+    "imagen",
+    "qué dirán"
+   ],
+   "intensidad": 3,
+   "gancho": "Veinte minutos ante el armario negociando con un jurado imaginario",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — La obsesión por la imagen"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Buena parte del qué dirán que tanto pesa no lo dice, en realidad, nadie. Es un tribunal imaginario: la gente está demasiado ocupada con su propia vida como para dedicarte el juicio detallado que tu ego imagina.",
+   "es_literal": false,
+   "ancla": "buena parte del «qué dirán» que tanto pesa no lo dice, en realidad, nadie. Es un tribunal imaginario.",
+   "temas": [
+    "ego",
+    "imagen",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "El jurado ante el que actúas casi siempre está vacío",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — La obsesión por la imagen"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para soltar la fachada: haz algo bueno y no lo cuentes; permítete quedar regular a propósito alguna vez; y antes de decidir algo, pregúntate qué quieres tú, no qué van a pensar los demás.",
+   "es_literal": false,
+   "ancla": "El primero, y casi mágico: **haz algo bueno y no lo cuentes**. Ayuda a alguien sin que se entere nadie más.",
+   "temas": [
+    "ego",
+    "imagen",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Haz algo bueno y no lo cuentes: el primer gesto contra la fachada",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8 — La obsesión por la imagen"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El «pero» es el borrador del perdón. Todo lo que va antes se cancela con lo que viene después.",
+   "es_literal": true,
+   "ancla": "El «pero» es el borrador del perdón. Todo lo que va antes se cancela con lo que viene después.",
+   "temas": [
+    "ego",
+    "perdón"
+   ],
+   "intensidad": 5,
+   "gancho": "El «pero» que borra cualquier disculpa",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — Reconocer un error y pedir perdón"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una hora tarde a una cita. En vez de un «perdona» de cinco segundos, llega una ristra de excusas —el tráfico, el jefe, «tú también llegaste tarde el otro día»— que convierte un simple retraso en una discusión de cuarenta y cinco minutos.",
+   "es_literal": false,
+   "ancla": "Quique había quedado con un amigo a las ocho y llegó a las nueve menos cuarto. El amigo, molesto pero tranquilo, se lo dijo sin dramas: «Tío, llevo aquí tres cuartos de hora».",
+   "temas": [
+    "ego",
+    "perdón",
+    "relaciones"
+   ],
+   "intensidad": 4,
+   "gancho": "La excusa costó más cara que la disculpa que evitó",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — Reconocer un error y pedir perdón"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La disculpa limpia tiene tres partes: reconocer el hecho en concreto, decir «lo siento» sin nada pegado detrás, y reparar o decir qué se va a cambiar si toca. Ni una excusa, ni un «pero», ni un contraataque.",
+   "es_literal": false,
+   "ancla": "**Primera: reconoce el hecho, en concreto.** No un «siento lo que pasó» vaporoso que no compromete a nada, sino nombrar lo que hiciste.",
+   "temas": [
+    "ego",
+    "perdón",
+    "práctica"
+   ],
+   "intensidad": 4,
+   "gancho": "Las tres partes de una disculpa que no se traiciona a sí misma",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — Reconocer un error y pedir perdón"
+  },
+  {
+   "tipo": "cita",
+   "texto": "«Me equivoqué» son dos palabras que el ego teme como al fuego y que, dichas a tiempo, limpian lo que mil excusas solo ensucian más.",
+   "es_literal": true,
+   "ancla": "«Me equivoqué» son dos palabras que el ego teme como al fuego y que, dichas a tiempo, limpian lo que mil excusas solo ensucian más.",
+   "temas": [
+    "ego",
+    "perdón"
+   ],
+   "intensidad": 5,
+   "gancho": "Dos palabras que el ego teme como al fuego",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — Reconocer un error y pedir perdón"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El que se defiende de todas las críticas se blinda también contra todas las verdades.",
+   "es_literal": true,
+   "ancla": "El que se defiende de todas las críticas se blinda también contra todas las verdades.",
+   "temas": [
+    "ego",
+    "crítica"
+   ],
+   "intensidad": 5,
+   "gancho": "Defenderte de todo te blinda también contra la verdad",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — Aceptar la crítica sin defenderte"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una compañera empieza a decir algo «sin que te lo tomes a mal», y antes de terminar la frase ya se está preparando el contraataque. Cuando ella termina de hablar, no se ha entendido ni la mitad, pero hay tres argumentos listos para rebatir.",
+   "es_literal": false,
+   "ancla": "Su compañera de trabajo, Marisa, había empezado con un rodeo prudente —«oye, una cosa, sin que te lo tomes a mal»— y en ese preciso instante, en la milésima que va del «sin que te lo tomes a mal» a lo que venía después, Óscar dejó de escuchar.",
+   "temas": [
+    "ego",
+    "crítica",
+    "escucha"
+   ],
+   "intensidad": 4,
+   "gancho": "Preparó su defensa antes de terminar de oír la crítica",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — Aceptar la crítica sin defenderte"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Una crítica es información, no una agresión. Como el copiloto que avisa de que te sales del carril: nadie discute con él, se corrige el volante y se sigue. Rechazarla de entrada es negarse a mirar por el retrovisor.",
+   "es_literal": false,
+   "ancla": "Imagina que vas conduciendo y el copiloto te dice: «cuidado, que te sales del carril».",
+   "temas": [
+    "ego",
+    "crítica"
+   ],
+   "intensidad": 3,
+   "gancho": "La crítica es el copiloto que avisa del carril, no un ataque",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 10 — Aceptar la crítica sin defenderte"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Ante una crítica: escúchala entera antes de responder; da las gracias, aunque escueza; decide en frío, no en caliente, si tenía razón; y responde solo lo que decidas responder, casi nunca una defensa.",
+   "es_literal": false,
+   "ancla": "**Uno: escucha entera la crítica.** Entera. Hasta el final. Sin interrumpir, sin ir preparando la respuesta por debajo.",
+   "temas": [
+    "ego",
+    "crítica",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuatro pasos para recibir una crítica sin sacar la espada",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Aceptar la crítica sin defenderte"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La humildad no consiste en hacerte pequeño, sino en dejar de necesitar parecer grande.",
+   "es_literal": true,
+   "ancla": "La humildad no consiste en hacerte pequeño, sino en dejar de necesitar parecer grande.",
+   "temas": [
+    "humildad",
+    "ego"
+   ],
+   "intensidad": 5,
+   "gancho": "No es hacerte pequeño: es dejar de necesitar parecer grande",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — La humildad como fuerza"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Tres gestos para entrenar la humildad como músculo: escuchar más y hablar menos de uno mismo; ceder el foco y el mérito a propósito, en voz alta; y aprender a decir «no lo sé» sin que se caiga nada.",
+   "es_literal": false,
+   "ancla": "**Escucha más y habla menos de ti.** Es el gesto raíz, del que salen casi todos los demás.",
+   "temas": [
+    "humildad",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres gestos diarios para entrenar la humildad",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — La humildad como fuerza"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El que cree que se lo debe todo a sí mismo vive con una deuda impagable: la de tener que sostenerlo todo solo.",
+   "es_literal": true,
+   "ancla": "El que cree que se lo debe todo a sí mismo vive con una deuda impagable: la de tener que sostenerlo todo solo.",
+   "temas": [
+    "ego",
+    "gratitud"
+   ],
+   "intensidad": 5,
+   "gancho": "La deuda impagable de creerse hecho a sí mismo",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12 — La gratitud desinfla el ego"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El sesgo de autoatribución consiste en quedarse con el mérito de lo bueno y pasarle la factura de lo malo al mundo. Es cómodo, pero deja una foto deformada: en primer plano uno mismo, y borrosa toda la ayuda recibida.",
+   "es_literal": false,
+   "ancla": "Consiste en atribuirnos a nosotros mismos los éxitos y echar fuera los fracasos. Nos quedamos con el mérito de lo bueno y le pasamos la factura de lo malo al mundo.",
+   "temas": [
+    "ego",
+    "gratitud",
+    "psicología"
+   ],
+   "intensidad": 4,
+   "gancho": "El truco de quedarte con los éxitos y repartir los fracasos",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12 — La gratitud desinfla el ego"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tener razón o resolver: rara vez caben los dos en la misma habitación.",
+   "es_literal": true,
+   "ancla": "Tener razón o resolver: rara vez caben los dos en la misma habitación.",
+   "temas": [
+    "ego",
+    "conflicto"
+   ],
+   "intensidad": 5,
+   "gancho": "Tener razón o resolver: rara vez caben los dos a la vez",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — El ego en el conflicto"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "En pleno choque: nombra para ti lo que está pasando —«esto ya no va del tema, va de tener razón»—; pregúntate si quieres ganar o resolver; busca entender la intención del otro antes de rebatir; y da tú el primer paso sin esperar a que lo dé el otro.",
+   "es_literal": false,
+   "ancla": "**Nombra lo que está pasando, para ti.** En medio de la discusión, date cuenta: *ahí está mi ego, defendiendo mi imagen.*",
+   "temas": [
+    "ego",
+    "conflicto",
+    "práctica"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuatro movimientos para aflojar el ego en pleno choque",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13 — El ego en el conflicto"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El aplauso y el abucheo hablan de lo que hiciste. Nunca de lo que vales.",
+   "es_literal": true,
+   "ancla": "El aplauso y el abucheo hablan de lo que hiciste. Nunca de lo que vales.",
+   "temas": [
+    "ego",
+    "éxito",
+    "fracaso"
+   ],
+   "intensidad": 5,
+   "gancho": "El aplauso y el abucheo nunca hablan de lo que vales",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — El ego ante el éxito y el fracaso"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una presentación sale redonda un viernes y deja flotando todo el fin de semana. El miércoles siguiente, un comentario técnico de tres segundos la hunde por completo. En cinco días, de sentirse la mejor a sentirse la peor, sin que la vida real hubiera cambiado nada.",
+   "es_literal": false,
+   "ancla": "El viernes anterior había presentado un proyecto delante de todo el departamento, y había salido redondo. Aplausos, un par de jefes felicitándola, una compañera diciéndole que había sido «la mejor presentación del año».",
+   "temas": [
+    "ego",
+    "éxito",
+    "fracaso"
+   ],
+   "intensidad": 4,
+   "gancho": "De la mejor presentación del año a sentirse un fraude en tres días",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — El ego ante el éxito y el fracaso"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tómate en serio lo que haces. A ti mismo, no tanto.",
+   "es_literal": true,
+   "ancla": "Tómate en serio lo que haces. A ti mismo, no tanto.",
+   "temas": [
+    "ego",
+    "humor"
+   ],
+   "intensidad": 5,
+   "gancho": "Tómate en serio lo que haces. A ti mismo, no tanto",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — Reírte de tu propio ego"
+  },
+  {
+   "tipo": "escena",
+   "texto": "A mitad de una anécdota heroica contada por enésima vez en una comida familiar, la cara de quien escucha —aguantándose la sonrisa— revela el numerito. En vez de defenderse, llega la risa: reírse de la propia batallita la vuelve, de golpe, mucho más simpática.",
+   "es_literal": false,
+   "ancla": "Y entonces, a mitad de frase, vio la cara de su prima. No estaba admirada. Estaba aguantándose la sonrisa.",
+   "temas": [
+    "ego",
+    "humor",
+    "autoimagen"
+   ],
+   "intensidad": 3,
+   "gancho": "Se vio a sí mismo desde fuera y le entró la risa",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Reírte de tu propio ego"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El ego más difícil de ver es el que se disfraza de no tener ninguno.",
+   "es_literal": true,
+   "ancla": "El ego más difícil de ver es el que se disfraza de no tener ninguno.",
+   "temas": [
+    "ego",
+    "humildad espiritual"
+   ],
+   "intensidad": 5,
+   "gancho": "El ego más difícil de ver es el que finge no tener ninguno",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — El ego del «yo no tengo ego»"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Tres meses leyendo sobre el ego, y la sensación de superioridad frente a quien discute a gritos es deliciosa por dentro. Hasta que una hija adolescente suelta, sin rodeos, que desde que lee esos libros se ha puesto un poco insoportable: humilde, pero muy por encima de todos.",
+   "es_literal": false,
+   "ancla": "«Papá, desde que lees esos libros, te has puesto un poco insoportable. Ahora eres humilde pero como muy por encima de todos, ¿sabes?».",
+   "temas": [
+    "ego",
+    "humildad espiritual",
+    "familia"
+   ],
+   "intensidad": 4,
+   "gancho": "Cambió de medalla, pero seguía coleccionando medallas",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16 — El ego del «yo no tengo ego»"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El guardaespaldas que creías que te cuidaba era, en realidad, tu carcelero.",
+   "es_literal": true,
+   "ancla": "El guardaespaldas que creías que te cuidaba era, en realidad, tu carcelero.",
+   "temas": [
+    "ego",
+    "libertad"
+   ],
+   "intensidad": 5,
+   "gancho": "El guardaespaldas que creías que te cuidaba era tu carcelero",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "CIERRE — Más ligero, más libre"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Domar el ego no consiste en no recaer nunca. Consiste en recaer con menos ganas cada vez y en levantarse un poco antes, sin necesitar que el proceso sea perfecto ni tenga fecha de final.",
+   "es_literal": false,
+   "ancla": "No se trata de no recaer; se trata de recaer con menos ganas y levantarse antes.",
+   "temas": [
+    "ego",
+    "constancia",
+    "kaizen"
+   ],
+   "intensidad": 3,
+   "gancho": "No se trata de no recaer: se trata de levantarse antes",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "CIERRE — Más ligero, más libre"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El reto de treinta días se organiza en cuatro tramos: primero aprender a ver al ego, luego reconocer sus caras —razón, comparación, susceptibilidad, imagen—, después aflojarlo con perdón, crítica y gratitud, y por último vivir con él domado en el conflicto, el éxito y el humor.",
+   "es_literal": false,
+   "ancla": "La idea es sencilla y muy kaizen: cada día, un solo gesto de humildad concreto, casi siempre de unos minutos.",
+   "temas": [
+    "ego",
+    "práctica",
+    "kaizen"
+   ],
+   "intensidad": 3,
+   "gancho": "Treinta días, un gesto de humildad cada vez",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "ANEXO 1 — Reto de 30 días para domar el ego"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando notes al ego activado, el protocolo cabe en tres pasos: nómbralo por dentro sin drama, respira una vez antes de responder, y elige el gesto contrario al que el impulso te pide.",
+   "es_literal": false,
+   "ancla": "**Nómbralo.** Por dentro, sin drama: «ahí está mi ego otra vez». Solo con ponerle nombre creas una rendija de distancia entre tú y él.",
+   "temas": [
+    "ego",
+    "práctica",
+    "atención"
+   ],
+   "intensidad": 3,
+   "gancho": "Nómbralo, respira, elige el gesto contrario",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "ANEXO 2 — Cazador de egos"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Domar el ego no es hacerse un felpudo. El felpudo no tiene poco ego: tiene un ego asustado que ha decidido desaparecer para que nadie lo ataque. Domar el ego, en cambio, deja poner límites con calma, sin necesidad de tener razón ni de esconderse.",
+   "es_literal": false,
+   "ancla": "Domar el ego es soltar la defensa, no la dignidad. El felpudo no tiene poco ego: tiene un ego asustado que ha decidido que la mejor defensa es desaparecer y agradar a todo el mundo para que nadie le ataque.",
+   "temas": [
+    "ego",
+    "límites",
+    "humildad"
+   ],
+   "intensidad": 4,
+   "gancho": "El felpudo no tiene poco ego: tiene un ego asustado",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "ANEXO 3 — Preguntas frecuentes"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Una distinción sencilla ayuda a sostener la calma: separar lo que depende de uno —los propios actos y juicios— de lo que no depende en absoluto —la opinión ajena, el resultado, el aplauso—. Ahí vive buena parte de la serenidad de un ego domado.",
+   "es_literal": false,
+   "ancla": "El **estoicismo del «no depende de mí»**: la distinción, tan sencilla como poderosa, entre lo que está en tu mano —tus actos, tus juicios— y lo que no —la opinión ajena, el resultado, el aplauso—.",
+   "temas": [
+    "ego",
+    "estoicismo",
+    "serenidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que depende de ti y lo que nunca dependió",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "ANEXO 4 — Para seguir aflojando"
+  }
+ ]
+}

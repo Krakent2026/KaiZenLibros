@@ -1,0 +1,1304 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "apaga-la-alarma",
+ "atomos": [
+  {
+   "tipo": "escena",
+   "texto": "Es de noche, no pasa nada, y aun así los hombros están a la altura de las orejas y la mandíbula apretada. No hay peligro: el cuerpo no se ha enterado.",
+   "es_literal": false,
+   "ancla": "ahí estás, boca arriba, con los hombros a la altura de las orejas, la mandíbula apretada como si fueras a morder algo y el pecho un poco tomado, como si acabaras de correr. No hay peligro. Tu cuerpo no se ha enterado.",
+   "temas": [
+    "alerta",
+    "cuerpo",
+    "noche"
+   ],
+   "intensidad": 4,
+   "gancho": "La puerta está cerrada. El cuerpo no se ha enterado.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Introducción — El cuerpo que no se apaga"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Todas esas escenas tienen algo en común. No son un problema de que pienses mal. Son un cuerpo que se ha quedado en guardia.",
+   "es_literal": true,
+   "ancla": "Todas esas escenas tienen algo en común. No son un problema de que pienses mal. Son un cuerpo que se ha quedado en guardia.",
+   "temas": [
+    "alerta",
+    "cuerpo"
+   ],
+   "intensidad": 4,
+   "gancho": "No es que pienses mal. Es un cuerpo que se quedó en guardia.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — El cuerpo que no se apaga"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro dice de sí mismo lo que es: un libro. No terapia, y no un sustituto de ella. Si hay crisis que desbordan, lo que toca es alguien que acompañe de cerca.",
+   "es_literal": false,
+   "ancla": "No es terapia, y no la sustituye. Es un libro. Un buen compañero, espero, pero un libro. Si vives con ataques de pánico, con una ansiedad que te bloquea la vida, con crisis intensas que te desbordan, lo que necesitas —además de esto, o antes que esto— es a un profesional que te acompañe de cerca.",
+   "temas": [
+    "límites",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Un libro es un compañero. No es una consulta.",
+   "formatos": [
+    "cita",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Introducción — El cuerpo que no se apaga"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La calma no se piensa: se le enseña al cuerpo.",
+   "es_literal": true,
+   "ancla": "Una vez más —y quédate con esto, que es el corazón de todo el libro—: **La calma no se piensa: se le enseña al cuerpo.** Y una de las mejores maestras que tiene tu cuerpo es la presencia de otro cuerpo en paz.",
+   "temas": [
+    "calma",
+    "cuerpo"
+   ],
+   "intensidad": 5,
+   "gancho": "La frase que atraviesa el libro entero.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Introducción — El cuerpo que no se apaga"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Normalizamos la tensión hasta que dejamos de notarla. Y lo que no se nota, no se puede soltar.",
+   "es_literal": true,
+   "ancla": "Normalizamos la tensión hasta que dejamos de notarla. Y lo que no se nota, no se puede soltar.",
+   "temas": [
+    "tensión",
+    "atención"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que no se nota, no se puede soltar.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El cuerpo que vive en guardia"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Vivir en guardia no es un defecto de carácter: es una adaptación que se volvió costumbre. Y las costumbres del cuerpo, por arraigadas que estén, se pueden cambiar despacio.",
+   "es_literal": false,
+   "ancla": "La guardia no es un defecto de carácter. Es una adaptación que se ha vuelto costumbre. Y las costumbres del cuerpo, por muy arraigadas que estén, se pueden cambiar. Despacio, pero se pueden.",
+   "temas": [
+    "guardia",
+    "costumbre"
+   ],
+   "intensidad": 4,
+   "gancho": "No es carácter. Es costumbre del cuerpo.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — El cuerpo que vive en guardia"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El objetivo no es vivir siempre en la marcha lenta. Es recuperar el cambio: acelerar cuando toca y frenar cuando ya no hace falta correr.",
+   "es_literal": false,
+   "ancla": "El objetivo es que recuperes la capacidad de *cambiar*: de acelerar cuando toca y, sobre todo, de frenar cuando ya no hace falta correr. Un cuerpo sano no es uno que esté siempre tranquilo. Es uno que sabe volver a la calma después de haberse activado.",
+   "temas": [
+    "sistema nervioso",
+    "flexibilidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Un cuerpo sano no es el que nunca se activa. Es el que sabe volver.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — El cuerpo que vive en guardia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal de calma del capítulo 1: localizar una zona tensa, no forzarla, tomar aire y dejar que se afloje al soltarlo despacio por la boca. Dos o tres veces.",
+   "es_literal": false,
+   "ancla": "localiza en tu cuerpo una zona tensa —la mandíbula, los hombros, la que sea—. No la fuerces. Toma aire con calma y, al soltarlo despacio y por la boca, deja que esa zona se afloje, como si la dejaras caer un poco. Repítelo dos o tres veces.",
+   "temas": [
+    "práctica",
+    "tensión",
+    "exhalación"
+   ],
+   "intensidad": 3,
+   "gancho": "Aflojar, al exhalar, lo que llevabas apretando sin saberlo.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El cuerpo que vive en guardia"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En el pasillo cinco de un supermercado, entre dos marcas de tomate frito, el aire deja de llegar y el corazón se dispara. No pasaba nada. El cuerpo reaccionó como ante un peligro mortal.",
+   "es_literal": false,
+   "ancla": "Estaba mirando dos marcas de tomate frito, decidiendo cuál llevar, cuando de pronto sintió que el aire no le llegaba. El pecho se le cerró, el corazón se le disparó como si acabara de subir cuatro pisos corriendo, las piernas se le pusieron flojas",
+   "temas": [
+    "alarma",
+    "pánico",
+    "cuerpo"
+   ],
+   "intensidad": 5,
+   "gancho": "La alarma entera, a todo volumen, delante de dos botes de tomate.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — Lucha, huida o congelación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tu cuerpo no se equivoca de reacción: se equivoca de época. Reacciona a la oficina como si fuera la selva.",
+   "es_literal": true,
+   "ancla": "Tu cuerpo no se equivoca de reacción: se equivoca de época. Reacciona a la oficina como si fuera la selva.",
+   "temas": [
+    "amenaza",
+    "evolución"
+   ],
+   "intensidad": 4,
+   "gancho": "No se equivoca de reacción. Se equivoca de época.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — Lucha, huida o congelación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No eliges que salte la alarma. Solo eliges qué haces después de que suene.",
+   "es_literal": true,
+   "ancla": "No eliges que salte la alarma. Solo eliges qué haces después de que suene. Y por eso no tiene ningún sentido enfadarte contigo mismo por sentirla, igual que no tendría sentido enfadarte con el parpadeo cuando algo se te acerca al ojo.",
+   "temas": [
+    "culpa",
+    "alarma"
+   ],
+   "intensidad": 4,
+   "gancho": "No eliges que salte. Eliges qué haces después.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — Lucha, huida o congelación"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Quedarse bloqueado no es debilidad. La congelación es el tercer programa de supervivencia, tan antiguo como luchar y huir, y muchos lo cargan como una culpa durante años.",
+   "es_literal": false,
+   "ancla": "No es debilidad. Es un tercer programa de supervivencia, tan antiguo y tan válido como los otros dos. El cuerpo, cuando calcula que ni luchar ni huir van a servir, echa el freno de mano y se queda quieto.",
+   "temas": [
+    "congelación",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "Quedarte en blanco no fue cobardía. Fue un programa antiguo.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2 — Lucha, huida o congelación"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 2: cuando salte la alarma, en vez de pelearte con ella, ponle nombre en voz baja. «Estoy en huida.» «Esto es mi modo lucha.» Nombrarlo abre un pequeño espacio entre tú y la reacción.",
+   "es_literal": false,
+   "ancla": "la próxima vez que salte la alarma, en lugar de pelearte con ella, ponle nombre en voz baja. \"Estoy en huida.\" \"Esto es mi modo lucha.\" \"Me he congelado.\" Nombrarlo, sin más, crea un pequeño espacio entre tú y la reacción",
+   "temas": [
+    "práctica",
+    "nombrar",
+    "alarma"
+   ],
+   "intensidad": 3,
+   "gancho": "Nombrar el modo en que entraste. Nada más, hoy.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — Lucha, huida o congelación"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Cuando la alarma sube, ¿en qué modo entras tú: el que empuja hacia fuera, el que quiere salir de ahí, o el que tira del freno de mano?",
+   "es_literal": false,
+   "ancla": "Cada persona tiende a entrar más en uno de los tres modos. No es una regla fija —depende del día y de la situación—, pero solemos tener una puerta preferida. Reconocer cuál es la tuya te da una ventaja enorme",
+   "temas": [
+    "autoconocimiento",
+    "alarma"
+   ],
+   "intensidad": 3,
+   "gancho": "Lucha, huida o congelación: ¿cuál es tu puerta preferida?",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — Lucha, huida o congelación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No tienes que calmar la mente: tienes que avisar al cuerpo de que ya pasó.",
+   "es_literal": true,
+   "ancla": "No tienes que calmar la mente: tienes que avisar al cuerpo de que ya pasó.",
+   "temas": [
+    "cuerpo",
+    "mente"
+   ],
+   "intensidad": 5,
+   "gancho": "Avisar al cuerpo de que ya pasó.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — No es la mente, es el cuerpo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "«Cálmate» no falla por estar mal dicho: falla porque va dirigido a quien en ese momento no lleva el volante. Es gritar instrucciones en un idioma que el otro no habla.",
+   "es_literal": false,
+   "ancla": "Es como gritarle instrucciones en un idioma a alguien que no lo habla: puedes repetirlo más alto, más despacio, con más razón, y seguirá sin entenderte. El cuerpo activado no entiende el idioma de las palabras. Entiende otro.",
+   "temas": [
+    "cálmate",
+    "idioma del cuerpo"
+   ],
+   "intensidad": 4,
+   "gancho": "No es que la orden esté mal. Es que nadie la escucha ahí dentro.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — No es la mente, es el cuerpo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando la alarma sube, no busques la frase perfecta. Busca la exhalación larga. Al cuerpo no se le convence: se le acompaña.",
+   "es_literal": true,
+   "ancla": "Cuando la alarma sube, no busques la frase perfecta. Busca la exhalación larga. Al cuerpo no se le convence: se le acompaña.",
+   "temas": [
+    "exhalación",
+    "acompañar"
+   ],
+   "intensidad": 5,
+   "gancho": "Al cuerpo no se le convence: se le acompaña.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — No es la mente, es el cuerpo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 3: ante un pico de alarma, una sola exhalación larga. Aire con normalidad, salida despacio por la boca, claramente más larga que la entrada, sin prisa por la siguiente.",
+   "es_literal": false,
+   "ancla": "haz una sola cosa: una exhalación larga. Toma aire con normalidad y suéltalo despacio por la boca, dejando que la salida dure claramente más que la entrada, sin ninguna prisa por la siguiente. Una exhalación en vez de un argumento.",
+   "temas": [
+    "práctica",
+    "exhalación"
+   ],
+   "intensidad": 4,
+   "gancho": "Una exhalación en vez de un argumento.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — No es la mente, es el cuerpo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No todo lo que te asusta es peligroso. A veces solo es tu alarma, haciendo ruido por costumbre.",
+   "es_literal": true,
+   "ancla": "No todo lo que te asusta es peligroso. A veces solo es tu alarma, haciendo ruido por costumbre.",
+   "temas": [
+    "falsas alarmas",
+    "miedo"
+   ],
+   "intensidad": 4,
+   "gancho": "A veces solo es tu alarma, haciendo ruido por costumbre.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — Falsas alarmas"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un detector de humo salta con una tostada. No distingue el incendio de la cena quemada: ante la duda, suena. El sistema de alarma del cuerpo está calibrado igual, para pasarse antes que quedarse corto.",
+   "es_literal": false,
+   "ancla": "Piensa en un detector de humo de casa. Está pensado para salvarte la vida en un incendio. Pero también salta cuando se te quema una tostada, cuando abres el horno, cuando el vapor de la ducha llega hasta el pasillo. No distingue bien entre un incendio y una tostada. Ante la duda, suena.",
+   "temas": [
+    "falsas alarmas",
+    "cuerpo"
+   ],
+   "intensidad": 3,
+   "gancho": "Tu alarma prefiere mil tostadas antes que fallar un incendio.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — Falsas alarmas"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un hecho es lo que ha ocurrido, sin adornos. Todo lo demás —el para qué, el cómo acabará— es la historia que le montamos encima. El hecho casi nunca da miedo.",
+   "es_literal": false,
+   "ancla": "Un hecho es lo que ha ocurrido, sin adornos: \"mi jefa me ha escrito para hablar mañana\". Punto. Todo lo demás —el para qué, el por qué, lo que significa, cómo acabará— es historia, es interpretación, es tu alarma rellenando los huecos con su tinta más oscura. El hecho casi nunca da miedo. Lo que da miedo es la historia que le montamos encima.",
+   "temas": [
+    "hechos",
+    "historias",
+    "rumia"
+   ],
+   "intensidad": 4,
+   "gancho": "El hecho casi nunca da miedo. La película, sí.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 4 — Falsas alarmas"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Comprobar no es darle vueltas. Darle vueltas es girar dentro del miedo buscando cómo podría salir mal. Comprobar es una pregunta corta, que se hace una vez y se responde con hechos.",
+   "es_literal": false,
+   "ancla": "Darle vueltas es quedarte girando dentro del miedo, buscando todas las maneras en que la cosa podría salir mal, alimentando la historia con más y más detalles negros hasta que la falsa alarma parece cada vez más verdadera.",
+   "temas": [
+    "rumia",
+    "comprobar"
+   ],
+   "intensidad": 4,
+   "gancho": "Si la comprobación se alarga y se ramifica, ya no compruebas: rumias.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — Falsas alarmas"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 4: ante un susto, parar un segundo y preguntarse si es un peligro real ahora mismo o es la alarma. Mirar alrededor y comprobar si hay algo físico que amenace en este instante.",
+   "es_literal": false,
+   "ancla": "la próxima vez que algo te dé un susto —un mensaje, una llamada, una noticia— antes de reaccionar, para un segundo y pregúntate: *¿esto es un peligro real, ahora mismo, o es mi alarma?* Mira a tu alrededor y comprueba si hay algo físico que de verdad te amenace en este instante.",
+   "temas": [
+    "práctica",
+    "comprobar",
+    "falsas alarmas"
+   ],
+   "intensidad": 4,
+   "gancho": "Mirar por la mirilla antes de abrir la puerta.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — Falsas alarmas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El cuerpo aguanta muy bien las emergencias. Lo que no aguanta es que todo sea una emergencia todo el rato.",
+   "es_literal": true,
+   "ancla": "El cuerpo aguanta muy bien las emergencias. Lo que no aguanta es que todo sea una emergencia todo el rato.",
+   "temas": [
+    "estrés crónico",
+    "urgencia"
+   ],
+   "intensidad": 4,
+   "gancho": "El problema no es la emergencia. Es que todo lo sea.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — El estrés crónico y la urgencia"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La tregua no es lo que haces cuando terminas el trabajo: es parte del trabajo. Un cuerpo que no baja nunca no rinde más, rinde peor y con más errores.",
+   "es_literal": false,
+   "ancla": "La tregua no es lo que haces cuando terminas el trabajo. Es parte del trabajo. Es lo que le permite a tu cuerpo seguir funcionando sin fundirse. Un cuerpo que no baja nunca no rinde más: rinde peor, más tarde, con más errores y menos claridad.",
+   "temas": [
+    "pausa",
+    "urgencia",
+    "rendimiento"
+   ],
+   "intensidad": 4,
+   "gancho": "La pausa no te quita tiempo. Te devuelve el que tienes.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — El estrés crónico y la urgencia"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Soltar la urgencia no es solo organizarse mejor. Es renunciar a una forma de sentirse valioso: cada tarea tachada a toda prisa da un pequeño chute que la calma no da.",
+   "es_literal": false,
+   "ancla": "Por eso soltar la urgencia no es solo cuestión de organizarse mejor; es renunciar a una forma de sentirse valioso. Reconocerlo ayuda, porque explica por qué las buenas intenciones de \"voy a ir más tranquilo\" duran dos días",
+   "temas": [
+    "urgencia",
+    "identidad"
+   ],
+   "intensidad": 4,
+   "gancho": "No luchas contra el desorden. Luchas contra algo que te gusta.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5 — El estrés crónico y la urgencia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 5: entre dos tareas, parar un minuto entero antes de empezar la siguiente. Soltar las manos, una exhalación larga, dejar caer los hombros, notar que ahora mismo no hay ninguna emergencia.",
+   "es_literal": false,
+   "ancla": "entre dos tareas de hoy, cuando termines una y vayas a por la siguiente, para un minuto entero antes de empezar. Suelta las manos, haz una exhalación larga y lenta, deja caer los hombros y nota que, ahora mismo, no hay ninguna emergencia.",
+   "temas": [
+    "práctica",
+    "pausa",
+    "urgencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Un minuto entre dos tareas. La siguiente puede esperar.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — El estrés crónico y la urgencia"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No estás en peligro. Solo estás mirando el peligro de otros, sin parar, en una pantalla que cabe en tu mano.",
+   "es_literal": true,
+   "ancla": "No estás en peligro. Solo estás mirando el peligro de otros, sin parar, en una pantalla que cabe en tu mano.",
+   "temas": [
+    "pantallas",
+    "noticias"
+   ],
+   "intensidad": 4,
+   "gancho": "El peligro de otros, sin parar, en la palma de tu mano.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — El goteo de amenazas (pantallas y noticias)"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Una cosa es informarse —enterarse, entender, y actuar si se puede— y otra marinarse: horas de malas noticias que no vas a usar para nada. Eso no informa mejor. Solo alarma más.",
+   "es_literal": false,
+   "ancla": "Otra muy distinta es lo que hacemos casi todos, que no es informarnos sino *marinarnos*: sumergirnos durante horas en un flujo de malas noticias que no vamos a usar para nada, que no podemos cambiar, que solo nos deja el cuerpo encendido y una sensación difusa de que el mundo se cae.",
+   "temas": [
+    "noticias",
+    "pantallas"
+   ],
+   "intensidad": 4,
+   "gancho": "Informarse es una cosa. Marinarse es otra.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — El goteo de amenazas (pantallas y noticias)"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Casi todo lo que nos venden para estar mejor consiste en añadir. Hay una vía anterior que casi nadie propone porque no se vende: quitar. Es la diferencia entre achicar agua y cerrar el grifo.",
+   "es_literal": false,
+   "ancla": "Es la diferencia entre achicar agua con un cubo y cerrar el grifo que la mete. Puedes pasarte la vida achicando —respirando, relajándote, calmándote— mientras dejas el grifo del goteo abierto de par en par.",
+   "temas": [
+    "quitar",
+    "pantallas"
+   ],
+   "intensidad": 4,
+   "gancho": "Puedes achicar agua toda la vida con el grifo abierto.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 6 — El goteo de amenazas (pantallas y noticias)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 6: al despertar, no coger el móvil. Los primeros diez minutos del día sin pantalla, dejando que lo primero que llegue sea la luz, el agua en la cara o el suelo bajo los pies.",
+   "es_literal": false,
+   "ancla": "mañana, al despertar, no cojas el móvil. Regálale a tu cuerpo los primeros diez minutos del día sin pantalla. Deja que lo primero que reciba sea la luz, el agua en la cara, tu respiración o el suelo bajo los pies —algo real, sin peligro dentro—.",
+   "temas": [
+    "práctica",
+    "pantallas",
+    "mañana"
+   ],
+   "intensidad": 3,
+   "gancho": "Diez minutos de mañana antes de dejar entrar el ruido.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6 — El goteo de amenazas (pantallas y noticias)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No estás exagerando. Tu cuerpo aprendió a protegerte en una época en que hacía falta, y todavía no sabe que ya pasó.",
+   "es_literal": true,
+   "ancla": "No estás exagerando. Tu cuerpo aprendió a protegerte en una época en que hacía falta, y todavía no sabe que ya pasó.",
+   "temas": [
+    "hipervigilancia",
+    "historia"
+   ],
+   "intensidad": 5,
+   "gancho": "Aprendió a protegerte cuando hacía falta. No sabe que ya pasó.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — La hipervigilancia"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un centinela sigue en la muralla años después de que acabara la guerra, tensándose cada vez que cruza un pájaro. No está loco: está desactualizado, haciendo con toda su lealtad un trabajo que ya no hace falta.",
+   "es_literal": false,
+   "ancla": "Así que ahí sigue, en lo alto de la muralla, en tiempos de paz, escrutando un horizonte vacío, tensando el cuerpo cada vez que un pájaro cruza el cielo. No está loco. Está desactualizado. Sigue haciendo, con toda su lealtad, un trabajo que ya no hace falta.",
+   "temas": [
+    "hipervigilancia",
+    "guardia"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie le ha dado la orden de bajar de la muralla.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7 — La hipervigilancia"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Estar en guardia no es estar preparado. Quien resuelve bien una emergencia no es quien llevaba días temblando por si llegaba: casi siempre es quien estaba descansado y con el cuerpo disponible.",
+   "es_literal": false,
+   "ancla": "Estar en guardia no es lo mismo que estar preparado. La persona serena que resuelve bien una emergencia no es la que llevaba días temblando por si llegaba; es, casi siempre, la que estaba descansada y con el cuerpo disponible.",
+   "temas": [
+    "hipervigilancia",
+    "preparación"
+   ],
+   "intensidad": 4,
+   "gancho": "Vigilar mucho no es cuidar mejor. Es gastar por adelantado.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — La hipervigilancia"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no promete que la guardia de años baje a la primera. El centinela lleva mucho tiempo en la muralla; no se retira en una tarde. Lo que hay es un dato nuevo cada vez.",
+   "es_literal": false,
+   "ancla": "No esperes que a la primera baje la guardia de años. El centinela lleva mucho tiempo en la muralla; no se retira en una tarde. Pero cada vez que le muestras el ahora seguro y compruebas que, en efecto, no pasa nada, le estás dando un dato nuevo.",
+   "temas": [
+    "hipervigilancia",
+    "honestidad",
+    "ritmo"
+   ],
+   "intensidad": 3,
+   "gancho": "Un centinela de años no se retira en una tarde.",
+   "formatos": [
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7 — La hipervigilancia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 7: cuando la vigilancia suba, parar y mirar alrededor despacio, recorriendo el sitio real con los ojos, y decirle al cuerpo sin prisa: «Ahora, aquí, estoy a salvo.»",
+   "es_literal": false,
+   "ancla": "cuando notes que la vigilancia sube, para y mira alrededor despacio, recorriendo con los ojos el sitio real donde estás, como quien comprueba que no viene nadie por el horizonte. Deja que la mirada confirme lo que la cabeza no se cree: aquí, ahora, no hay ninguna amenaza.",
+   "temas": [
+    "práctica",
+    "presente",
+    "hipervigilancia"
+   ],
+   "intensidad": 4,
+   "gancho": "No lo pienses como argumento: ofréceselo como prueba que ven tus ojos.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — La hipervigilancia"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tu cuerpo no se niega a dormir por fastidiarte. Se niega porque, en el fondo, no se siente lo bastante a salvo para bajar la guardia.",
+   "es_literal": true,
+   "ancla": "Tu cuerpo no se niega a dormir por fastidiarte. Se niega porque, en el fondo, no se siente lo bastante a salvo para bajar la guardia.",
+   "temas": [
+    "sueño",
+    "guardia"
+   ],
+   "intensidad": 5,
+   "gancho": "No se niega por fastidiarte. Se niega porque no se siente a salvo.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — Dormir en alerta"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Hay un cansancio limpio, el del cuerpo que se ha gastado de verdad, y uno sucio, el del cuerpo que lleva horas encendido sin moverse. El primero cae como una piedra. El segundo da vueltas.",
+   "es_literal": false,
+   "ancla": "Está el cansancio limpio, el del cuerpo que ha trabajado, se ha movido, ha gastado energía y pide descanso: ese cansancio duerme bien, cae como una piedra. Y está el cansancio sucio, el del cuerpo que lleva horas encendido sin gastarse de verdad, tenso todo el día en una silla, corriendo por dentro sin moverse por fuera.",
+   "temas": [
+    "sueño",
+    "cansancio"
+   ],
+   "intensidad": 4,
+   "gancho": "Exhausto de estar en guardia, no de haber vivido.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 8 — Dormir en alerta"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Al sueño no se le persigue: se le hace sitio. Cuanto más lo cazas, más se aleja; cuanto más te preparas, más viene solo.",
+   "es_literal": true,
+   "ancla": "Al sueño no se le persigue: se le hace sitio. Cuanto más lo cazas, más se aleja; cuanto más te preparas, más viene solo.",
+   "temas": [
+    "sueño",
+    "preparación"
+   ],
+   "intensidad": 4,
+   "gancho": "Al sueño no se le persigue: se le hace sitio.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8 — Dormir en alerta"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 8: los últimos diez minutos antes de acostarse, una rampa de descenso corta y siempre igual —luces bajas, móvil aparte, movimientos lentos—, y en la cama soltar el aire despacio unas cuantas veces. Sin intentar dormir.",
+   "es_literal": false,
+   "ancla": "dedica los últimos diez minutos antes de acostarte a una rampa de descenso corta y siempre igual —luces bajas, móvil aparte, movimientos lentos— y termina en la cama soltando el aire despacio unas cuantas veces, más largo al exhalar que al inhalar. No intentes dormir.",
+   "temas": [
+    "práctica",
+    "sueño",
+    "rutina"
+   ],
+   "intensidad": 3,
+   "gancho": "No intentes dormir. Solo avisa al cuerpo de que el día terminó.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — Dormir en alerta"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No es respirar hondo. Es soltar el aire despacio. La calma no está en la inhalación: está en la exhalación larga.",
+   "es_literal": true,
+   "ancla": "No es respirar hondo. Es soltar el aire despacio. La calma no está en la inhalación: está en la exhalación larga.",
+   "temas": [
+    "respiración",
+    "exhalación"
+   ],
+   "intensidad": 5,
+   "gancho": "No está en el aire que entra. Está en el que sale.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — La exhalación: el freno del cuerpo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El cuerpo ya sabe hacerlo solo: cuando algo alivia de verdad no coges una bocanada, sueltas un suspiro largo. Se trata de hacer a propósito lo que el cuerpo hace cuando el peligro pasa.",
+   "es_literal": false,
+   "ancla": "Cuando algo te alivia de verdad, no coges una gran bocanada; sueltas un suspiro largo. Cuando un niño deja por fin de llorar, no inhala hondo; exhala en oleadas hasta que se calma.",
+   "temas": [
+    "respiración",
+    "cuerpo"
+   ],
+   "intensidad": 3,
+   "gancho": "La sabiduría del freno ya está escrita en ti.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 9 — La exhalación: el freno del cuerpo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro se niega a prometer que una exhalación apague una crisis como quien apaga una luz. Lo que suele hacer es cortar la subida por la mitad. A veces ese punto de menos ya es la diferencia.",
+   "es_literal": false,
+   "ancla": "No te prometo que esto apague una crisis como quien apaga una luz. Sería mentira, y este libro no te va a mentir. Lo que sí suele ocurrir —y lo que le ocurrió a Bea— es que le corta la subida por la mitad.",
+   "temas": [
+    "honestidad",
+    "respiración"
+   ],
+   "intensidad": 4,
+   "gancho": "Sería mentira, y este libro no te va a mentir.",
+   "formatos": [
+    "cita",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — La exhalación: el freno del cuerpo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 9: tres exhalaciones el doble de largas que la inhalación. Aire contando hasta tres, salida despacio y con peso contando hasta seis, como empañando un cristal a cámara lenta. Sin forzar.",
+   "es_literal": false,
+   "ancla": "ahora mismo, sin esperar a estar mal, prueba tres exhalaciones el doble de largas que la inhalación. Coge aire contando hasta tres y suéltalo despacio, con peso, contando hasta seis, como si empañaras un cristal a cámara lenta.",
+   "temas": [
+    "práctica",
+    "exhalación"
+   ],
+   "intensidad": 4,
+   "gancho": "Dale peso al aire que sueltas.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — La exhalación: el freno del cuerpo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No puedes discutir con una película. Pero puedes salir del cine y notar el suelo bajo tus pies.",
+   "es_literal": true,
+   "ancla": "No puedes discutir con una película. Pero puedes salir del cine y notar el suelo bajo tus pies.",
+   "temas": [
+    "anclaje",
+    "presente"
+   ],
+   "intensidad": 4,
+   "gancho": "No puedes discutir con una película.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Anclar el cuerpo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El anclaje no se hace cuando ya estás tranquilo. Se hace con el susto puesto: mirarte los pies estando nervioso es lo que empieza a bajar la alarma, no al revés.",
+   "es_literal": false,
+   "ancla": "El anclaje no se hace cuando estás bien: se hace cuando estás mal, y su trabajo es precisamente acompañarte de vuelta. No busques calma antes de anclarte. Ánclate con el susto puesto, y deja que sea el ancla la que traiga la calma.",
+   "temas": [
+    "anclaje",
+    "práctica"
+   ],
+   "intensidad": 4,
+   "gancho": "Ánclate con el susto puesto.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 10 — Anclar el cuerpo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Ninguna ancla vale para todos. A unos les va el frío y a otros el peso; a unos cerrar los ojos y a otros mirarlo todo. Si algo no sirve, no es que lo hagas mal: ese cuerpo prefiere otra puerta.",
+   "es_literal": false,
+   "ancla": "no todos los cuerpos responden igual a todas las anclas. A unas personas el frío les va de maravilla y el peso apenas; a otras, al revés. A algunas, cerrar los ojos y notar el cuerpo por dentro las calma; a otras, en cambio, mirarlo todo con los ojos bien abiertos les da más seguridad",
+   "temas": [
+    "anclaje",
+    "honestidad",
+    "diferencias"
+   ],
+   "intensidad": 3,
+   "gancho": "No hay una manera correcta. Hay la que le habla a tu cuerpo.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 10 — Anclar el cuerpo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 10: llevar la atención a las plantas de los pies, sentir el suelo que sostiene y presionarlos un poco. Luego mirar alrededor y nombrar despacio tres cosas que se ven.",
+   "es_literal": false,
+   "ancla": "la próxima vez que notes la alarma subir, lleva la atención a las plantas de tus pies y siente el suelo que te sostiene; presiónalos un poco. Luego mira alrededor y nombra, despacio, tres cosas que ves.",
+   "temas": [
+    "práctica",
+    "anclaje",
+    "sentidos"
+   ],
+   "intensidad": 4,
+   "gancho": "Un sitio firme donde agarrarse mientras pasa.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — Anclar el cuerpo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El cuerpo se prepara para correr o pelear. Cuando no haces ni lo uno ni lo otro, esa energía no desaparece: se queda dentro esperando salida.",
+   "es_literal": true,
+   "ancla": "El cuerpo se prepara para correr o pelear. Cuando no haces ni lo uno ni lo otro, esa energía no desaparece: se queda dentro esperando salida.",
+   "temas": [
+    "movimiento",
+    "descarga"
+   ],
+   "intensidad": 4,
+   "gancho": "Esa energía no desaparece. Se queda dentro.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — Mover la alarma"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Distraerte a la fuerza es cerrar la tapa de la olla: la tensión sigue dentro, subiendo. Moverte a propósito es abrir la válvula. No has tapado nada; has soltado.",
+   "es_literal": false,
+   "ancla": "La diferencia es la misma que hay entre cerrar la tapa de una olla a presión y abrir la válvula. Distraerte a la fuerza es cerrar la tapa: la tensión sigue dentro, quizá disimulada, subiendo. Moverte a propósito para descargar es abrir la válvula",
+   "temas": [
+    "movimiento",
+    "descarga"
+   ],
+   "intensidad": 4,
+   "gancho": "La tapa o la válvula. No es lo mismo.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 11 — Mover la alarma"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 11: cuando el cuerpo se cargue, moverlo dos minutos. Andar rápido, sacudir con fuerza manos y brazos, o subir los hombros hasta las orejas y dejarlos caer con un suspiro, tres veces.",
+   "es_literal": false,
+   "ancla": "cuando notes hoy que la tensión sube y el cuerpo se te carga, muévelo dos minutos. Sal a andar rápido, o sacude con fuerza las manos y los brazos, o sube los hombros hasta las orejas y déjalos caer con un suspiro, tres veces.",
+   "temas": [
+    "práctica",
+    "movimiento"
+   ],
+   "intensidad": 4,
+   "gancho": "No te quedes quieto guisándote en la alarma.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — Mover la alarma"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No siempre puedes calmarte solo, y no tienes por qué. A veces la vía más rápida a tu propia calma pasa por el cuerpo tranquilo de otra persona.",
+   "es_literal": true,
+   "ancla": "No siempre puedes calmarte solo, y no tienes por qué. A veces la vía más rápida a tu propia calma pasa por el cuerpo tranquilo de otra persona.",
+   "temas": [
+    "co-regulación",
+    "compañía"
+   ],
+   "intensidad": 5,
+   "gancho": "No siempre puedes calmarte solo. Y no tienes por qué.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12 — La calma se contagia"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un cuerpo sereno regula aunque calle; uno agitado altera aunque acierte. La diferencia no está en lo listo del consejo, sino en el estado del cuerpo que tienes al lado.",
+   "es_literal": false,
+   "ancla": "La diferencia no está en lo listo del consejo. Está en el estado del cuerpo que tienes al lado. Un cuerpo sereno regula aunque calle; un cuerpo agitado altera aunque acierte.",
+   "temas": [
+    "co-regulación",
+    "presencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Un cuerpo sereno regula aunque calle.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — La calma se contagia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 12: buscar a propósito un rato de compañía tranquila con alguien que deje mejor cuerpo. Una llamada sin importancia, un café, sentarse cerca sin hablar del problema.",
+   "es_literal": false,
+   "ancla": "busca hoy, a propósito, un rato de compañía tranquila con alguien que te deje mejor cuerpo. Una llamada sin importancia, un café, sentarte cerca sin necesidad de hablar del problema. No te aísles cuando estés mal",
+   "temas": [
+    "práctica",
+    "co-regulación"
+   ],
+   "intensidad": 3,
+   "gancho": "No te aísles cuando estés mal.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12 — La calma se contagia"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tu cuerpo no rechaza la calma porque sea mala. La rechaza porque es nueva. Y a lo nuevo, al principio, siempre le tenemos un poco de recelo.",
+   "es_literal": true,
+   "ancla": "Tu cuerpo no rechaza la calma porque sea mala. La rechaza porque es nueva. Y a lo nuevo, al principio, siempre le tenemos un poco de recelo.",
+   "temas": [
+    "calma",
+    "novedad"
+   ],
+   "intensidad": 3,
+   "gancho": "No rechaza la calma porque sea mala. La rechaza porque es nueva.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — Estar en calma sin aburrirte"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige un rato de cinco minutos y siéntate sin objetivo: sin móvil, sin tele de fondo, sin aprovechar para pensar en pendientes. Cinco minutos de no hacer nada útil. Solo estar.",
+   "es_literal": false,
+   "ancla": "Empieza por cinco minutos. Solo cinco. Elige un momento cualquiera —el café de la mañana, una pausa entre dos tareas, el rato después de comer— y siéntate sin objetivo. No con el móvil. No con la tele de fondo. No aprovechando para pensar la lista de la compra. Cinco minutos de no hacer nada útil. Simplemente estar.",
+   "temas": [
+    "calma",
+    "urgencia",
+    "hábito"
+   ],
+   "intensidad": 3,
+   "gancho": "Cinco minutos sin llenarlos con nada. Ni móvil, ni tarea, ni tele.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — Estar en calma sin aburrirte"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un cuerpo que pasa años en marcha de aceleración aprende a tomar ese nivel alto como su estado normal. El nivel de activación deja de sentirse como esfuerzo y empieza a sentirse, sencillamente, como uno mismo.",
+   "es_literal": false,
+   "ancla": "El problema aparece cuando una persona pasa años, no días, viviendo casi siempre en la marcha de aceleración. El cuerpo, que es sabio y económico, aprende. Y lo que aprende es: *este es mi estado normal*.",
+   "temas": [
+    "sistema nervioso",
+    "normalidad",
+    "calma"
+   ],
+   "intensidad": 3,
+   "gancho": "El cuerpo que vive siempre acelerado aprende que eso es lo normal.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — Estar en calma sin aburrirte"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Hay un guardia que solo se pone atento cuando entra alguien sospechoso, y hay un guardia que pasa veinticuatro horas en máxima tensión, por si acaso. El primero cuida. El segundo se destruye sin cuidar mejor a nadie.",
+   "es_literal": false,
+   "ancla": "Es la diferencia entre un guardia de seguridad que está atento cuando entra alguien sospechoso —eso es sano— y un guardia que se pasa las veinticuatro horas del día, incluida la noche cerrada con la puerta con llave, en máxima tensión, sin dormir, sin descansar, agotándose por si acaso. El primero cuida. El segundo se destruye sin cuidar mejor a nadie.",
+   "temas": [
+    "hipervigilancia",
+    "protección",
+    "descanso"
+   ],
+   "intensidad": 4,
+   "gancho": "Un guardia siempre en tensión no protege más: se destruye antes.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — La calma también da miedo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Estar siempre en guardia no evita el golpe. Solo te obliga a recibirlo mil veces en la cabeza antes de que llegue, y a veces sin que llegue nunca.",
+   "es_literal": true,
+   "ancla": "Estar siempre en guardia no evita el golpe. Solo te obliga a recibirlo mil veces en la cabeza antes de que llegue, y a veces sin que llegue nunca.",
+   "temas": [
+    "hipervigilancia",
+    "miedo"
+   ],
+   "intensidad": 4,
+   "gancho": "Estar en guardia no evita el golpe. Solo te lo hace vivir mil veces.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — La calma también da miedo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una tarde tranquila, sin nada que pesara. La respiración despacio, los pies en el suelo, los hombros que por fin bajaban. Durante un minuto, el cuerpo se soltó de verdad, como quien pone en el suelo una maleta muy pesada.",
+   "es_literal": false,
+   "ancla": "Había sido una tarde tranquila, de esas raras en las que nada pesaba. Había respirado despacio, había sentido los pies en el suelo, había dejado que los hombros bajaran. Y por un momento —unos segundos, quizá un minuto— lo consiguió: el cuerpo se le soltó de verdad, el pecho se le abrió, notó ese aflojamiento que llevaba tanto tiempo buscando.",
+   "temas": [
+    "calma",
+    "cuerpo",
+    "sobresalto"
+   ],
+   "intensidad": 3,
+   "gancho": "Un minuto de calma real, después de mucho tiempo buscándolo.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — La calma también da miedo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Como casi nunca pasa lo que se teme, el cuerpo saca una conclusión torcida: menos mal que estaba alerta, por eso no pasó nada. Es la lógica del amuleto: si no ocurre nada, parece que ha funcionado. Así la vigilancia nunca pierde.",
+   "es_literal": false,
+   "ancla": "Como la mayoría de las cosas que tememos no acaban pasando, el cuerpo saca una conclusión equivocada: \"menos mal que estaba alerta; por eso no pasó nada\". Igual que quien lleva un amuleto y, como no le ocurre ninguna desgracia, cree que ha sido el amuleto quien le protegía.",
+   "temas": [
+    "hipervigilancia",
+    "sesgo",
+    "miedo"
+   ],
+   "intensidad": 3,
+   "gancho": "La vigilancia nunca pierde: si no pasa nada, cree que fue por ella.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — La calma también da miedo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Una recaída no borra lo aprendido. El cuerpo se acuerda de calmarse, aunque ese día le cueste más. Un mal día no es volver a empezar: es tener un mal día sabiendo ya el camino de vuelta.",
+   "es_literal": true,
+   "ancla": "Una recaída no borra lo aprendido. El cuerpo se acuerda de calmarse, aunque ese día le cueste más. Un mal día no es volver a empezar: es tener un mal día sabiendo ya el camino de vuelta.",
+   "temas": [
+    "recaída",
+    "progreso"
+   ],
+   "intensidad": 4,
+   "gancho": "Un mal día no es volver a empezar. Es tenerlo sabiendo el camino de vuelta.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — Cuando la alarma vuelve"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Una cosa es tener un mal día y otra, muy distinta, es tratarse mal en un mal día. Lo primero no depende de ti; el cuerpo tiene los días que tiene. Lo segundo sí depende de ti, y es lo único que de verdad puedes decidir.",
+   "es_literal": false,
+   "ancla": "una cosa es tener un mal día y otra, muy distinta, es tratarse mal en un mal día. Lo primero no depende de ti; el cuerpo tiene los días que tiene. Lo segundo sí depende de ti, y es lo único sobre lo que de verdad puedes decidir.",
+   "temas": [
+    "recaída",
+    "autocuidado"
+   ],
+   "intensidad": 4,
+   "gancho": "El día malo no se elige. Cómo te tratas en él, sí.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15 — Cuando la alarma vuelve"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Prepara, en un rato tranquilo, tu SOS de calma: la señal corporal que más te funciona, una frase amable para leerte en el pico, el nombre de alguien a quien recurrir, y el recordatorio de que solo hay que acompañarse hasta que la alarma baje sola.",
+   "es_literal": false,
+   "ancla": "Vamos a preparar tu **SOS de calma**. Coge un papel, o una nota en el móvil que puedas encontrar rápido, y escribe estas cuatro cosas:",
+   "temas": [
+    "herramienta",
+    "preparación",
+    "recaída"
+   ],
+   "intensidad": 3,
+   "gancho": "Prepara hoy, en calma, el botiquín para tu próximo mal día.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Cuando la alarma vuelve"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Bajar un pico de alarma con una exhalación es casi inmediato. Que el cuerpo cambie su estado de fondo lleva semanas y meses de práctica repartida, no un fin de semana. No hay una fecha de llegada.",
+   "es_literal": false,
+   "ancla": "Para el momento —bajar un pico de alarma con una exhalación o agua fría— el efecto es casi inmediato: lo notas ahí mismo, aunque no siempre del todo. Lo que lleva más tiempo es lo otro, lo importante: que tu cuerpo cambie su estado de fondo, que pase de vivir en guardia a vivir un poco más tranquilo por defecto.",
+   "temas": [
+    "expectativas",
+    "tiempo",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Un pico baja al momento. El estado de fondo, en semanas y meses.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "ANEXO 3 — Preguntas frecuentes"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La calma no es un examen que se aprueba. Es un jardín que se riega. No hay nota final; solo hay el gesto pequeño de hoy, repetido con cariño mañana.",
+   "es_literal": true,
+   "ancla": "La calma no es un examen que se aprueba. Es un jardín que se riega. No hay nota final; solo hay el gesto pequeño de hoy, repetido con cariño mañana.",
+   "temas": [
+    "calma",
+    "constancia"
+   ],
+   "intensidad": 4,
+   "gancho": "No es un examen que se aprueba. Es un jardín que se riega.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — Vivir con la guardia baja"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Solemos tratar la calma como una cima a la que se llega una vez y en la que uno se queda para siempre. Pero la calma no es una cima: es un suelo. No un sitio al que subes, sino el sitio al que vuelves.",
+   "es_literal": false,
+   "ancla": "Pero la calma no es una cima. Es más bien un suelo. No es un sitio al que subes; es el sitio al que vuelves. No es un logro que se alcanza una vez; es un estado base que se cultiva, con gestos pequeños, toda la vida.",
+   "temas": [
+    "calma",
+    "meta",
+    "hábito"
+   ],
+   "intensidad": 3,
+   "gancho": "La calma no es una cima. Es un suelo al que se vuelve.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16 — Vivir con la guardia baja"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige una sola señal de calma y engánchala a un gesto que ya haces cada día: una exhalación larga al sentarte al coche, soltar los hombros al cruzar una puerta, los pies en el suelo al hacer cola. Cuando se vuelva automática, añade otra.",
+   "es_literal": false,
+   "ancla": "Ata una exhalación larga a cada vez que te sientas al coche antes de arrancar. Ata el soltar los hombros a cada vez que cruzas una puerta. Ata los pies en el suelo a cada vez que esperas en una cola. Ata un suspiro tranquilo a cada vez que dejas el móvil sobre la mesa.",
+   "temas": [
+    "hábito",
+    "cotidiano",
+    "calma"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuelga una señal de calma de un gesto que ya haces cada día.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16 — Vivir con la guardia baja"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué diferencia hay entre el aburrimiento, el vacío y la calma? Si en tu cuerpo las tres se sienten igual, las tratas igual: las llenas. Y así se pierde la única que hacía falta.",
+   "es_literal": false,
+   "ancla": "El aburrimiento es una mente sin estímulo. El vacío es una sensación de que falta sentido. Y la calma es, sencillamente, un cuerpo que ha dejado de estar en guardia. Cuando no sabes distinguirlas, confundes la paz con el problema y sales corriendo de lo único que necesitabas.",
+   "temas": [
+    "calma",
+    "aburrimiento",
+    "vacío"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Aburrimiento, vacío o calma? Si se sienten igual, se llenan igual.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — Estar en calma sin aburrirte"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando la alarma suba, elige una de estas y hazla ya: exhala el doble de largo tres o cuatro veces, pásate agua fría por las muñecas, siente los pies en el suelo diez segundos, o sacude las manos y las piernas veinte segundos.",
+   "es_literal": false,
+   "ancla": "Esto es el botiquín. Señales de calma de un minuto para cuando notas que la alarma sube —el pecho que se aprieta, el pulso que se acelera, la sensación de que algo va a pasar— y necesitas bajarla ahí mismo, sin montar ningún ritual ni irte a ningún sitio.",
+   "temas": [
+    "herramienta",
+    "calma",
+    "urgencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Un botiquín de un minuto para cuando la alarma sube de golpe.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "ANEXO 2 — Kit de señales de calma (SOS de 1 minuto)"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Esto no sustituye a la terapia. Es un acompañamiento con herramientas corporales, no un tratamiento. Si el malestar es fuerte, dura o impide funcionar, lo sensato es buscar ayuda profesional.",
+   "es_literal": false,
+   "ancla": "Esto es un acompañamiento, un conjunto de herramientas corporales para vivir con el cuerpo menos en guardia. No es terapia, no es tratamiento y no reemplaza el trabajo con un psicólogo o un médico.",
+   "temas": [
+    "límites",
+    "profesional",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "No es terapia. Es un acompañamiento que no sustituye al profesional.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "ANEXO 3 — Preguntas frecuentes"
+  }
+ ]
+}

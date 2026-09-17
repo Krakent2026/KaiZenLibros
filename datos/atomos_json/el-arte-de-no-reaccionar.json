@@ -1,0 +1,1196 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "el-arte-de-no-reaccionar",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "No puedes controlar la ola, pero puedes aprender a no ahogarte en cada una.",
+   "es_literal": true,
+   "ancla": "No puedes controlar la ola, pero puedes aprender a no ahogarte en cada una.",
+   "temas": [
+    "metafora",
+    "aceptacion",
+    "estoicismo"
+   ],
+   "intensidad": 4,
+   "gancho": "La frase que resume el libro entero.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Introducción — El mundo te quiere alterado"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tu calma no está en venta. Pero solo si sabes que alguien la está comprando.",
+   "es_literal": true,
+   "ancla": "Tu calma no está en venta. Pero solo si sabes que alguien la está comprando.",
+   "temas": [
+    "atencion",
+    "economia_indignacion"
+   ],
+   "intensidad": 4,
+   "gancho": "Alguien se beneficia de tu enfado. Tú decides si se lo regalas.",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — La economía de la indignación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que no conoces, te maneja. Lo que nombras, empieza a soltarte.",
+   "es_literal": true,
+   "ancla": "Lo que no conoces, te maneja. Lo que nombras, empieza a soltarte.",
+   "temas": [
+    "disparadores",
+    "autoconocimiento"
+   ],
+   "intensidad": 3,
+   "gancho": "Un botón que no ves sigue siendo un botón.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — Tus disparadores personales"
+  },
+  {
+   "tipo": "cita",
+   "texto": "entre el estímulo y la respuesta hay un espacio, y en ese espacio reside nuestro poder de elegir. En esa elección están nuestro crecimiento y nuestra libertad.",
+   "es_literal": true,
+   "ancla": "entre el estímulo y la respuesta hay un espacio, y en ese espacio reside nuestro poder de elegir. En esa elección están nuestro crecimiento y nuestra libertad.",
+   "temas": [
+    "frankl",
+    "libertad",
+    "espacio"
+   ],
+   "intensidad": 5,
+   "gancho": "La libertad que un psiquiatra encontró en el peor lugar posible.",
+   "formatos": [
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Introducción — El mundo te quiere alterado"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Nombra la máquina cuando se dispare: primero, nota el pulso subiendo o el calor en la cara; segundo, di para tus adentros «esto es mi amígdala», sin dramatizar; tercero, deja que ese nombre abra un segundo de distancia antes de actuar; cuarto, no luches contra la alarma, solo obsérvala sonar.",
+   "es_literal": false,
+   "ancla": "La próxima vez que notes el pulso subir de golpe, di mentalmente, con la mayor neutralidad que puedas: **“Esto es mi amígdala.”**",
+   "temas": [
+    "amigdala",
+    "defusion",
+    "herramienta"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuatro palabras para dejar de ser la reacción y empezar a observarla.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — El secuestro de tu atención"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El anclaje de los sentidos para un secuestro fuerte: busca cinco cosas que puedas ver, mirándolas de verdad; luego cuatro que puedas oír; después tres que puedas tocar; dos que puedas oler; y una que puedas saborear. En menos de un minuto la atención sale del bucle de amenaza.",
+   "es_literal": false,
+   "ancla": "En cuanto notes el secuestro, detente un instante y busca, mirando alrededor, cinco cosas que puedas ver.",
+   "temas": [
+    "anclaje",
+    "sentidos",
+    "herramienta"
+   ],
+   "intensidad": 3,
+   "gancho": "Cinco, cuatro, tres, dos, uno: la cuenta que corta la alarma.",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El secuestro de tu atención"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Antes de responder a algo que me indigna en una pantalla, me hago una sola pregunta: ¿a quién beneficia mi reacción? A veces basta para soltar el teléfono con media sonrisa.",
+   "es_literal": false,
+   "ancla": "Antes de responder a cualquier cosa que te indigne en una pantalla, hazte esta: **“¿A quién beneficia mi reacción?”**",
+   "temas": [
+    "indignacion",
+    "pantallas"
+   ],
+   "intensidad": 3,
+   "gancho": "La pregunta que desinfla el anzuelo antes de morderlo.",
+   "formatos": [
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — La economía de la indignación"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cuántas veces esta última semana has dicho algo de lo que te arrepentiste al minuto siguiente?",
+   "es_literal": true,
+   "ancla": "¿Cuántas veces esta última semana has dicho algo de lo que te arrepentiste al minuto siguiente?",
+   "temas": [
+    "reactividad",
+    "autoobservacion"
+   ],
+   "intensidad": 3,
+   "gancho": "Una pregunta incómoda para empezar.",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — El mundo te quiere alterado"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay una alarma antigua metida en el cerebro, del tamaño de una almendra, que salta antes de que la parte racional se entere de nada. No es un defecto: es el mismo sistema que mantuvo viva a la especie durante cientos de miles de años, ahora reaccionando a un correo como si fuera un depredador.",
+   "es_literal": false,
+   "ancla": "En lo más profundo de tu cerebro hay una estructura pequeña con forma de almendra llamada amígdala. Piensa en ella como tu sistema de alarma, un vigilante que nunca duerme.",
+   "temas": [
+    "amigdala",
+    "neurociencia_divulgativa"
+   ],
+   "intensidad": 3,
+   "gancho": "El vigilante que nunca duerme, y que ya no distingue peligros reales.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 1 — El secuestro de tu atención"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Las aplicaciones que uso cada día las diseñan ingenieros y psicólogos con un solo objetivo: que siga mirando la pantalla. No es una teoría, es el modelo de negocio declarado, y la emoción que más engancha no es la alegría, es la indignación.",
+   "es_literal": false,
+   "ancla": "Las aplicaciones que usas a diario las diseñan algunos de los ingenieros y psicólogos más brillantes del planeta, y su trabajo consiste en una sola cosa: que sigas mirando la pantalla el mayor tiempo posible.",
+   "temas": [
+    "economia_indignacion",
+    "diseño_persuasivo"
+   ],
+   "intensidad": 3,
+   "gancho": "Tu enfado no es un efecto secundario. Es el producto.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — La economía de la indignación"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay disparadores de identidad, que saltan cuando algo amenaza la imagen que tienes de ti mismo; de vínculo, que saltan ante el rechazo o el silencio; y de control, que saltan cuando sientes que pierdes el mando de la situación. Casi todos tenemos algo de las tres, con una dominante.",
+   "es_literal": false,
+   "ancla": "Saltan cuando algo amenaza la imagen que tienes de ti mismo. El de Diego —que cuestionen su competencia— es de este tipo. También sentirse tonto, injusto, poco valioso. Duele porque toca quién crees que eres.",
+   "temas": [
+    "disparadores",
+    "identidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres familias de botones, y una que manda en ti.",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — Tus disparadores personales"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Congelarse no es estar tranquilo. Mucha gente que se cree la tranquila de la familia en realidad se paraliza por dentro, y eso es tan secuestro como gritar o dar un portazo. El secuestro no siempre grita; a veces enmudece.",
+   "es_literal": false,
+   "ancla": "Te quedas en blanco, no sabes qué decir, la mente se vacía. Muchas personas que se creen “tranquilas” en realidad se congelan, que es otra forma de estar secuestrado.",
+   "temas": [
+    "secuestro_emocional",
+    "congelacion"
+   ],
+   "intensidad": 3,
+   "gancho": "Callarse no siempre es paz. A veces es la misma alarma, en silencio.",
+   "formatos": [
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El secuestro de tu atención"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Hay una indignación que es combustible: ves algo injusto y ese impulso te lleva a hacer algo real. Y hay una que es solo humo: tecleas una respuesta furiosa y te quedas exactamente donde estabas, solo que más cansado.",
+   "es_literal": false,
+   "ancla": "La primera es combustible: ves algo injusto, sientes el impulso, y ese impulso te lleva a hacer algo real —ayudar, organizarte, votar, cambiar tu conducta—. La segunda es humo: sientes el impulso, tecleas una respuesta furiosa, y te quedas exactamente donde estabas, solo que más agotado.",
+   "temas": [
+    "indignacion",
+    "accion"
+   ],
+   "intensidad": 3,
+   "gancho": "Combustible o humo: la prueba de las veinticuatro horas.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — La economía de la indignación"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una furgoneta corta el paso sin avisar. Antes de pensar nada, el corazón ya se ha disparado, las manos se agarrotan sobre el volante y un insulto sube solo a la boca. No lo decidiste. Simplemente ocurrió, como si otro hubiera tomado el mando un instante.",
+   "es_literal": false,
+   "ancla": "aquella mañana, cuando una furgoneta le cortó el paso sin poner el intermitente, en menos de un segundo —antes de pensar nada— ya tenía el corazón disparado, las manos agarrotadas al volante, la mandíbula tensa y un insulto en la boca.",
+   "temas": [
+    "escena_cotidiana",
+    "trafico"
+   ],
+   "intensidad": 3,
+   "gancho": "Un segundo, y ya no eras del todo tú.",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El secuestro de tu atención"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Vas al médico por un dolor de estómago que no cede y noches que no llegan a dormirse, convencido de que algo grave está pasando. Las pruebas salen limpias. Y llega la frase que se queda para siempre: no tienes nada en el estómago, tienes la vida en el estómago.",
+   "es_literal": false,
+   "ancla": "Fue al médico por unos dolores de estómago persistentes y por no dormir bien, convencido de que tenía algo grave. Tras las pruebas, el médico le dijo una frase que no olvidaría: “No tienes nada en el estómago. Tienes la vida en el estómago”.",
+   "temas": [
+    "cuerpo",
+    "estres"
+   ],
+   "intensidad": 4,
+   "gancho": "A veces el cuerpo lleva la contabilidad que la mente se niega a mirar.",
+   "formatos": [
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — El coste de vivir reaccionando"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Se ha propuesto que la amígdala recibe la señal de amenaza por una vía más corta y rápida que la del pensamiento consciente, de modo que la alarma puede saltar antes de que la parte racional se entere de nada. Es una propuesta razonable, no una certeza cerrada.",
+   "es_literal": false,
+   "ancla": "Se ha propuesto que la amígdala recibe la información por una vía más corta y veloz que la del pensamiento consciente, de modo que puede disparar la alarma antes de que la parte racional se entere de qué ha pasado.",
+   "temas": [
+    "neurociencia_divulgativa",
+    "honestidad_cientifica"
+   ],
+   "intensidad": 2,
+   "gancho": "Por qué el cuerpo reacciona antes de que tú te enteres.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — El secuestro de tu atención"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cada relación lleva una especie de cuenta corriente emocional. Cada gesto amable es un ingreso; cada reacción brusca, un reintegro. Mientras la cuenta esté en positivo, la relación aguanta los golpes de la convivencia; cuando se vacía de tanto reaccionar, cualquier pequeñez provoca una crisis.",
+   "es_literal": false,
+   "ancla": "Existe una idea muy útil que viene de la investigación sobre parejas: la de la “cuenta corriente emocional”. Cada relación tiene una especie de cuenta bancaria de afecto.",
+   "temas": [
+    "relaciones",
+    "cuenta_emocional"
+   ],
+   "intensidad": 3,
+   "gancho": "Tu relación tiene una cuenta bancaria de afecto. ¿Cómo va el saldo?",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — El coste de vivir reaccionando"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Es lo único que te separa de ser un títere de tus impulsos. Sin ella, solo hay estímulo y reacción, como en cualquier animal: le tocas la pata a un perro dormido y salta.",
+   "es_literal": true,
+   "ancla": "Es lo único que te separa de ser un títere de tus impulsos. Sin ella, solo hay estímulo y reacción, como en cualquier animal: le tocas la pata a un perro dormido y salta.",
+   "temas": [
+    "pausa",
+    "libertad"
+   ],
+   "intensidad": 3,
+   "gancho": "Sin esto, solo hay estímulo y reacción, como en cualquier animal.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — La pausa sagrada"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cualquiera puede reaccionar. Hacer una pausa es cosa de valientes.",
+   "es_literal": true,
+   "ancla": "Cualquiera puede reaccionar. Hacer una pausa es cosa de valientes.",
+   "temas": [
+    "pausa",
+    "valentia"
+   ],
+   "intensidad": 4,
+   "gancho": "Reaccionar lo hace cualquiera. Pausar es otra cosa.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — La pausa sagrada"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La respiración es, dicho de otro modo, el mando a distancia de tu estado interior. El único mando al que tienes acceso directo.",
+   "es_literal": true,
+   "ancla": "La respiración es, dicho de otro modo, el mando a distancia de tu estado interior. El único mando al que tienes acceso directo.",
+   "temas": [
+    "respiracion",
+    "sistema_nervioso"
+   ],
+   "intensidad": 3,
+   "gancho": "El único mando a distancia de tu cuerpo al que tienes acceso.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — Respirar: el mando a distancia de tu calma"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No eres tu ira. Eres el cielo; la ira es solo una nube que lo cruza.",
+   "es_literal": true,
+   "ancla": "No eres tu ira. Eres el cielo; la ira es solo una nube que lo cruza.",
+   "temas": [
+    "emociones",
+    "defusion"
+   ],
+   "intensidad": 4,
+   "gancho": "Tú eres el cielo. La ira, solo una nube que pasa.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — Nombrar para domar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El suspiro fisiológico en tres pasos: inhala por la nariz una vez, larga; sin soltar el aire, toma encima una segunda inhalación corta hasta llenar del todo; y suelta después una exhalación larga y completa por la boca. Uno o dos ciclos bastan para bajar la activación.",
+   "es_literal": false,
+   "ancla": "Toma dos inhalaciones seguidas por la nariz —una larga y, encima de ella, una segunda corta que termina de llenar los pulmones del todo— y suelta luego una exhalación larga y completa por la boca.",
+   "temas": [
+    "respiracion",
+    "herramienta"
+   ],
+   "intensidad": 3,
+   "gancho": "La técnica de respiración más rápida de todo el libro.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — Respirar: el mando a distancia de tu calma"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El escaneo corporal de diez segundos: lleva la atención hacia dentro, como quien pasa una linterna por una habitación a oscuras; pregúntate dónde vive la sensación —garganta, estómago, hombros, pecho—; localízala con precisión; y dirige hacia ese punto una respiración lenta, sin forzar que desaparezca.",
+   "es_literal": false,
+   "ancla": "En cualquier momento de tensión, lleva la atención hacia el interior del cuerpo, como quien pasa una linterna por una habitación a oscuras, y pregúntate: **¿dónde estoy sintiendo esto?**",
+   "temas": [
+    "cuerpo",
+    "herramienta"
+   ],
+   "intensidad": 3,
+   "gancho": "Diez segundos para localizar lo que sientes, antes de que crezca.",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — El cuerpo avisa antes que la mente"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Antes de decir 'estoy mal', me pregunto qué es exactamente: ¿rabia o frustración? Cuanto más preciso el nombre que le pongo a lo que siento, más control recupero sobre ello.",
+   "es_literal": false,
+   "ancla": "¿Lo que sientes es **rabia o frustración**? No son lo mismo: la frustración apunta a un obstáculo que se interpone en tu camino; la rabia, a una injusticia.",
+   "temas": [
+    "emociones",
+    "vocabulario_emocional"
+   ],
+   "intensidad": 2,
+   "gancho": "Nombrar mejor es controlar mejor.",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — Nombrar para domar"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Es miedo a algo concreto, o ansiedad anticipatoria por algo que ni siquiera ha pasado y quizá nunca pase? El miedo tiene objeto; la ansiedad flota. Distinguirlos ya cambia qué hacer con lo que sientes.",
+   "es_literal": false,
+   "ancla": "¿Es **miedo a algo concreto o ansiedad anticipatoria** por algo que ni siquiera ha pasado y quizá nunca pase? El miedo tiene objeto; la ansiedad flota.",
+   "temas": [
+    "emociones",
+    "ansiedad"
+   ],
+   "intensidad": 2,
+   "gancho": "Miedo y ansiedad no son la misma emoción. Cuidado con mezclarlos.",
+   "formatos": [
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — Nombrar para domar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La respiración es una calle de doble sentido: así como la alarma acelera tu respiración, puedes usar la respiración para apagar la alarma. Respirar despacio a propósito le dice al cuerpo 'no hay peligro', y el cuerpo, que confía más en eso que en las palabras, tiende a obedecer.",
+   "es_literal": false,
+   "ancla": "Así como la alarma acelera tu respiración, tú puedes usar la respiración para apagar la alarma. Al respirar despacio y profundo a propósito, le envías al cuerpo un mensaje inequívoco: “no hay peligro, aquí estamos a salvo, se puede bajar la guardia”.",
+   "temas": [
+    "respiracion",
+    "sistema_nervioso"
+   ],
+   "intensidad": 3,
+   "gancho": "Le hablas al cuerpo en el único idioma que de verdad entiende.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6 — Respirar: el mando a distancia de tu calma"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Si solo te quedas con una idea de este libro sobre respiración, que sea esta: la exhalación larga y lenta pisa el freno del sistema nervioso. Cada vez que sueltas el aire más despacio de lo que lo tomas, estás bajando la activación del cuerpo, no subiéndola.",
+   "es_literal": false,
+   "ancla": "Cada vez que sueltas el aire despacio, largo, estás pisando suavemente el freno de tu propio cuerpo. Por eso todas las técnicas que verás ahora comparten un mismo principio, el más importante de todos: **exhalación más larga que la inhalación.**",
+   "temas": [
+    "respiracion",
+    "principio_unico"
+   ],
+   "intensidad": 3,
+   "gancho": "Un solo principio explica todas las técnicas de respiración de este libro.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — Respirar: el mando a distancia de tu calma"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Una nube gris de malestar sin nombre resulta casi siempre ser varias cosas mezcladas: un poco de miedo, un poco de cansancio, un poco de enfado con alguien concreto. Separar la nube en sus colores convierte un monstruo sin forma en una lista manejable, cosa por cosa.",
+   "es_literal": false,
+   "ancla": "En cuanto separó la nube gris en sus tres colores, la sensación aplastante se volvió manejable. Ya no era “estoy mal, no sé qué me pasa”. Era “estoy cansada, tengo miedo del proyecto y me molestó lo del compañero”.",
+   "temas": [
+    "emociones",
+    "vocabulario_emocional"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que parece un solo malestar suele ser tres cosas pequeñas mezcladas.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7 — Nombrar para domar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un cuerpo con hambre reacciona peor a casi todo; hasta existe una palabra para la mezcla de hambre y enfado. Comer con cierta regularidad no es solo cuestión de estómago: es parte de por qué reaccionas distinto un martes descansado que un jueves agotado.",
+   "es_literal": false,
+   "ancla": "Ya vimos lo de estar *hangry*. Un cuerpo con hambre o con el azúcar por los suelos reacciona peor a todo. Comer con cierta regularidad no es solo salud física; es estabilidad emocional.",
+   "temas": [
+    "cuerpo",
+    "habitos_basicos"
+   ],
+   "intensidad": 2,
+   "gancho": "Antes de cambiar de técnica, revisa si has comido.",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — El cuerpo avisa antes que la mente"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Decirle a alguien 'cálmate' casi nunca funciona, ni dicho por otro ni dicho por ti mismo: es una orden verbal, y la orden verbal no le llega al sistema nervioso. La respiración lenta sí le llega, porque usa el idioma que el cuerpo entiende de verdad.",
+   "es_literal": false,
+   "ancla": "Por eso “cálmate” nunca funciona, ni dicho por otro ni dicho por ti mismo. La orden verbal no llega al sistema nervioso.",
+   "temas": [
+    "respiracion",
+    "comunicacion"
+   ],
+   "intensidad": 3,
+   "gancho": "La orden que casi nunca funciona: decirte a ti mismo que te calmes.",
+   "formatos": [
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — Respirar: el mando a distancia de tu calma"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Ante una emoción fuerte hay dos errores simétricos: reprimirla, que la deja atascada como presión en una olla tapada; o descargarla sin filtro sobre quien tengas delante, que alivia un segundo y destroza durante años. La tercera vía es redirigir esa energía sin dañar a nadie.",
+   "es_literal": false,
+   "ancla": "El primero es reprimir: apretar los dientes, tragarse todo, hacer como si no pasara nada. No funciona: lo que reprimes no desaparece, se queda atascado, acumulándose como presión en una olla tapada a la que subes el fuego.",
+   "temas": [
+    "emociones",
+    "regulacion"
+   ],
+   "intensidad": 3,
+   "gancho": "Ni tragar ni explotar: hay una tercera vía para la energía emocional.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — El cuerpo avisa antes que la mente"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Durante años vivías como un timbre: alguien apretaba, y sonabas. Cualquiera podía hacerte sonar, en cualquier momento, con solo pulsar un botón. La pausa es el descubrimiento de que entre el dedo y el sonido cabe un espacio.",
+   "es_literal": false,
+   "ancla": "Se dio cuenta de que vivía como un timbre: alguien apretaba y él sonaba. Cualquiera podía hacerlo sonar, en cualquier momento, con solo pulsar.",
+   "temas": [
+    "metafora",
+    "pausa"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Cuántas manos tienen el dedo puesto en tu timbre?",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — La pausa sagrada"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Te empeñas en estar bien, en ser fuerte para los demás, en no derrumbarte. Por fuera funciona. Pero el cuerpo lleva otra contabilidad: no duermes, te duele la espalda, el estómago se cierra, saltas por tonterías con una irritabilidad que no reconoces en ti.",
+   "es_literal": false,
+   "ancla": "En las semanas siguientes se empeñó en “estar bien”, en ser fuerte para los suyos, en no derrumbarse. Por fuera funcionaba. Pero el cuerpo llevaba otra contabilidad: no dormía, le dolía la espalda como nunca, tenía el estómago cerrado, saltaba por cualquier tontería con una irritabilidad que no reconocía en él.",
+   "temas": [
+    "duelo",
+    "cuerpo"
+   ],
+   "intensidad": 4,
+   "gancho": "El cuerpo a veces guarda el duelo que la mente se niega a sentir.",
+   "formatos": [
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8 — El cuerpo avisa antes que la mente"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La oleada química de una emoción intensa, si no la alimentamos con pensamientos, tiende a disiparse en poco tiempo, algo así como un minuto o dos. La cifra exacta importa menos que el principio: no hace falta apagar la emoción a la fuerza, basta con dejar de echarle leña mientras baja sola.",
+   "es_literal": false,
+   "ancla": "la oleada química que acompaña a una emoción intensa recorre el cuerpo y, si no la alimentamos con nuestros pensamientos, tiende a disiparse en aproximadamente minuto y medio.",
+   "temas": [
+    "neurociencia_divulgativa",
+    "honestidad_cientifica"
+   ],
+   "intensidad": 3,
+   "gancho": "La emoción dura menos de lo que crees. El fuego lo alimentas tú.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — La pausa sagrada"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No son las cosas las que nos perturban, sino nuestros juicios sobre las cosas.",
+   "es_literal": true,
+   "ancla": "No son las cosas las que nos perturban, sino nuestros juicios sobre las cosas.",
+   "temas": [
+    "epicteto",
+    "estoicismo",
+    "interpretacion"
+   ],
+   "intensidad": 4,
+   "gancho": "Una frase de hace dos mil años que sigue explicando por qué sufres.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — La historia que te cuentas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El hecho es solo la mitad. La otra mitad la escribes tú. Escribe con cuidado, que vas a vivir ahí dentro.",
+   "es_literal": true,
+   "ancla": "El hecho es solo la mitad. La otra mitad la escribes tú. Escribe con cuidado, que vas a vivir ahí dentro.",
+   "temas": [
+    "interpretacion",
+    "historias"
+   ],
+   "intensidad": 4,
+   "gancho": "Vas a vivir dentro de la historia que te cuentas. Escríbela con cuidado.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — La historia que te cuentas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Preocuparse o actuar. Rara vez tiene sentido hacer las dos cosas a la vez.",
+   "es_literal": true,
+   "ancla": "Preocuparse o actuar. Rara vez tiene sentido hacer las dos cosas a la vez.",
+   "temas": [
+    "control",
+    "accion"
+   ],
+   "intensidad": 3,
+   "gancho": "Preocuparse y actuar rara vez caben en el mismo momento.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — Lo que depende de ti y lo que no"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que otro dice de ti habla de él. Devuélvele, mentalmente, lo que es suyo.",
+   "es_literal": true,
+   "ancla": "Lo que otro dice de ti habla de él. Devuélvele, mentalmente, lo que es suyo.",
+   "temas": [
+    "ofensa",
+    "limites"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que otro dice de ti habla, casi siempre, de él.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12 — El arte de no ofenderse"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No todo lo que piensas es verdad. Y casi nada de lo que piensas merece tu obediencia inmediata.",
+   "es_literal": true,
+   "ancla": "No todo lo que piensas es verdad. Y casi nada de lo que piensas merece tu obediencia inmediata.",
+   "temas": [
+    "pensamientos",
+    "defusion"
+   ],
+   "intensidad": 3,
+   "gancho": "Casi nada de lo que piensas merece tu obediencia inmediata.",
+   "formatos": [
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — No todo pensamiento merece respuesta"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Ante un pensamiento pegajoso: primero, nótalo tal cual llega, por ejemplo 'soy un desastre'; segundo, antepónle la fórmula 'estoy teniendo el pensamiento de que...'; tercero, deja que se abra la distancia entre tú y la idea; cuarto, sigue con lo que estabas haciendo sin discutir ni obedecer.",
+   "es_literal": false,
+   "ancla": "Compara. Sin la fórmula, tu mente dice: “Soy un desastre”. Y suena a verdad absoluta, a hecho, a sentencia firme. Te hunde. Con la fórmula, la misma frase se convierte en: “Estoy teniendo el pensamiento de que soy un desastre”.",
+   "temas": [
+    "defusion",
+    "herramienta"
+   ],
+   "intensidad": 3,
+   "gancho": "Cinco palabras que abren un abismo entre tú y tu pensamiento.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — No todo pensamiento merece respuesta"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El reencuadre en tres preguntas: primero, ¿qué ha pasado exactamente, solo el hecho, como lo grabaría una cámara? Segundo, ¿qué historia me estoy contando sobre eso? Tercero, ¿qué otra explicación, igual de posible, sería más amable o más útil para mí?",
+   "es_literal": false,
+   "ancla": "¿Qué ha pasado exactamente? Solo los hechos, como los filmaría una cámara de seguridad, sin una sola interpretación, sin adjetivos, sin intenciones atribuidas.",
+   "temas": [
+    "reencuadre",
+    "herramienta"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres preguntas para separar el hecho de la historia que le añades.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 10 — La historia que te cuentas"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Ante la rumia o la preocupación, una sola pregunta desactiva ambas: ¿esto me pide una acción concreta, o solo me pide vueltas? Si pide acción, la hago. Si solo pide vueltas, las vueltas no las doy.",
+   "es_literal": false,
+   "ancla": "Para ambas sirve la misma pregunta desactivadora, que Laura convirtió en su favorita: **“¿Esto me pide una acción o solo me pide vueltas?”**",
+   "temas": [
+    "rumia",
+    "preocupacion"
+   ],
+   "intensidad": 3,
+   "gancho": "La pregunta que distingue la rumia de la reflexión útil.",
+   "formatos": [
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — No todo pensamiento merece respuesta"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "A veces pienso: ¿no estoy engañándome al elegir la versión más amable de lo que pasó? Casi nunca sabré cuál era la intención real del otro, y angustiarme por una intención que no puedo confirmar es regalar mi paz a cambio de nada.",
+   "es_literal": false,
+   "ancla": "Quizá pienses: muy bien, pero a veces el otro sí me ignoró a propósito, sí me faltó al respeto, sí actuó con mala intención. ¿No estoy engañándome al elegir la versión amable?",
+   "temas": [
+    "reencuadre",
+    "objecion"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Elegir la historia amable es engañarte? No siempre.",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — La historia que te cuentas"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La mente es como un pescador sentado en la orilla de la conciencia, lanzando anzuelos todo el día: '¿y si sale mal?', 'no vales para esto', 'fíjate cómo te ha mirado'. No se trata de dejar de pescar, algo imposible, sino de dejar de morder cada anzuelo que cae.",
+   "es_literal": false,
+   "ancla": "Me gusta imaginar la mente como un pescador incansable, sentado en la orilla de tu conciencia, que te lanza anzuelos todo el día, uno tras otro, sin descanso.",
+   "temas": [
+    "pensamientos",
+    "metafora"
+   ],
+   "intensidad": 3,
+   "gancho": "Un pescador incansable vive dentro de tu cabeza, lanzando anzuelos.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — No todo pensamiento merece respuesta"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Ante la ambigüedad, la mente tira por defecto hacia la interpretación más amenazante, y no es casualidad: en la sabana, suponer lo peor costaba solo un susto si te equivocabas, pero suponer que no pasaba nada podía costarte la vida. Es un sesgo instalado de fábrica, no una verdad sobre lo que realmente ocurre.",
+   "es_literal": false,
+   "ancla": "Para sobrevivir en la sabana, era mucho más seguro suponer lo peor. Si oías un ruido y suponías “es un depredador” y te equivocabas, no perdías nada más que un susto. Pero si suponías “no es nada” y te equivocabas, te mataba.",
+   "temas": [
+    "sesgo_cognitivo",
+    "interpretacion"
+   ],
+   "intensidad": 3,
+   "gancho": "Por qué tu mente elige casi siempre la peor versión de la historia.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — La historia que te cuentas"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay cosas que dependen de nosotros y cosas que no, y buena parte de vivir con la cabeza más despejada consiste en distinguir unas de otras y colocar cada una en su sitio, sin confundirlas nunca.",
+   "es_literal": false,
+   "ancla": "hay cosas que dependen de nosotros y cosas que no. Todo el arte de vivir en calma consiste en distinguir unas de otras con claridad y en colocar cada una en su sitio, sin confundirlas jamás.",
+   "temas": [
+    "dicotomia_control",
+    "estoicismo"
+   ],
+   "intensidad": 3,
+   "gancho": "Distinguir lo tuyo de lo que nunca fue tuyo cambia el juego entero.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11 — Lo que depende de ti y lo que no"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Casi todo lo que alguien te dice o te hace sale de su propio mundo interior —sus miedos, sus prisas, sus heridas, su cansancio— y no del tuyo. Eres, casi siempre, un actor secundario en la escena de otra persona.",
+   "es_literal": false,
+   "ancla": "Casi todo lo que la gente hace y dice sale de su propio mundo interior —de sus miedos, sus prisas, sus heridas, su educación, su cansancio, sus inseguridades—, y no del tuyo.",
+   "temas": [
+    "ofensa",
+    "relaciones"
+   ],
+   "intensidad": 3,
+   "gancho": "Casi nunca va dirigido a ti, aunque rebote en ti.",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12 — El arte de no ofenderse"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Discutir con un pensamiento ('eso no es verdad') es tomarlo en serio y quedar enganchado en el forcejeo. Observarlo ('ah, un pensamiento') es dejarlo pasar sin darle ese poder. La diferencia es la que hay entre quedar atrapado en él y quedar libre de él.",
+   "es_literal": false,
+   "ancla": "No es “eso no es verdad”, que es discutir. Es “ah, un pensamiento”, que es observar.",
+   "temas": [
+    "defusion",
+    "pensamientos"
+   ],
+   "intensidad": 3,
+   "gancho": "No discutas con el pensamiento. Solo obsérvalo pasar.",
+   "formatos": [
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — No todo pensamiento merece respuesta"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Hay una diferencia entre el veneno y la crítica útil: el veneno es global, descalifica a la persona entera y no propone nada; la crítica útil es concreta, señala una conducta puntual y, aunque duela, deja algo sobre lo que se puede actuar.",
+   "es_literal": false,
+   "ancla": "El veneno busca hacer daño: es global, descalifica a la persona, se lanza con desprecio y no propone nada. “Eres un inútil.” La crítica útil busca mejorar algo: es concreta, se refiere a una conducta, y aunque duela, señala algo sobre lo que puedes actuar.",
+   "temas": [
+    "critica",
+    "ofensa"
+   ],
+   "intensidad": 3,
+   "gancho": "No toda crítica que duele es veneno. Aprende a separarlas.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — El arte de no ofenderse"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Vas por la calle, te cruzas con un conocido, lo saludas con la mano, y él pasa de largo sin devolverte el saludo. El hecho, descrito por una cámara, es neutro. El dolor llega un instante después, cuando la mente le añade una historia.",
+   "es_literal": false,
+   "ancla": "Vas por la calle, te cruzas con un conocido, lo saludas con la mano y una sonrisa, y él pasa de largo sin devolverte el saludo. Sigue caminando como si no te hubiera visto.",
+   "temas": [
+    "escena_cotidiana",
+    "interpretacion"
+   ],
+   "intensidad": 2,
+   "gancho": "Un saludo que no vuelve, y la historia que le montas encima.",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — La historia que te cuentas"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un vuelo se cancela por una tormenta, y alrededor estalla el caos de siempre: gente gritando al personal de tierra, alguien golpeando el mostrador, otro exigiendo un responsable como si eso fuera a mover las nubes. Nada de eso adelanta un solo minuto ningún vuelo.",
+   "es_literal": false,
+   "ancla": "A su alrededor estalló el caos que todos hemos visto: gente gritando al personal de tierra, discusiones, un hombre golpeando el mostrador, otro exigiendo hablar con un responsable como si eso fuera a mover las nubes.",
+   "temas": [
+    "dicotomia_control",
+    "escena_cotidiana"
+   ],
+   "intensidad": 3,
+   "gancho": "Gritarle a una tormenta no adelanta ni un minuto el vuelo.",
+   "formatos": [
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11 — Lo que depende de ti y lo que no"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Se suele repetir que tenemos miles de pensamientos al día, pero esa cifra exacta es dudosa y no conviene tomarla al pie de la letra: nadie ha contado de verdad los pensamientos de nadie. Lo que sí puedes comprobar tú mismo es que, si cierras los ojos un minuto, verás desfilar muchos más de los que creías.",
+   "es_literal": false,
+   "ancla": "La cifra exacta que se repite por ahí es dudosa y conviene no tomársela al pie de la letra; nadie ha contado de verdad los pensamientos de nadie, y ni siquiera está claro dónde empieza uno y acaba otro.",
+   "temas": [
+    "honestidad_cientifica",
+    "pensamientos"
+   ],
+   "intensidad": 2,
+   "gancho": "Esa cifra de 'miles de pensamientos al día' no la ha contado nadie.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — No todo pensamiento merece respuesta"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La fuerza de voluntad se cansa. El buen diseño, nunca. Deja que trabaje por ti mientras duermes.",
+   "es_literal": true,
+   "ancla": "La fuerza de voluntad se cansa. El buen diseño, nunca. Deja que trabaje por ti mientras duermes.",
+   "temas": [
+    "entorno",
+    "diseño_habitos"
+   ],
+   "intensidad": 3,
+   "gancho": "El buen diseño no se cansa nunca. Tu fuerza de voluntad, sí.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — Diseña tu vida para la calma"
+  },
+  {
+   "tipo": "cita",
+   "texto": "En una discusión, quien mantiene la calma no es el que pierde. Es el único que gana algo que merece la pena.",
+   "es_literal": true,
+   "ancla": "En una discusión, quien mantiene la calma no es el que pierde. Es el único que gana algo que merece la pena.",
+   "temas": [
+    "conflicto",
+    "conversacion"
+   ],
+   "intensidad": 3,
+   "gancho": "En una discusión, quien no reacciona no es el que pierde.",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — Responder en el conflicto"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Serenidad no es rendirse. Es tener tanto control que puedes permitirte el lujo de no perderlo.",
+   "es_literal": true,
+   "ancla": "Serenidad no es rendirse. Es tener tanto control que puedes permitirte el lujo de no perderlo.",
+   "temas": [
+    "firmeza",
+    "limites"
+   ],
+   "intensidad": 4,
+   "gancho": "Tanto control que te puedes permitir el lujo de no perderlo.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15 — Firmeza serena: la calma no es pasividad"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No se trata de no caer nunca. Se trata de levantarse un uno por ciento más rápido cada vez.",
+   "es_literal": true,
+   "ancla": "No se trata de no caer nunca. Se trata de levantarse un uno por ciento más rápido cada vez.",
+   "temas": [
+    "habitos",
+    "kaizen",
+    "recaida"
+   ],
+   "intensidad": 3,
+   "gancho": "La meta no es no caer. Es levantarte un poco más rápido cada vez.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — La calma se entrena (el uno por ciento)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "En un mundo cuidadosamente diseñado para alterarte, para robarte la atención y venderte de vuelta tu propia indignación empaquetada, mantener la calma es casi un acto de rebeldía. Un pequeño gesto revolucionario que repites cada día.",
+   "es_literal": true,
+   "ancla": "En un mundo cuidadosamente diseñado para alterarte, para robarte la atención y venderte de vuelta tu propia indignación empaquetada, mantener la calma es casi un acto de rebeldía. Un pequeño gesto revolucionario que repites cada día.",
+   "temas": [
+    "rebeldia",
+    "atencion"
+   ],
+   "intensidad": 4,
+   "gancho": "En un mundo diseñado para alterarte, no reaccionar es un acto de rebeldía.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Cierre — La libertad de elegir tu respuesta"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El límite en tres pasos: primero, describe el hecho sin acusar ('cuando haces X'); segundo, di cómo te afecta en primera persona ('me siento...', 'me cuesta...'); tercero, pide con claridad lo que necesitas ('te pido que...'). Todo con voz tranquila, sin subir el tono.",
+   "es_literal": false,
+   "ancla": "Primero, **describe el hecho sin acusar**: “cuando me interrumpes mientras hablo”. Segundo, **di cómo te afecta, en primera persona**: “me cuesta terminar mis ideas y me siento poco escuchado”. Tercero, **pide lo que necesitas, con claridad**: “te pido que me dejes terminar antes de responder”.",
+   "temas": [
+    "limites",
+    "herramienta"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres frases para poner un límite sin que se convierta en pelea.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15 — Firmeza serena: la calma no es pasividad"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La auditoría de entorno en un día: en lo digital, elige una sola cosa que te robe paz y desactívala hoy; con las personas, elige un solo ajuste con quien te deja agotado; en el espacio y los momentos, elige un solo cambio, una mesa despejada o un ritual de transición. Tres zonas, tres cambios pequeños.",
+   "es_literal": false,
+   "ancla": "Recorre tu teléfono con ojos de detective: ¿qué aplicación te roba más paz?, ¿qué notificación te interrumpe sin aportar nada?, ¿qué grupo o cuenta te deja peor cada vez que lo abres? Elige una sola cosa y desactívala hoy: silencia esa app, sal de ese grupo, quita esa insignia roja.",
+   "temas": [
+    "entorno",
+    "herramienta"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres zonas, tres cambios pequeños, y el entorno trabaja por ti.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — Diseña tu vida para la calma"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Podemos hablarlo con calma cuando los dos estemos más tranquilos?",
+   "es_literal": true,
+   "ancla": "¿Podemos hablarlo con calma cuando los dos estemos más tranquilos?",
+   "temas": [
+    "conflicto",
+    "conversacion"
+   ],
+   "intensidad": 2,
+   "gancho": "Una frase que apaga un incendio en mitad de una discusión.",
+   "formatos": [
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — Responder en el conflicto"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cuánto tarda esto en funcionar? Depende de la práctica, no del calendario. Algunas herramientas alivian el primer día; otras, las que reescriben hábitos de años, tardan meses en volverse naturales.",
+   "es_literal": false,
+   "ancla": "¿Cuánto tarda esto en funcionar?” Depende de la práctica, no del calendario.",
+   "temas": [
+    "expectativas",
+    "practica"
+   ],
+   "intensidad": 2,
+   "gancho": "La pregunta que todos hacen, sin fecha mágica de respuesta.",
+   "formatos": [
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Anexo 4 — Preguntas frecuentes"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Casi nunca es un problema de fuerza de voluntad; es un problema de diseño. Vivir rodeado de disparadores —el móvil siempre a mano, las notificaciones saltando— y pretender resistirlos todos a puro músculo mental es una batalla perdida de antemano.",
+   "es_literal": false,
+   "ancla": "no tenía un problema de voluntad, tenía un problema de diseño. Vivía rodeado de disparadores —el móvil siempre a mano, las notificaciones saltando, las noticias a un toque—, y pretendía resistirlos todos a base de músculo mental.",
+   "temas": [
+    "entorno",
+    "diseño_habitos"
+   ],
+   "intensidad": 3,
+   "gancho": "No es que te falte voluntad. Es que el entorno está mal diseñado.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — Diseña tu vida para la calma"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Para hacer menos de algo, ponle fricción; para hacer más de algo, quítasela. El móvil en otra habitación es fricción contra mirarlo. El libro abierto en la mesilla es quitarle fricción a leer.",
+   "es_literal": false,
+   "ancla": "para hacer menos de algo, ponle fricción; para hacer más de algo, quítasela.",
+   "temas": [
+    "entorno",
+    "diseño_habitos"
+   ],
+   "intensidad": 2,
+   "gancho": "Fricción para lo que sobra, cero fricción para lo que quieres.",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — Diseña tu vida para la calma"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Mejorar un uno por ciento cada día no te deja un uno por ciento mejor al cabo del año: te transforma casi por completo, porque las mejoras se acumulan como el interés compuesto. Y funciona también al revés, con la misma fuerza silenciosa.",
+   "es_literal": false,
+   "ancla": "Mejorar un uno por ciento cada día no significa ser un uno por ciento mejor al cabo del año. Significa mucho más, porque las mejoras se acumulan unas sobre otras, como el interés compuesto del dinero.",
+   "temas": [
+    "kaizen",
+    "habitos"
+   ],
+   "intensidad": 3,
+   "gancho": "El uno por ciento diario no suma. Se multiplica.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16 — La calma se entrena (el uno por ciento)"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El error clásico al cambiar un hábito es empezar demasiado ambicioso, y abandonar a los tres días. La alternativa es empezar tan pequeño que sea imposible fallar: no media hora de meditación, una sola respiración al despertar.",
+   "es_literal": false,
+   "ancla": "La alternativa kaizen es la contraria: empieza con una versión tan minúscula que no puedas decir que no. ¿Meditar media hora? No: una respiración consciente al despertar. Una.",
+   "temas": [
+    "habitos",
+    "kaizen"
+   ],
+   "intensidad": 2,
+   "gancho": "Empieza tan pequeño que sea imposible fallar.",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — La calma se entrena (el uno por ciento)"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Dos personas discutiendo acaloradas son dos amígdalas secuestradas intentando resolver algo, lo cual es como intentar apagar un fuego con gasolina. Frases como 'cuéntame más' no son debilidad: bajan la amenaza y permiten, por fin, pensar.",
+   "es_literal": false,
+   "ancla": "Cuando dos personas discuten acaloradas, las dos están secuestradas, las dos con la corteza prefrontal desconectada, las dos buscando ganar y no entender. Es imposible resolver nada así; es como intentar apagar un fuego con gasolina.",
+   "temas": [
+    "conflicto",
+    "amigdala"
+   ],
+   "intensidad": 3,
+   "gancho": "Discutir con dos amígdalas al mando es apagar fuego con gasolina.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — Responder en el conflicto"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Una recaída es como romper la dieta con una galleta: no pasa nada grave, a menos que la uses de excusa para comerte el paquete entero. La galleta no arruina el progreso; abandonar por la galleta, sí.",
+   "es_literal": false,
+   "ancla": "Es como quien rompe la dieta con una galleta y, en vez de seguir comiendo bien, se termina el paquete entero pensando “total, ya la he roto”. La galleta no engorda; el paquete entero, sí.",
+   "temas": [
+    "recaida",
+    "kaizen"
+   ],
+   "intensidad": 3,
+   "gancho": "Una recaída no te hunde. Rendirte después de ella, sí.",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — La calma se entrena (el uno por ciento)"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Es como intentar adelgazar viviendo dentro de una pastelería con la puerta abierta, confiando solo en la fuerza de voluntad para no comer pasteles. Cambia el entorno, y de pronto todo cuesta menos esfuerzo.",
+   "es_literal": false,
+   "ancla": "Era como intentar adelgazar viviendo dentro de una pastelería con la puerta abierta y esperando no comer pasteles a fuerza de voluntad.",
+   "temas": [
+    "metafora",
+    "entorno"
+   ],
+   "intensidad": 2,
+   "gancho": "Vivir en una pastelería y confiar solo en la voluntad para no comer.",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — Diseña tu vida para la calma"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Hay quien sostiene que el autocontrol funciona como un músculo que se fatiga a lo largo del día; el debate científico sobre ese punto sigue abierto y conviene no darlo por cerrado. Lo que sí es innegable, porque se vive cada día, es que cansado y saturado se resiste peor.",
+   "es_literal": false,
+   "ancla": "Hay quien sostiene que el autocontrol funciona como un músculo que se fatiga; el debate científico sobre ese punto sigue abierto y conviene no dar la explicación por cerrada.",
+   "temas": [
+    "honestidad_cientifica",
+    "autocontrol"
+   ],
+   "intensidad": 2,
+   "gancho": "¿Se fatiga el autocontrol como un músculo? La ciencia aún discute.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — Diseña tu vida para la calma"
+  }
+ ]
+}

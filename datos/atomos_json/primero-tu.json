@@ -1,0 +1,1253 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "primero-tu",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "Poner un límite no es cerrar una puerta al otro; es abrir una a ti mismo.",
+   "es_literal": true,
+   "ancla": "Poner un límite no es cerrar una puerta al otro; es abrir una a ti mismo.",
+   "temas": [
+    "límites",
+    "autoconocimiento"
+   ],
+   "intensidad": 3,
+   "gancho": "Un límite no cierra una puerta: abre otra.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "INTRODUCCIÓN — La vida que vives para los demás"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La bondad que exige que desaparezcas no es bondad. Es una trampa con lazo bonito.",
+   "es_literal": true,
+   "ancla": "La bondad que exige que desaparezcas no es bondad. Es una trampa con lazo bonito.",
+   "temas": [
+    "bondad",
+    "complacencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Hay una bondad que se parece mucho a una trampa.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El precio de ser “buena persona”"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tu “sí” automático no es quien eres. Es lo que aprendiste, quizá de pequeño, para estar a salvo.",
+   "es_literal": true,
+   "ancla": "Tu “sí” automático no es quien eres. Es lo que aprendiste, quizá de pequeño, para estar a salvo.",
+   "temas": [
+    "sí automático",
+    "infancia"
+   ],
+   "intensidad": 3,
+   "gancho": "Tu “sí” automático no es tu identidad, es un aprendizaje.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — De dónde viene tu “sí” automático"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Hay una culpa que te hace mejor persona y otra que solo te hace más fácil de manejar. Aprende a distinguirlas.",
+   "es_literal": true,
+   "ancla": "Hay una culpa que te hace mejor persona y otra que solo te hace más fácil de manejar. Aprende a distinguirlas.",
+   "temas": [
+    "culpa"
+   ],
+   "intensidad": 3,
+   "gancho": "No toda culpa que sientes dice la verdad.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — La culpa: tu carcelero invisible"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El miedo casi siempre pinta el cuadro más oscuro que la realidad. No canceles tu vida por un cuadro que aún no existe.",
+   "es_literal": true,
+   "ancla": "El miedo casi siempre pinta el cuadro más oscuro que la realidad. No canceles tu vida por un cuadro que aún no existe.",
+   "temas": [
+    "culpa anticipada",
+    "miedo"
+   ],
+   "intensidad": 3,
+   "gancho": "El miedo pinta cuadros que casi nunca se cumplen.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — La culpa: tu carcelero invisible"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La gratitud te sale de dentro y no duele. La deuda te la recuerdan desde fuera, y aprieta.",
+   "es_literal": true,
+   "ancla": "La gratitud te sale de dentro y no duele. La deuda te la recuerdan desde fuera, y aprieta.",
+   "temas": [
+    "gratitud",
+    "culpa"
+   ],
+   "intensidad": 3,
+   "gancho": "Gratitud y deuda no se sienten igual.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — La culpa: tu carcelero invisible"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El complaciente suele pagar tres facturas, aunque no siempre a la vez: el agotamiento de no descansar nunca del todo, una tensión física que se acumula, y un resentimiento hacia quienes ayuda sin querer sentirlo así.",
+   "es_literal": false,
+   "ancla": "El complaciente crónico paga, tarde o temprano, tres facturas. No siempre las tres a la vez, ni con la misma intensidad, pero rara vez se libra de todas.",
+   "temas": [
+    "agotamiento",
+    "resentimiento",
+    "complacencia"
+   ],
+   "intensidad": 3,
+   "gancho": "El precio de complacer se paga en tres monedas distintas.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 1 — El precio de ser “buena persona”"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El “sí” automático no pasa por la razón: es un reflejo, como la rodilla que salta con el martillito. Por eso cuesta tanto cambiarlo solo con fuerza de voluntad, y por eso hace falta práctica, no un chasquido de dedos.",
+   "es_literal": false,
+   "ancla": "Un reflejo no pasa por la razón. Cuando el médico te golpea la rodilla con el martillito, la pierna salta sola; no hay decisión, no hay tiempo para pensar.",
+   "temas": [
+    "sí automático",
+    "hábitos"
+   ],
+   "intensidad": 3,
+   "gancho": "Ese “sí” tan rápido no es una decisión: es un reflejo.",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2 — De dónde viene tu “sí” automático"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Antes de seguir, párate un momento y responde con honestidad. ¿Cuántas de estas frases te describen?",
+   "es_literal": true,
+   "ancla": "Antes de seguir, párate un momento y responde con honestidad. ¿Cuántas de estas frases te describen?",
+   "temas": [
+    "autodiagnóstico",
+    "complacencia"
+   ],
+   "intensidad": 2,
+   "gancho": "Una pregunta antes de seguir leyendo.",
+   "formatos": [
+    "hilo",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "INTRODUCCIÓN — La vida que vives para los demás"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿esto lo estoy dando de lo que me sobra, o de lo que me falta?",
+   "es_literal": true,
+   "ancla": "¿esto lo estoy dando de lo que me sobra, o de lo que me falta?",
+   "temas": [
+    "generosidad",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "Antes de dar algo, una pregunta incómoda.",
+   "formatos": [
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El precio de ser “buena persona”"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No te das cuenta de que esa culpa concreta, la que aparece justo cuando intentas cuidarte, no está protegiendo tu bondad. Está protegiendo tu prisión.",
+   "es_literal": true,
+   "ancla": "No te das cuenta de que esa culpa concreta, la que aparece justo cuando intentas cuidarte, no está protegiendo tu bondad. Está protegiendo tu prisión.",
+   "temas": [
+    "culpa",
+    "bondad"
+   ],
+   "intensidad": 4,
+   "gancho": "Esa culpa no protege tu bondad: protege tu jaula.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "INTRODUCCIÓN — La vida que vives para los demás"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Poner un límite legítimo no es lo mismo que hacer daño a alguien. Una cosa es herir a otra persona; otra, muy distinta, es dejar de sacrificarte.",
+   "es_literal": false,
+   "ancla": "Piensa en lo que sintió Elena. ¿Había hecho daño a alguien? No. Su hermana, simplemente, tendría que buscar otra solución para el sábado, como cualquier adulto.",
+   "temas": [
+    "culpa sana",
+    "culpa tóxica"
+   ],
+   "intensidad": 3,
+   "gancho": "Poner un límite y hacer daño no son lo mismo.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3 — La culpa: tu carcelero invisible"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Durante tres días, cada vez que hagas algo por otra persona, anota qué hiciste y puntúa del cero al diez cuánta energía te costó frente a cuántas ganas reales tenías de hacerlo. Al final, revisa dónde el coste sale alto y las ganas, bajas.",
+   "es_literal": false,
+   "ancla": "Durante tres días, cada vez que hagas algo por otra persona, anota dos cosas en una nota del móvil: qué hiciste y, del cero al diez, cuánta energía te costó frente a cuánto lo habrías querido hacer si nadie te mirara.",
+   "temas": [
+    "autoconocimiento",
+    "complacencia"
+   ],
+   "intensidad": 2,
+   "gancho": "Un inventario de tres días para ver el precio de complacer.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — El precio de ser “buena persona”"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Escribe una carta breve a la niña o el niño que fuiste, a la edad en que aprendiste a complacer. Agradécele la estrategia que usó para sentirse a salvo. Dile que ya no hace falta cuidar de todos para merecer cariño. Guarda la carta para releerla cuando te trates con dureza.",
+   "es_literal": false,
+   "ancla": "Consiste en escribir una carta breve a la niña o el niño que fuiste, a esa edad en que aprendiste a complacer. No para reprocharle nada —él no hizo nada malo—, sino para agradecerle y relevarle.",
+   "temas": [
+    "infancia",
+    "autocompasión"
+   ],
+   "intensidad": 4,
+   "gancho": "Una carta a quien fuiste antes de aprender a complacer.",
+   "formatos": [
+    "articulo",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 2 — De dónde viene tu “sí” automático"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "En cuanto notes la punzada de culpa, decide en tres segundos de qué color es: verde si solo te has cuidado, ámbar si no está claro y prefieres esperar, rojo si has hecho daño real y toca reparar.",
+   "es_literal": false,
+   "ancla": "En cuanto notes la punzada, imagina un semáforo y decide, en tres segundos, de qué color es esta culpa.",
+   "temas": [
+    "culpa",
+    "herramienta"
+   ],
+   "intensidad": 3,
+   "gancho": "Un semáforo de tres colores para la culpa que aparece.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — La culpa: tu carcelero invisible"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Son las once de la noche. Por fin te sientas, agotada. Suena el teléfono: alguien de la familia necesita un favor “solo esta vez”. Dices que sí antes de terminar de pensarlo, cuelgas, y te quedas mirando la pared con una mezcla de cansancio y una rabia que no sabes contra quién dirigir.",
+   "es_literal": false,
+   "ancla": "Son las once de la noche. Elena por fin se ha sentado en el sofá, agotada, y suena el teléfono: su hermana necesita que mañana a primera hora le lleve a los niños al colegio, “solo esta vez”.",
+   "temas": [
+    "complacencia",
+    "agotamiento"
+   ],
+   "intensidad": 4,
+   "gancho": "Once de la noche. El teléfono suena. Dices que sí, otra vez.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "INTRODUCCIÓN — La vida que vives para los demás"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro acompaña, pero no sustituye a un profesional. Y si lo que vives es maltrato, violencia o manipulación grave, lo que hace falta excede a cualquier libro: ahí toca buscar ayuda especializada.",
+   "es_literal": false,
+   "ancla": "Este libro es para la vida corriente, no para el peligro. Una última cosa: estas páginas acompañan, pero no sustituyen a un buen profesional.",
+   "temas": [
+    "límites del libro",
+    "ayuda profesional"
+   ],
+   "intensidad": 2,
+   "gancho": "Lo que este libro no puede sustituir.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "INTRODUCCIÓN — La vida que vives para los demás"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La complacencia no entiende de géneros: a unas se les pidió sacrificarse, a otros aguantar sin quejarse, y el precio final, agotamiento y distancia de los suyos, termina siendo parecido.",
+   "es_literal": false,
+   "ancla": "Para que veas que esto no entiende de géneros, deja que te cuente el caso de Roberto, un hombre de cincuenta y un años, jefe de equipo en una empresa mediana.",
+   "temas": [
+    "complacencia",
+    "género"
+   ],
+   "intensidad": 3,
+   "gancho": "La complacencia no tiene un solo género.",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El precio de ser “buena persona”"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque no poner límites tampoco es gratis. Suele ser la opción más cara.",
+   "es_literal": true,
+   "ancla": "Porque no poner límites tampoco es gratis. Suele ser la opción más cara.",
+   "temas": [
+    "límites",
+    "coste de no elegir"
+   ],
+   "intensidad": 3,
+   "gancho": "No poner límites tampoco sale gratis.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — Lo que de verdad cuesta no poner límites"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No tienes la culpa de cómo empezaron a tratarte, y aun así tienes en tu mano cambiar cómo sigue. Las dos cosas son verdad a la vez.",
+   "es_literal": false,
+   "ancla": "Fíjate en la doble afirmación, porque es delicada y justa: *no es culpa mía, y a la vez está en mi mano cambiarlo.* Las dos cosas son verdad.",
+   "temas": [
+    "responsabilidad",
+    "culpa"
+   ],
+   "intensidad": 3,
+   "gancho": "No es culpa tuya cómo empezaron a tratarte. Pero puedes cambiarlo.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — Lo que de verdad cuesta no poner límites"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La culpa mira al pasado y busca a quién castigar. La responsabilidad mira al futuro y busca qué puedes hacer.",
+   "es_literal": true,
+   "ancla": "La culpa mira al pasado y busca a quién castigar. La responsabilidad mira al futuro y busca qué puedes hacer.",
+   "temas": [
+    "culpa",
+    "responsabilidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Culpa mira atrás; responsabilidad mira adelante.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — Lo que de verdad cuesta no poner límites"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Traza dos columnas. A la izquierda, todo lo que temes perder si pones límites: aprobación, imagen de buena persona, paz aparente. A la derecha, lo que ya estás perdiendo por no ponerlos: descanso, salud, tiempo, respeto por ti misma. Compara las dos listas en frío.",
+   "es_literal": false,
+   "ancla": "En la columna de la izquierda, escribe todo lo que temes perder si empiezas a poner límites: la aprobación de cierta persona, la imagen de “buena”, la paz aparente de no generar conflictos, quizá algún beneficio concreto.",
+   "temas": [
+    "límites",
+    "autoconocimiento"
+   ],
+   "intensidad": 3,
+   "gancho": "Dos columnas: lo que temes perder y lo que ya estás perdiendo.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Lo que de verdad cuesta no poner límites"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Escríbete dos cartas desde dentro de diez años: una si sigues sin poner límites, otra si empiezas a cuidarte desde hoy. Describe en cada una tu salud, tu ánimo y tus relaciones. Compáralas.",
+   "es_literal": false,
+   "ancla": "Consiste en escribirte una carta desde ti misma, pero dentro de diez años, en dos versiones.",
+   "temas": [
+    "límites",
+    "futuro"
+   ],
+   "intensidad": 4,
+   "gancho": "Una carta desde dentro de diez años, en dos versiones distintas.",
+   "formatos": [
+    "articulo",
+    "audio",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — Lo que de verdad cuesta no poner límites"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Piensa en una relación desgastada por tu falta de límites. Sin culparte, pregúntate: ¿qué me ha costado a mí, por dentro, no ponerlos? Escríbelo.",
+   "es_literal": true,
+   "ancla": "Piensa en una relación desgastada por tu falta de límites. Sin culparte, pregúntate: ¿qué me ha costado a mí, por dentro, no ponerlos? Escríbelo.",
+   "temas": [
+    "límites",
+    "relaciones"
+   ],
+   "intensidad": 3,
+   "gancho": "Una pregunta para la relación que más te desgasta.",
+   "formatos": [
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — Lo que de verdad cuesta no poner límites"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Una verdad que casi nadie te dice: no puedes defender un límite que ni siquiera sabes que tienes.",
+   "es_literal": true,
+   "ancla": "Una verdad que casi nadie te dice: no puedes defender un límite que ni siquiera sabes que tienes.",
+   "temas": [
+    "límites",
+    "autoconocimiento"
+   ],
+   "intensidad": 3,
+   "gancho": "No puedes defender un límite que ni sabes que tienes.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — Primero, saber qué quieres"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El cuerpo suele reaccionar antes de que la mente encuentre una excusa para ceder: se tensa, se cierra, se contrae. Esa reacción, previa a cualquier razonamiento, suele ser una pista honesta de si algo te apetece de verdad.",
+   "es_literal": false,
+   "ancla": "Digámoslo como lo que es, una imagen útil y no una ley: a menudo el cuerpo capta antes que la mente.",
+   "temas": [
+    "cuerpo",
+    "autoconocimiento"
+   ],
+   "intensidad": 3,
+   "gancho": "El cuerpo suele reaccionar antes de que la mente lo justifique.",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5 — Primero, saber qué quieres"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Tres veces al día, al levantarte, a media jornada y antes de dormir, anota qué sientes en una palabra, qué necesitas en ese momento y una preferencia que hayas expresado o callado. En una o dos semanas verás patrones que llevaban años invisibles.",
+   "es_literal": false,
+   "ancla": "basta con parar tres veces al día —al levantarte, a media jornada y antes de dormir— y anotar, en el móvil o en un papel, tres cosas.",
+   "temas": [
+    "autoconocimiento",
+    "hábitos"
+   ],
+   "intensidad": 2,
+   "gancho": "Tres apuntes al día para volver a escucharte.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5 — Primero, saber qué quieres"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Escribe cinco o seis “no negociables”: cosas que, pase lo que pase, no estás dispuesta a ceder (por ejemplo, tus horas mínimas de sueño o el respeto en el trato). Cuando una petición choque con la lista, ya tienes la respuesta decidida de antemano, sin negociar en caliente.",
+   "es_literal": false,
+   "ancla": "definir tus **“no negociables”**: ese puñado de cosas que, pase lo que pase, no estás dispuesta a ceder.",
+   "temas": [
+    "límites",
+    "herramienta"
+   ],
+   "intensidad": 3,
+   "gancho": "Unos “no negociables” escritos antes de que llamen a la puerta.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5 — Primero, saber qué quieres"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Elegir una sola decisión al día pensando solo en ti, algo tan pequeño como qué comer, no es egoísmo: es rehabilitar un músculo, el del deseo propio, que llevaba años sin usarse.",
+   "es_literal": false,
+   "ancla": "No es egoísmo. Es rehabilitación. Estás volviendo a aprender un idioma que dejaste de hablar: el de tus propias ganas.",
+   "temas": [
+    "deseo propio",
+    "autoconocimiento"
+   ],
+   "intensidad": 2,
+   "gancho": "Elegir tu comida un día no es egoísmo: es rehabilitación.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — Primero, saber qué quieres"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No puedes servir agua de un vaso vacío. Llenar el tuyo no es egoísmo: es la condición para dar.",
+   "es_literal": true,
+   "ancla": "No puedes servir agua de un vaso vacío. Llenar el tuyo no es egoísmo: es la condición para dar.",
+   "temas": [
+    "amor propio",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "No puedes servir agua de un vaso vacío.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — El amor propio como base"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "En un avión, la instrucción es ponerte tú la mascarilla de oxígeno antes de ayudar a nadie más, ni siquiera a tus hijos. No es egoísmo: es la única secuencia que salva a los dos. Con la energía emocional pasa lo mismo.",
+   "es_literal": false,
+   "ancla": "Solo desde tu propia supervivencia puedes ser útil a quien te importa. Con tu energía emocional pasa lo mismo: solo puedes dar de verdad, de forma sana y duradera, desde un depósito que no esté vacío.",
+   "temas": [
+    "amor propio",
+    "cuidado"
+   ],
+   "intensidad": 3,
+   "gancho": "La mascarilla de oxígeno, primero para ti.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6 — El amor propio como base"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Dar desde el vacío no es un acto de amor, aunque lo parezca. Es un préstamo con intereses ocultos. Y el amor no cobra intereses.",
+   "es_literal": true,
+   "ancla": "Dar desde el vacío no es un acto de amor, aunque lo parezca. Es un préstamo con intereses ocultos. Y el amor no cobra intereses.",
+   "temas": [
+    "generosidad",
+    "amor propio"
+   ],
+   "intensidad": 4,
+   "gancho": "Dar desde el vacío se parece al amor, pero no lo es.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6 — El amor propio como base"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Ponle un nombre a tu crítico interior. Cuando arranque con su frase de siempre, di para dentro “ahí está otra vez [el nombre]”. Convertirlo en un personaje te saca de dentro de su voz y te coloca frente a ella, en vez de confundirla con la verdad.",
+   "es_literal": false,
+   "ancla": "Un truco que ayuda mucho a rebajar el poder de esa voz cruel es separarla de ti dándole un nombre y hasta una forma.",
+   "temas": [
+    "crítico interior",
+    "amor propio"
+   ],
+   "intensidad": 3,
+   "gancho": "Ponle nombre a la voz que te machaca por dentro.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "audio"
+   ],
+   "capitulo": "Capítulo 6 — El amor propio como base"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tienes derecho a decepcionar a alguien y seguir siendo una buena persona.",
+   "es_literal": true,
+   "ancla": "Tienes derecho a decepcionar a alguien y seguir siendo una buena persona.",
+   "temas": [
+    "derechos",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "Decepcionar a alguien no te quita el título de buena persona.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — Derechos que olvidaste que tienes"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando un derecho te genera resistencia al leerlo, ese “sí, pero…” no es un fallo tuyo: es la señal exacta de la creencia que más te está costando la vida, y también la más urgente de cuestionar.",
+   "es_literal": false,
+   "ancla": "Esa punzada es información de oro. Señala, con precisión de radar, dónde está el nudo.",
+   "temas": [
+    "creencias",
+    "derechos"
+   ],
+   "intensidad": 3,
+   "gancho": "Esa resistencia al leer un derecho señala tu nudo real.",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7 — Derechos que olvidaste que tienes"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Ante la culpa que sigue a un límite: obsérvala como quien mira el tiempo desde la ventana, sin fusionarte con ella. Ponle nombre: “esto es culpa, la conozco”. Y sostén tu decisión, sin gestos compensatorios, dejando que suba y baje sola.",
+   "es_literal": false,
+   "ancla": "Segundo, **ponle nombre**: “esto es culpa, la conozco, sé de dónde viene y sé que en este caso miente”.",
+   "temas": [
+    "culpa",
+    "herramienta"
+   ],
+   "intensidad": 3,
+   "gancho": "Observar, nombrar y sostener: tres pasos frente a la culpa.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8 — Reescribir la culpa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "“No” es una frase completa. No le debes a nadie una justificación por existir.",
+   "es_literal": true,
+   "ancla": "“No” es una frase completa. No le debes a nadie una justificación por existir.",
+   "temas": [
+    "límites",
+    "asertividad"
+   ],
+   "intensidad": 3,
+   "gancho": "“No” no necesita justificación para ser una respuesta completa.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — Cómo decir no (y seguir siendo tú)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Envuelve tu negativa en dos capas de calidez: primero algo cálido y sincero, en medio un “no” claro que no se diluye, y al final otra nota amable o una alternativa, si de verdad quieres ofrecerla.",
+   "es_literal": false,
+   "ancla": "Consiste en envolver tu negativa entre dos capas de calidez, sin que ninguna de ellas anule el mensaje central. Primero, algo cálido y sincero. En medio, el “no” claro. Y al final, otra nota amable, o incluso una alternativa si de verdad quieres ofrecerla.",
+   "temas": [
+    "límites",
+    "comunicación"
+   ],
+   "intensidad": 3,
+   "gancho": "Un no envuelto en dos capas de calidez, sin diluirse.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — Cómo decir no (y seguir siendo tú)"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cada “perdón” que dices sin haber hecho nada malo repite un mensaje de fondo: que estás en falta por existir. Cambiarlo por un “gracias”, o por nada, es un gesto pequeño con un efecto grande.",
+   "es_literal": false,
+   "ancla": "Durante una semana, propón cazarte cada vez que vas a decir “perdón” sin haber hecho nada malo, y sustitúyelo por un “gracias” o, sencillamente, por nada.",
+   "temas": [
+    "lenguaje",
+    "límites"
+   ],
+   "intensidad": 2,
+   "gancho": "Cambiar “perdón” por “gracias” cuando no has hecho nada malo.",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — Cómo decir no (y seguir siendo tú)"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Después de decir que no, el silencio incomoda, y por eso el complaciente suele rellenarlo con explicaciones que acaban deshaciendo el límite. Callarte, aunque sea incómodo, suele trabajar a tu favor.",
+   "es_literal": false,
+   "ancla": "Prueba lo contrario. Di tu “no”, claro y breve, y luego quédate en silencio, con calma, sosteniendo la mirada.",
+   "temas": [
+    "límites",
+    "comunicación"
+   ],
+   "intensidad": 3,
+   "gancho": "El silencio después de un no también sostiene el límite.",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — Cómo decir no (y seguir siendo tú)"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "No todos los “no” cuestan lo mismo. Empezar por los más difíciles y fracasar no significa que no sirvas para poner límites: significa que has intentado levantar demasiado peso el primer día.",
+   "es_literal": false,
+   "ancla": "El error clásico es querer empezar por los de alto calado, fracasar, y concluir “yo no sirvo para esto”.",
+   "temas": [
+    "límites",
+    "progreso gradual"
+   ],
+   "intensidad": 2,
+   "gancho": "No todos los “no” cuestan lo mismo: empieza por los pequeños.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — Cómo decir no (y seguir siendo tú)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para comunicar un límite: describe el hecho sin juzgar («cuando pasa esto…»), explica tu necesidad en primera persona («…me afecta así») y haz una petición concreta y factible («…te pido esto»).",
+   "es_literal": false,
+   "ancla": "Existe una estructura sencilla que puedes memorizar y que sirve para casi cualquier límite. Tres partes: **hecho, necesidad y petición.**",
+   "temas": [
+    "comunicación asertiva",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "Un límite en tres partes: hecho, necesidad y petición.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 10 — El guion del límite claro"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Y quédate con esta idea, que suele sorprender: la claridad es un regalo, no una agresión.",
+   "es_literal": true,
+   "ancla": "Y quédate con esta idea, que suele sorprender: **la claridad es un regalo, no una agresión.**",
+   "temas": [
+    "comunicación",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "La claridad no es una agresión: es un regalo.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — El guion del límite claro"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Una consecuencia sana no amenaza lo que le harás al otro: informa, con honestidad, de lo que harás tú si la situación no cambia. Y solo tiene sentido anunciarla si estás dispuesta a cumplirla.",
+   "es_literal": false,
+   "ancla": "No como amenaza ni como castigo, sino como información honesta sobre qué harás tú —no qué le harás a él— si la situación no cambia.",
+   "temas": [
+    "límites",
+    "consecuencias"
+   ],
+   "intensidad": 3,
+   "gancho": "Una consecuencia sana habla de ti, no amenaza al otro.",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 10 — El guion del límite claro"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando el “sí” automático amenace con salir, usa una frase de aplazamiento: “déjame que lo piense y te digo”. Ese espacio entre la petición y tu respuesta es donde recuperas la capacidad de decidir. Luego, vuelve de verdad con una respuesta.",
+   "es_literal": false,
+   "ancla": "El aplazamiento mete un espacio de tiempo entre la petición y tu respuesta, y en ese espacio recuperas la capacidad de decidir.",
+   "temas": [
+    "sí automático",
+    "herramienta"
+   ],
+   "intensidad": 2,
+   "gancho": "“Déjame que lo piense” gana el tiempo que el “sí” no te da.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — El guion del límite claro"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El resentimiento nace de esperar que adivinen lo que nunca te atreviste a decir. Dilo.",
+   "es_literal": true,
+   "ancla": "El resentimiento nace de esperar que adivinen lo que nunca te atreviste a decir. Dilo.",
+   "temas": [
+    "resentimiento",
+    "comunicación"
+   ],
+   "intensidad": 3,
+   "gancho": "El resentimiento nace de lo que nunca te atreviste a decir.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — El guion del límite claro"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Y aquí una de las verdades más liberadoras del libro, léela despacio y varias veces: no es tu trabajo gestionar la emoción que el otro siente ante tu límite legítimo.",
+   "es_literal": true,
+   "ancla": "Y aquí una de las verdades más liberadoras del libro, léela despacio y varias veces: **no es tu trabajo gestionar la emoción que el otro siente ante tu límite legítimo.**",
+   "temas": [
+    "límites",
+    "responsabilidad emocional"
+   ],
+   "intensidad": 4,
+   "gancho": "La emoción del otro ante tu límite no es tu trabajo.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Sostener el límite cuando lo ponen a prueba"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige una frase-ancla breve para tu límite y repítela, con calma, cada vez que el otro insista con un argumento nuevo. No te defiendas ni justifiques: solo vuelve a la frase, una y otra vez, hasta que la insistencia se apague sola.",
+   "es_literal": false,
+   "ancla": "Consiste en repetir tu límite, con calma y sin alterarte, tantas veces como haga falta, sin entrar en discusiones nuevas ni dar justificaciones que solo darían más munición.",
+   "temas": [
+    "límites",
+    "herramienta"
+   ],
+   "intensidad": 3,
+   "gancho": "Una frase-ancla, repetida con calma, frente a la insistencia.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11 — Sostener el límite cuando lo ponen a prueba"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando te critiquen por tu límite, no te defiendas ni contraataques: reconoce, sin pelear, lo que la crítica pueda tener de cierto, y sostén igual tu decisión. El ataque se disuelve al no encontrar resistencia contra la que chocar.",
+   "es_literal": false,
+   "ancla": "Consiste en no oponer resistencia frontal a la crítica, sino reconocer la parte que pueda tener de cierta sin ceder en tu decisión, dejando que el ataque se disuelva en la niebla sin encontrar dónde chocar.",
+   "temas": [
+    "límites",
+    "críticas"
+   ],
+   "intensidad": 3,
+   "gancho": "Reconocer sin pelear desarma la crítica por un límite.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11 — Sostener el límite cuando lo ponen a prueba"
+  },
+  {
+   "tipo": "escena",
+   "texto": "—Oye, ¿me cubres el sábado? Es que tengo un compromiso. —Este sábado no voy a poder. —Venga, hombre, que a ti te da igual, no tienes planes. —Entiendo que te venga bien, y este sábado no voy a poder.",
+   "es_literal": true,
+   "ancla": "—Oye, ¿me cubres el sábado? Es que tengo un compromiso. —Este sábado no voy a poder. —Venga, hombre, que a ti te da igual, no tienes planes. —Entiendo que te venga bien, y este sábado no voy a poder.",
+   "temas": [
+    "límites",
+    "trabajo"
+   ],
+   "intensidad": 3,
+   "gancho": "Un compañero insiste; la respuesta no cambia de frase.",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — Sostener el límite cuando lo ponen a prueba"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Voy a ser honesto contigo, porque mereces la verdad y no un cuento de hadas: poner límites no siempre sale gratis. A veces tiene consecuencias reales, y es mejor que vayas preparada a que te pillen por sorpresa y te hagan retroceder justo cuando más avanzabas.",
+   "es_literal": true,
+   "ancla": "Voy a ser honesto contigo, porque mereces la verdad y no un cuento de hadas: poner límites no siempre sale gratis. A veces tiene consecuencias reales, y es mejor que vayas preparada a que te pillen por sorpresa y te hagan retroceder justo cuando más avanzabas.",
+   "temas": [
+    "límites",
+    "consecuencias"
+   ],
+   "intensidad": 3,
+   "gancho": "Poner límites no siempre sale gratis. Mejor saberlo antes.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — Cuando poner límites tiene consecuencias"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando pones un límite y alguien se va, muchas veces no perdiste una relación. Descubriste lo que era.",
+   "es_literal": true,
+   "ancla": "Cuando pones un límite y alguien se va, muchas veces no perdiste una relación. Descubriste lo que era.",
+   "temas": [
+    "límites",
+    "relaciones"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuando alguien se va tras un límite, a veces solo lo revela.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — Cuando poner límites tiene consecuencias"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Los límites actúan como un filtro que trabaja solo: separan a quienes te quieren a ti de quienes solo querían lo que hacías por ellos, sin que tengas que juzgar ni decidir nada más que sostenerte.",
+   "es_literal": false,
+   "ancla": "Separan, sin que tengas que hacer nada más que sostenerte, a quienes te quieren a ti de quienes solo querían lo que hacías por ellos.",
+   "temas": [
+    "límites",
+    "relaciones"
+   ],
+   "intensidad": 4,
+   "gancho": "Los límites filtran solos quién se queda y quién se va.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — Cuando poner límites tiene consecuencias"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Dibuja tres anillos concéntricos contigo en el centro: en el primero, quien te quiere por ti y respetaría tu límite; en el segundo, las relaciones cordiales a distancia; en el exterior, las que solo funcionan mientras te anulas. Usa el mapa para decidir dónde inviertes tu energía.",
+   "es_literal": false,
+   "ancla": "En el primer anillo, el más cercano, las personas que te quieren por quien eres, que te devuelven, que respetarían un límite tuyo.",
+   "temas": [
+    "relaciones",
+    "herramienta"
+   ],
+   "intensidad": 3,
+   "gancho": "Un mapa de anillos para ver dónde va tu energía.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — Cuando poner límites tiene consecuencias"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La culpa de poner límites es un hábito. Y los hábitos se apagan cuando dejas de alimentarlos.",
+   "es_literal": true,
+   "ancla": "La culpa de poner límites es un hábito. Y los hábitos se apagan cuando dejas de alimentarlos.",
+   "temas": [
+    "culpa",
+    "hábitos"
+   ],
+   "intensidad": 3,
+   "gancho": "La culpa que sigue a un límite es un hábito que se apaga.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — La culpa se apaga (aunque ahora no lo creas)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cada vez que sostengas un límite, por diminuto que sea, anótalo en una lista: qué hiciste y qué pasó. Los días de duda, esa lista de victorias es la prueba, con hechos, de que sí puedes.",
+   "es_literal": false,
+   "ancla": "Cada vez que pongas un límite y lo sostengas, por diminuto que sea, anótalo.",
+   "temas": [
+    "límites",
+    "progreso"
+   ],
+   "intensidad": 2,
+   "gancho": "Un registro de victorias para los días de duda.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — La culpa se apaga (aunque ahora no lo creas)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cada semana, en un momento fijo, respóndete por escrito tres preguntas: qué límite pusiste esta semana del que te sientes orgullosa, en qué situación cediste y qué aprendiste, y qué límite quieres practicar la semana que viene.",
+   "es_literal": false,
+   "ancla": "Elige un momento fijo —un domingo por la tarde, por ejemplo— y hazte tres preguntas por escrito.",
+   "temas": [
+    "hábitos",
+    "límites"
+   ],
+   "intensidad": 2,
+   "gancho": "Tres preguntas los domingos para sostener el cambio.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — La culpa se apaga (aunque ahora no lo creas)"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Un mal día no borra los buenos. Una recaída no te devuelve a la casilla de salida.",
+   "es_literal": true,
+   "ancla": "Un mal día no borra los buenos. Una recaída no te devuelve a la casilla de salida.",
+   "temas": [
+    "recaídas",
+    "progreso"
+   ],
+   "intensidad": 3,
+   "gancho": "Un mal día no borra los límites que ya sostuviste.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — La culpa se apaga (aunque ahora no lo creas)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tú, sencillamente, has dejado de pisarte a ti misma. Has dejado de ser la única persona del mundo a la que no tenías en cuenta. Y eso no es egoísmo. Nunca lo fue. Eso tiene otro nombre mucho más justo: dignidad.",
+   "es_literal": true,
+   "ancla": "Tú, sencillamente, has dejado de pisarte a ti misma. Has dejado de ser la única persona del mundo a la que no tenías en cuenta. Y eso no es egoísmo. Nunca lo fue. Eso tiene otro nombre mucho más justo: dignidad.",
+   "temas": [
+    "egoísmo",
+    "dignidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Dejar de pisarte a ti misma no es egoísmo: es dignidad.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — La culpa se apaga (aunque ahora no lo creas)"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Sin darnos cuenta, cada “sí” forzado imparte una clase silenciosa sobre cómo se nos puede tratar. Y esa clase, la buena noticia, se puede volver a impartir con un temario distinto.",
+   "es_literal": false,
+   "ancla": "Sin querer, con cada “sí” forzado, impartimos una clase silenciosa sobre cómo se nos puede tratar.",
+   "temas": [
+    "límites",
+    "relaciones"
+   ],
+   "intensidad": 3,
+   "gancho": "Cada “sí” forzado imparte una clase sobre cómo tratarte.",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15 — Enseñar a los demás a tratarte"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La gente aprende a tratarte observando lo que toleras. Cambia lo que toleras y, poco a poco, cambiará el trato.",
+   "es_literal": true,
+   "ancla": "La gente aprende a tratarte observando lo que toleras. Cambia lo que toleras y, poco a poco, cambiará el trato.",
+   "temas": [
+    "límites",
+    "relaciones"
+   ],
+   "intensidad": 3,
+   "gancho": "La gente aprende a tratarte observando lo que toleras.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — Enseñar a los demás a tratarte"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El error fatal es rendirse en esa cuenta atrás, ceder en la vez número tres o cuatro, porque entonces reinicias el contador desde cero, y peor: le enseñas que empujar cuatro veces funciona, con lo que la próxima empujará cinco.",
+   "es_literal": true,
+   "ancla": "El error fatal es rendirse en esa cuenta atrás, ceder en la vez número tres o cuatro, porque entonces reinicias el contador desde cero, y peor: le enseñas que empujar cuatro veces funciona, con lo que la próxima empujará cinco.",
+   "temas": [
+    "constancia",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "Ceder en el intento número cuatro reinicia el contador.",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — Enseñar a los demás a tratarte"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El límite es una puerta con cerradura: tú decides qué entra y qué no, cuándo abres y cuándo no, pero la puerta existe, y por ella pasa el amor, el cariño, la gente que quieres.",
+   "es_literal": true,
+   "ancla": "El límite es una puerta con cerradura: tú decides qué entra y qué no, cuándo abres y cuándo no, pero la puerta existe, y por ella pasa el amor, el cariño, la gente que quieres.",
+   "temas": [
+    "límites",
+    "muro"
+   ],
+   "intensidad": 3,
+   "gancho": "Un límite es una puerta con cerradura, no un muro.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — Primero tú, no solo tú"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El muro, en cambio, no tiene puerta: lo deja todo fuera, sin distinción, para siempre. El límite protege el vínculo; el muro lo mata.",
+   "es_literal": true,
+   "ancla": "El muro, en cambio, no tiene puerta: lo deja todo fuera, sin distinción, para siempre. El límite protege el vínculo; el muro lo mata.",
+   "temas": [
+    "límites",
+    "muro"
+   ],
+   "intensidad": 4,
+   "gancho": "Un muro no tiene puerta. Un límite, sí.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16 — Primero tú, no solo tú"
+  },
+  {
+   "tipo": "cita",
+   "texto": "“Primero tú” no es el final de tu generosidad. Es el principio de una que no te cuesta la vida.",
+   "es_literal": true,
+   "ancla": "“Primero tú” no es el final de tu generosidad. Es el principio de una que no te cuesta la vida.",
+   "temas": [
+    "generosidad",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "Poner límites no es el final de la generosidad.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — Primero tú, no solo tú"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "No busques la perfección de un equilibrio inmóvil que no existe. Busca el movimiento sano de quien se corrige, de quien se escucha, de quien va ajustando sobre la marcha.",
+   "es_literal": true,
+   "ancla": "No busques la perfección de un equilibrio inmóvil que no existe. Busca el movimiento sano de quien se corrige, de quien se escucha, de quien va ajustando sobre la marcha.",
+   "temas": [
+    "equilibrio",
+    "límites"
+   ],
+   "intensidad": 2,
+   "gancho": "El equilibrio no es un punto fijo: es un ajuste constante.",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — Primero tú, no solo tú"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Llevas toda la vida esperándote. Ya es hora de que te encuentres.",
+   "es_literal": true,
+   "ancla": "Llevas toda la vida esperándote. Ya es hora de que te encuentres.",
+   "temas": [
+    "cierre",
+    "autoencuentro"
+   ],
+   "intensidad": 4,
+   "gancho": "Llevas toda la vida esperándote.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "CIERRE — La libertad de elegirte"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Los límites no separan a quienes se quieren de verdad: los acercan, y los acercan sobre una base más sólida, más limpia, más duradera.",
+   "es_literal": true,
+   "ancla": "Los límites no separan a quienes se quieren de verdad: los acercan, y los acercan sobre una base más sólida, más limpia, más duradera.",
+   "temas": [
+    "límites",
+    "relaciones"
+   ],
+   "intensidad": 3,
+   "gancho": "Los límites no separan a quien te quiere: lo acercan.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "CIERRE — La libertad de elegirte"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro es un compañero de viaje, no un tratado clínico ni un sustituto de la ayuda profesional.",
+   "es_literal": true,
+   "ancla": "Este libro es un compañero de viaje, no un tratado clínico ni un sustituto de la ayuda profesional.",
+   "temas": [
+    "límites del libro",
+    "ayuda profesional"
+   ],
+   "intensidad": 2,
+   "gancho": "Este libro acompaña; no sustituye a un profesional.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Anexo 5 — Para seguir el camino"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Poner límites no es un poco egoísta, al fin y al cabo?",
+   "es_literal": true,
+   "ancla": "¿Poner límites no es un poco egoísta, al fin y al cabo?",
+   "temas": [
+    "egoísmo",
+    "límites"
+   ],
+   "intensidad": 2,
+   "gancho": "¿Poner límites es un poco egoísta? Una pregunta frecuente.",
+   "formatos": [
+    "hilo",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Anexo 4 — Preguntas frecuentes al empezar a poner límites"
+  }
+ ]
+}

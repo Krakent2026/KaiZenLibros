@@ -1,0 +1,1279 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "kaizen",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "No tienes que ser mejor que nadie. Solo un 1% mejor que ayer.",
+   "es_literal": true,
+   "ancla": "No tienes que ser mejor que nadie. Solo un 1% mejor que ayer.",
+   "temas": [
+    "kaizen",
+    "1_por_ciento",
+    "frase_paraguas"
+   ],
+   "intensidad": 4,
+   "gancho": "Solo un 1% mejor que ayer. Nada más.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — La tiranía del gran cambio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Occidente pregunta cuándo llegarás. Japón pregunta si has caminado hoy. Solo la segunda pregunta tiene respuesta.",
+   "es_literal": true,
+   "ancla": "Occidente pregunta cuándo llegarás. Japón pregunta si has caminado hoy. Solo la segunda pregunta tiene respuesta.",
+   "temas": [
+    "proceso_vs_meta",
+    "mirada_japonesa"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Cuándo llegarás? o ¿has caminado hoy?",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — Kaizen: la historia de una idea"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No te falta fuerza de voluntad. Te sobra tamaño en los pasos. Hazlos más pequeños.",
+   "es_literal": true,
+   "ancla": "No te falta fuerza de voluntad. Te sobra tamaño en los pasos. Hazlos más pequeños.",
+   "temas": [
+    "fuerza_de_voluntad",
+    "diseño_de_habitos"
+   ],
+   "intensidad": 4,
+   "gancho": "No te falta voluntad. Sobra tamaño en el paso.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — El fin de la fuerza de voluntad"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Las metas son para los que quieren ganar una vez. Los sistemas son para los que quieren seguir ganando.",
+   "es_literal": true,
+   "ancla": "Las metas son para los que quieren ganar una vez. Los sistemas son para los que quieren seguir ganando.",
+   "temas": [
+    "metas_vs_sistemas"
+   ],
+   "intensidad": 4,
+   "gancho": "Las metas ganan una vez. Los sistemas, siempre.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — Ama el proceso, olvida la meta"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El progreso es silencioso justo antes de volverse innegable. No confundas silencio con ausencia.",
+   "es_literal": true,
+   "ancla": "El progreso es silencioso justo antes de volverse innegable. No confundas silencio con ausencia.",
+   "temas": [
+    "valle_de_la_decepcion",
+    "constancia"
+   ],
+   "intensidad": 4,
+   "gancho": "El progreso calla justo antes de ser innegable.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — La matemática de lo diminuto"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El interés compuesto no es solo cosa del dinero: funciona igual con lo que haces cada día, aunque no lo notes.",
+   "es_literal": false,
+   "ancla": "Todo el mundo entiende el interés compuesto cuando hablamos de dinero. Metes una cantidad, genera intereses, y esos intereses generan a su vez más intereses, hasta que la bola de nieve rueda sola cuesta abajo.",
+   "temas": [
+    "interes_compuesto",
+    "kaizen"
+   ],
+   "intensidad": 3,
+   "gancho": "El interés compuesto no distingue entre ahorro y costumbre.",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — La matemática de lo diminuto"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El del plan de una hora diaria fracasó en once días con toda la motivación del mundo. El de la flexión única triunfó en un año con cero motivación. La única variable que cambió fue el tamaño del primer paso.",
+   "es_literal": true,
+   "ancla": "El del plan de una hora diaria fracasó en once días con toda la motivación del mundo. El de la flexión única triunfó en un año con cero motivación. La única variable que cambió fue el tamaño del primer paso.",
+   "temas": [
+    "tamaño_del_paso",
+    "motivacion"
+   ],
+   "intensidad": 4,
+   "gancho": "Fracasó en once días con toda la motivación. Triunfó con cero.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — La matemática de lo diminuto"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "0,99 elevado a 365 da apenas un 3%. Es decir, un año restando un 1% cada día te deja en poco más de la trigésima parte de tu punto de partida.",
+   "es_literal": true,
+   "ancla": "0,99 elevado a 365 da apenas un 3%. Es decir, un año restando un 1% cada día te deja en poco más de la trigésima parte de tu punto de partida.",
+   "temas": [
+    "interes_compuesto",
+    "deterioro"
+   ],
+   "intensidad": 4,
+   "gancho": "Restar un 1% cada día te deja en la trigésima parte, no en cero.",
+   "formatos": [
+    "pin",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — La matemática de lo diminuto"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Cada vez que pienses “¿cuánto me falta para llegar?”, sustitúyela por “¿qué puedo mejorar un poquito, ahora mismo?”. Fíjate en que la segunda, a diferencia de la primera, siempre tiene una respuesta que puedes ejecutar.",
+   "es_literal": true,
+   "ancla": "Cada vez que pienses “¿cuánto me falta para llegar?”, sustitúyela por “¿qué puedo mejorar un poquito, ahora mismo?”. Fíjate en que la segunda, a diferencia de la primera, siempre tiene una respuesta que puedes ejecutar.",
+   "temas": [
+    "proceso_vs_meta",
+    "pregunta_interior"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Cuánto me falta? o ¿qué puedo mejorar ahora mismo?",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — Kaizen: la historia de una idea"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Reduce la fricción en tres pasos: haz el hábito más pequeño, acorta la distancia hasta él y ánclalo a algo que ya haces para no tener que decidir. Ninguno de los tres pide fuerza de voluntad: la sustituyen por diseño.",
+   "es_literal": false,
+   "ancla": "Primero, redujo el tamaño: dejó de proponerse “entrenar una hora” y se propuso solo “entrar al gimnasio y hacer diez minutos de lo que fuera”.",
+   "temas": [
+    "diseño_de_habitos",
+    "friccion"
+   ],
+   "intensidad": 3,
+   "gancho": "Reduce tamaño, distancia y decisión: así se diseña un hábito.",
+   "formatos": [
+    "articulo",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — El fin de la fuerza de voluntad"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La sala está a veinticinco grados, y el hielo sigue siendo hielo. Subes a veintiséis, veintisiete, veintiocho, veintinueve, treinta grados… y nada, sigue congelado, sólido, aparentemente indiferente a todo tu esfuerzo por calentar la habitación.",
+   "es_literal": true,
+   "ancla": "La sala está a veinticinco grados, y el hielo sigue siendo hielo. Subes a veintiséis, veintisiete, veintiocho, veintinueve, treinta grados… y nada, sigue congelado, sólido, aparentemente indiferente a todo tu esfuerzo por calentar la habitación.",
+   "temas": [
+    "valle_de_la_decepcion",
+    "umbral"
+   ],
+   "intensidad": 3,
+   "gancho": "El hielo no cede grado a grado. Hasta que de golpe cede.",
+   "formatos": [
+    "reel",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — La matemática de lo diminuto"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cada quien tiene su propia cuerda andon: la señal temprana de que algo empieza a torcerse. Tirar de ella a tiempo, en vez de esperar a la avería grande, es parte del oficio de mejorar.",
+   "es_literal": false,
+   "ancla": "Tú también tienes tu cuerda andon interior —esa señal temprana de que algo empieza a torcerse, el hábito que se salta dos días, la relación que se enfría— y el kaizen consiste, en buena parte, en aprender a tirar de ella a tiempo, sin esperar a que la avería sea grande.",
+   "temas": [
+    "andon",
+    "señales_tempranas"
+   ],
+   "intensidad": 3,
+   "gancho": "Tienes tu propia cuerda andon. ¿La escuchas a tiempo?",
+   "formatos": [
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2 — Kaizen: la historia de una idea"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Nosotros queremos empezar por ri: queremos “nuestro estilo propio”, “nuestra manera”, la libertad y la creatividad, sin pasar por el largo aburrimiento de imitar la forma.",
+   "es_literal": true,
+   "ancla": "Nosotros queremos empezar por ri: queremos “nuestro estilo propio”, “nuestra manera”, la libertad y la creatividad, sin pasar por el largo aburrimiento de imitar la forma.",
+   "temas": [
+    "shu_ha_ri",
+    "aprendizaje"
+   ],
+   "intensidad": 3,
+   "gancho": "Queremos empezar por 'ri' y saltarnos el aburrido 'shu'.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — Kaizen: la historia de una idea"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Hoy está seriamente discutida dentro de la propia psicología: algunos estudios que la sostenían no se han podido replicar bien, y la comunidad científica no tiene una respuesta cerrada.",
+   "es_literal": true,
+   "ancla": "hoy está seriamente discutida dentro de la propia psicología: algunos estudios que la sostenían no se han podido replicar bien, y la comunidad científica no tiene una respuesta cerrada",
+   "temas": [
+    "fuerza_de_voluntad",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "La teoría del agotamiento de la voluntad no está tan cerrada.",
+   "formatos": [
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — El fin de la fuerza de voluntad"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Ese diagrama es una elaboración occidental relativamente reciente, no el concepto japonés tradicional.",
+   "es_literal": true,
+   "ancla": "ese diagrama es una elaboración occidental relativamente reciente, no el concepto japonés tradicional",
+   "temas": [
+    "ikigai",
+    "mirada_japonesa"
+   ],
+   "intensidad": 3,
+   "gancho": "El diagrama de los cuatro círculos no es el ikigai de verdad.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Ama el proceso, olvida la meta"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Es el famoso bajón de tantos deportistas tras ganar por fin la medalla que perseguían desde niños; el de tantos autores tras publicar el libro soñado; el de tantas personas tras comprar la casa o alcanzar el puesto.",
+   "es_literal": true,
+   "ancla": "Es el famoso bajón de tantos deportistas tras ganar por fin la medalla que perseguían desde niños; el de tantos autores tras publicar el libro soñado; el de tantas personas tras comprar la casa o alcanzar el puesto.",
+   "temas": [
+    "vacio_al_llegar",
+    "metas_vs_sistemas"
+   ],
+   "intensidad": 3,
+   "gancho": "El vacío que llega justo después de alcanzar la meta soñada.",
+   "formatos": [
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — Ama el proceso, olvida la meta"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "si haces tu 1%, siempre estarás mejor que si no lo haces. Y como verás en la Parte III, el objetivo profundo no es un destino, sino convertirte en cierto tipo de persona.",
+   "es_literal": true,
+   "ancla": "si haces tu 1%, siempre estarás mejor que si no lo haces. Y como verás en la Parte III, el objetivo profundo no es un destino, sino convertirte en cierto tipo de persona.",
+   "temas": [
+    "identidad",
+    "1_por_ciento"
+   ],
+   "intensidad": 3,
+   "gancho": "El objetivo no es un destino: es en quién te conviertes.",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — La matemática de lo diminuto"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Deja de ser únicamente “¿ya lo he conseguido?, ¿cuánto me falta?” y pasa a ser “¿he mejorado hoy, aunque sea un poco?”.",
+   "es_literal": true,
+   "ancla": "Deja de ser únicamente “¿ya lo he conseguido?, ¿cuánto me falta?” y pasa a ser “¿he mejorado hoy, aunque sea un poco?”.",
+   "temas": [
+    "proceso_vs_meta",
+    "pregunta_interior"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Ya lo conseguí? o ¿mejoré hoy, aunque sea un poco?",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — Kaizen: la historia de una idea"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Primero el hábito te construye a ti sin que lo sepas. Luego, si despiertas, lo construyes tú a él.",
+   "es_literal": true,
+   "ancla": "Primero el hábito te construye a ti sin que lo sepas. Luego, si despiertas, lo construyes tú a él.",
+   "temas": [
+    "bucle_del_habito",
+    "conciencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Primero el hábito te construye. Luego lo construyes tú.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — El bucle del hábito"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un hábito pequeño que se mantiene vale infinitamente más que uno grande que se abandona.",
+   "es_literal": true,
+   "ancla": "Un hábito pequeño que se mantiene vale infinitamente más que uno grande que se abandona.",
+   "temas": [
+    "mini_habito",
+    "constancia"
+   ],
+   "intensidad": 4,
+   "gancho": "Vale más lo pequeño sostenido que lo grande abandonado.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — Empieza ridículamente pequeño"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No confíes en tu fuerza de voluntad para mañana. Confía en el entorno que diseñas hoy.",
+   "es_literal": true,
+   "ancla": "No confíes en tu fuerza de voluntad para mañana. Confía en el entorno que diseñas hoy.",
+   "temas": [
+    "entorno",
+    "diseño_de_habitos"
+   ],
+   "intensidad": 4,
+   "gancho": "No confíes en tu voluntad de mañana. Diseña el entorno hoy.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — El poder del entorno"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No busques tiempo ni memoria para tus nuevos hábitos. Cuélgalos de los viejos y se sostendrán solos.",
+   "es_literal": true,
+   "ancla": "No busques tiempo ni memoria para tus nuevos hábitos. Cuélgalos de los viejos y se sostendrán solos.",
+   "temas": [
+    "anclaje",
+    "apilamiento_de_habitos"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuelga lo nuevo de lo viejo y se sostendrá solo.",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — Encadenar y anclar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El día del mínimo es el que sostiene el edificio entero.",
+   "es_literal": true,
+   "ancla": "El día del mínimo es el que sostiene el edificio entero.",
+   "temas": [
+    "mini_habito",
+    "dias_malos"
+   ],
+   "intensidad": 4,
+   "gancho": "El día del mínimo sostiene el edificio entero.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — Empieza ridículamente pequeño"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "No se mejora lo que no se ha ido a observar directamente.",
+   "es_literal": true,
+   "ancla": "No se mejora lo que no se ha ido a observar directamente.",
+   "temas": [
+    "genchi_genbutsu",
+    "observacion"
+   ],
+   "intensidad": 3,
+   "gancho": "No se mejora lo que no se ha ido a observar directamente.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — El bucle del hábito"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para construir un hábito, diseña sus tres piezas a propósito: una señal clara e inevitable, una rutina tan fácil que cueste poco y una recompensa agradable que llegue pronto, para que el cerebro quiera repetirlo mañana.",
+   "es_literal": false,
+   "ancla": "Una señal clara e inevitable (mejor una acción que ya haces siempre; lo veremos en el capítulo 8). - Una rutina lo más fácil posible (la versión de dos minutos del capítulo 6). - Una recompensa que de verdad te agrade y que llegue pronto, para que el cerebro quiera repetir.",
+   "temas": [
+    "bucle_del_habito",
+    "diseño_de_habitos"
+   ],
+   "intensidad": 3,
+   "gancho": "Diseña la señal, la rutina y la recompensa a propósito.",
+   "formatos": [
+    "articulo",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — El bucle del hábito"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando un hábito se resista, no te quedes en el primer 'no tengo tiempo'. Pregunta por qué, y otra vez por qué, hasta cinco veces, hasta llegar a la causa real, que casi nunca es la primera que aparece.",
+   "es_literal": false,
+   "ancla": "¿Por qué se paró la máquina? Porque saltó un fusible. ¿Por qué saltó el fusible? Porque el rodamiento se agarrotó. ¿Por qué se agarrotó? Porque no tenía lubricante. ¿Por qué no tenía lubricante? Porque la bomba no bombeaba bien.",
+   "temas": [
+    "cinco_porques",
+    "causa_raiz"
+   ],
+   "intensidad": 3,
+   "gancho": "Pregunta 'por qué' cinco veces seguidas hasta la causa real.",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — El bucle del hábito"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "los malos hábitos se instalan solos porque su recompensa es inmediata (el placer del dulce, el chute de la notificación llegan ya, en el momento). Los buenos hábitos, en cambio, tienen su recompensa en el futuro lejano (el cuerpo sano, el idioma aprendido llegarán dentro de meses o años).",
+   "es_literal": true,
+   "ancla": "los malos hábitos se instalan solos porque su recompensa es inmediata (el placer del dulce, el chute de la notificación llegan ya, en el momento). Los buenos hábitos, en cambio, tienen su recompensa en el futuro lejano (el cuerpo sano, el idioma aprendido llegarán dentro de meses o años).",
+   "temas": [
+    "recompensa",
+    "bucle_del_habito"
+   ],
+   "intensidad": 3,
+   "gancho": "El dulce paga ya. El cuerpo sano paga dentro de meses.",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — El bucle del hábito"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Los supermercados, los casinos, las redes sociales lo saben perfectamente y llevan décadas explotándolo: diseñan cada detalle del entorno para inclinar tu conducta en la dirección que a ellos les conviene.",
+   "es_literal": false,
+   "ancla": "Los supermercados, los casinos, las redes sociales lo saben perfectamente y llevan décadas explotándolo: diseñan cada detalle del entorno —dónde se coloca cada producto, qué se ve primero, cuánta fricción hay para cada acción— para inclinar tu conducta en la dirección que a ellos les conviene.",
+   "temas": [
+    "entorno",
+    "diseño_ajeno"
+   ],
+   "intensidad": 4,
+   "gancho": "Supermercados y redes ya diseñan tu entorno a su favor.",
+   "formatos": [
+    "articulo",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — El poder del entorno"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "un espacio bien dispuesto conduce, casi por sí solo, a la buena conducta",
+   "es_literal": true,
+   "ancla": "un espacio bien dispuesto conduce, casi por sí solo, a la buena conducta",
+   "temas": [
+    "seiri_seiton",
+    "entorno"
+   ],
+   "intensidad": 3,
+   "gancho": "Un espacio bien dispuesto conduce, casi solo, a la buena conducta.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — El poder del entorno"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Piensa en tus hábitos en términos de segundos de fricción: ¿cómo le quito veinte segundos al bueno y se los añado al malo?",
+   "es_literal": true,
+   "ancla": "Piensa en tus hábitos en términos de segundos de fricción: ¿cómo le quito veinte segundos al bueno y se los añado al malo?",
+   "temas": [
+    "friccion",
+    "regla_veinte_segundos"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Cómo le quito veinte segundos al bueno y se los sumo al malo?",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — El poder del entorno"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Sumó fricción a lo que quería reducir: borró las apps de redes del móvil y se obligó a entrar solo desde el navegador, teniendo que teclear la contraseña cada vez —veinte segundos de fricción que rompían el gesto automático—.",
+   "es_literal": true,
+   "ancla": "Sumó fricción a lo que quería reducir: borró las apps de redes del móvil y se obligó a entrar solo desde el navegador, teniendo que teclear la contraseña cada vez —veinte segundos de fricción que rompían el gesto automático—.",
+   "temas": [
+    "entorno_digital",
+    "friccion"
+   ],
+   "intensidad": 3,
+   "gancho": "Borrar la app y teclear la contraseña basta para romper el gesto.",
+   "formatos": [
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7 — El poder del entorno"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "“Después de [un hábito que ya hago siempre], haré [el hábito nuevo que quiero crear].”",
+   "es_literal": true,
+   "ancla": "“Después de [un hábito que ya hago siempre], haré [el hábito nuevo que quiero crear].”",
+   "temas": [
+    "apilamiento_de_habitos",
+    "anclaje"
+   ],
+   "intensidad": 3,
+   "gancho": "Después de lo que ya haces siempre, engancha lo nuevo.",
+   "formatos": [
+    "articulo",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — Encadenar y anclar"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Cuando la vida está bien encadenada, la mente se libera. No tienes que gastar energía decidiendo qué hacer a cada momento: la cadena decide por ti, y tú solo la habitas.",
+   "es_literal": true,
+   "ancla": "Cuando la vida está bien encadenada, la mente se libera. No tienes que gastar energía decidiendo qué hacer a cada momento: la cadena decide por ti, y tú solo la habitas.",
+   "temas": [
+    "rituales",
+    "encadenar_habitos"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuando la vida está bien encadenada, la mente se libera.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — Encadenar y anclar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Aplica seiri y seiton a un solo metro cuadrado: retira lo que sobra, deja a mano solo lo esencial, quita fricción al buen hábito y súmasela a la distracción.",
+   "es_literal": false,
+   "ancla": "Primero, seiri (retirar lo que sobra): despejó por completo la mesa de todo lo que no fuera estudiar japonés —facturas, revistas, el cargador de mil cables, el segundo móvil—.",
+   "temas": [
+    "seiri_seiton",
+    "entorno"
+   ],
+   "intensidad": 3,
+   "gancho": "Aplica seiri y seiton a un solo metro cuadrado de tu vida.",
+   "formatos": [
+    "articulo",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — El poder del entorno"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "si tu entorno va a moldear tu conducta de todos modos —y lo va a hacer—, ¿quieres que lo diseñe el azar, la comodidad y los intereses ajenos, o quieres diseñarlo tú, a tu favor?",
+   "es_literal": true,
+   "ancla": "si tu entorno va a moldear tu conducta de todos modos —y lo va a hacer—, ¿quieres que lo diseñe el azar, la comodidad y los intereses ajenos, o quieres diseñarlo tú, a tu favor?",
+   "temas": [
+    "entorno",
+    "diseño_de_habitos"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Quién diseña tu entorno: el azar o tú?",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — El poder del entorno"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "no fallaste por débil. Fallaste porque empezaste demasiado arriba.",
+   "es_literal": true,
+   "ancla": "no fallaste por débil. Fallaste porque empezaste demasiado arriba.",
+   "temas": [
+    "mini_habito",
+    "tamaño_del_paso"
+   ],
+   "intensidad": 4,
+   "gancho": "No fallaste por débil. Fallaste por el tamaño del paso.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — Empieza ridículamente pequeño"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cada acción es una piedra en el muro de quien eres. No necesitas colocarlas todas, solo seguir construyendo.",
+   "es_literal": true,
+   "ancla": "Cada acción es una piedra en el muro de quien eres. No necesitas colocarlas todas, solo seguir construyendo.",
+   "temas": [
+    "identidad",
+    "constancia"
+   ],
+   "intensidad": 4,
+   "gancho": "Cada piedra construye el muro de quien eres.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — La identidad lo es todo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Saltarte un día es un accidente. Saltarte dos es el principio de una elección. Nunca falles dos veces seguidas.",
+   "es_literal": true,
+   "ancla": "Saltarte un día es un accidente. Saltarte dos es el principio de una elección. Nunca falles dos veces seguidas.",
+   "temas": [
+    "regla_de_oro",
+    "recaidas"
+   ],
+   "intensidad": 5,
+   "gancho": "Un día es accidente. Dos, el principio de una elección.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — El número, siervo y no amo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Repara tus grietas con oro. No gana quien nunca cae, sino quien vuelve al día siguiente.",
+   "es_literal": true,
+   "ancla": "Repara tus grietas con oro. No gana quien nunca cae, sino quien vuelve al día siguiente.",
+   "temas": [
+    "kintsugi",
+    "recaidas"
+   ],
+   "intensidad": 5,
+   "gancho": "No gana quien nunca cae, sino quien vuelve al día siguiente.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — El arte de las recaídas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que parece estancamiento es, muchas veces, la raíz creciendo. Sigue regando.",
+   "es_literal": true,
+   "ancla": "Lo que parece estancamiento es, muchas veces, la raíz creciendo. Sigue regando.",
+   "temas": [
+    "bambu",
+    "paciencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que parece estancamiento es la raíz creciendo.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — La paciencia del bambú"
+  },
+  {
+   "tipo": "cita",
+   "texto": "no gana el que nunca cae, sino el que más veces se levanta.",
+   "es_literal": true,
+   "ancla": "no gana el que nunca cae, sino el que más veces se levanta.",
+   "temas": [
+    "recaidas",
+    "perfeccionismo"
+   ],
+   "intensidad": 4,
+   "gancho": "No gana el que nunca cae. Gana el que más se levanta.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — El arte de las recaídas"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "los hábitos que de verdad echan raíces profundas y duran toda la vida no son los que nacen de un deseo, sino los que brotan de una identidad. El deseo se agota; la identidad permanece.",
+   "es_literal": true,
+   "ancla": "los hábitos que de verdad echan raíces profundas y duran toda la vida no son los que nacen de un deseo, sino los que brotan de una identidad. El deseo se agota; la identidad permanece.",
+   "temas": [
+    "identidad",
+    "deseo_vs_identidad"
+   ],
+   "intensidad": 4,
+   "gancho": "El deseo se agota. La identidad permanece.",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — La identidad lo es todo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "“No puedo comer dulce” suena a privación, a lucha, a una regla externa que te limita y contra la que, en el fondo, forcejeas; te sitúa como una fumadora que “no puede” fumar, prisionera de una prohibición. “No como dulce”, en cambio, suena a decisión, a identidad, a quién eres.",
+   "es_literal": true,
+   "ancla": "“No puedo comer dulce” suena a privación, a lucha, a una regla externa que te limita y contra la que, en el fondo, forcejeas; te sitúa como una fumadora que “no puede” fumar, prisionera de una prohibición. “No como dulce”, en cambio, suena a decisión, a identidad, a quién eres.",
+   "temas": [
+    "lenguaje_interior",
+    "identidad"
+   ],
+   "intensidad": 3,
+   "gancho": "'No puedo' es privación. 'No' es identidad.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — La identidad lo es todo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige una identidad modesta y verdadera, pregúntate qué haría hoy esa persona en su versión más pequeña, y coloca esa acción como la primera piedra de un muro que seguirás construyendo.",
+   "es_literal": false,
+   "ancla": "Coloca esa piedra hoy. Una sola. La acción importa menos por lo que logra que por lo que confirma.",
+   "temas": [
+    "identidad",
+    "ejercicio_practico"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Qué haría hoy esa persona, en su versión más pequeña?",
+   "formatos": [
+    "articulo",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — La identidad lo es todo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "aquello a lo que prestas atención tiende a mejorar. Cuando empiezas a llevar la cuenta de algo, automáticamente le dedicas más atención, y lo que recibe atención crece.",
+   "es_literal": true,
+   "ancla": "aquello a lo que prestas atención tiende a mejorar. Cuando empiezas a llevar la cuenta de algo, automáticamente le dedicas más atención, y lo que recibe atención crece.",
+   "temas": [
+    "medir_progreso",
+    "atencion"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que recibe atención, mejora. Por eso medir cambia la conducta.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — El número, siervo y no amo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Si caes un día, no pasa nada: es un accidente. Pero no dejes que se convierta en dos. La única regla que importa tras una recaída es volver al día siguiente, en tu versión mínima si hace falta.",
+   "es_literal": false,
+   "ancla": "Piénsalo con cuidado, porque encierra una distinción crucial. Saltarse un día es un accidente. Algo humano, normal, sin consecuencias reales: una enfermedad, un imprevisto, un día imposible.",
+   "temas": [
+    "regla_de_oro",
+    "recaidas"
+   ],
+   "intensidad": 4,
+   "gancho": "Si caes un día, no pasa nada. No dejes que sean dos.",
+   "formatos": [
+    "articulo",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — El número, siervo y no amo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Cuenta la tradición que, cuando plantas la semilla de ciertas variedades de bambú, la riegas y la cuidas con esmero, y durante el primer año no ocurre absolutamente nada visible.",
+   "es_literal": true,
+   "ancla": "Cuenta la tradición que, cuando plantas la semilla de ciertas variedades de bambú, la riegas y la cuidas con esmero, y durante el primer año no ocurre absolutamente nada visible.",
+   "temas": [
+    "bambu",
+    "paciencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Riegas la semilla de bambú. El primer año, nada asoma.",
+   "formatos": [
+    "reel",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — La paciencia del bambú"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Reparan las piezas rotas rellenando las grietas con laca mezclada con oro en polvo, de modo que las líneas de la rotura, lejos de esconderse, quedan realzadas, subrayadas, convertidas en lo más hermoso y valioso de toda la pieza.",
+   "es_literal": true,
+   "ancla": "Reparan las piezas rotas rellenando las grietas con laca mezclada con oro en polvo, de modo que las líneas de la rotura, lejos de esconderse, quedan realzadas, subrayadas, convertidas en lo más hermoso y valioso de toda la pieza.",
+   "temas": [
+    "kintsugi",
+    "wabi_sabi"
+   ],
+   "intensidad": 3,
+   "gancho": "Reparan la grieta con oro: la hacen lo más valioso de la pieza.",
+   "formatos": [
+    "articulo",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — El arte de las recaídas"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Pregúntate con honestidad: ¿mi método es razonable, lo estoy ejecutando con constancia, y otras personas han llegado por este camino?",
+   "es_literal": true,
+   "ancla": "Pregúntate con honestidad: ¿mi método es razonable, lo estoy ejecutando con constancia, y otras personas han llegado por este camino?",
+   "temas": [
+    "paciencia",
+    "hansei"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Tu método es razonable, o solo estás siendo terco?",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — La paciencia del bambú"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El hielo te daba una pista; el bambú no te da ninguna. Es la prueba máxima de fe en el proceso.",
+   "es_literal": true,
+   "ancla": "El hielo te daba una pista; el bambú no te da ninguna. Es la prueba máxima de fe en el proceso.",
+   "temas": [
+    "bambu",
+    "valle_de_la_decepcion"
+   ],
+   "intensidad": 4,
+   "gancho": "El hielo daba una pista. El bambú no da ninguna.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — La paciencia del bambú"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "No existe la persona que mejora en línea recta, sin tropiezos. No existe.",
+   "es_literal": true,
+   "ancla": "No existe la persona que mejora en línea recta, sin tropiezos. No existe.",
+   "temas": [
+    "recaidas",
+    "progreso_real"
+   ],
+   "intensidad": 3,
+   "gancho": "Nadie mejora en línea recta. Nadie.",
+   "formatos": [
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — El arte de las recaídas"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Nadie, absolutamente nadie, aprende sin caerse. Las caídas no son el fracaso de aprender a montar; son parte del propio aprendizaje, el modo en que el cuerpo va calibrando el equilibrio.",
+   "es_literal": true,
+   "ancla": "Nadie, absolutamente nadie, aprende sin caerse. Las caídas no son el fracaso de aprender a montar; son parte del propio aprendizaje, el modo en que el cuerpo va calibrando el equilibrio.",
+   "temas": [
+    "recaidas",
+    "aprendizaje"
+   ],
+   "intensidad": 3,
+   "gancho": "Nadie aprende a montar en bici sin caerse.",
+   "formatos": [
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11 — El arte de las recaídas"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando retomas un hábito tras una pausa, no eres la misma persona que empezó por primera vez, ignorante y sin práctica; eres alguien que ya recorrió parte del camino, que ya construyó unas raíces",
+   "es_literal": true,
+   "ancla": "Cuando retomas un hábito tras una pausa, no eres la misma persona que empezó por primera vez, ignorante y sin práctica; eres alguien que ya recorrió parte del camino, que ya construyó unas raíces",
+   "temas": [
+    "empezar_de_cero",
+    "recaidas"
+   ],
+   "intensidad": 3,
+   "gancho": "No vuelves al principio: vuelves con raíces ya construidas.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — El arte de las recaídas"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Hay aquí un eco del nana korobi, ya oki, el proverbio japonés que dice “caer siete veces, levantarse ocho”.",
+   "es_literal": true,
+   "ancla": "Hay aquí un eco del nana korobi, ya oki, el proverbio japonés que dice “caer siete veces, levantarse ocho”.",
+   "temas": [
+    "proverbio_japones",
+    "recaidas"
+   ],
+   "intensidad": 4,
+   "gancho": "Caer siete veces, levantarse ocho: el proverbio suma de más.",
+   "formatos": [
+    "pin",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — El arte de las recaídas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Ten la paciencia del bambú: primero las raíces invisibles; luego, el tallo de golpe.",
+   "es_literal": true,
+   "ancla": "Ten la paciencia del bambú: primero las raíces invisibles; luego, el tallo de golpe.",
+   "temas": [
+    "bambu",
+    "paciencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Primero las raíces invisibles. Luego, el tallo de golpe.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Anexo 3 — Las 20 leyes del kaizen personal"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El perfeccionismo es enemigo del progreso; abrázate al wabi-sabi.",
+   "es_literal": true,
+   "ancla": "El perfeccionismo es enemigo del progreso; abrázate al wabi-sabi.",
+   "temas": [
+    "perfeccionismo",
+    "wabi_sabi"
+   ],
+   "intensidad": 4,
+   "gancho": "El perfeccionismo es enemigo del progreso.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Anexo 3 — Las 20 leyes del kaizen personal"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un cuerpo sano no se construye en un mes heroico, sino en mil días corrientes.",
+   "es_literal": true,
+   "ancla": "Un cuerpo sano no se construye en un mes heroico, sino en mil días corrientes.",
+   "temas": [
+    "kaizen_del_cuerpo",
+    "constancia"
+   ],
+   "intensidad": 4,
+   "gancho": "Un cuerpo sano se construye en mil días corrientes.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — Kaizen del cuerpo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Diez minutos al día no cambian tu semana. Cambian tu década.",
+   "es_literal": true,
+   "ancla": "Diez minutos al día no cambian tu semana. Cambian tu década.",
+   "temas": [
+    "kaizen_de_la_mente",
+    "interes_compuesto"
+   ],
+   "intensidad": 4,
+   "gancho": "Diez minutos al día no cambian tu semana. Cambian tu década.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — Kaizen de la mente"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Nadie construye una gran relación, ni una gran carrera, ni un patrimonio, en un día. Se construyen en los días pequeños.",
+   "es_literal": true,
+   "ancla": "Nadie construye una gran relación, ni una gran carrera, ni un patrimonio, en un día. Se construyen en los días pequeños.",
+   "temas": [
+    "relaciones",
+    "trabajo",
+    "dinero"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie construye una relación, una carrera o un patrimonio en un día.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — Kaizen de las relaciones, el trabajo y el dinero"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No hay línea de meta. Y esa es la mejor noticia: siempre queda un paso más que puedes dar.",
+   "es_literal": true,
+   "ancla": "No hay línea de meta. Y esa es la mejor noticia: siempre queda un paso más que puedes dar.",
+   "temas": [
+    "kaizen_de_por_vida",
+    "sin_meta_final"
+   ],
+   "intensidad": 4,
+   "gancho": "No hay línea de meta. Y esa es la mejor noticia.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — Kaizen de por vida"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "En Okinawa, una de las regiones tradicionalmente asociadas a la longevidad, se sigue un precepto llamado hara hachi bu: comer hasta estar lleno solo al ochenta por ciento, no al cien.",
+   "es_literal": true,
+   "ancla": "En Okinawa, una de las regiones tradicionalmente asociadas a la longevidad, se sigue un precepto llamado hara hachi bu: comer hasta estar lleno solo al ochenta por ciento, no al cien.",
+   "temas": [
+    "hara_hachi_bu",
+    "alimentacion"
+   ],
+   "intensidad": 3,
+   "gancho": "Hara hachi bu: comer hasta estar lleno solo al 80%, no al 100%.",
+   "formatos": [
+    "articulo",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — Kaizen del cuerpo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "las llamadas “zonas azules” de gran longevidad están hoy bajo cierto escrutinio científico —hay dudas sobre la calidad de algunos datos de edad—, así que tomemos la idea con prudencia, no como una fórmula mágica de vida eterna.",
+   "es_literal": true,
+   "ancla": "las llamadas “zonas azules” de gran longevidad están hoy bajo cierto escrutinio científico —hay dudas sobre la calidad de algunos datos de edad—, así que tomemos la idea con prudencia, no como una fórmula mágica de vida eterna.",
+   "temas": [
+    "honestidad",
+    "zonas_azules"
+   ],
+   "intensidad": 3,
+   "gancho": "Las 'zonas azules' están hoy bajo cierto escrutinio científico.",
+   "formatos": [
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — Kaizen del cuerpo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Aplica el ciclo entero a tu cuerpo: observa una semana sin cambiar nada, elige un solo 1% fácil, ánclalo a un gesto firme, márcalo cada día, y cuando falles, vuelve sin culpa al día siguiente.",
+   "es_literal": false,
+   "ancla": "Empequeñeció: en lugar de atacar todo a la vez, eligió un solo 1%, el más fácil de todos —caminar diez minutos después de comer—, y lo dejó todo lo demás para después.",
+   "temas": [
+    "ciclo_kaizen",
+    "kaizen_del_cuerpo"
+   ],
+   "intensidad": 3,
+   "gancho": "Elige un solo 1% fácil y déjalo todo lo demás para después.",
+   "formatos": [
+    "articulo",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — Kaizen del cuerpo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Leer solo diez minutos al día suma más de sesenta horas de lectura al año. Eso son, tranquilamente, una docena de libros que de otro modo nunca habrías leído.",
+   "es_literal": true,
+   "ancla": "Leer solo diez minutos al día suma más de sesenta horas de lectura al año. Eso son, tranquilamente, una docena de libros que de otro modo nunca habrías leído.",
+   "temas": [
+    "kaizen_de_la_mente",
+    "lectura"
+   ],
+   "intensidad": 3,
+   "gancho": "Diez minutos de lectura al día son sesenta horas al año.",
+   "formatos": [
+    "pin",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — Kaizen de la mente"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "la absorción total en una sola acción, el hacer una cosa con la mente entera puesta en ella.",
+   "es_literal": true,
+   "ancla": "la absorción total en una sola acción, el hacer una cosa con la mente entera puesta en ella.",
+   "temas": [
+    "ichigyo_zanmai",
+    "atencion"
+   ],
+   "intensidad": 3,
+   "gancho": "Ichigyō-zanmai: la mente entera puesta en una sola cosa.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — Kaizen de la mente"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "la multitarea es, casi siempre, hacer cinco cosas a medias y ninguna bien, mientras la mente se agota saltando entre ellas.",
+   "es_literal": true,
+   "ancla": "la multitarea es, casi siempre, hacer cinco cosas a medias y ninguna bien, mientras la mente se agota saltando entre ellas.",
+   "temas": [
+    "multitarea",
+    "atencion"
+   ],
+   "intensidad": 3,
+   "gancho": "Hacer cinco cosas a la vez es hacer cinco cosas a medias.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — Kaizen de la mente"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cuántos libros crees que caben en diez minutos al día? La respuesta, que veremos con números en este capítulo, es una de las más asombrosas de todo el libro, y contradice de plano nuestra intuición de que cultivar la mente exige grandes bloques de tiempo y esfuerzo.",
+   "es_literal": true,
+   "ancla": "¿Cuántos libros crees que caben en diez minutos al día? La respuesta, que veremos con números en este capítulo, es una de las más asombrosas de todo el libro, y contradice de plano nuestra intuición de que cultivar la mente exige grandes bloques de tiempo y esfuerzo.",
+   "temas": [
+    "kaizen_de_la_mente",
+    "lectura"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Cuántos libros caben en diez minutos al día?",
+   "formatos": [
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — Kaizen de la mente"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La relación no se había roto de golpe; se había ido erosionando en mil pequeños descuidos.",
+   "es_literal": true,
+   "ancla": "La relación no se había roto de golpe; se había ido erosionando en mil pequeños descuidos.",
+   "temas": [
+    "relaciones",
+    "descuido"
+   ],
+   "intensidad": 3,
+   "gancho": "No se rompió de golpe. Se erosionó en mil descuidos pequeños.",
+   "formatos": [
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15 — Kaizen de las relaciones, el trabajo y el dinero"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Los depósitos —los gestos de atención— son pequeños e invisibles en el momento, de modo que es facilísimo saltárselos sin sentir que pasa nada",
+   "es_literal": true,
+   "ancla": "Los depósitos —los gestos de atención— son pequeños e invisibles en el momento, de modo que es facilísimo saltárselos sin sentir que pasa nada",
+   "temas": [
+    "relaciones",
+    "cuenta_emocional"
+   ],
+   "intensidad": 3,
+   "gancho": "Los pequeños descuidos son invisibles en el momento en que ocurren.",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Kaizen de las relaciones, el trabajo y el dinero"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "la constancia discreta casi siempre acaba venciendo al talento irregular.",
+   "es_literal": true,
+   "ancla": "la constancia discreta casi siempre acaba venciendo al talento irregular.",
+   "temas": [
+    "trabajo",
+    "constancia"
+   ],
+   "intensidad": 4,
+   "gancho": "La constancia discreta vence casi siempre al talento irregular.",
+   "formatos": [
+    "pin",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — Kaizen de las relaciones, el trabajo y el dinero"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Ahorra un poco con regularidad, gasta siempre un poco menos de lo que ingresas, y automatiza el ahorro para que no dependa de la voluntad de cada mes.",
+   "es_literal": false,
+   "ancla": "Ahorrar una pequeña cantidad con regularidad, aunque parezca ridícula al principio. - Gastar de forma constante un poco menos de lo que se ingresa. - Automatizar el ahorro para que no dependa de la voluntad de cada mes",
+   "temas": [
+    "dinero",
+    "ahorro"
+   ],
+   "intensidad": 3,
+   "gancho": "Ahorra poco, gasta menos de lo que ingresas, y automatízalo.",
+   "formatos": [
+    "articulo",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Kaizen de las relaciones, el trabajo y el dinero"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cada cierto tiempo, párate, respira, y hazte con calma tres preguntas: qué mantengo, qué ajusto o suelto, y cuál es mi próximo 1%.",
+   "es_literal": false,
+   "ancla": "Cada cierto tiempo —una vez al mes, o al cambiar de estación, o el día que prefieras— párate, respira, y hazte con calma y honestidad tres preguntas",
+   "temas": [
+    "hansei",
+    "revision"
+   ],
+   "intensidad": 3,
+   "gancho": "Cada cierto tiempo, hazte con calma tres preguntas clave.",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — Kaizen de por vida"
+  }
+ ]
+}

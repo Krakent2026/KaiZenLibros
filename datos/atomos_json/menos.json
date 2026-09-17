@@ -1,0 +1,1169 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "menos",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "La paz no está en lo que sumas, sino en lo que te atreves a quitar.",
+   "es_literal": true,
+   "ancla": "La paz no está en lo que sumas, sino en lo que te atreves a quitar.",
+   "temas": [
+    "esencial",
+    "restar",
+    "paz"
+   ],
+   "intensidad": 5,
+   "gancho": "La tesis del libro entero, en una línea",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Introducción — La vida llena y vacía"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El cajón que no cierra del todo. El armario del que usas la cuarta parte. La bandeja de entrada con ese número rojo que ya has aprendido a no mirar. Todo lleno hasta arriba, y aun así la sensación persistente de que falta algo.",
+   "es_literal": false,
+   "ancla": "Una bandeja de entrada con miles de correos sin leer, ese número rojo enorme que ya has aprendido a no mirar porque te sube la tensión.",
+   "temas": [
+    "exceso",
+    "cotidiano"
+   ],
+   "intensidad": 4,
+   "gancho": "Lleno hasta arriba y, aun así, hueco por dentro",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — La vida llena y vacía"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro no pide que tires media casa el sábado en un arrebato del que luego te arrepientas, ni que odies el consumo, ni que vivas con un número sagrado de objetos. Pide algo más pequeño: restar de uno en uno.",
+   "es_literal": false,
+   "ancla": "No te voy a pedir que tires media casa este fin de semana en un arrebato del que luego te arrepientas.",
+   "temas": [
+    "limites",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que este libro no te va a pedir",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Introducción — La vida llena y vacía"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es tener poco por tener poco, ni una competición de austeridad: es tener menos, pero mejor. No es pobreza ni renuncia; es enfoque. Es apartar la maleza para que se vea la flor.",
+   "es_literal": false,
+   "ancla": "no se trata de tener poco por tener poco, no es una competición de austeridad ni un concurso de quién vive con menos objetos",
+   "temas": [
+    "menos pero mejor",
+    "enfoque"
+   ],
+   "intensidad": 4,
+   "gancho": "No es austeridad: es enfoque",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — La vida llena y vacía"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Si vives rodeado de exceso no es porque seas débil ni consumista. Es que todo a tu alrededor está diseñado para que sumes. Nadie gana dinero cuando tú decides que ya tienes suficiente.",
+   "es_literal": false,
+   "ancla": "Si vives rodeado de exceso, no es porque seas débil, ni consumista, ni tengas poca fuerza de voluntad.",
+   "temas": [
+    "culpa",
+    "consumo",
+    "diseno"
+   ],
+   "intensidad": 4,
+   "gancho": "El exceso no es un defecto de carácter",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Introducción — La vida llena y vacía"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Quien no está contento con lo que tiene, tampoco lo estará con lo que le falta por tener.",
+   "es_literal": true,
+   "ancla": "Quien no está contento con lo que tiene, tampoco lo estará con lo que le falta por tener.",
+   "temas": [
+    "deseo",
+    "suficiente"
+   ],
+   "intensidad": 4,
+   "gancho": "La cinta de correr del más, en una frase",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — La trampa del más"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Nos acostumbramos a lo bueno tan rápido como llega. Aquello que ansiabas se convierte en cuestión de días en la nueva normalidad, en el nuevo suelo desde el que vuelves a mirar hacia lo siguiente que te falta.",
+   "es_literal": false,
+   "ancla": "Significa algo muy simple: nos acostumbramos a lo bueno tan rápido como llega. Aquello que ansiábamos con toda el alma, una vez conseguido, se convierte en cuestión de días en la nueva normalidad",
+   "temas": [
+    "adaptacion hedonica",
+    "deseo"
+   ],
+   "intensidad": 4,
+   "gancho": "El placer de conseguir algo tiene fecha de caducidad",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — La trampa del más"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El termómetro del «¿y luego qué?»: 1) cuando sientas el tirón de comprar algo, párate en lugar de correr a por ello. 2) Pregúntate: consigo esto, ¿y luego qué? 3) Tira del hilo hasta el final. 4) Casi siempre, detrás de la cosa no hay una vida distinta: está el mismo deseo de siempre, esperando a apuntar a la siguiente.",
+   "es_literal": false,
+   "ancla": "La próxima vez que desees algo con esa urgencia tan convincente, en lugar de correr a por ello, párate y tira del hilo",
+   "temas": [
+    "deseo",
+    "compras",
+    "pausa"
+   ],
+   "intensidad": 3,
+   "gancho": "Una pregunta para el momento justo del tirón",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — La trampa del más"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es una mejora del cinco por ciento: es el cien por cien del precio y el cien por cien de la energía de investigar, comparar, esperar el paquete y aprender a usarlo. Pagas el cien y disfrutas el cero.",
+   "es_literal": false,
+   "ancla": "Ese es el rendimiento real de perseguir el cinco por ciento: pagas el cien y disfrutas el cero.",
+   "temas": [
+    "consumo",
+    "mejora marginal"
+   ],
+   "intensidad": 4,
+   "gancho": "La mejora del cinco por ciento cuesta el cien",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — La trampa del más"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No es que estés cansado de hacer mucho. Muchas veces estás cansado de tener mucho pendiente.",
+   "es_literal": true,
+   "ancla": "No es que estés cansado de hacer mucho. Muchas veces estás cansado de tener mucho pendiente.",
+   "temas": [
+    "cansancio",
+    "pendientes"
+   ],
+   "intensidad": 5,
+   "gancho": "Un cansancio que no viene de hacer",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — El exceso es ruido"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cada cosa que posees te reclama un trocito de atención. No solo cuando la usas: todo el rato, en segundo plano, como esas aplicaciones que siguen gastando batería aunque las creas cerradas.",
+   "es_literal": false,
+   "ancla": "No solo cuando la usas. Todo el rato. En segundo plano. Como esas aplicaciones que siguen consumiendo batería aunque las tengas cerradas.",
+   "temas": [
+    "atencion",
+    "objetos",
+    "ruido"
+   ],
+   "intensidad": 4,
+   "gancho": "Tener de más no es gratis",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2 — El exceso es ruido"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Llegas a casa por la noche y todo te habla a la vez: el correo publicitario en la entrada, la pila de ropa en la silla, los cargadores enredados, los platos de la mañana, el móvil vibrando en el bolsillo. No has hecho nada todavía y ya estás cansado.",
+   "es_literal": false,
+   "ancla": "Marcos acaba de llegar. No ha hecho absolutamente nada todavía. Y ya está cansado.",
+   "temas": [
+    "ruido",
+    "cotidiano",
+    "cansancio"
+   ],
+   "intensidad": 4,
+   "gancho": "La silla que ninguna casa reconoce pero todas tienen",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — El exceso es ruido"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Ponle número a tu ruido: 1) elige una sola habitación de tu casa. 2) Cuenta, sin juzgar, cuántas cosas a la vista no has usado ni tocado en el último mes. 3) No tires nada todavía. 4) Guarda ese número: es tu punto de partida.",
+   "es_literal": false,
+   "ancla": "elige una sola habitación de tu casa, la que quieras, y cuenta —sin juzgar, sin sentirte mal, solo contando— cuántas cosas hay a la vista que no has usado ni tocado en el último mes",
+   "temas": [
+    "ver",
+    "objetos",
+    "primer paso"
+   ],
+   "intensidad": 3,
+   "gancho": "Antes de tirar nada, cuenta",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — El exceso es ruido"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo esencial rara vez es evidente a primera vista. Está tapado por todo lo que solo es urgente, cómodo o costumbre.",
+   "es_literal": true,
+   "ancla": "Lo esencial rara vez es evidente a primera vista. Está tapado por todo lo que solo es urgente, cómodo o costumbre.",
+   "temas": [
+    "esencial",
+    "costumbre"
+   ],
+   "intensidad": 4,
+   "gancho": "Por qué lo esencial no se ve a la primera",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — Qué es lo esencial (y cómo reconocerlo)"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Lo esencial no es lo mínimo. Puede ser un piano de cola, una estantería que ocupa una pared o una bici cara, si eso es lo que te sostiene. Lo esencial es, sencillamente, lo que te acerca a la vida que de verdad quieres vivir.",
+   "es_literal": false,
+   "ancla": "Esto no va de vivir con lo justo para no morirte, de una existencia gris, recortada, monacal, donde te niegas todo placer.",
+   "temas": [
+    "esencial",
+    "malentendidos"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo esencial no es lo mínimo",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — Qué es lo esencial (y cómo reconocerlo)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La regla del 90%, para indecisos: 1) ante un objeto, un plan o una suscripción, pregúntate «¿esto me acerca a la vida que quiero?». 2) Puntúalo del 0 al 10. 3) Si no llega a un 9, cuéntalo como un 0. Nada de treses y cuatros que se quedan «por si acaso» y acaban llenándolo todo.",
+   "es_literal": false,
+   "ancla": "puntúa mentalmente lo que estás evaluando del 0 al 10, según lo importante que sea de verdad para tu vida. Y si no llega a un 9, cuéntalo como un 0.",
+   "temas": [
+    "esencial",
+    "decidir",
+    "esencialismo"
+   ],
+   "intensidad": 4,
+   "gancho": "O es un sí casi rotundo, o es un no",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — Qué es lo esencial (y cómo reconocerlo)"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Si tuvieras que salir de casa en dos minutos y solo pudieras llevarte lo que cabe en tus brazos, ¿qué cogerías? Lo revelador no es tanto lo que salvarías, sino todo lo demás que dejarías arder sin dudarlo y que, sin embargo, llena tu casa.",
+   "es_literal": false,
+   "ancla": "Si no lo salvarías de un incendio, ¿por qué le dedicas tanto de tu vida?",
+   "temas": [
+    "esencial",
+    "objetos"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo revelador no es lo que salvarías",
+   "formatos": [
+    "pin",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — Qué es lo esencial (y cómo reconocerlo)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Restar no es perder algo. Es dejar de cargar con lo que no eras tú.",
+   "es_literal": true,
+   "ancla": "Restar no es perder algo. Es dejar de cargar con lo que no eras tú.",
+   "temas": [
+    "soltar",
+    "miedo",
+    "restar"
+   ],
+   "intensidad": 5,
+   "gancho": "Restar no es perder",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — Menos no es renunciar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Lo superfluo no ocupa un espacio que sobraba: ocupa, precisamente, el de lo esencial. El cajón lleno de trastos es un cajón que no puede guardar lo que importa; el armario lleno de «por si acaso» es un armario donde no encuentras lo que amas.",
+   "es_literal": false,
+   "ancla": "No es que lo superfluo esté ahí sin más, ocupando un espacio que sobraba. Es que está ocupando, precisamente, el espacio de lo esencial.",
+   "temas": [
+    "coste de oportunidad",
+    "objetos",
+    "esencial"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que sobra ocupa el sitio de lo que importa",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — Menos no es renunciar"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es austeridad triste —privarse por obligación, contando cada céntimo con amargura, mirando con envidia lo que tienen otros—: es sobriedad serena, tener lo que necesitas, cuidarlo y disfrutarlo sin anhelar más. Una es privación; la otra, libertad.",
+   "es_literal": false,
+   "ancla": "La primera es privación y resentimiento. La segunda es plenitud y libertad.",
+   "temas": [
+    "sobriedad",
+    "austeridad"
+   ],
+   "intensidad": 4,
+   "gancho": "Austeridad triste o sobriedad serena",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Menos no es renunciar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La prueba de las dos columnas: 1) coge aquello de lo que dudes —un objeto, un compromiso, una suscripción—. 2) Traza dos columnas en un papel: lo que me da y lo que me quita. 3) Sé brutalmente honesto en ambas, sin adornar ni justificar. 4) La prueba no decide por ti: solo pone la verdad delante para que decidas tú.",
+   "es_literal": false,
+   "ancla": "traza dos columnas en un papel: *lo que me da* y *lo que me quita*. Y sé brutalmente honesto en ambas.",
+   "temas": [
+    "decidir",
+    "miedo",
+    "soltar"
+   ],
+   "intensidad": 3,
+   "gancho": "Dos columnas para decidir sin pánico",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — Menos no es renunciar"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Casi nadie recuerda lo que tiró, y menos aún lo echa de menos. De lo que sí se arrepiente la gente es de todo lo que cargó durante años sin necesidad.",
+   "es_literal": false,
+   "ancla": "El arrepentimiento casi nunca está en el lado de quitar. Está, casi siempre, en el lado de haber acumulado.",
+   "temas": [
+    "arrepentimiento",
+    "soltar"
+   ],
+   "intensidad": 4,
+   "gancho": "El arrepentimiento no vive en el lado de quitar",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Menos no es renunciar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No es que tengas tus cosas. Pasado cierto punto, son tus cosas las que te tienen a ti.",
+   "es_literal": true,
+   "ancla": "No es que tengas tus cosas. Pasado cierto punto, son tus cosas las que te tienen a ti.",
+   "temas": [
+    "objetos",
+    "mantenimiento"
+   ],
+   "intensidad": 5,
+   "gancho": "Quién tiene a quién",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — Menos cosas, más espacio"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La caja de la duda: 1) descarga un área pequeña, diez minutos, un cajón y no la casa entera. 2) Coge cada cosa en la mano y decide: se queda, se va, duda. 3) Lo dudoso va a una caja: ciérrala, escribe la fecha en la tapa y guárdala fuera de la vista. 4) Si en tres meses no has necesitado abrirla, la das entera sin volver a mirar dentro.",
+   "es_literal": false,
+   "ancla": "mete ahí todo lo que no sabes si soltar, ciérrala, escribe la fecha en la tapa y guárdala fuera de la vista.",
+   "temas": [
+    "objetos",
+    "metodo",
+    "duda"
+   ],
+   "intensidad": 3,
+   "gancho": "Qué hacer con lo que no sabes si soltar",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5 — Menos cosas, más espacio"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Ordenar no es restar. Ordenar es encontrar un sitio para cada cosa; restar es reducir el número de cosas. Si ordenas sin restar, el orden se deshace enseguida, porque sigue habiendo demasiado.",
+   "es_literal": false,
+   "ancla": "Ordenar es encontrar un sitio para cada cosa; restar es reducir el número de cosas.",
+   "temas": [
+    "orden",
+    "objetos"
+   ],
+   "intensidad": 4,
+   "gancho": "No ordenes el exceso: réstalo",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — Menos cosas, más espacio"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El espacio que has creado al restar no es un hueco esperando a llenarse: es el resultado. El estante despejado no está sin terminar; su desnudez es exactamente su valor.",
+   "es_literal": false,
+   "ancla": "El estante despejado no está \"sin terminar\"; está terminado, y su desnudez es exactamente su valor.",
+   "temas": [
+    "vacio",
+    "ma",
+    "espacio"
+   ],
+   "intensidad": 4,
+   "gancho": "El hueco no está esperando nada",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — Menos cosas, más espacio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No compras cosas. Compras la promesa de sentirte de otra manera. Y esa promesa nunca, nunca viene dentro del paquete.",
+   "es_literal": true,
+   "ancla": "No compras cosas. Compras la promesa de sentirte de otra manera. Y esa promesa nunca, nunca viene dentro del paquete.",
+   "temas": [
+    "consumo",
+    "deseo"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que de verdad va dentro del paquete",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6 — El deseo que nunca se sacia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La lista de espera de 30 días: 1) cuando quieras comprar algo que no sea una necesidad clara, no lo compres en el momento. 2) Apúntalo en una lista con la fecha de hoy al lado. 3) Déjalo ahí, madurando, treinta días. 4) Si al cabo del mes lo sigues queriendo igual y encaja con tus esenciales, cómpralo con la conciencia tranquila.",
+   "es_literal": false,
+   "ancla": "Apúntalo en una lista, con la fecha de hoy al lado. Y déjalo ahí, madurando, treinta días.",
+   "temas": [
+    "compras",
+    "impulso",
+    "metodo"
+   ],
+   "intensidad": 3,
+   "gancho": "El deseo es una ola: no te subas, espera a que rompa",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6 — El deseo que nunca se sacia"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No va de dejar de comprar: va de dejar de comprar desde el vacío. Comprar vacío es tapar un hueco —aburrimiento, tristeza, la pura emoción del clic—. Comprar lleno es elegir con calma algo que de verdad vas a usar y a amar.",
+   "es_literal": false,
+   "ancla": "Comprar vacío es comprar para tapar un hueco: por aburrimiento, por ansiedad, por tristeza, por la pura emoción del clic, para sentir algo.",
+   "temas": [
+    "consumo",
+    "emociones"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Esto lo quiero yo, o es el hueco el que lo quiere?",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — El deseo que nunca se sacia"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Aburrimiento, tristeza, comparación, celebración: ninguno de esos disparadores tiene que ver con necesitar el objeto. Son estados emocionales buscando alivio, y la compra es el que tenemos más a mano, a un pulgar de distancia.",
+   "es_literal": false,
+   "ancla": "Todos son estados emocionales buscando alivio, y la compra es solo el alivio que tenemos más a mano, el más socialmente aceptado, el que está a un pulgar de distancia.",
+   "temas": [
+    "emociones",
+    "compras"
+   ],
+   "intensidad": 4,
+   "gancho": "No querías el objeto: querías dejar de sentir eso",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6 — El deseo que nunca se sacia"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tu vida es aquello a lo que prestas atención. Así que la verdadera pregunta es: ahora mismo, ¿quién decide dónde va tu atención, tú o tu pantalla?",
+   "es_literal": true,
+   "ancla": "Tu vida es aquello a lo que prestas atención. Así que la verdadera pregunta es: ahora mismo, ¿quién decide dónde va tu atención, tú o tu pantalla?",
+   "temas": [
+    "atencion",
+    "pantallas"
+   ],
+   "intensidad": 5,
+   "gancho": "Quién decide dónde va tu atención",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — Menos pantalla, más vida"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cada notificación es, en el fondo, alguien —o algo— decidiendo por ti que en este preciso instante tienes que dejar lo que estás haciendo y mirar la pantalla. Es un permiso enorme sobre tu vida que regalaste sin darte cuenta.",
+   "es_literal": false,
+   "ancla": "cada notificación es, en el fondo, alguien —o algo— decidiendo por ti que en este preciso instante tienes que dejar lo que estás haciendo y mirar la pantalla",
+   "temas": [
+    "notificaciones",
+    "atencion"
+   ],
+   "intensidad": 5,
+   "gancho": "Un permiso que regalaste sin darte cuenta",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — Menos pantalla, más vida"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Rediseña el móvil en cuatro pasos: 1) borra las apps que no usas de verdad. 2) Desactiva casi todas las notificaciones; que solo te interrumpan las personas concretas que te importan. 3) Saca las apps pegajosas de la pantalla de inicio, a una carpeta de la última página. 4) Pon la pantalla en escala de grises.",
+   "es_literal": false,
+   "ancla": "Pon las apps más pegajosas, las que te atrapan por inercia, fuera de la pantalla de inicio, escondidas en una carpeta en la última página",
+   "temas": [
+    "digital",
+    "metodo",
+    "friccion"
+   ],
+   "intensidad": 3,
+   "gancho": "La comodidad es lo que te atrapa; la fricción te suelta",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7 — Menos pantalla, más vida"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Esto no va de tirar el móvil por la ventana ni de demonizar la tecnología. Va de que la pantalla vuelva a ser una decisión tuya y deje de ser un reflejo involuntario. Separa la herramienta del caramelo.",
+   "es_literal": false,
+   "ancla": "Se trata, sencillamente, de que la pantalla vuelva a ser una **decisión** tuya y deje de ser un **reflejo** involuntario.",
+   "temas": [
+    "digital",
+    "habitos"
+   ],
+   "intensidad": 4,
+   "gancho": "Decisión, no reflejo",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — Menos pantalla, más vida"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué haces con los micro-huecos del día: la cola del supermercado, el ascensor, la espera del metro? El aburrimiento, ese vacío de estímulo que tanto tememos, no es un problema a resolver: es un espacio fértil.",
+   "es_literal": false,
+   "ancla": "El aburrimiento, ese vacío de estímulo que tanto tememos, no es un problema a resolver: es un espacio fértil.",
+   "temas": [
+    "aburrimiento",
+    "creatividad"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Cuándo fue la última vez que te aburriste?",
+   "formatos": [
+    "pin",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — Menos pantalla, más vida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No necesitas saberlo todo. Necesitas saber lo poco que de verdad importa, y tener la cabeza lo bastante despejada para poder pensarlo.",
+   "es_literal": true,
+   "ancla": "No necesitas saberlo todo. Necesitas saber lo poco que de verdad importa, y tener la cabeza lo bastante despejada para poder pensarlo.",
+   "temas": [
+    "informacion",
+    "filtrar",
+    "calma"
+   ],
+   "intensidad": 4,
+   "gancho": "No hace falta saberlo todo",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — Dieta de información"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Vivimos la primera época con exceso de información en lugar de escasez, y seguimos aplicando el reflejo antiguo de tragarla toda. Ese reflejo que antes salvaba, ahora ahoga: se llama infoxicación.",
+   "es_literal": false,
+   "ancla": "A este ahogamiento se le llama a veces **infoxicación**: intoxicación por exceso de información.",
+   "temas": [
+    "informacion",
+    "infoxicacion"
+   ],
+   "intensidad": 4,
+   "gancho": "El reflejo que antes salvaba, ahora ahoga",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8 — Dieta de información"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es lo mismo estar informado que estar hiperconectado al flujo. El ciudadano bien informado lee pocas fuentes buenas con calma; el hiperconectado traga mil titulares fragmentarios y confunde estar alterado con estar comprometido.",
+   "es_literal": false,
+   "ancla": "La hiperconexión no te hace mejor ciudadano; te hace un ciudadano más ansioso y peor informado, que confunde estar alterado con estar comprometido.",
+   "temas": [
+    "informacion",
+    "ciudadania"
+   ],
+   "intensidad": 4,
+   "gancho": "Informado no es lo mismo que conectado",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — Dieta de información"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Estar ocupado no es lo mismo que estar vivo. A veces es, exactamente, lo contrario.",
+   "es_literal": true,
+   "ancla": "Estar ocupado no es lo mismo que estar vivo. A veces es, exactamente, lo contrario.",
+   "temas": [
+    "ocupacion",
+    "agenda"
+   ],
+   "intensidad": 5,
+   "gancho": "Ocupado no es lo mismo que vivo",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — Agenda mínima"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cada sí que se le da a algo que no importa es un no silencioso a algo que sí importa. El tiempo es el único recurso que no vuelve, y ningún compromiso sale gratis.",
+   "es_literal": false,
+   "ancla": "cada \"sí\" que le das a algo que no te importa es, sin excepción, un \"no\" silencioso a algo que sí.",
+   "temas": [
+    "tiempo",
+    "compromisos"
+   ],
+   "intensidad": 4,
+   "gancho": "Ningún compromiso es gratis",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — Agenda mínima"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para restar en la agenda: primero audita la semana y etiqueta cada plan como elegido o aceptado por inercia; segundo, cambia el sí por defecto por el no por defecto; tercero, protege huecos vacíos como si fueran citas innegociables.",
+   "es_literal": false,
+   "ancla": "instala el **\"no por defecto\"**. Que la respuesta automática sea, amablemente, no, y que decir que sí quede reservado, como una excepción valiosa, solo para lo que de verdad quieres, para lo que enciende un sí claro en el pecho.",
+   "temas": [
+    "agenda",
+    "metodo",
+    "limites"
+   ],
+   "intensidad": 3,
+   "gancho": "El no por defecto, el sí como excepción",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — Agenda mínima"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Un día con seis actividades no cuesta seis unidades de energía: cuesta seis más las cinco transiciones entre ellas, que a menudo pesan tanto como las actividades mismas.",
+   "es_literal": false,
+   "ancla": "Un día con seis actividades no cuesta seis unidades de energía; cuesta seis más las cinco transiciones entre ellas, que a menudo pesan tanto como las actividades mismas.",
+   "temas": [
+    "agenda",
+    "energia",
+    "transiciones"
+   ],
+   "intensidad": 4,
+   "gancho": "El coste oculto de saltar de una cosa a otra",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — Agenda mínima"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La libertad no es tener mil opciones entre las que elegir. Muchas veces, la verdadera libertad es no tener que elegir en absoluto.",
+   "es_literal": true,
+   "ancla": "La libertad no es tener mil opciones entre las que elegir. Muchas veces, la verdadera libertad es no tener que elegir en absoluto.",
+   "temas": [
+    "decisiones",
+    "libertad"
+   ],
+   "intensidad": 5,
+   "gancho": "La libertad de no tener que elegir",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — Menos decisiones"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La inmensa mayoría de las decisiones que agotan no merecen ser decisiones: son triviales, se repiten cada día y da igual cómo se resuelvan. Todo eso puede convertirse en una regla fija, tomada una sola vez.",
+   "es_literal": false,
+   "ancla": "todo lo que sea trivial y repetido se puede **convertir en una regla fija**, tomada una sola vez, para no tener que volver a decidirlo nunca más",
+   "temas": [
+    "decisiones",
+    "reglas"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo trivial no merece ser decidido cada día",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 10 — Menos decisiones"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "De noche se toman peores decisiones: se compra de más, se come peor, se dice que sí a lo que no se quiere. Una mente cansada elige lo fácil, lo inmediato, lo impulsivo.",
+   "es_literal": false,
+   "ancla": "Es de noche cuando compramos de más, cuando comemos peor, cuando decimos que sí a lo que no queremos, cuando discutimos por tonterías, cuando cedemos a impulsos que por la mañana habríamos resistido sin esfuerzo.",
+   "temas": [
+    "decisiones",
+    "cansancio",
+    "noche"
+   ],
+   "intensidad": 4,
+   "gancho": "Por qué de noche se decide peor",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — Menos decisiones"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Hacer muchas cosas a la vez es la manera más rápida y más segura de no estar del todo en ninguna de ellas.",
+   "es_literal": true,
+   "ancla": "Hacer muchas cosas a la vez es la manera más rápida y más segura de no estar del todo en ninguna de ellas.",
+   "temas": [
+    "multitarea",
+    "presencia"
+   ],
+   "intensidad": 5,
+   "gancho": "La forma más rápida de no estar en ninguna parte",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — Una cosa cada vez"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La mente humana no hace dos cosas atentas a la vez. Lo que parece multitarea es un salto rápido entre tareas, con un coste real de atención enganchada y más errores.",
+   "es_literal": false,
+   "ancla": "la mente humana, sencillamente, **no hace dos cosas atentas a la vez**. No puede.",
+   "temas": [
+    "multitarea",
+    "atencion"
+   ],
+   "intensidad": 4,
+   "gancho": "La multitarea no existe, solo el salto rápido",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11 — Una cosa cada vez"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En la cena, alguien cuenta algo del colegio mientras un móvil contesta mensajes de trabajo al lado. Hasta que una voz pequeña deja la frase a medias: no me estás escuchando. Y es verdad.",
+   "es_literal": false,
+   "ancla": "Hasta que su hijo pequeño dejó de hablar a media frase y le dijo: \"mamá, no me estás escuchando\".",
+   "temas": [
+    "presencia",
+    "familia",
+    "escena"
+   ],
+   "intensidad": 4,
+   "gancho": "El sesenta por ciento de una madre no es una madre entera",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — Una cosa cada vez"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Es mucho mejor tener a poca gente de verdad que a mucha gente a medias. La compañía nunca se midió en cantidad.",
+   "es_literal": true,
+   "ancla": "Es mucho mejor tener a poca gente de verdad que a mucha gente a medias. La compañía nunca se midió en cantidad.",
+   "temas": [
+    "relaciones",
+    "compania"
+   ],
+   "intensidad": 5,
+   "gancho": "La compañía nunca se midió en cantidad",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12 — Relaciones esenciales"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Dibuja tu círculo de los pocos: piensa en quienes te dejan con más energía de la que traías, ponles nombre, y da permiso, sin culpa, para aflojar el resto de vínculos que solo mantienes por inercia.",
+   "es_literal": false,
+   "ancla": "El método es sencillo de entender y valiente de hacer: dibuja tu **círculo de los pocos**.",
+   "temas": [
+    "relaciones",
+    "metodo"
+   ],
+   "intensidad": 3,
+   "gancho": "Nombra a los pocos que suman energía",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12 — Relaciones esenciales"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "De toda la gente a la que se dedica atención cada día, ¿cuántas vendrían a ver si se estuviera enfermo, o escucharían de verdad en un mal día?",
+   "es_literal": false,
+   "ancla": "cuántas de esas cientos de personas a las que dedicaba atención cada día vendrían a verle si estuviera enfermo, o le escucharían de verdad si tuviera un mal día",
+   "temas": [
+    "relaciones",
+    "redes"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuántos seguidores vendrían a verte enfermo",
+   "formatos": [
+    "pin",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — Relaciones esenciales"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La mente es un instrumento maravilloso para tener ideas, pero un pésimo lugar para guardarlas. Vacíala hacia fuera, y volverá a pensar.",
+   "es_literal": true,
+   "ancla": "La mente es un instrumento maravilloso para tener ideas, pero un pésimo lugar para guardarlas. Vacíala hacia fuera, y volverá a pensar.",
+   "temas": [
+    "mente",
+    "descarga"
+   ],
+   "intensidad": 5,
+   "gancho": "Un pésimo lugar para guardar ideas",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — Menos ruido mental"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Todo lo que se deja sin cerrar no desaparece por dejarlo: se queda flotando en la cabeza, consumiendo energía en segundo plano, como una aplicación que sigue corriendo aunque se crea cerrada.",
+   "es_literal": false,
+   "ancla": "Se queda flotando dentro de la cabeza, ocupando un sitio, consumiendo en segundo plano un fondo constante de energía, como esas aplicaciones que siguen corriendo aunque las creas cerradas.",
+   "temas": [
+    "mente",
+    "ruido mental"
+   ],
+   "intensidad": 4,
+   "gancho": "El pensamiento también se acumula",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — Menos ruido mental"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Descarga mental: coge papel y bolígrafo, vacía sin orden ni filtro todo lo que ronda la cabeza, y a cada cosa dale un destino, hazla, agéndala o descártala. Escribirlo no basta: hay que decidir.",
+   "es_literal": false,
+   "ancla": "coger papel y bolígrafo —papel, mejor que pantalla, por lo físico del gesto y por no meterte en el móvil— y vaciar ahí, sin ningún orden ni criterio ni filtro, absolutamente todo lo que te ronda por la cabeza",
+   "temas": [
+    "mente",
+    "metodo",
+    "descarga"
+   ],
+   "intensidad": 3,
+   "gancho": "Vacía la cabeza en un papel, no a oscuras",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — Menos ruido mental"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La mayoría de lo que agobia por dentro no son grandes problemas: son montones de pequeñeces sin cerrar que, juntas y a oscuras, parecen una montaña. Sacadas a la luz, son un montoncito que se despacha en una tarde.",
+   "es_literal": false,
+   "ancla": "La mayoría de nuestro agobio mental no son grandes problemas: son montones de pequeñeces sin cerrar que, juntas y a oscuras dentro de la cabeza, parecen una montaña.",
+   "temas": [
+    "mente",
+    "agobio"
+   ],
+   "intensidad": 4,
+   "gancho": "El agobio mental es pequeño, visto a la luz",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — Menos ruido mental"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No es más rico el que más gana, sino el que menos necesita para sentirse libre.",
+   "es_literal": true,
+   "ancla": "No es más rico el que más gana, sino el que menos necesita para sentirse libre.",
+   "temas": [
+    "dinero",
+    "libertad"
+   ],
+   "intensidad": 5,
+   "gancho": "Más rico no es quien más gana",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — Dinero y libertad"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El precio real de una compra no se mide en dinero sino en horas de vida: las que hay que trabajar para poder pagarla. Muchas cosas dejan de merecer la pena en cuanto se miden así.",
+   "es_literal": false,
+   "ancla": "Ese aparato que cuesta doscientos euros no cuesta, en realidad, doscientos euros; cuesta las horas de tu trabajo —de tu vida, de tu tiempo irrecuperable— que tienes que entregar para ganar esos doscientos euros después de impuestos.",
+   "temas": [
+    "dinero",
+    "tiempo",
+    "consumo"
+   ],
+   "intensidad": 4,
+   "gancho": "El precio real se mide en horas de vida",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14 — Dinero y libertad"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para recuperar margen: calcula las próximas compras importantes en horas de vida, no en euros; revisa hoy todas las suscripciones y cancela las que no se usen; guarda parte de cada aumento de sueldo como colchón de libertad.",
+   "es_literal": false,
+   "ancla": "revisa hoy mismo, sin dejarlo para otro día, todas tus suscripciones y cargos recurrentes —míralos en el banco, uno por uno— y cancela sin piedad todo lo que no uses de verdad",
+   "temas": [
+    "dinero",
+    "metodo",
+    "suscripciones"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres pasos para comprar libertad",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — Dinero y libertad"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La mayor parte de tu sufrimiento no viene de lo que pasa, sino de la distancia entre lo que pasa y lo que tú esperabas que pasara.",
+   "es_literal": true,
+   "ancla": "La mayor parte de tu sufrimiento no viene de lo que pasa, sino de la distancia entre lo que pasa y lo que tú esperabas que pasara.",
+   "temas": [
+    "expectativas",
+    "sufrimiento"
+   ],
+   "intensidad": 5,
+   "gancho": "El sufrimiento vive en la distancia con lo esperado",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15 — Menos expectativas, más presencia"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Soltar expectativas no es soltar la acción. Se puede trabajar duro por algo, poner todo de la propia parte, y aun así no condicionar la paz al resultado exacto ni al momento en que llegue.",
+   "es_literal": false,
+   "ancla": "Puedes trabajar duro por algo, poner todo de tu parte, caminar con energía hacia una meta, y a la vez no condicionar tu paz al resultado exacto ni al momento en que llegue.",
+   "temas": [
+    "expectativas",
+    "accion"
+   ],
+   "intensidad": 4,
+   "gancho": "Actuar con fuerza y soltar el control",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Menos expectativas, más presencia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para bajar el listón hoy: elige una sola expectativa concreta puesta sobre el día, suéltala a propósito ahora mismo, y dale permiso al día para ser simplemente lo que sea.",
+   "es_literal": false,
+   "ancla": "identifica una sola expectativa concreta que traigas puesta sobre el día de hoy —que la reunión salga perfecta, que tu pareja reaccione de cierta manera, que rindas al máximo, que el día sea productivo— y suéltala, a propósito, ahora.",
+   "temas": [
+    "expectativas",
+    "metodo"
+   ],
+   "intensidad": 3,
+   "gancho": "Suelta una sola expectativa, hoy",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15 — Menos expectativas, más presencia"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El objetivo nunca fue tener menos cosas. El objetivo era vivir más ligero. No confundas jamás el camino con el destino.",
+   "es_literal": true,
+   "ancla": "El objetivo nunca fue tener menos cosas. El objetivo era vivir más ligero. No confundas jamás el camino con el destino.",
+   "temas": [
+    "minimalismo",
+    "objetivo"
+   ],
+   "intensidad": 5,
+   "gancho": "El objetivo nunca fue tener menos cosas",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — Sostener una vida simple sin rigidez"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La vida vuelve a llenarse siempre, y eso no es un fracaso: es cómo funciona, porque todo alrededor sigue empujando hacia el más. Por eso restar no puede ser una operación única sino un mantenimiento suave.",
+   "es_literal": false,
+   "ancla": "Es, sencillamente, cómo funciona la vida, siempre empujando con suavidad pero sin descanso hacia el \"más\", porque todo a tu alrededor sigue diseñado para ello.",
+   "temas": [
+    "minimalismo",
+    "mantenimiento"
+   ],
+   "intensidad": 4,
+   "gancho": "La vida siempre vuelve a llenarse, y no pasa nada",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16 — Sostener una vida simple sin rigidez"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para sostenerlo sin rigidez: haz una revisión estacional suave unas pocas veces al año, aplica la regla de una entra, una sale, y recuerda, cuando aparezca la dureza, que esto va de aligerar la vida, no de castigarla.",
+   "es_literal": false,
+   "ancla": "La regla de **una entra, una sale**, que ya vimos y que es la que de verdad impide que la marea vuelva a subir sin que te des cuenta.",
+   "temas": [
+    "minimalismo",
+    "metodo",
+    "mantenimiento"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres piezas para sostener el menos sin rigidez",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16 — Sostener una vida simple sin rigidez"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La paz no estaba en añadir sino en quitar; no en llenar sino en vaciar; no en el ruido de tenerlo todo sino en el silencio de tener lo justo.",
+   "es_literal": false,
+   "ancla": "No en añadir, sino en quitar. No en llenar, sino en vaciar. No en el ruido de tenerlo todo, sino en el silencio de tener lo justo.",
+   "temas": [
+    "esencial",
+    "paz"
+   ],
+   "intensidad": 5,
+   "gancho": "No en llenar, sino en vaciar",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "CIERRE — El lujo de lo esencial"
+  }
+ ]
+}

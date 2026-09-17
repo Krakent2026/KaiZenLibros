@@ -1,0 +1,1261 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "silencio",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "El silencio no es apagar el mundo. Es dejar de correr detrás de él.",
+   "es_literal": true,
+   "ancla": "El silencio no es apagar el mundo. Es dejar de correr detrás de él.",
+   "temas": [
+    "silencio",
+    "atención",
+    "presencia"
+   ],
+   "intensidad": 3,
+   "gancho": "La frase que sostiene todo el libro",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La vida no se juega en los grandes momentos. Se decide en el instante diminuto que hay entre que algo pasa y tú respondes. Entrenar la atención no cambia lo que pasa: alarga ese instante.",
+   "es_literal": false,
+   "ancla": "Tu vida no se decide en las grandes ocasiones solemnes. Se decide en el pequeñísimo instante que hay entre que algo pasa y tú respondes.",
+   "temas": [
+    "atención",
+    "reactividad"
+   ],
+   "intensidad": 3,
+   "gancho": "Todo se decide en el hueco entre el estímulo y tu respuesta",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Y si lo que crees que te descalifica —una mente dispersa que no para— fuera justo la materia prima con la que se entrena, no un requisito que te falta?",
+   "es_literal": false,
+   "ancla": "Decir “no sirvo para concentrarme, así que no puedo meditar” es exactamente igual que decir “no tengo fuerza en los brazos, así que no puedo ir al gimnasio”.",
+   "temas": [
+    "autocrítica",
+    "atención",
+    "principiantes"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Tu mente dispersa te descalifica o es tu punto de partida?",
+   "formatos": [
+    "pin",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La mecánica del regreso, en tres pasos: te das cuenta de que la mente se fue; no te regañas por ello; vuelves, con suavidad, a la respiración. El paso del medio es el que casi todos se saltan.",
+   "es_literal": false,
+   "ancla": "Le describí lo que yo llamo la mecánica del regreso, y es sinceramente lo único que necesitas dominar en toda la meditación. Son tres pasos, y el del medio es el que casi todo el mundo se salta:",
+   "temas": [
+    "herramienta",
+    "respiración",
+    "autocompasión"
+   ],
+   "intensidad": 3,
+   "gancho": "Los tres pasos que resumen toda la meditación",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para encontrar tus diez minutos: primero mira cuánto tiempo real se te va al móvil. Segundo, no sumes minutos nuevos, reasigna unos que ya gastas en scroll. Tercero, átalos a un momento fijo del día. Cuarto, empieza por uno solo y no falles dos días seguidos.",
+   "es_literal": false,
+   "ancla": "Le pedí que mirara la estadística de uso del móvil de su semana. Le salió una cifra que prefiero no revelar para no deprimir a nadie, pero digamos que había tiempo de sobra escondido ahí.",
+   "temas": [
+    "hábito",
+    "tiempo",
+    "herramienta"
+   ],
+   "intensidad": 2,
+   "gancho": "No busques tiempo nuevo: reasigna el que ya se te escapa",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El problema casi nunca es el tiempo. Es la creencia de que si no se puede hacer a lo grande, mejor no hacerlo. Diez minutos constantes le ganan, con el tiempo, a la hora heroica que solo pasa una vez.",
+   "es_literal": false,
+   "ancla": "El problema de Marta no era la falta de tiempo. Era una creencia, extendidísima y tremendamente dañina, que suena más o menos así: “Si no puedo hacerlo bien y a lo grande, mejor no hacer nada”.",
+   "temas": [
+    "todo_o_nada",
+    "constancia",
+    "hábito"
+   ],
+   "intensidad": 3,
+   "gancho": "El problema nunca fue el tiempo, fue el todo o nada",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Esto no cura enfermedades ni sustituye a un médico o a un psicólogo. No es una solución milagrosa para todo, y conviene desconfiar de quien te la venda como tal.",
+   "es_literal": false,
+   "ancla": "La meditación no cura enfermedades. No cura el cáncer, no cura la depresión clínica por sí sola, no sustituye a un médico ni a un psicólogo ni a la medicación que alguien necesite.",
+   "temas": [
+    "límites",
+    "honestidad",
+    "salud"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que esto no cura, dicho sin rodeos",
+   "formatos": [
+    "cita",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Con matices, no con titulares: quienes practican con regularidad suelen llevar algo mejor el estrés del día a día, dormir algo mejor y rumiar un poco menos. Es una observación, no una garantía.",
+   "es_literal": false,
+   "ancla": "reportar que manejan mejor el estrés del día a día, que duermen algo mejor, que rumian un poco menos y que reaccionan con menos automatismo ante las cosas que les alteran.",
+   "temas": [
+    "honestidad",
+    "evidencia",
+    "expectativas"
+   ],
+   "intensidad": 2,
+   "gancho": "Lo que se observa, dicho con matices y sin titulares",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para comprobarlo por ti mismo: registra durante varias semanas el nivel de estrés antes y después de cada sesión, cómo duermes, cuántas veces reaccionas en caliente y tu estado de ánimo general. Luego mira la tendencia, no los días sueltos.",
+   "es_literal": false,
+   "ancla": "Si eres de los que necesitan datos, aquí tienes qué puedes registrar durante tus semanas de prueba, para que tu experimento sea más fiable que una simple impresión. No hace falta que lo midas todo; elige uno o dos que te importen.",
+   "temas": [
+    "experimento",
+    "escepticismo",
+    "herramienta"
+   ],
+   "intensidad": 2,
+   "gancho": "Cómo hacer ciencia contigo mismo en cuatro datos",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Tres de la mañana. El corazón acelerado sin motivo, la cabeza enredada en un problema de trabajo que a esa hora no tiene arreglo. Y de fondo, la misma pregunta de siempre: a ver qué es exactamente eso que dije que no iba a hacer.",
+   "es_literal": false,
+   "ancla": "Pasaron seis meses. La tensión no bajó. El estrés no bajó. Y una noche, a las tres de la mañana, con el corazón acelerado sin motivo y la cabeza dando vueltas a un problema del trabajo que no tenía solución a esa hora, Diego pensó: “Bueno, a ver qué es exactamente eso que no pienso hacer”.",
+   "temas": [
+    "insomnio",
+    "escepticismo",
+    "rutina"
+   ],
+   "intensidad": 3,
+   "gancho": "Las tres de la mañana que cambian la conversación",
+   "formatos": [
+    "reel",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1"
+  },
+  {
+   "tipo": "cita",
+   "texto": "“No vas a vaciar la mente, vas a dejar de perseguirla”. “El silencio ya está ahí, debajo del ruido; solo hay que dejar de taparlo”.",
+   "es_literal": true,
+   "ancla": "“No vas a vaciar la mente, vas a dejar de perseguirla”. “El silencio ya está ahí, debajo del ruido; solo hay que dejar de taparlo”.",
+   "temas": [
+    "silencio",
+    "atención"
+   ],
+   "intensidad": 3,
+   "gancho": "Dos formas de decir lo mismo, y las dos importan",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Introducción"
+  },
+  {
+   "tipo": "cita",
+   "texto": "“No sé si medito bien o mal, sinceramente no tengo ni idea. Pero por primera vez en meses siento que hay diez minutos del día que son míos de verdad. No de la empresa, no de los niños, no del móvil. Míos”.",
+   "es_literal": true,
+   "ancla": "“No sé si medito bien o mal, sinceramente no tengo ni idea. Pero por primera vez en meses siento que hay diez minutos del día que son míos de verdad. No de la empresa, no de los niños, no del móvil. Míos”.",
+   "temas": [
+    "tiempo_propio",
+    "constancia"
+   ],
+   "intensidad": 3,
+   "gancho": "Diez minutos que son míos de verdad",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Nadie se pone en forma yendo al gimnasio una vez al mes a reventarse tres horas seguidas. Lo que entrena de verdad es la frecuencia moderada y sostenida, no la intensidad de vez en cuando. Con la atención pasa lo mismo.",
+   "es_literal": false,
+   "ancla": "Piénsalo con el cuerpo, que se entiende mejor. Nadie se pone en forma yendo al gimnasio una vez al mes a machacarse durante tres horas.",
+   "temas": [
+    "constancia",
+    "hábito",
+    "atención"
+   ],
+   "intensidad": 2,
+   "gancho": "Diez minutos diarios ganan a una hora de vez en cuando",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Y si diez minutos no compitieran con tus otras horas, sino que cambiaran cómo transcurren? No es cuestión de cantidad: es cuestión de qué entrenas y dónde aparece después.",
+   "es_literal": false,
+   "ancla": "Pero es que no funciona por la cantidad de tiempo, sino por lo que esos diez minutos entrenan y por cómo se derraman en el resto.",
+   "temas": [
+    "tiempo",
+    "atención",
+    "hábito"
+   ],
+   "intensidad": 2,
+   "gancho": "¿Compiten tus diez minutos con el día, o lo atraviesan?",
+   "formatos": [
+    "pin",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No necesitas más tiempo. Necesitas el mismo tiempo, todos los días.",
+   "es_literal": true,
+   "ancla": "No necesitas más tiempo. Necesitas el mismo tiempo, todos los días.",
+   "temas": [
+    "constancia",
+    "tiempo"
+   ],
+   "intensidad": 2,
+   "gancho": "No hace falta más tiempo, hace falta el mismo, cada día",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El objetivo no es terminar relajado. El objetivo es haberte sentado y haber vuelto cada vez que la mente se fue. Lo primero es un efecto que a veces llega; lo segundo es lo único que depende de ti.",
+   "es_literal": false,
+   "ancla": "el éxito no es terminar relajado, el éxito es haberte sentado y haber vuelto cada vez que te fuiste.",
+   "temas": [
+    "expectativas",
+    "autocompasión",
+    "atención"
+   ],
+   "intensidad": 2,
+   "gancho": "El éxito no es relajarte, es haber vuelto",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 1"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Puede que haya algo de efecto placebo, y no pasa nada: si el cambio se nota, se nota, venga de donde venga el mecanismo. Lo interesante es medirlo, no adivinar su causa exacta.",
+   "es_literal": false,
+   "ancla": "puede que haya algo de eso, y no pasa nada, porque si te sientes mejor, te sientes mejor, venga de donde venga el mecanismo.",
+   "temas": [
+    "escepticismo",
+    "honestidad"
+   ],
+   "intensidad": 2,
+   "gancho": "¿Y si parte de esto fuera placebo? No cambiaría mucho",
+   "formatos": [
+    "hilo",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Pensar resuelve, planifica, recuerda, imagina. Rumiar da vueltas al mismo asunto sin avanzar nada, como una lavadora atascada, generando solo desgaste. Se parecen, pero no son lo mismo.",
+   "es_literal": false,
+   "ancla": "**Pensar** es útil: resolver un problema, planificar, recordar algo necesario, imaginar. **Rumiar** es darle vueltas y vueltas al mismo asunto sin avanzar ni un milímetro, como una lavadora atascada en el centrifugado, generando solo desgaste y malestar.",
+   "temas": [
+    "rumiación",
+    "pensamientos",
+    "claridad"
+   ],
+   "intensidad": 3,
+   "gancho": "Pensar y rumiar no son lo mismo, aunque lo parezcan",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El cuerpo nunca vive en el futuro. Por eso es un ancla tan buena.",
+   "es_literal": true,
+   "ancla": "El cuerpo nunca vive en el futuro. Por eso es un ancla tan buena.",
+   "temas": [
+    "cuerpo",
+    "atención",
+    "presente"
+   ],
+   "intensidad": 3,
+   "gancho": "El cuerpo nunca vive en el futuro",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No eres tus pensamientos. Eres el que los mira.",
+   "es_literal": true,
+   "ancla": "No eres tus pensamientos. Eres el que los mira.",
+   "temas": [
+    "pensamientos",
+    "observación"
+   ],
+   "intensidad": 3,
+   "gancho": "No eres tus pensamientos, eres el que los mira",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El silencio no es la ausencia de sonido. Es tu forma de escucharlo.",
+   "es_literal": true,
+   "ancla": "El silencio no es la ausencia de sonido. Es tu forma de escucharlo.",
+   "temas": [
+    "silencio",
+    "sonidos",
+    "escucha"
+   ],
+   "intensidad": 3,
+   "gancho": "El silencio es tu forma de escuchar, no la ausencia de ruido",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No necesitas parar tu vida para meditar. Necesitas prestarle atención.",
+   "es_literal": true,
+   "ancla": "No necesitas parar tu vida para meditar. Necesitas prestarle atención.",
+   "temas": [
+    "vida_diaria",
+    "atención"
+   ],
+   "intensidad": 3,
+   "gancho": "No pares tu vida para meditar, préstale atención",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El mejor sitio para meditar es aquel al que vas a volver mañana.",
+   "es_literal": true,
+   "ancla": "El mejor sitio para meditar es aquel al que vas a volver mañana.",
+   "temas": [
+    "hábito",
+    "constancia"
+   ],
+   "intensidad": 2,
+   "gancho": "El mejor sitio es aquel al que vuelves mañana",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El escaneo de los tres puntos para el cuerpo agitado: lleva la atención a los pies en el suelo, luego a las manos en el regazo, luego al asiento que te sostiene. Repite el circuito cuando la mente se dispare.",
+   "es_literal": false,
+   "ancla": "La idea es sencilla: en lugar de visitar todo el cuerpo, anclas la atención en solo tres puntos de contacto, tres sitios donde tu cuerpo toca algo firme y estable.",
+   "temas": [
+    "herramienta",
+    "ansiedad",
+    "cuerpo"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres puntos de contacto para el cuerpo agitado",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuatro formas de sujetar la respiración en un día revuelto: contar cada respiración hasta diez, poner una palabra suave a cada mitad (dentro, fuera), alargar un poco la exhalación, o notar el aire en tres etapas: nariz, pecho, barriga.",
+   "es_literal": false,
+   "ancla": "Observar la respiración tal cual es la práctica fundamental y no necesitas más. Pero hay días en que la mente está tan revuelta que “solo mirar” no basta para sujetarla, y para esos días viene bien tener algunas variantes que le dan a la mente un poco más de trabajo, un asidero más firme.",
+   "temas": [
+    "respiración",
+    "herramienta"
+   ],
+   "intensidad": 2,
+   "gancho": "Cuatro formas de sujetar la respiración en un día revuelto",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige dos o tres recordatorios de presencia: una respiración al cruzar una puerta, tres antes de arrancar el coche, una pausa al lavarte las manos, atención plena en el primer sorbo de café. Pequeñas campanas que te devuelven al aquí y ahora.",
+   "es_literal": false,
+   "ancla": "Una forma preciosa de llevar el silencio a la vida diaria es elegir unos pocos momentos cotidianos como “recordatorios de presencia”: pequeñas campanas invisibles que, cada vez que aparecen, te devuelven al aquí y ahora durante unos segundos.",
+   "temas": [
+    "vida_diaria",
+    "hábito",
+    "herramienta"
+   ],
+   "intensidad": 2,
+   "gancho": "Pequeñas campanas que te devuelven al aquí y ahora",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La meditación solo le pide dos cosas a tu cuerpo: estar cómodo, para que el dolor no acapare la atención, y estar despierto, para que la comodidad no te lleve derecho a la siesta. Ni loto, ni cojín especial: con lo que llevas puesto basta.",
+   "es_literal": false,
+   "ancla": "Lo único que le pide de verdad la meditación a tu cuerpo es una combinación de dos cualidades: **cómodo** (para que el dolor o la incomodidad no acaparen tu atención y no puedas atender a otra cosa) y **despierto** (para que la comodidad no te lleve directo a la siesta).",
+   "temas": [
+    "postura",
+    "principiantes"
+   ],
+   "intensidad": 2,
+   "gancho": "Solo dos requisitos para tu cuerpo: cómodo y despierto",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El momento perfecto no existe. Esperarlo es una forma elegante de no empezar. Se practica mejor en la vida real, con ruido y prisa, que en un retiro ideal que nunca llega.",
+   "es_literal": false,
+   "ancla": "el momento perfecto no existe, y esperarlo es una forma elegante de no empezar.",
+   "temas": [
+    "excusas",
+    "constancia"
+   ],
+   "intensidad": 3,
+   "gancho": "El momento perfecto no existe, y esperarlo es la excusa",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Y si llevas semanas preparando el rincón perfecto en lugar de sentarte diez minutos en el que ya tienes? El espacio sagrado no lo hacen las velas, lo hace la atención.",
+   "es_literal": false,
+   "ancla": "convierte el empezar en un proyecto de decoración, y entonces la gente se pasa semanas “preparando su espacio” en lugar de, sencillamente, sentarse.",
+   "temas": [
+    "excusas",
+    "principiantes"
+   ],
+   "intensidad": 2,
+   "gancho": "El espacio sagrado no lo hacen las velas",
+   "formatos": [
+    "pin",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Al llegar a los hombros durante el escaneo, aparece algo inesperado: los llevas subidos, encogidos hacia las orejas, como si esperaras un golpe desde hace años. Nadie te avisó de que ibas así por la vida.",
+   "es_literal": false,
+   "ancla": "al llegar a los hombros se dio cuenta de que los llevaba subidos, encogidos hacia las orejas, en una tensión permanente que arrastraba probablemente desde hacía años sin ser consciente de ella.",
+   "temas": [
+    "cuerpo",
+    "tensión",
+    "escaneo"
+   ],
+   "intensidad": 3,
+   "gancho": "Los hombros que llevas subidos sin saberlo",
+   "formatos": [
+    "reel",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La música con melodía y letra está hecha justo para llevarse tu atención: engancha, recuerda, emociona. Si meditas con tu canción favorita de fondo, en realidad estás escuchando música, que está muy bien, pero no es lo mismo.",
+   "es_literal": false,
+   "ancla": "El problema de la música con melodía y letra es que está hecha, precisamente, para captar tu atención y llevártela: te engancha a la melodía, te recuerda cosas, te emociona, te hace seguir el ritmo.",
+   "temas": [
+    "música",
+    "honestidad",
+    "sonidos"
+   ],
+   "intensidad": 2,
+   "gancho": "Por qué tu canción favorita no es meditar",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un pensamiento no es una orden que haya que ejecutar. Aparece “me apetece el móvil” y no hace falta cogerlo; aparece “debería angustiarme” y no hace falta obedecer. El pensamiento propone, tú dispones.",
+   "es_literal": false,
+   "ancla": "un pensamiento no es una orden que haya que ejecutar. Parece obvio dicho así, pero vivimos casi todo el día obedeciendo pensamientos sin cuestionarlos.",
+   "temas": [
+    "pensamientos",
+    "libertad"
+   ],
+   "intensidad": 3,
+   "gancho": "El pensamiento propone, tú dispones",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Entre pensamiento y pensamiento hay huecos diminutos de silencio. La mente no habla sin parar como un chorro continuo: salta de una cosa a otra, y en el salto hay una micropausa. Ese hueco, con la práctica, se hace un poco más largo.",
+   "es_literal": false,
+   "ancla": "entre pensamiento y pensamiento hay pequeños huecos de silencio. No es que la mente hable sin parar como un chorro continuo; es que salta de un pensamiento a otro, y entre uno y otro hay micro-pausas, instantes en que no hay ningún pensamiento, solo presencia.",
+   "temas": [
+    "pensamientos",
+    "silencio"
+   ],
+   "intensidad": 3,
+   "gancho": "Los huecos de silencio entre un pensamiento y otro",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Convertir el ruido en aliado, paso a paso: nota que el ruido te crispa y que estás en guerra con tu entorno; decide hacer del sonido tu objeto de atención en vez de bloquearlo; escúchalo sin la historia que le añades; descubre que, sin lucha, deja de estar en tu contra.",
+   "es_literal": false,
+   "ancla": "Normalmente, ese ruido te crispa. Cada sonido molesto te saca de quicio y refuerza el pensamiento “es imposible tener paz aquí”. Estás en guerra con tu entorno, y la guerra te agota.",
+   "temas": [
+    "sonidos",
+    "herramienta",
+    "aceptación"
+   ],
+   "intensidad": 3,
+   "gancho": "Cómo convertir el ruido en tu aliado, en cuatro pasos",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Antes necesitaba que el mundo se callara para estar tranquila. Ahora estoy tranquila aunque el mundo no se calle. Y menos mal, porque el mundo no se va a callar.",
+   "es_literal": true,
+   "ancla": "Antes necesitaba que el mundo se callara para estar tranquila. Ahora estoy tranquila aunque el mundo no se calle. Y menos mal, porque el mundo no se va a callar.",
+   "temas": [
+    "sonidos",
+    "aceptación",
+    "paz"
+   ],
+   "intensidad": 3,
+   "gancho": "Tranquila aunque el mundo no se calle",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Las buenas ideas no llegan cuando persigues. Llegan cuando dejas sitio.",
+   "es_literal": true,
+   "ancla": "Las buenas ideas no llegan cuando persigues. Llegan cuando dejas sitio.",
+   "temas": [
+    "creatividad",
+    "claridad"
+   ],
+   "intensidad": 3,
+   "gancho": "No persigas las ideas: hazles sitio",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El único error en meditación es dejar de sentarte.",
+   "es_literal": true,
+   "ancla": "El único error en meditación es dejar de sentarte.",
+   "temas": [
+    "constancia",
+    "hábito"
+   ],
+   "intensidad": 3,
+   "gancho": "El único error es dejar de sentarte",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No busques la racha perfecta. Busca volver rápido cuando la rompas.",
+   "es_literal": true,
+   "ancla": "No busques la racha perfecta. Busca volver rápido cuando la rompas.",
+   "temas": [
+    "hábito",
+    "autocompasión"
+   ],
+   "intensidad": 3,
+   "gancho": "No busques la racha perfecta, busca volver rápido",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Vivir presente no es una técnica de relajación; es, literalmente, no perderte tu propia vida mientras la vives.",
+   "es_literal": true,
+   "ancla": "Vivir presente no es una técnica de relajación; es, literalmente, no perderte tu propia vida mientras la vives.",
+   "temas": [
+    "presencia",
+    "vida_diaria"
+   ],
+   "intensidad": 3,
+   "gancho": "Vivir presente es no perderte tu propia vida",
+   "formatos": [
+    "cita",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 10"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El miedo siguió ahí. Pero por primera vez no me pareció un monstruo que me iba a devorar. Era solo miedo. Un miedo comprensible, hasta razonable a mi edad.",
+   "es_literal": true,
+   "ancla": "El miedo siguió ahí. Pero por primera vez no me pareció un monstruo que me iba a devorar. Era solo miedo. Un miedo comprensible, hasta razonable a mi edad.",
+   "temas": [
+    "emociones",
+    "miedo"
+   ],
+   "intensidad": 4,
+   "gancho": "Podía tener miedo y seguir siendo yo",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11"
+  },
+  {
+   "tipo": "cita",
+   "texto": "volver no requiere expiación. No tienes que castigarte, ni recuperar lo perdido, ni empezar con una sesión larga para “compensar”. Volver es tan simple como sentarte diez minutos hoy, como si no hubiera pasado nada, sin ajustar cuentas contigo mismo.",
+   "es_literal": true,
+   "ancla": "volver no requiere expiación. No tienes que castigarte, ni recuperar lo perdido, ni empezar con una sesión larga para “compensar”. Volver es tan simple como sentarte diez minutos hoy, como si no hubiera pasado nada, sin ajustar cuentas contigo mismo.",
+   "temas": [
+    "hábito",
+    "autocompasión",
+    "constancia"
+   ],
+   "intensidad": 3,
+   "gancho": "Volver no requiere expiación",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuatro pasos para una emoción difícil: reconocer lo que hay poniéndole nombre; permitir que esté sin luchar por echarla; investigar con amabilidad dónde y cómo se siente en el cuerpo; recordar que tú no eres la emoción, eres el espacio donde ocurre.",
+   "es_literal": false,
+   "ancla": "Cuando aparece una emoción fuerte y no sabes qué hacer con ella, viene bien tener un pequeño mapa. Este de cuatro pasos es sencillo de recordar y funciona con casi cualquier emoción difícil:",
+   "temas": [
+    "emociones",
+    "herramienta"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuatro pasos para sostener una emoción difícil",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La pausa de diez minutos para el bloqueo: reconoce que llevas un rato dando vueltas sin avanzar; suelta el problema del todo, sin cambiar a otra pantalla; haz diez minutos de silencio sin pensar en él a propósito; vuelve sin exigir que la solución ya esté ahí.",
+   "es_literal": false,
+   "ancla": "De la experiencia de Nora y de Diego se saca una herramienta concreta que puedes usar la próxima vez que te encuentres atascado ante cualquier problema, decisión o tarea que no avanza. Llámala la pausa de diez minutos.",
+   "temas": [
+    "claridad",
+    "herramienta",
+    "bloqueo"
+   ],
+   "intensidad": 3,
+   "gancho": "La pausa de diez minutos para cuando te atascas",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La fórmula para que un hábito se pegue: después de [algo que ya haces sin fallar jamás], [diez minutos de silencio]. El hábito viejo se convierte en el disparador automático del nuevo.",
+   "es_literal": false,
+   "ancla": "La fórmula es sencilla: “Después de [hábito viejo que nunca fallo], haré [diez minutos de silencio]”.",
+   "temas": [
+    "hábito",
+    "herramienta"
+   ],
+   "intensidad": 2,
+   "gancho": "La fórmula para que un hábito nuevo se pegue",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Si te duermes meditando: siéntate, nunca te tumbes; hazlo por la mañana en vez de después de cenar; prueba con los ojos entreabiertos y la mirada baja; endereza la espalda y respira un poco más hondo para activarte.",
+   "es_literal": false,
+   "ancla": "Que te duermas meditando no es un fracaso de tu meditación; es un mensaje muy claro sobre tu descanso, y conviene escucharlo. Dicho esto, si lo que quieres es meditar despierto, aquí van los remedios:",
+   "temas": [
+    "sueño",
+    "herramienta",
+    "principiantes"
+   ],
+   "intensidad": 2,
+   "gancho": "Qué hacer si te duermes meditando",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Comer viendo una pantalla, hablar por teléfono conduciendo, escuchar un podcast mientras trabajas: lo llamamos eficiencia, pero es estar un poco en todo y del todo en nada. Una cosa a la vez es otra forma de silencio.",
+   "es_literal": false,
+   "ancla": "Vivimos en una cultura que celebra hacer varias cosas simultáneamente (comer viendo una pantalla, hablar por teléfono conduciendo, escuchar un podcast mientras trabajas), como si eso fuera eficiencia.",
+   "temas": [
+    "multitarea",
+    "presencia"
+   ],
+   "intensidad": 2,
+   "gancho": "Hacer varias cosas a la vez no es eficiencia",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Sentir una emoción no es lo mismo que revolcarse en ella. Sentir ocurre en el cuerpo y en el presente; revolcarse es la historia mental que le añades encima: el «y entonces», el «no es justo», el «siempre igual». Una se digiere, la otra se perpetúa.",
+   "es_literal": false,
+   "ancla": "Estar con las emociones no significa revolcarse en ellas, alimentarlas, darles vueltas, contarte una y otra vez la historia que las provoca. Eso es rumiación disfrazada de trabajo emocional, y hace más daño que bien.",
+   "temas": [
+    "emociones",
+    "rumiación"
+   ],
+   "intensidad": 3,
+   "gancho": "Sentir no es lo mismo que revolcarse",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "“Estoy intentando meditar todos los días” y “soy alguien que medita” describen dos cosas distintas por dentro. La primera es un esfuerzo que puede soltarse cualquier día; la segunda es una identidad que se sostiene sola.",
+   "es_literal": false,
+   "ancla": "Fíjate en la diferencia entre estas dos frases: “estoy intentando meditar todos los días” y “soy alguien que medita”.",
+   "temas": [
+    "identidad",
+    "hábito"
+   ],
+   "intensidad": 3,
+   "gancho": "Intentar meditar y ser alguien que medita no es igual",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Sentarte cada día como si fuera el primero, con curiosidad, sin dar nada por sabido. No hay un nivel que alcanzar y mantener en automático; hay solo esta respiración, ahora, con toda tu atención.",
+   "es_literal": false,
+   "ancla": "sentarte cada día como si fuera el primero, con curiosidad, sin dar nada por sabido. Cada respiración es nueva. Cada sesión es distinta.",
+   "temas": [
+    "principiantes",
+    "atención"
+   ],
+   "intensidad": 2,
+   "gancho": "La mente de principiante contra la rutina hueca",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La fuerza de voluntad se agota a lo largo del día, como la batería del móvil. Un hábito construido sobre ella funciona los días buenos y se derrumba justo los días malos, que son cuando más hace falta. La clave es el diseño, no el esfuerzo.",
+   "es_literal": false,
+   "ancla": "La fuerza de voluntad es un recurso limitado que se agota a lo largo del día, como la batería del móvil.",
+   "temas": [
+    "hábito",
+    "diseño"
+   ],
+   "intensidad": 3,
+   "gancho": "La fuerza de voluntad se agota como una batería",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No existe salir bien o salir mal. Si te sientas, te distraes y vuelves, ya te está saliendo. “No me sale” casi siempre significa que esperabas algo que no iba a pasar nunca: paz absoluta, mente en blanco.",
+   "es_literal": false,
+   "ancla": "no existe “salir bien” o “salir mal”. Si te sientas, te distraes y vuelves, te está saliendo.",
+   "temas": [
+    "expectativas",
+    "principiantes"
+   ],
+   "intensidad": 2,
+   "gancho": "No existe salir bien o salir mal meditando",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13"
+  },
+  {
+   "tipo": "escena",
+   "texto": "A mitad de un paseo sin buscarlo, sin estudiar, mirando árboles, las piezas de un tema imposible empiezan a colocarse solas. Como si la cabeza, en cuanto dejas de apretar, siguiera montando el puzle por su cuenta.",
+   "es_literal": false,
+   "ancla": "Fue rarísimo. No estaba estudiando, estaba mirando árboles, y de repente el tema tenía forma. Como si mi cabeza, al dejar de apretar, hubiera seguido montando el puzle por su cuenta.",
+   "temas": [
+    "claridad",
+    "bloqueo",
+    "estudio"
+   ],
+   "intensidad": 3,
+   "gancho": "El puzle que se arma solo a mitad de un paseo",
+   "formatos": [
+    "reel",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No hay días perdidos en meditación. La sesión más caótica, esa en la que te distrajiste sin parar y saliste igual de tenso, también contó, también entrenó, también fue una repetición.",
+   "es_literal": true,
+   "ancla": "No hay días perdidos en meditación. La sesión más caótica, esa en la que te distrajiste sin parar y saliste igual de tenso, también contó, también entrenó, también fue una repetición.",
+   "temas": [
+    "constancia",
+    "autocompasión"
+   ],
+   "intensidad": 3,
+   "gancho": "No hay días perdidos, ni siquiera el más caótico",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Cierre"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Los que llegan lejos en esto no son los que nunca fallan; son los que siempre vuelven.",
+   "es_literal": true,
+   "ancla": "Los que llegan lejos en esto no son los que nunca fallan; son los que siempre vuelven.",
+   "temas": [
+    "constancia",
+    "hábito"
+   ],
+   "intensidad": 3,
+   "gancho": "Los que llegan lejos son los que siempre vuelven",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Cierre"
+  },
+  {
+   "tipo": "cita",
+   "texto": "siéntate diez minutos, presta atención a algo, y cuando la mente se vaya, vuelve, sin regañarte.",
+   "es_literal": true,
+   "ancla": "siéntate diez minutos, presta atención a algo, y cuando la mente se vaya, vuelve, sin regañarte.",
+   "temas": [
+    "síntesis",
+    "atención"
+   ],
+   "intensidad": 3,
+   "gancho": "Toda la meditación cabe en una frase",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Cierre"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Kit de rescate, primer gesto: para lo que estés haciendo y haz tres respiraciones lentas con toda tu atención, la exhalación un poco más larga que la inhalación. Solo tres. Es suficiente para abrir un hueco entre el estímulo y tu reacción.",
+   "es_literal": false,
+   "ancla": "La más simple y la más útil. Para lo que estés haciendo, y haz tres respiraciones lentas prestándoles toda tu atención, con la exhalación un poco más larga que la inhalación. Solo tres.",
+   "temas": [
+    "herramienta",
+    "emergencia",
+    "respiración"
+   ],
+   "intensidad": 2,
+   "gancho": "Tres respiraciones antes de responder a lo que te provoca",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Anexo 3"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para la ansiedad aguda: nombra mentalmente cinco cosas que ves, cuatro que oyes, tres que puedes tocar, dos que hueles y una que saboreas. Te devuelve al presente por la puerta de los sentidos.",
+   "es_literal": false,
+   "ancla": "Para momentos de ansiedad aguda. Nombra mentalmente cinco cosas que ves, cuatro que oyes, tres que puedes tocar, dos que hueles y una que saboreas.",
+   "temas": [
+    "herramienta",
+    "ansiedad",
+    "sentidos"
+   ],
+   "intensidad": 3,
+   "gancho": "El 5-4-3-2-1 para la ansiedad aguda",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Anexo 3"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Elegir el silencio en un mundo que vende ruido a todas horas es un pequeño acto de rebeldía tranquila. Mi atención es mía, no un producto. Mi calma no está en venta.",
+   "es_literal": false,
+   "ancla": "El silencio, en ese contexto, es un pequeño acto de rebeldía tranquila. Es decir: mi atención es mía, no un producto. Mi calma no está en venta.",
+   "temas": [
+    "atención",
+    "rebeldía",
+    "ruido"
+   ],
+   "intensidad": 3,
+   "gancho": "Tu atención no está en venta",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay tres etapas en la relación con el silencio: primero es algo que haces, con esfuerzo; luego algo que tienes, un hábito instalado; por último algo que eres, una calma de fondo. No hay que forzar el paso de una a otra.",
+   "es_literal": false,
+   "ancla": "No hay que forzar el paso de una etapa a otra; ocurre solo, con el tiempo y la constancia, un uno por ciento cada día.",
+   "temas": [
+    "hábito",
+    "identidad",
+    "constancia"
+   ],
+   "intensidad": 3,
+   "gancho": "Hacer, tener, ser: las tres etapas del silencio",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Las aplicaciones que usas están diseñadas por gente muy inteligente para que pases en ellas el mayor tiempo posible, porque tu atención es lo que venden. No es que seas débil de voluntad: hay un ejército de ingenieros trabajando para captar tu atención.",
+   "es_literal": false,
+   "ancla": "Las aplicaciones que usas están diseñadas por gente muy inteligente con un objetivo claro: que pases en ellas el mayor tiempo posible, porque tu atención es lo que venden.",
+   "temas": [
+    "tecnología",
+    "atención",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Por qué cuesta tanto soltar el móvil",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Te sientas a hacer silencio y aparece de golpe toda tu lista de pendientes? Es de lo más común: en cuanto callas, la mente aprovecha para soltarte la agenda entera.",
+   "es_literal": false,
+   "ancla": "Es de lo más común: en cuanto callas, la mente aprovecha para soltarte toda la agenda.",
+   "temas": [
+    "pensamientos",
+    "principiantes"
+   ],
+   "intensidad": 2,
+   "gancho": "¿Se te llena la cabeza de pendientes en cuanto callas?",
+   "formatos": [
+    "pin",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Anexo 4"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Llevas semanas sin notar nada y estás a punto de dejarlo? Antes, pregúntate cuánto tiempo llevas y con qué constancia: los efectos piden semanas, y se notan casi siempre de refilón, no durante la sesión.",
+   "es_literal": false,
+   "ancla": "Antes de dejarlo, pregúntate: ¿cuánto tiempo llevas y con qué constancia?",
+   "temas": [
+    "constancia",
+    "expectativas"
+   ],
+   "intensidad": 2,
+   "gancho": "¿A punto de dejarlo sin haber dado tiempo al tiempo?",
+   "formatos": [
+    "pin",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Anexo 4"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué pasaría si pasaras un día entero sin ninguna pantalla que no sea estrictamente necesaria? Al principio aparece una inquietud casi física, unas ganas raras de coger el móvil que no responden a nada real.",
+   "es_literal": false,
+   "ancla": "Al principio del día notarás una inquietud casi física, unas ganas raras de coger el móvil que no responden a ninguna necesidad real.",
+   "temas": [
+    "tecnología",
+    "experimento"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Aguantarías un día entero sin pantallas de más?",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Al principio los cambios se notan mucho porque partías de cero. Después, el avance se vuelve más lento y más sutil, y es fácil confundirlo con estancamiento. Casi nunca estás igual: estás consolidando.",
+   "es_literal": false,
+   "ancla": "Al principio los cambios se notan mucho porque partías de cero; luego la mejora se vuelve más lenta y más sutil, y es fácil confundir eso con estancamiento.",
+   "temas": [
+    "expectativas",
+    "constancia"
+   ],
+   "intensidad": 2,
+   "gancho": "Confundir madurez con estancamiento",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Anexo 4"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Casi todos llegan buscando estar más tranquilos o llevar mejor la ansiedad, y eso suele pasar. Pero lo que la gente agradece al final casi siempre es otra cosa, más honda: haberse recuperado a sí misma.",
+   "es_literal": false,
+   "ancla": "Vienen buscando “relajarse” o “controlar la ansiedad”, y esas cosas suelen llegar, sí. Pero lo que agradecen al final, casi siempre, es otra cosa, más honda y más difícil de nombrar.",
+   "temas": [
+    "expectativas",
+    "identidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que buscabas y lo que de verdad te llevas",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Toda una vida esperando a que empezara de verdad: cuando me jubile, cuando arregle esto, cuando pase aquello. Y un día, en un sillón, con el café y la luz de la ventana, cae la ficha: la vida era esto. Estaba aquí todo el rato.",
+   "es_literal": false,
+   "ancla": "Antes vivía como si la vida fuera a empezar en algún momento. Cuando me jubilara, cuando arreglara esto, cuando pasara aquello. Siempre esperando.",
+   "temas": [
+    "presencia",
+    "vida_diaria"
+   ],
+   "intensidad": 4,
+   "gancho": "Toda una vida esperando a que empezara de verdad",
+   "formatos": [
+    "reel",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Muchas personas con ansiedad reportan que esto les ayuda a llevarla mejor, y suele ser un buen complemento. No es una cura ni sustituye a un tratamiento profesional cuando la ansiedad es intensa o clínica.",
+   "es_literal": false,
+   "ancla": "Muchas personas con ansiedad reportan que les ayuda a manejarla mejor, y suele ser un buen complemento. Pero no es una cura ni sustituye a un tratamiento profesional si tu ansiedad es intensa o clínica.",
+   "temas": [
+    "ansiedad",
+    "límites",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que esto sí y no hace por la ansiedad",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Anexo 4"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Es normal llorar meditando, sobre todo al principio o en épocas cargadas. El silencio destapa lo que estaba tapado. No es un fallo, es una limpieza. Si lo que sale te desborda, busca compañía profesional.",
+   "es_literal": false,
+   "ancla": "Sí, le pasa a mucha gente, sobre todo al principio o en épocas cargadas. El silencio destapa lo que estaba tapado. Deja que ocurra, es sano. No es un fallo; es una limpieza.",
+   "temas": [
+    "emociones",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Llorar meditando no es un fallo, es una limpieza",
+   "formatos": [
+    "hilo",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Anexo 4"
+  }
+ ]
+}

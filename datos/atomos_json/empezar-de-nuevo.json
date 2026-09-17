@@ -1,0 +1,1270 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "empezar-de-nuevo",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "Aquí se dice la verdad, y la verdad tiene dos caras que hay que sostener a la vez, sin permitir que ninguna tape ni anule a la otra",
+   "es_literal": true,
+   "ancla": "Esas frases son, precisamente, las que más daño hacen a quien está roto, y en este libro no vas a encontrar ni una sola dicha en serio; si aparecen, será para desmontarlas.",
+   "temas": [
+    "honestidad",
+    "duelo"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos caras a la vez: duele de verdad, y se puede volver a empezar.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Introducción — Cuando tu vida ya no encaja"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Este libro no habla de empezar de cero, sino de empezar desde los escombros. Entre los escombros, si uno se agacha a mirar con calma, hay ladrillos enteros y vigas sanas que todavía sirven.",
+   "es_literal": false,
+   "ancla": "Y que es con eso —solo con eso, sí, pero también nada menos que con todo eso— con lo que se levanta lo siguiente.",
+   "temas": [
+    "reinventarse",
+    "escombros"
+   ],
+   "intensidad": 4,
+   "gancho": "No se empieza de cero: se empieza desde los escombros.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Introducción — Cuando tu vida ya no encaja"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro no pone plazos ni asegura que saldrás de esto convertido en alguien más sabio y agradecido por lo vivido. Ofrece honestidad y un puñado de herramientas que puedes comprobar tú mismo.",
+   "es_literal": false,
+   "ancla": "No te voy a prometer que en tanto tiempo estarás curado, ni que si sigues estos pasos tu dolor desaparecerá, ni que saldrás de esto convertido en una persona mejor y más sabia y agradecida por lo vivido.",
+   "temas": [
+    "honestidad",
+    "promesas"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que este libro se niega a prometerte.",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Introducción — Cuando tu vida ya no encaja"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es una certeza falsa: es una verdad modesta. Ni estudios inventados ni cifras espectaculares; «suele ocurrir» antes que una estadística que nadie tiene.",
+   "es_literal": false,
+   "ancla": "Cuando mencione algo de la psicología del duelo, lo haré con cautela: diré \"suele ocurrir\", \"se ha observado a menudo\", \"muchos coinciden en\", antes que inventarme una estadística que no tengo.",
+   "temas": [
+    "honestidad",
+    "datos"
+   ],
+   "intensidad": 3,
+   "gancho": "Verdad modesta antes que certeza falsa.",
+   "formatos": [
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Introducción — Cuando tu vida ya no encaja"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No solo lloramos lo que perdimos: lloramos, sobre todo y con más desconsuelo, el futuro que dábamos por hecho y que ya no vendrá.",
+   "es_literal": true,
+   "ancla": "No solo lloramos lo que perdimos: lloramos, sobre todo y con más desconsuelo, el futuro que dábamos por hecho y que ya no vendrá.",
+   "temas": [
+    "duelo",
+    "futuro perdido"
+   ],
+   "intensidad": 5,
+   "gancho": "Se llora lo que se tuvo. Se llora más lo que se iba a tener.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — La vida que ya no existe"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Te despiertas y durante tres segundos todo está bien. Luego la mano se estira por pura costumbre hacia el otro lado de la cama y encuentra sábana fría. La cabeza confirma después lo que la mano ya había averiguado.",
+   "es_literal": false,
+   "ancla": "Primero lo nota el cuerpo, antes que la cabeza: la mano que se estira por pura costumbre hacia el otro lado de la cama y encuentra sábana fría, lisa, vacía, sin nadie.",
+   "temas": [
+    "duelo",
+    "ruptura"
+   ],
+   "intensidad": 4,
+   "gancho": "Los tres segundos buenos del día, y lo que viene después.",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — La vida que ya no existe"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando una vida se rompe no se pierde una sola cosa: se pierde un mundo entero, con sus rituales, su sitio en las mesas familiares y el porvenir que ya estaba montado en la cabeza.",
+   "es_literal": false,
+   "ancla": "Lo primero que hay que decir, sin adornos y sin ninguna prisa por consolar, es esto, que es la clave de todo el capítulo: cuando tu vida se rompe, no pierdes solo una cosa. Pierdes un mundo entero.",
+   "temas": [
+    "duelo",
+    "pérdida"
+   ],
+   "intensidad": 4,
+   "gancho": "Por eso duele más de lo que crees que «debería» doler.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — La vida que ya no existe"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Coge un papel. 2) Escribe en una sola frase qué es exactamente lo que se ha acabado: el hecho desnudo, en presente, no lo que sientes ni lo que temes. 3) Si son varias, escríbelas todas. 4) No las resuelvas hoy: solo míralas, fuera de tu cabeza.",
+   "es_literal": false,
+   "ancla": "Coge un papel y escribe, en una sola frase, qué es exactamente lo que se ha acabado. No lo que sientes, no lo que temes, no lo que vas a hacer: solo el hecho, desnudo, en presente.",
+   "temas": [
+    "aceptación",
+    "escritura"
+   ],
+   "intensidad": 3,
+   "gancho": "Nombrar el final con una sola frase, en presente.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — La vida que ya no existe"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Está bien no estar bien. Y decirlo en voz alta, sin pedir perdón ni justificarse, ya es empezar a estarlo un poco.",
+   "es_literal": true,
+   "ancla": "Está bien no estar bien. Y decirlo en voz alta, sin pedir perdón ni justificarse, ya es empezar a estarlo un poco.",
+   "temas": [
+    "duelo",
+    "permiso"
+   ],
+   "intensidad": 4,
+   "gancho": "Está bien no estar bien.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — El duelo de lo que fuiste (sin falso optimismo)"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El duelo no es una escalera de cinco peldaños que se suben en orden: es un oleaje. Van y vienen olas, sin horario. Lo único que cambia, muy despacio, es que se van espaciando y bajando de altura.",
+   "es_literal": false,
+   "ancla": "El duelo real, el que se vive y no el que se dibuja en un esquema, no es una escalera: es una espiral, o mejor todavía, es un oleaje. Van y vienen olas, sin horario ni orden.",
+   "temas": [
+    "duelo",
+    "fases"
+   ],
+   "intensidad": 4,
+   "gancho": "No es una escalera. Es oleaje.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — El duelo de lo que fuiste (sin falso optimismo)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Pero tu dolor no necesita ser el peor del mundo para ser real y legítimo y merecer atención.",
+   "es_literal": true,
+   "ancla": "Pero tu dolor no necesita ser el peor del mundo para ser real y legítimo y merecer atención. Que haya quien esté objetivamente peor que tú no hace, mágicamente, que tú estés bien.",
+   "temas": [
+    "dolor",
+    "comparación"
+   ],
+   "intensidad": 4,
+   "gancho": "Tu dolor no necesita ser el peor del mundo.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — El duelo de lo que fuiste (sin falso optimismo)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Escribe en un papel: «Me doy permiso para estar mal el tiempo que haga falta, sin justificarme ante nadie, ni siquiera ante mí mismo.» 2) Fírmalo con tu nombre y la fecha de hoy. 3) Guárdalo a mano. 4) Léelo cada vez que alguien te reclame que ya estés recuperado.",
+   "es_literal": false,
+   "ancla": "Escribe en un papel, y guárdatelo en un sitio donde lo tengas a mano, esta frase, firmada por ti con tu propio nombre y la fecha de hoy:",
+   "temas": [
+    "duelo",
+    "permiso"
+   ],
+   "intensidad": 3,
+   "gancho": "Un permiso por escrito, firmado y con fecha.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — El duelo de lo que fuiste (sin falso optimismo)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Aceptar no es rendirse ante lo que pasó: es dejar de pelear inútilmente contra lo inevitable para tener fuerzas para lo que aún es posible.",
+   "es_literal": true,
+   "ancla": "Aceptar no es rendirse ante lo que pasó: es dejar de pelear inútilmente contra lo inevitable para tener fuerzas para lo que aún es posible.",
+   "temas": [
+    "aceptación"
+   ],
+   "intensidad": 4,
+   "gancho": "Aceptar no es rendirse.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — Aceptar el final antes de construir el principio"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Rendirse y aceptar se parecen por fuera, porque los dos dejan de luchar, y son opuestos por dentro. El que se rinde deja de luchar porque ha dejado de creer; el que acepta deja de luchar contra lo imposible para poder luchar por lo posible.",
+   "es_literal": false,
+   "ancla": "La diferencia está toda en la dirección de la mirada. Rendirse es tumbarse en el suelo y dejar de vivir mirando solo hacia atrás",
+   "temas": [
+    "aceptación",
+    "rendirse"
+   ],
+   "intensidad": 4,
+   "gancho": "Los dos dejan de luchar. Miran en direcciones opuestas.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — Aceptar el final antes de construir el principio"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Aceptar un final no es perdonar a quien lo causó. Puedes reconocer que pasó y dejar de gastar fuerzas peleando contra ello sin haber perdonado a nadie todavía, y estar en tu derecho.",
+   "es_literal": false,
+   "ancla": "La aceptación es contigo y con la realidad; el perdón es con el otro, y es opcional y posterior.",
+   "temas": [
+    "aceptación",
+    "perdón"
+   ],
+   "intensidad": 3,
+   "gancho": "Aceptar es contigo. Perdonar es con el otro, y puede esperar.",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — Aceptar el final antes de construir el principio"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Busca un sitio a solas donde nadie te oiga. 2) Di en voz alta, entera y sin suavizarla, la frase que llevas evitando: «me ha dejado», «me han despedido», «ha muerto», la que sea la tuya. 3) Sin «en cierto modo» ni «más o menos». 4) Si se te quiebra la voz, deja que se quiebre.",
+   "es_literal": false,
+   "ancla": "A solas, en un sitio donde nadie te oiga y no tengas que dar explicaciones a nadie, di en voz alta la frase que llevas evitando decir.",
+   "temas": [
+    "aceptación",
+    "voz alta"
+   ],
+   "intensidad": 4,
+   "gancho": "Decirlo en voz alta saca el hecho de la niebla.",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — Aceptar el final antes de construir el principio"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Cuando la vida se rompe, la crisis no vive solo en la cabeza. Vive, y muy intensamente, en el cuerpo: en el sueño roto, el apetito alterado, la tensión muscular, el cansancio de fondo que no se va durmiendo.",
+   "es_literal": false,
+   "ancla": "cuando la vida se rompe, la crisis no vive solo en tus pensamientos ni en tus emociones. Vive, y muy intensamente, en tu cuerpo físico, en tu carne.",
+   "temas": [
+    "cuerpo",
+    "crisis",
+    "duelo"
+   ],
+   "intensidad": 3,
+   "gancho": "La crisis no es solo mental. Es, sobre todo, corporal.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — El cuerpo y las emociones en la crisis"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El dolor del alma se paga siempre, y se paga en la moneda del cuerpo. Por eso cuidar el cuerpo, aunque no tengas ni ganas ni fuerzas ni sentido para hacerlo, no es un lujo ni una frivolidad: es el suelo mismo sobre el que te sostienes.",
+   "es_literal": true,
+   "ancla": "El dolor del alma se paga siempre, y se paga en la moneda del cuerpo. Por eso cuidar el cuerpo, aunque no tengas ni ganas ni fuerzas ni sentido para hacerlo, no es un lujo ni una frivolidad: es el suelo mismo sobre el que te sostienes.",
+   "temas": [
+    "cuerpo",
+    "cuidado",
+    "duelo"
+   ],
+   "intensidad": 4,
+   "gancho": "El alma pasa factura, y la cobra en el cuerpo.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — El cuerpo y las emociones en la crisis"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Alguien cuidó durante años a un familiar gravemente enfermo. Cuando todo terminó, junto a la pena inmensa sintió una punzada de alivio, y esa punzada la llenó de horror. Pero el alivio, el amor y la pena caben perfectamente juntos en el mismo corazón, a la vez.",
+   "es_literal": false,
+   "ancla": "El alivio y el amor y la pena caben perfectamente juntos en el mismo corazón, a la vez.",
+   "temas": [
+    "cuidado",
+    "duelo",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "Sentir alivio no te hace un monstruo.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — El cuerpo y las emociones en la crisis"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando la angustia dispara: respira más lento alargando la exhalación un minuto o dos. Muévete diez o quince minutos, aunque sea arrastrando los pies. Ancla el cuerpo en el presente nombrando cinco cosas que ves, cuatro que oyes, tres que tocas. Cuida el sueño, el agua y algo de comida aunque no apetezca.",
+   "es_literal": false,
+   "ancla": "Anclarte en lo físico y en el presente cuando la angustia dispara y te arrastra hacia el futuro catastrófico imaginado.",
+   "temas": [
+    "cuerpo",
+    "herramienta",
+    "ansiedad"
+   ],
+   "intensidad": 2,
+   "gancho": "Cuatro anclas físicas para cuando la cabeza no ayuda.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — El cuerpo y las emociones en la crisis"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "No sentir nada tras un golpe grande no es falta de amor: es la anestesia del shock, un mecanismo de protección para que puedas funcionar sin colapsar. El dolor llega después, cuando la mente considera que ya puedes con él, a veces meses más tarde.",
+   "es_literal": false,
+   "ancla": "Ese no sentir nada es también una respuesta normal y sana ante un golpe demasiado grande: es la anestesia del shock.",
+   "temas": [
+    "shock",
+    "duelo",
+    "emociones"
+   ],
+   "intensidad": 3,
+   "gancho": "No sentir nada también es una forma de sobrevivir.",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — El cuerpo y las emociones en la crisis"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo más difícil de empezar de nuevo no es el final, con todo su dolor, ni siquiera el principio, con todo su miedo: es el largo entremedias en que ya no eres lo que fuiste y aún no eres lo que serás.",
+   "es_literal": true,
+   "ancla": "Lo más difícil de empezar de nuevo no es el final, con todo su dolor, ni siquiera el principio, con todo su miedo: es el largo entremedias en que ya no eres lo que fuiste y aún no eres lo que serás.",
+   "temas": [
+    "transición",
+    "identidad",
+    "reinvención"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo más duro no es el final ni el principio.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — La tierra de nadie de la transición"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El mayor riesgo del entremedias no es quedarse demasiado tiempo en él: es intentar salir a la fuerza, corriendo, antes de tiempo. De esa prisa salen los rebotes sentimentales, las mudanzas impulsivas, los trabajos compulsivos. El entremedias no se salta corriendo: se atraviesa andando, o vuelve a por ti más adelante, agrandado.",
+   "es_literal": false,
+   "ancla": "el entremedias no se puede saltar por mucho que corras: se atraviesa andando, paso a paso, o vuelve a por ti más adelante, agrandado y con intereses.",
+   "temas": [
+    "transición",
+    "impulsividad",
+    "reconstrucción"
+   ],
+   "intensidad": 3,
+   "gancho": "Correr para salir del vacío casi siempre sale caro.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5 — La tierra de nadie de la transición"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Comparas tu documental interior, sin cortes, con el tráiler editado y sonriente de los demás. No sabes lo que esa persona lleva por dentro. Y aunque de verdad lo lleve mejor, no es asunto tuyo: tu único punto de comparación válido eres tú mismo hace un mes.",
+   "es_literal": false,
+   "ancla": "Comparas tu documental interior, sin cortes, con el tráiler editado y sonriente de los demás: reconoce la trampa y quítale el poder de hundirte.",
+   "temas": [
+    "comparación",
+    "reconstrucción",
+    "autoexigencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Tu única comparación válida eres tú hace un mes.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — La tierra de nadie de la transición"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando el rol que llevabas puesto tantos años desaparece de golpe, descubres —con un vértigo terrible— que tú no eras el disfraz. Pero entonces surge, inevitable, la pregunta que asusta: si no soy mi papel, ¿quién soy?",
+   "es_literal": true,
+   "ancla": "Cuando el rol que llevabas puesto tantos años desaparece de golpe, descubres —con un vértigo terrible— que tú no eras el disfraz. Pero entonces surge, inevitable, la pregunta que asusta: si no soy mi papel, ¿quién soy?",
+   "temas": [
+    "identidad",
+    "rol",
+    "vértigo"
+   ],
+   "intensidad": 4,
+   "gancho": "Si no eres tu papel, ¿quién eres?",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — Quién eres cuando ya no eres tu rol"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El rol da un lugar en el mundo, un guion de comportamiento y una respuesta rápida a \"quién soy\". El problema aparece cuando confundimos el rol con nosotros mismos. Pero tú no eres tu rol: es un traje que te pusiste, y debajo, siempre, hay una persona que existía antes de ponérselo.",
+   "es_literal": false,
+   "ancla": "El rol es algo que hiciste, un traje que te pusiste durante mucho tiempo, muchas veces con dedicación, con esfuerzo y con amor, y que probablemente te quedaba muy bien. Pero debajo de ese traje, siempre, hay una persona que existía antes de ponérselo y que sigue existiendo, entera, después de habérselo quitado.",
+   "temas": [
+    "identidad",
+    "rol"
+   ],
+   "intensidad": 4,
+   "gancho": "Tú no eres el traje que te quitaron.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — Quién eres cuando ya no eres tu rol"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Completa tres veces la frase: \"Sin ser (tu rol perdido), sigo siendo alguien que...\". No busques logros ni virtudes heroicas: busca lo pequeño y verdadero, lo cotidiano, lo que nadie te puede quitar. Son los primeros ladrillos rescatados de entre los escombros.",
+   "es_literal": false,
+   "ancla": "Completa esta frase tres veces, con tres cosas distintas y verdaderas cada vez: \"Sin ___ (tu rol perdido), sigo siendo alguien que ___.\"",
+   "temas": [
+    "identidad",
+    "herramienta",
+    "reconstrucción"
+   ],
+   "intensidad": 2,
+   "gancho": "Tres frases para encontrar lo que el rol no te quitó.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6 — Quién eres cuando ya no eres tu rol"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Soltar no es perder por segunda vez lo que ya perdiste una vez: es dejar, esta vez voluntariamente y por decisión propia, de cargar con un peso muerto, para tener por fin las manos libres y poder construir.",
+   "es_literal": true,
+   "ancla": "Soltar no es perder por segunda vez lo que ya perdiste una vez: es dejar, esta vez voluntariamente y por decisión propia, de cargar con un peso muerto, para tener por fin las manos libres y poder construir.",
+   "temas": [
+    "soltar",
+    "reconstrucción",
+    "agencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Soltar no es perder otra vez. Es decidir.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — Soltar lo que ya no encaja"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La confianza no se recupera un día decidiendo confiar de golpe, como un acto de fe o de voluntad. Se reconstruye despacio, desde abajo, a base de pequeñas pruebas superadas, una detrás de otra, como se reconstruye un músculo.",
+   "es_literal": true,
+   "ancla": "La confianza no se recupera un día decidiendo confiar de golpe, como un acto de fe o de voluntad. Se reconstruye despacio, desde abajo, a base de pequeñas pruebas superadas, una detrás de otra, como se reconstruye un músculo.",
+   "temas": [
+    "confianza",
+    "reconstrucción"
+   ],
+   "intensidad": 3,
+   "gancho": "La confianza se entrena como un músculo, no se decreta.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — Volver a confiar (en la vida y en ti)"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Alguien pone la cafetera una mañana, meses después de un duelo. Pero la pone para una taza, no para dos, como hacía por costumbre. No fue una gran victoria ni nadie la aplaudió. Pero fue el primer gesto consciente de una vida nueva, hecha para una, en lugar de la repetición dolorosa de la vida vieja.",
+   "es_literal": false,
+   "ancla": "Aquella mañana concreta, en cambio, algo había cambiado sin aviso: puso café para una, conscientemente, con intención, y no se derrumbó. Se lo tomó despacio, de pie junto a la ventana, mirando la calle que empezaba a despertar y a llenarse de gente que iba a sus cosas.",
+   "temas": [
+    "duelo",
+    "reconstrucción",
+    "cotidiano"
+   ],
+   "intensidad": 3,
+   "gancho": "Poner café para una taza puede ser el primer ladrillo.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — El primer ladrillo: pasos pequeños de reconstrucción"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No se levanta una vida nueva de una vez, de un solo golpe heroico y decidido: se levanta un ladrillo por día, y la inmensa mayoría de los días ni siquiera se nota, mientras ocurre, que se está levantando algo.",
+   "es_literal": true,
+   "ancla": "No se levanta una vida nueva de una vez, de un solo golpe heroico y decidido: se levanta un ladrillo por día, y la inmensa mayoría de los días ni siquiera se nota, mientras ocurre, que se está levantando algo.",
+   "temas": [
+    "reconstrucción",
+    "kaizen",
+    "paciencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Una vida nueva se levanta ladrillo a ladrillo, sin que se note.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — El primer ladrillo: pasos pequeños de reconstrucción"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La cultura vende el cambio radical como único modelo: el gran giro, el antes y después de Instagram. Pero eso pone el listón tan alto que, al no alcanzarlo, acabas por no hacer nada. La reconstrucción real no es radical: es incremental, un 1% cada día.",
+   "es_literal": false,
+   "ancla": "La reconstrucción real, la que de verdad funciona y se sostiene, no es radical: es incremental, gradual, acumulativa. Un 1% cada día.",
+   "temas": [
+    "cambio radical",
+    "kaizen",
+    "reconstrucción"
+   ],
+   "intensidad": 3,
+   "gancho": "El cambio radical paraliza. El 1% diario funciona.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — El primer ladrillo: pasos pequeños de reconstrucción"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Las fuerzas y las ganas casi nunca vienen antes de la acción: vienen después de ella. Si esperas sentado a tener ganas de hacer la cama, no la harás jamás. La acción tira de la motivación, y no al revés.",
+   "es_literal": false,
+   "ancla": "El movimiento crea el ánimo, no el ánimo el movimiento.",
+   "temas": [
+    "motivación",
+    "acción",
+    "reconstrucción"
+   ],
+   "intensidad": 3,
+   "gancho": "El movimiento crea el ánimo, no al revés.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — El primer ladrillo: pasos pequeños de reconstrucción"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Pon un solo ladrillo hoy, tan pequeño que dé vergüenza llamarlo logro: hacer la cama, salir cinco minutos a la calle, contestar un mensaje pendiente. Elige uno, hazlo, y reconócetelo sin ironía: hoy he puesto un ladrillo.",
+   "es_literal": false,
+   "ancla": "Pon un solo ladrillo hoy. Uno solo, y tan pequeño que casi te dé vergüenza reconocerlo como un logro.",
+   "temas": [
+    "herramienta",
+    "acción",
+    "reconstrucción"
+   ],
+   "intensidad": 2,
+   "gancho": "Pon un solo ladrillo hoy, por ridículo que parezca.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — El primer ladrillo: pasos pequeños de reconstrucción"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando ya no te quedan fuerzas para sostener tu propia vida a pulso, deja que la sostenga temporalmente una rutina: es el andamiaje que mantiene el edificio en pie mientras tú, por dentro y sin que se vea, lo reconstruyes.",
+   "es_literal": true,
+   "ancla": "Cuando ya no te quedan fuerzas para sostener tu propia vida a pulso, deja que la sostenga temporalmente una rutina: es el andamiaje que mantiene el edificio en pie mientras tú, por dentro y sin que se vea, lo reconstruyes.",
+   "temas": [
+    "rutina",
+    "reconstrucción"
+   ],
+   "intensidad": 3,
+   "gancho": "La rutina sostiene lo que tú ahora no puedes.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — Reconstruir rutinas: el andamiaje de los días"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "En una vida ya plena, la rutina puede ser una cárcel gris de la que escapar. En plena crisis es exactamente lo contrario: es un salvavidas, la estructura que te da libertad, no la ausencia de ella. El caos no libera; agota.",
+   "es_literal": false,
+   "ancla": "Es, paradójicamente y en contra de lo que solemos pensar, la estructura la que te da libertad y descanso, no la ausencia de ella. El caos no libera; agota.",
+   "temas": [
+    "rutina",
+    "libertad",
+    "crisis"
+   ],
+   "intensidad": 3,
+   "gancho": "El caos no libera. Agota.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Reconstruir rutinas: el andamiaje de los días"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Fija dos o tres anclas al día, no más: un gesto de mañana, comidas a horas regulares, un paseo diario y un ritual de cierre de noche. No montes un programa ambicioso que abandonarás en tres días; sostén solo unos pocos postes fijos.",
+   "es_literal": false,
+   "ancla": "Con esas pocas anclas basta y sobra para empezar. No pongas quince cosas de golpe, no montes un programa ambicioso",
+   "temas": [
+    "rutina",
+    "herramienta",
+    "anclaje"
+   ],
+   "intensidad": 2,
+   "gancho": "Dos o tres anclas al día bastan para sostenerte.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — Reconstruir rutinas: el andamiaje de los días"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Nadie, absolutamente nadie, se reconstruye del todo en soledad, por muy fuerte y autosuficiente que se crea. Y pedir ayuda no es una carga que le echas encima a otro: es una puerta que le abres para que pueda quererte y estar cerca.",
+   "es_literal": true,
+   "ancla": "Nadie, absolutamente nadie, se reconstruye del todo en soledad, por muy fuerte y autosuficiente que se crea. Y pedir ayuda no es una carga que le echas encima a otro: es una puerta que le abres para que pueda quererte y estar cerca.",
+   "temas": [
+    "vínculos",
+    "pedir ayuda"
+   ],
+   "intensidad": 4,
+   "gancho": "Pedir ayuda es abrir una puerta, no cargar a nadie.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — Reconstruir vínculos: no se sale solo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Servir a otros -un voluntariado, acompañar a quien también sufre- saca del bucle cerrado del propio dolor y devuelve algo que la crisis se lleva: la sensación de ser útil, de importar, de tener todavía algo que aportar.",
+   "es_literal": false,
+   "ancla": "te saca de golpe del bucle cerrado y asfixiante del propio dolor, ese bucle que te devora cuando estás solo dándole vueltas a lo tuyo, y te devuelve algo precioso que la crisis se lleva por delante: la sensación de ser útil, de importar, de tener todavía algo valioso que aportar al mundo y a los demás.",
+   "temas": [
+    "servicio",
+    "vínculos",
+    "sentido"
+   ],
+   "intensidad": 3,
+   "gancho": "Ser útil a otro te saca del bucle de tu propio dolor.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11 — Reconstruir vínculos: no se sale solo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para pedir ayuda, sé concreto: no digas solo \"estoy fatal\", di \"estoy fatal, ¿podrías llamarme esta tarde?\". Pedir concreto le da a la otra persona algo claro que hacer, y le hace fácil quererte.",
+   "es_literal": false,
+   "ancla": "\"Estoy fatal\" deja al otro sin saber qué hacer y a veces lo paraliza. \"Estoy fatal, ¿podrías llamarme esta tarde un rato?\" le da algo claro que hacer, y la gente que te quiere agradece saber cómo ayudarte, porque muchas veces quieren y no saben. Pedir concreto es hacerle fácil al otro quererte.",
+   "temas": [
+    "pedir ayuda",
+    "herramienta",
+    "vínculos"
+   ],
+   "intensidad": 2,
+   "gancho": "Pedir concreto es hacerle fácil al otro quererte.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Reconstruir vínculos: no se sale solo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No es tarde para empezar de nuevo. Y aunque para algunas cosas concretas y específicas sí que lo sea, casi nunca es tarde para lo que de verdad importa.",
+   "es_literal": true,
+   "ancla": "No es tarde para empezar de nuevo. Y aunque para algunas cosas concretas y específicas sí que lo sea, casi nunca es tarde para lo que de verdad importa.",
+   "temas": [
+    "edad",
+    "reinvención",
+    "miedo"
+   ],
+   "intensidad": 3,
+   "gancho": "Casi nunca es tarde para lo que de verdad importa.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — \"Ya es tarde para mí\": el miedo a empezar tarde"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando empiezas de nuevo a los cincuenta no empiezas de cero como a los veinte: empiezas con décadas de experiencia, con saber quién eres y quién no eres, con una red tejida durante años. La edad no es solo lo que te quita; es también todo lo que te ha dado.",
+   "es_literal": false,
+   "ancla": "La edad no es solo lo que te quita —que algo te quita, es innegable y hay que aceptarlo—; es también, y sobre todo, todo lo que te ha ido dando a lo largo del camino y que ahora llevas contigo como capital.",
+   "temas": [
+    "edad",
+    "experiencia",
+    "reinvención"
+   ],
+   "intensidad": 3,
+   "gancho": "A los cincuenta no empiezas de cero. Empiezas con capital.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12 — \"Ya es tarde para mí\": el miedo a empezar tarde"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La persona nueva no se decide en la cabeza ni se diseña sobre un papel con listas y planes: se descubre en los actos, un día cualquiera, cuando resulta que ya llevaba un buen tiempo naciendo por dentro sin avisar.",
+   "es_literal": true,
+   "ancla": "La persona nueva no se decide en la cabeza ni se diseña sobre un papel con listas y planes: se descubre en los actos, un día cualquiera, cuando resulta que ya llevaba un buen tiempo naciendo por dentro sin avisar.",
+   "temas": [
+    "identidad",
+    "reinvención"
+   ],
+   "intensidad": 3,
+   "gancho": "La identidad nueva no se planifica. Se descubre viviendo.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — La identidad nueva que emerge"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La identidad no se decide primero en la mente y se vive después: se vive primero, a base de actos pequeños y cotidianos, y se descubre después, mirando hacia atrás el dibujo que esos actos han ido trazando sin que nos diéramos cuenta.",
+   "es_literal": false,
+   "ancla": "se vive primero, a base de actos pequeños y cotidianos, y se descubre después, mirando hacia atrás y reconociendo poco a poco el dibujo que esos actos repetidos han ido trazando",
+   "temas": [
+    "identidad",
+    "acción"
+   ],
+   "intensidad": 3,
+   "gancho": "Primero se vive. Después se descubre quién eres ya.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — La identidad nueva que emerge"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Mejorar no es olvidar. Reírte otra vez no significa que la persona que perdiste ya no te importe. Nadie que te quisiera de verdad querría que te quedaras roto para siempre en su honor.",
+   "es_literal": false,
+   "ancla": "Nadie que te quisiera de verdad querría que te quedaras roto para siempre en su honor. Seguir viviendo, y volver a disfrutar de la vida, no deshonra a quien perdiste",
+   "temas": [
+    "culpa",
+    "duelo",
+    "sanar"
+   ],
+   "intensidad": 4,
+   "gancho": "Reírte otra vez no traiciona a quien perdiste.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — La identidad nueva que emerge"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Reinventarse no es arrasar con todo lo que había y empezar desde cero en tierra quemada: es decidir, con calma y sin ninguna prisa, qué merece de verdad la pena conservar y qué hay que cambiar.",
+   "es_literal": true,
+   "ancla": "Reinventarse no es arrasar con todo lo que había y empezar desde cero en tierra quemada: es decidir, con calma y sin ninguna prisa, qué merece de verdad la pena conservar y qué hay que cambiar.",
+   "temas": [
+    "reinvención",
+    "cambio"
+   ],
+   "intensidad": 3,
+   "gancho": "Reinventarse no es tierra quemada. Es elegir qué conservar.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — Reinventarse en el trabajo, la pareja y la vida"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Antes de decidir en grande, experimenta en pequeño: una formación corta de fin de semana, un café sin más pretensión que ver cómo se siente, una conversación con alguien del sector que te llama la atención. Un experimento no puede fracasar: siempre te enseña algo, sin jugártelo todo.",
+   "es_literal": false,
+   "ancla": "un experimento no puede fracasar. Pase lo que pase, salga como salga, aunque sea \"mal\", te habrá enseñado algo valioso sobre lo que encaja o no encaja contigo ahora",
+   "temas": [
+    "reinvención",
+    "herramienta",
+    "experimento"
+   ],
+   "intensidad": 2,
+   "gancho": "Un experimento nunca fracasa. Siempre enseña algo.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14 — Reinventarse en el trabajo, la pareja y la vida"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Una reinvención pequeña, realista y sostenida en el tiempo vale infinitamente más que una grande, épica, inspiradora e imposible que se abandona a las dos semanas con la sensación amarga de haber fracasado otra vez.",
+   "es_literal": true,
+   "ancla": "Una reinvención pequeña, realista y sostenida en el tiempo vale infinitamente más que una grande, épica, inspiradora e imposible que se abandona a las dos semanas con la sensación amarga de haber fracasado otra vez.",
+   "temas": [
+    "reinvención",
+    "realismo",
+    "sostenibilidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Pequeña y sostenida gana siempre a grande y abandonada.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — Reinventarse en el trabajo, la pareja y la vida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Una recaída no borra ni anula el camino que ya has andado. Es parte del camino, no su final ni su negación. Y levantarse por segunda vez es más fácil que la primera, porque esta vez ya sabes cómo se hace y ya sabes que se puede.",
+   "es_literal": true,
+   "ancla": "Una recaída no borra ni anula el camino que ya has andado. Es parte del camino, no su final ni su negación. Y levantarse por segunda vez es más fácil que la primera, porque esta vez ya sabes cómo se hace y ya sabes que se puede.",
+   "temas": [
+    "recaída",
+    "reconstrucción"
+   ],
+   "intensidad": 4,
+   "gancho": "Una recaída no borra el camino ya andado.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — Cuando recaes: sostener sin rendirse"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "En la meseta no te preguntes si ya has avanzado, porque eso no depende solo de ti. Pregúntate si has hecho hoy tus pequeñas cosas, tu ladrillo del día: eso sí lo controlas. Las raíces crecen en la oscuridad mucho antes de que se vea un brote.",
+   "es_literal": false,
+   "ancla": "las raíces de un árbol, que crecen hacia abajo, en la oscuridad de la tierra, en silencio, durante mucho tiempo antes de que se vea el menor brote verde asomar por arriba.",
+   "temas": [
+    "meseta",
+    "paciencia",
+    "proceso"
+   ],
+   "intensidad": 3,
+   "gancho": "En la meseta, las raíces crecen aunque no se vea nada.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15 — Cuando recaes: sostener sin rendirse"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Prepara ahora, con la cabeza clara, tu plan para el próximo día malo: vuelve al mínimo de supervivencia, sostén tus anclas aunque no tengas ganas, avisa a alguien, y recuerda que en un día malo basta con no tirar los ladrillos que ya pusiste.",
+   "es_literal": false,
+   "ancla": "en los peores días, basta con no tirar los ladrillos que ya pusiste. Aguantar sin retroceder, en un día malo de verdad, ya es una victoria.",
+   "temas": [
+    "herramienta",
+    "recaída",
+    "días malos"
+   ],
+   "intensidad": 3,
+   "gancho": "No retroceder en un día malo ya es una victoria.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15 — Cuando recaes: sostener sin rendirse"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Empezar de nuevo no es recuperar la vida que perdiste, que no vuelve por mucho que lo desees: es construir otra distinta, con las cicatrices puestas, que un día, sin darte cuenta de cuándo ocurrió, llegas a querer.",
+   "es_literal": true,
+   "ancla": "Empezar de nuevo no es recuperar la vida que perdiste, que no vuelve por mucho que lo desees: es construir otra distinta, con las cicatrices puestas, que un día, sin darte cuenta de cuándo ocurrió, llegas a querer.",
+   "temas": [
+    "reinvención",
+    "vida nueva"
+   ],
+   "intensidad": 4,
+   "gancho": "Construyes otra vida, no recuperas la que perdiste.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — La vida después: no la de antes, una nueva"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Que de una pérdida salga, con tiempo y trabajo, algo bueno no significa que la pérdida valiera la pena. No le debes ninguna gratitud a tu tragedia. Puedes crecer a partir de una herida y odiar, al mismo tiempo, esa misma herida.",
+   "es_literal": false,
+   "ancla": "No le debes ninguna gratitud a tu tragedia, a tu enfermedad, a tu divorcio, a tu pérdida. Puedes crecer a partir de una herida y odiar, al mismo tiempo y con toda tu alma, esa misma herida que te la causó.",
+   "temas": [
+    "crecimiento",
+    "pérdida",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "No le debes gratitud a tu tragedia.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — La vida después: no la de antes, una nueva"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Una cicatriz es una herida que ha sanado sin borrarse del todo. Con el tiempo dejan de sangrar y se integran en tu piel, en tu historia. No las escondas con vergüenza: son la prueba de lo mucho que amaste y de lo mucho que sobreviviste.",
+   "es_literal": false,
+   "ancla": "Las cicatrices cuentan tu historia. No las escondas con vergüenza; son medallas.",
+   "temas": [
+    "cicatrices",
+    "duelo",
+    "identidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Las cicatrices no se esconden. Son medallas.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — La vida después: no la de antes, una nueva"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Empezar de nuevo no es volver a ser quien eras, ni borrarlo; es construir, con lo que quedó, a quien vas a ser.",
+   "es_literal": true,
+   "ancla": "empezar de nuevo no es volver a ser quien eras, ni borrarlo; es construir, con lo que quedó, a quien vas a ser.",
+   "temas": [
+    "reinvención",
+    "identidad"
+   ],
+   "intensidad": 4,
+   "gancho": "No borras quien fuiste. Construyes con lo que quedó.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — La vida después: no la de antes, una nueva"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El reto de treinta días no es un plan para curarte en un mes. El duelo y la reinvención no se resuelven en un plazo fijo que valga para todos. Son un acompañamiento para dejar de estar paralizado y empezar a caminar; lo que tarde el camino después lo decide tu propia pérdida, a su ritmo.",
+   "es_literal": false,
+   "ancla": "esto no es un plan para \"curarte en un mes\". El duelo y la reinvención no se resuelven en treinta días, ni en treinta semanas, ni en un plazo fijo que valga para todos",
+   "temas": [
+    "reto",
+    "ritmo",
+    "reconstrucción"
+   ],
+   "intensidad": 3,
+   "gancho": "Treinta días no curan un duelo. Te ponen a caminar.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Anexo 1 — Reto de 30 días para reconstruirte paso a paso"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Día 1 del reto: escribe, en una sola frase y en presente, qué es exactamente lo que se ha acabado, sin adornos. Lo que no se nombra no se puede empezar a soltar; sigue siendo una niebla informe que pesa sin que sepas por qué.",
+   "es_literal": false,
+   "ancla": "Escribe, en una sola frase y en presente, qué es exactamente lo que se ha acabado: \"Se ha acabado mi matrimonio\", \"Se ha acabado mi trabajo\", \"Se ha acabado la vida con...\". Solo el hecho, desnudo, sin adornos.",
+   "temas": [
+    "herramienta",
+    "aceptación",
+    "duelo"
+   ],
+   "intensidad": 2,
+   "gancho": "Nombra en una frase lo que se ha acabado.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Anexo 1 — Reto de 30 días para reconstruirte paso a paso"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Lo que sostiene una reconstrucción a largo plazo no es un mes intenso de treinta prácticas, sino dos o tres hábitos pequeños mantenidos durante meses y años. No lo grande hecho una vez, sino lo pequeño repetido siempre.",
+   "es_literal": false,
+   "ancla": "lo que sostiene una reconstrucción a largo plazo no es un mes intenso de treinta prácticas, por bueno que haya sido, sino dos o tres hábitos pequeños mantenidos durante meses y años.",
+   "temas": [
+    "kaizen",
+    "hábitos",
+    "sostenibilidad"
+   ],
+   "intensidad": 3,
+   "gancho": "No son treinta prácticas. Son dos hábitos sostenidos años.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Anexo 1 — Reto de 30 días para reconstruirte paso a paso"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Solo tengo que pasar hoy. Solo hoy.",
+   "es_literal": true,
+   "ancla": "\"Solo tengo que pasar hoy. Solo hoy.\"",
+   "temas": [
+    "frase ancla",
+    "días malos"
+   ],
+   "intensidad": 2,
+   "gancho": "Solo tienes que pasar hoy.",
+   "formatos": [
+    "pin",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Anexo 2 — Kit de primeros auxilios emocionales"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Esto que siento es insoportable, y sin embargo lo estoy soportando ahora mismo.",
+   "es_literal": true,
+   "ancla": "\"Esto que siento es insoportable, y sin embargo lo estoy soportando ahora mismo.\"",
+   "temas": [
+    "frase ancla",
+    "resistencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Insoportable, y sin embargo lo estás soportando ahora.",
+   "formatos": [
+    "pin",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Anexo 2 — Kit de primeros auxilios emocionales"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "En la primera hora tras un golpe: respira alargando la exhalación un minuto, no decidas nada importante, avisa a una persona, bebe agua y ancla el cuerpo nombrando cinco cosas que ves. No toca reconstruir nada; toca solo sostenerse.",
+   "es_literal": false,
+   "ancla": "Cuando el golpe es reciente y estás en shock, no toca reconstruir nada. Toca solo sostenerse.",
+   "temas": [
+    "herramienta",
+    "shock",
+    "primeros auxilios"
+   ],
+   "intensidad": 3,
+   "gancho": "En la primera hora del golpe, solo toca sostenerse.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Anexo 2 — Kit de primeros auxilios emocionales"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Si aparecen pensamientos de hacerte daño, de desaparecer, o de que los demás estarían mejor sin ti, ya no es un mal día que se sostiene con un kit: es una señal de que necesitas ayuda profesional hoy, ahora. Pedir ayuda en ese momento es lo más valiente que puedes hacer.",
+   "es_literal": false,
+   "ancla": "Si aparecen pensamientos de hacerte daño, de desaparecer, o de que los demás estarían mejor sin ti, esto ya no es un mal día que se sostiene con un kit: es una señal de que necesitas ayuda profesional hoy, ahora.",
+   "temas": [
+    "salud mental",
+    "ayuda profesional",
+    "seguridad"
+   ],
+   "intensidad": 5,
+   "gancho": "Si aparecen esos pensamientos, hoy toca pedir ayuda.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Anexo 2 — Kit de primeros auxilios emocionales"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Toda reconstrucción pasa por cuatro estaciones: el final, el entremedias, los primeros pasos y la vida nueva. No son peldaños rígidos que se suben en orden perfecto, y aplicar el trabajo de una estación en otra que no toca no funciona y solo frustra.",
+   "es_literal": false,
+   "ancla": "hay un error transversal muy común: aplicar el trabajo de una estación en otra que no toca, y frustrarse porque no funciona.",
+   "temas": [
+    "transición",
+    "mapa",
+    "proceso"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuatro estaciones, y cada una pide un trabajo distinto.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Anexo 3 — El mapa de la transición"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Exigirte una identidad clara mientras aún estás en el entremedias es angustiarte por no saber quién eres ahora cuando aún no toca saberlo: la identidad se descubre viviendo, más adelante. En el entremedias no hay que tener la respuesta; hay que aguantar la pregunta.",
+   "es_literal": false,
+   "ancla": "En el entremedias no hay que tener la respuesta; hay que aguantar la pregunta.",
+   "temas": [
+    "identidad",
+    "entremedias",
+    "paciencia"
+   ],
+   "intensidad": 3,
+   "gancho": "En el entremedias no toca responder. Toca aguantar la pregunta.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Anexo 3 — El mapa de la transición"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para diseñar un experimento de reinvención: una hipótesis de qué podría encajar contigo, una prueba pequeña y reversible para comprobarlo, un plazo corto para revisarlo, y una observación de qué sentiste, no de si salió bien o mal.",
+   "es_literal": false,
+   "ancla": "Regla de oro: el objetivo del experimento no es que salga bien, sino aprender algo. Por eso no puede fracasar.",
+   "temas": [
+    "experimento",
+    "herramienta",
+    "reinvención"
+   ],
+   "intensidad": 2,
+   "gancho": "La plantilla de cuatro pasos para probar un cambio sin jugártelo todo.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Anexo 4 — Cómo diseñar un experimento de reinvención"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Si el malestar viaja contigo cuando te vas de vacaciones o pasas unos días fuera, mudarte no lo va a resolver. Cuidado con confundir \"quiero un sitio nuevo\" con \"quiero huir de este dolor\", que no se cura cambiando de dirección.",
+   "es_literal": false,
+   "ancla": "(Pista importante: si el malestar viaja contigo, mudarte no lo va a resolver.) ¿El cambio en mi casa actual alivió algo? Cuidado con confundir \"quiero un sitio nuevo\" con \"quiero huir de este dolor\", que no se cura cambiando de dirección.",
+   "temas": [
+    "huida",
+    "mudanza",
+    "duelo"
+   ],
+   "intensidad": 3,
+   "gancho": "Si el malestar viaja contigo, mudarte no lo resuelve.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Anexo 4 — Cómo diseñar un experimento de reinvención"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Y si no quiero empezar de nuevo, y solo quiero mi vida de antes? Es un deseo humano y legítimo, parte del duelo, y no hay que forzarlo ni avergonzarse de él. Pero la vida de antes no va a volver, y ese es el trabajo doloroso de la aceptación.",
+   "es_literal": false,
+   "ancla": "No tienes que \"querer\" empezar de nuevo hoy; solo, cuando puedas, dejar de gastar todas tus fuerzas en pelear contra un hecho que ya es.",
+   "temas": [
+    "aceptación",
+    "duelo",
+    "resistencia"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Y si solo quieres tu vida de antes de vuelta?",
+   "formatos": [
+    "pin",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Anexo 5 — Preguntas frecuentes"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "\"Todo pasa por algo\" es mentira: hay cosas que no pasan por nada, que son azar o injusticia sin propósito. Más honesto es decir: esto no tenía por qué pasar, y no tiene un sentido escondido, pero tú puedes decidir hacer algo con ello.",
+   "es_literal": false,
+   "ancla": "*Más honesto:* \"Esto no tenía por qué pasar, y no tiene un sentido escondido. Pero tú puedes decidir hacer algo con ello.\"",
+   "temas": [
+    "falso optimismo",
+    "sentido",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "No todo pasa por algo. Pero tú puedes hacer algo con ello.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Anexo 6 — Diez mentiras sobre empezar de nuevo (y su desmontaje)"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "\"Tienes que agradecer lo que te pasó, te ha hecho crecer\" es una de las mentiras más crueles. No le debes gratitud a tu tragedia. Puedes odiar lo que pasó y, a la vez, construir algo bueno sobre ello.",
+   "es_literal": false,
+   "ancla": "*Más honesto:* \"No tienes que agradecer nada. Puedes odiar lo que pasó y, a la vez, construir algo bueno sobre ello.\"",
+   "temas": [
+    "gratitud",
+    "falso optimismo",
+    "crecimiento"
+   ],
+   "intensidad": 4,
+   "gancho": "No tienes que agradecer tu tragedia. Puedes odiarla y crecer.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Anexo 6 — Diez mentiras sobre empezar de nuevo (y su desmontaje)"
+  }
+ ]
+}

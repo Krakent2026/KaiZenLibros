@@ -1,0 +1,1274 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "ikigai-practico",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "Tu ikigai no se encuentra en un mapa, se despierta cada mañana en lo pequeño.",
+   "es_literal": true,
+   "ancla": "Tu ikigai no se encuentra en un mapa, se despierta cada mañana en lo pequeño.",
+   "temas": [
+    "ikigai",
+    "práctica cotidiana"
+   ],
+   "intensidad": 4,
+   "gancho": "Tu ikigai no está en un mapa, se despierta cada mañana",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "INTRODUCCIÓN — La razón para levantarte mañana"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El libro parte de una idea incómoda: mucha gente que no encontraba su propósito no tenía un problema personal, tenía un mapa equivocado entre las manos. Buscaban un tesoro que no existe y luego se culpaban por no dar con él.",
+   "es_literal": false,
+   "ancla": "Tardé demasiado en comprender que el problema no era de ellas ni mío. Era del mapa. Buscábamos un tesoro que no existe con un plano que alguien había dibujado mal, y luego nos culpábamos por no llegar.",
+   "temas": [
+    "propósito",
+    "autoculpa"
+   ],
+   "intensidad": 3,
+   "gancho": "El problema no era la persona: era el mapa",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "INTRODUCCIÓN — La razón para levantarte mañana"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Vivirás en futuro. En cambio, si entiendes que tu ikigai es la suma viva y cambiante de tus pequeñas razones para levantarte, puedes empezar a cultivarlo esta misma mañana, con lo que ya tienes entre las manos. Vivirás en presente.",
+   "es_literal": true,
+   "ancla": "Vivirás en futuro. En cambio, si entiendes que tu ikigai es la suma viva y cambiante de tus pequeñas razones para levantarte, puedes empezar a cultivarlo esta misma mañana, con lo que ya tienes entre las manos. Vivirás en presente.",
+   "temas": [
+    "presente",
+    "búsqueda"
+   ],
+   "intensidad": 3,
+   "gancho": "Buscar te deja en futuro; cultivar te trae al presente",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — La palabra que Occidente entendió a medias"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Alguien recién jubilado, con la casa demasiado silenciosa y las horas demasiado largas, compra tres macetas y unas semillas de tomate por puro aburrimiento. A la mañana siguiente se levanta, por primera vez en meses con una pizca de curiosidad, a ver si algo ha brotado.",
+   "es_literal": false,
+   "ancla": "Un día cualquiera, más por aburrimiento y por desesperación que por otra cosa, compró tres macetas de barro y unas semillas de tomate, y las puso en el balcón mirando al sur. Y algo pequeño, casi imperceptible, se encendió dentro de él.",
+   "temas": [
+    "jubilación",
+    "pequeños gestos"
+   ],
+   "intensidad": 4,
+   "gancho": "Tres macetas de tomate devolvieron una razón para levantarse",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — La palabra que Occidente entendió a medias"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Esa es la lección de este libro entero concentrada en una imagen que quiero que guardes: **el sentido no es proporcional al tamaño del gesto**. Un gesto minúsculo, si es el gesto adecuado y se repite, puede devolverle a una persona las ganas de vivir.",
+   "es_literal": true,
+   "ancla": "Esa es la lección de este libro entero concentrada en una imagen que quiero que guardes: **el sentido no es proporcional al tamaño del gesto**. Un gesto minúsculo, si es el gesto adecuado y se repite, puede devolverle a una persona las ganas de vivir.",
+   "temas": [
+    "pequeños gestos",
+    "sentido"
+   ],
+   "intensidad": 3,
+   "gancho": "El sentido no es proporcional al tamaño del gesto",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — La palabra que Occidente entendió a medias"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El diagrama de los cuatro círculos y el ikigai japonés son dos ideas distintas que alguien mezcló sin querer. De esa mezcla ha salido bastante angustia innecesaria: gente que se siente incompleta por no encontrar la casilla perfecta.",
+   "es_literal": false,
+   "ancla": "No le pasa nada a Hugo. Lo que pasa es que el diagrama está mal. Y hay que decirlo con toda claridad, aunque también con cuidado y sin ninguna crueldad, porque mucha gente le tiene un cariño sincero y le ha dedicado horas: **ese diagrama de los cuatro círculos no es el ikigai japonés**.",
+   "temas": [
+    "diagrama de ikigai",
+    "autoexigencia"
+   ],
+   "intensidad": 3,
+   "gancho": "El problema no es la persona, es el diagrama",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — El mito del diagrama de los cuatro círculos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El diagrama te pregunta por lo que el mundo pagaría. El ikigai te pregunta por lo que te haría sonreír mañana al abrir los ojos. No es, ni de lejos, la misma pregunta.",
+   "es_literal": true,
+   "ancla": "El diagrama te pregunta por lo que el mundo pagaría. El ikigai te pregunta por lo que te haría sonreír mañana al abrir los ojos. No es, ni de lejos, la misma pregunta.",
+   "temas": [
+    "diagrama de ikigai",
+    "preguntas"
+   ],
+   "intensidad": 3,
+   "gancho": "El diagrama pregunta por dinero; el ikigai, por sonreír",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — El mito del diagrama de los cuatro círculos"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no tira el diagrama de los cuatro círculos a la basura: como ejercicio para pensar la vida profesional puede servir. El problema no es la herramienta, es pedirle que resuelva la pregunta más grande de la existencia.",
+   "es_literal": false,
+   "ancla": "No voy a tirar el diagrama entero a la basura, porque sería injusto y porque no todo en él es falso. Como ejercicio de reflexión sobre tu vida *profesional* —para pensar cómo alinear mejor tu trabajo con lo que se te da bien, con lo que te gusta y con lo que el mundo necesita— puede ser un instrumento perfectamente útil.",
+   "temas": [
+    "diagrama de ikigai",
+    "matices"
+   ],
+   "intensidad": 2,
+   "gancho": "El diagrama no es inútil: solo le pedimos demasiado",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — El mito del diagrama de los cuatro círculos"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un ejercicio de dos pasos: escribe en una columna diez cosas de esta semana que te dieron un instante de gusto o calma, por pequeñas que sean. Después mira la lista: ninguna encajaría en el diagrama de los cuatro círculos, y aun así ahí está tu ikigai real, disperso y humilde.",
+   "es_literal": false,
+   "ancla": "Coge un papel y, en lugar de cuatro círculos, dibuja una sola columna y escribe en ella, sin filtro, diez cosas que hiciste esta semana que te dieron aunque fuera un instante de gusto o de calma. Da igual que sean minúsculas: un café, una conversación en el ascensor, cinco minutos de sol, una canción.",
+   "temas": [
+    "ejercicio",
+    "pequeñas alegrías"
+   ],
+   "intensidad": 2,
+   "gancho": "Diez cosas pequeñas que te dieron gusto esta semana",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2 — El mito del diagrama de los cuatro círculos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Los centenarios de Okinawa no persiguen el sentido de su vida. Lo riegan cada mañana, como los tomates.",
+   "es_literal": true,
+   "ancla": "Los centenarios de Okinawa no persiguen el sentido de su vida. Lo riegan cada mañana, como los tomates.",
+   "temas": [
+    "okinawa",
+    "práctica cotidiana"
+   ],
+   "intensidad": 3,
+   "gancho": "No persiguen el sentido: lo riegan cada mañana",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — Okinawa y las pequeñas alegrías (con cautela)"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no promete años de vida por imitar Okinawa. Los estudios sobre las zonas azules son sugerentes, pero complejos y discutidos incluso entre quienes los investigan: se tratan como inspiración, no como receta médica.",
+   "es_literal": false,
+   "ancla": "No voy a darte cifras exactas de esperanza de vida ni a prometerte que si imitas a los okinawenses vivirás sano hasta los cien años. Los estudios sobre las zonas azules son sugerentes e inspiradores, pero también son complejos, matizados y, en algunos aspectos, discutidos entre los propios investigadores.",
+   "temas": [
+    "okinawa",
+    "honestidad"
+   ],
+   "intensidad": 2,
+   "gancho": "No promete años de vida: promete una manera de vivirlos",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — Okinawa y las pequeñas alegrías (con cautela)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuatro preguntas para traer tu «zona azul» a casa esta semana: primero, con quién podrías comprometerte a verte con regularidad de verdad. Segundo, qué movimiento puedes meter en el día sin llamarlo ejercicio. Tercero, en qué comida podrías parar un poco antes de llenarte del todo. Cuarto, qué tarea humilde te hace sentir útil para alguien.",
+   "es_literal": false,
+   "ancla": "No puedes mudarte a Okinawa, pero puedes traer sus cuatro patrones a tu casa esta misma semana, en versión mínima y a tu medida. Coge papel y responde con honestidad:",
+   "temas": [
+    "okinawa",
+    "comunidad",
+    "ejercicio"
+   ],
+   "intensidad": 2,
+   "gancho": "Cuatro preguntas para tu zona azul en casa",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3 — Okinawa y las pequeñas alegrías (con cautela)"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué me hace un poco de ilusión, aunque sea mínima, al despertar?",
+   "es_literal": true,
+   "ancla": "**¿Qué me hace un poco de ilusión, aunque sea mínima, al despertar?**",
+   "temas": [
+    "preguntas",
+    "pequeñas alegrías"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Qué te hace un poco de ilusión al despertar?",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — Tu razón para levantarte por la mañana"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "En los días grises no se trata de encontrar una razón luminosa que no aparece, sino de fabricar una pequeña, casi con las manos: regar una planta sin ganas, escribir un mensaje corto, salir cinco minutos al aire frío.",
+   "es_literal": false,
+   "ancla": "Esos días grises, la tarea no es *encontrar* una gran razón luminosa que sencillamente no aparece por mucho que la busques —forzarlo solo añade frustración—, sino *fabricar* una minúscula, con las manos, casi mecánicamente.",
+   "temas": [
+    "días grises",
+    "constancia"
+   ],
+   "intensidad": 4,
+   "gancho": "Los días grises no se buscan: se fabrican",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — Tu razón para levantarte por la mañana"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Si la lista de pequeñas alegrías sale vacía semana tras semana, con una tristeza profunda y un cansancio que no se va con el descanso, este libro acompaña, pero no sustituye a un profesional de la salud mental. Pedir ayuda no es una rendición.",
+   "es_literal": false,
+   "ancla": "Si al hacer este ejercicio la lista sale vacía día tras día, si nada te ilusiona durante semanas enteras y además hay una tristeza profunda, un cansancio que no se va con el descanso, una desesperanza que lo tiñe todo de gris, entonces este libro te acompaña de corazón, pero no sustituye a un profesional de la salud mental.",
+   "temas": [
+    "salud mental",
+    "límites del libro"
+   ],
+   "intensidad": 3,
+   "gancho": "Esto no sustituye a un profesional de la salud mental",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Tu razón para levantarte por la mañana"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un ejercicio de una semana: durante siete días anota cualquier chispazo de gusto, por pequeño o tonto que parezca, sin juzgarlo ni editarlo. Al final de la semana, relee la lista completa: ahí está, escrito de tu puño y letra, el mapa de tu ikigai real.",
+   "es_literal": false,
+   "ancla": "Durante los próximos siete días, anota todo lo que te dé un chispazo de gusto, por tonto, pequeño o insignificante que te parezca en el momento: un olor —a café, a lluvia, a pan, a la ropa recién lavada—, una luz, una textura, una conversación, un sabor, un sonido, un instante cualquiera que te haya hecho sentir, aunque fuera medio segundo, un poquito bien.",
+   "temas": [
+    "inventario",
+    "pequeñas alegrías"
+   ],
+   "intensidad": 2,
+   "gancho": "Siete días anotando chispazos de gusto",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — Tu razón para levantarte por la mañana"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tu razón de ser no es una; son muchas, y casi todas caben en la palma de la mano.",
+   "es_literal": true,
+   "ancla": "Tu razón de ser no es una; son muchas, y casi todas caben en la palma de la mano.",
+   "temas": [
+    "ikigai",
+    "pequeñas razones"
+   ],
+   "intensidad": 3,
+   "gancho": "Tu razón de ser no es una: son muchas",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — Tu razón para levantarte por la mañana"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No hace falta una gran obra para tener ikigai. Basta con hacer una cosa pequeña con toda el alma.",
+   "es_literal": true,
+   "ancla": "No hace falta una gran obra para tener ikigai. Basta con hacer una cosa pequeña con toda el alma.",
+   "temas": [
+    "shokunin",
+    "atención"
+   ],
+   "intensidad": 3,
+   "gancho": "No hace falta una gran obra: basta con una pequeña",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — Empezar pequeño (el pilar del primer gesto)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Una sola herramienta para empezar: reduce cualquier propósito grande a un gesto que quepa en dos minutos. «Ponerme en forma» no cabe en un día; tres sentadillas mientras hierve el café, sí. «Leer más» se evapora; una página antes de dormir se hace. Empieza ahí; lo demás, si llega, llega solo.",
+   "es_literal": false,
+   "ancla": "Si tuviera que darte una sola herramienta para poner en marcha este pilar mañana por la mañana, sería esta, y es de una simpleza casi humillante: **reduce cualquier propósito grande a un gesto que quepa en dos minutos**.",
+   "temas": [
+    "hábitos",
+    "empezar pequeño"
+   ],
+   "intensidad": 3,
+   "gancho": "Reduce cualquier propósito grande a dos minutos",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — Empezar pequeño (el pilar del primer gesto)"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Alguien enseña a una aprendiz a hacer pan y, en vez de dejarla amasar el primer día, le pone delante una báscula: una semana entera solo pesando harina. La aprendiz se siente insultada, hasta que entiende que el oficio no está en la hogaza espectacular del final, sino en los mil gestos invisibles que la hacen posible.",
+   "es_literal": false,
+   "ancla": "que un panadero no es alguien que un día hace un gran pan, sino alguien que ha pesado bien la harina diez mil veces. Que el oficio no está en la hogaza espectacular del final, sino en los mil gestos pequeños e invisibles que la hacen posible, y que quien desprecia esos gestos nunca llega al pan.",
+   "temas": [
+    "aprendizaje",
+    "oficio"
+   ],
+   "intensidad": 3,
+   "gancho": "Antes de amasar, una semana entera pesando harina",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — Empezar pequeño (el pilar del primer gesto)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El ikigai no llega cuando te preguntas qué te hará feliz. Llega cuando te olvidas de la pregunta y te vuelcas en algo que no eres tú.",
+   "es_literal": true,
+   "ancla": "El ikigai no llega cuando te preguntas qué te hará feliz. Llega cuando te olvidas de la pregunta y te vuelcas en algo que no eres tú.",
+   "temas": [
+    "soltar el yo",
+    "ego"
+   ],
+   "intensidad": 4,
+   "gancho": "No llega cuando te preguntas qué te hará feliz",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — Soltar el yo (liberarse de uno mismo)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Tres puertas para soltar el yo esta semana: la del servicio invisible (hacer algo por alguien sin que sepa que fuiste tú), la del cuidado (ocuparte de un ser vivo que dependa de ti) y la de la escucha total (una conversación entera sin hablar de ti ni una sola vez).",
+   "es_literal": false,
+   "ancla": "La primera es **la puerta del servicio invisible**. Haz algo por alguien sin que se entere de que fuiste tú: dejar el ascensor en la planta baja para el vecino que carga la compra, poner recto el cuadro torcido del rellano, mandar un artículo a un amigo pensando \"esto le va a gustar\" sin esperar respuesta.",
+   "temas": [
+    "soltar el yo",
+    "servicio"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres puertas para salir de uno mismo esta semana",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6 — Soltar el yo (liberarse de uno mismo)"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Soltar el yo no significa anularte ni vivir para los demás hasta vaciarte del todo. Eso no es ikigai: es agotamiento disfrazado de virtud. El que está vacío no da, se aferra, exige, pasa factura.",
+   "es_literal": false,
+   "ancla": "\"Soltar el yo\" no significa anularte, negar tus necesidades ni vivir para los demás hasta vaciarte del todo. Eso no es ikigai; es agotamiento disfrazado de virtud",
+   "temas": [
+    "soltar el yo",
+    "límites"
+   ],
+   "intensidad": 3,
+   "gancho": "Soltar el yo no es anularte: es dejar de vigilarte",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — Soltar el yo (liberarse de uno mismo)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que te rompe no puede ser tu razón de ser. El sentido verdadero se sostiene sin agotarte, o no es verdadero.",
+   "es_literal": true,
+   "ancla": "Lo que te rompe no puede ser tu razón de ser. El sentido verdadero se sostiene sin agotarte, o no es verdadero.",
+   "temas": [
+    "sostenibilidad",
+    "ikigai"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que te rompe no puede ser tu razón de ser",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — Armonía y sostenibilidad"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Antes de adoptar una práctica nueva, hazte una sola pregunta: ¿podría sostener esto durante treinta años? Si la respuesta es no, no la deseches: redúcela hasta que la respuesta sea sí. Prefiere siempre lo pequeño que dura a lo grande que se rompe.",
+   "es_literal": false,
+   "ancla": "Ante cualquier práctica que quieras convertir en parte de tu ikigai, hazte una sola pregunta antes de adoptarla, y hazla en serio: *¿podría sostener esto, más o menos, durante treinta años?*.",
+   "temas": [
+    "sostenibilidad",
+    "hábitos"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Podrías sostener esto treinta años?",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — Armonía y sostenibilidad"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un ejercicio de una semana: al terminar cada actividad significativa del día, anota un solo signo. Un «+» si sales con más energía de la que entraste, un «−» si sales con menos, sin juzgar, solo observando. Al final tendrás un mapa honesto de qué te nutre y qué te desgasta.",
+   "es_literal": false,
+   "ancla": "durante una semana, al terminar cada actividad significativa del día, anota un signo, uno solo. Un \"+\" si sales de ahí con más energía de la que entraste, un \"−\" si sales con menos.",
+   "temas": [
+    "energía",
+    "autoconocimiento"
+   ],
+   "intensidad": 2,
+   "gancho": "Un signo, más o menos, por cada actividad del día",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7 — Armonía y sostenibilidad"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "pon toda tu energía, entera, en lo que sí puedes cambiar —tu gesto, tu atención, tu respuesta— y suelta con calma, sin drama, lo que no.",
+   "es_literal": true,
+   "ancla": "pon toda tu energía, entera, en lo que sí puedes cambiar —tu gesto, tu atención, tu respuesta— y suelta con calma, sin drama, lo que no.",
+   "temas": [
+    "shoganai",
+    "aceptación"
+   ],
+   "intensidad": 3,
+   "gancho": "Toda tu energía en lo que sí depende de ti",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — Armonía y sostenibilidad"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Quien sabe disfrutar de verdad del primer café de la mañana ya tiene la mitad del camino del ikigai andado.",
+   "es_literal": true,
+   "ancla": "Quien sabe disfrutar de verdad del primer café de la mañana ya tiene la mitad del camino del ikigai andado.",
+   "temas": [
+    "pequeñas alegrías",
+    "presencia"
+   ],
+   "intensidad": 3,
+   "gancho": "La mitad del ikigai está en disfrutar el primer café",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — La alegría de las cosas pequeñas"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Pasamos buena parte del día en piloto automático: el cuerpo en un sitio, la cabeza en otro, ejecutando gestos sin habitarlos. El antídoto no es hacer más cosas, es estar en las que ya haces.",
+   "es_literal": false,
+   "ancla": "Vivimos gran parte del día ausentes de nuestra propia vida, con el cuerpo en un sitio y la cabeza en otro, ejecutando gestos sin habitarlos.",
+   "temas": [
+    "atención",
+    "presencia"
+   ],
+   "intensidad": 3,
+   "gancho": "El cuerpo aquí, la cabeza en otro sitio: piloto automático",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8 — La alegría de las cosas pequeñas"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Cuando lo grande falla —el trabajo, la salud, el dinero, una pérdida—, lo pequeño no es un lujo de más: es a menudo lo último que queda en pie. El café caliente, una llamada, la luz de la ventana.",
+   "es_literal": false,
+   "ancla": "Cuando lo grande falla —el trabajo, la salud, el dinero, una pérdida—, lo pequeño no es lo primero que se puede permitir uno; es a menudo lo último que le queda: el café caliente, la ducha, la llamada de un amigo, la luz de la ventana, el animal que lo espera.",
+   "temas": [
+    "días difíciles",
+    "pequeñas alegrías"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo pequeño no es un lujo: es lo último que queda en pie",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — La alegría de las cosas pequeñas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Nadie sostiene su ikigai en completa soledad. La razón de ser casi siempre tiene, al final, el rostro concreto de otra persona.",
+   "es_literal": true,
+   "ancla": "Nadie sostiene su ikigai en completa soledad. La razón de ser casi siempre tiene, al final, el rostro concreto de otra persona.",
+   "temas": [
+    "comunidad",
+    "vínculos"
+   ],
+   "intensidad": 3,
+   "gancho": "Nadie sostiene su ikigai en completa soledad",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — Ikigai y comunidad (el moai)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuatro pasos para tejer un moai desde cero: elige primero a las personas, no la actividad. Propón una cita repetida, no un encuentro suelto. Hazte tú el guardián del ritual, quien recuerda la fecha. Y protege esa cita como protegerías una reunión de trabajo importante.",
+   "es_literal": false,
+   "ancla": "Primero, **elige a las personas antes que la actividad**. El error habitual es apuntarse a un club esperando que broten amistades; funciona mejor al revés: piensa en dos o tres personas con las que ya tienes algo, aunque sea tenue, y a las que te gustaría ver más.",
+   "temas": [
+    "moai",
+    "comunidad"
+   ],
+   "intensidad": 2,
+   "gancho": "Cuatro pasos para tejer un moai desde cero",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — Ikigai y comunidad (el moai)"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Alguien recién llegado a un edificio donde nadie se habla baja cada tarde con una banqueta plegable, se sienta en el portal y saluda. Solo eso, durante semanas. Un año después, aquel portal tiene un banco fijo y varios vecinos que se conocen por su nombre.",
+   "es_literal": false,
+   "ancla": "bajaba cada tarde con una banqueta plegable, se sentaba en el portal a esa hora en que la gente vuelve del trabajo, y saludaba. Solo eso. Buenas tardes, buenas tardes.",
+   "temas": [
+    "comunidad",
+    "constancia"
+   ],
+   "intensidad": 4,
+   "gancho": "Una banqueta en el portal, cada tarde, durante un año",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — Ikigai y comunidad (el moai)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No necesitas amar tu trabajo para tener ikigai. Necesitas hacerlo con dignidad, o dejar que sostenga la vida que sí amas. Cualquiera de las dos cosas basta, y las dos están a tu alcance.",
+   "es_literal": true,
+   "ancla": "No necesitas amar tu trabajo para tener ikigai. Necesitas hacerlo con dignidad, o dejar que sostenga la vida que sí amas. Cualquiera de las dos cosas basta, y las dos están a tu alcance.",
+   "temas": [
+    "trabajo",
+    "dignidad"
+   ],
+   "intensidad": 3,
+   "gancho": "No necesitas amar tu trabajo para tener ikigai",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — Ikigai en el trabajo: el shokunin y lo humilde bien hecho"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Si tu trabajo no te da sentido, no pasa nada. La idea de que el ikigai debe coincidir con la nómina, de que si tu empleo no cruza con tu pasión tu vida está incompleta, es simplemente falsa.",
+   "es_literal": false,
+   "ancla": "si tu trabajo no te da sentido, tampoco pasa absolutamente nada. Recuerda cuál era el error central de aquel diagrama que desmontamos al principio del libro: hacernos creer que el ikigai *debe* coincidir con la nómina",
+   "temas": [
+    "trabajo",
+    "ikigai"
+   ],
+   "intensidad": 3,
+   "gancho": "Si tu trabajo no te da sentido, no pasa nada",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 10 — Ikigai en el trabajo: el shokunin y lo humilde bien hecho"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El flujo es de las experiencias más cercanas al sentido puro que existen, y no depende de grandes circunstancias, ni de talento, ni de dinero, ni de suerte. Está al alcance de quien aprenda a poner toda su atención en una sola cosa.",
+   "es_literal": false,
+   "ancla": "Es una de las experiencias más cercanas al sentido puro que un ser humano puede tener, y lo mejor de todo es que no depende de grandes circunstancias, ni de talento, ni de dinero, ni de suerte. Está al alcance de cualquiera que aprenda a poner toda su atención en una sola cosa.",
+   "temas": [
+    "flujo",
+    "atención"
+   ],
+   "intensidad": 3,
+   "gancho": "El flujo no depende de talento, dinero ni suerte",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — Ikigai y flujo: estar aquí y ahora"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Estar plenamente en una sola cosa, sin dividirte, sin escaparte a otro sitio, es una de las formas más puras y más al alcance de sentirse vivo.",
+   "es_literal": true,
+   "ancla": "Estar plenamente en una sola cosa, sin dividirte, sin escaparte a otro sitio, es una de las formas más puras y más al alcance de sentirse vivo.",
+   "temas": [
+    "flujo",
+    "presencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Una de las formas más puras de sentirse vivo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — Ikigai y flujo: estar aquí y ahora"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Tres decisiones para proteger tu rato de flujo semanal: reserva un hueco fijo, aunque sean quince minutos, tres veces por semana. Crea una barrera física contra la distracción, el móvil en otra habitación. Y al terminar, anota una sola línea: ¿se me pasó el tiempo o se me hizo largo?",
+   "es_literal": false,
+   "ancla": "Ahora protégela con tres decisiones. Primera: reserva un hueco fijo y pequeño, tres veces esta semana, aunque sean quince minutos. Un hueco fijo se defiende; un \"cuando pueda\" nunca llega. Segunda: crea una barrera física contra la distracción —el móvil en otra habitación, en modo avión, boca abajo en un cajón—.",
+   "temas": [
+    "flujo",
+    "atención"
+   ],
+   "intensidad": 2,
+   "gancho": "Tres decisiones para proteger tu rato de flujo",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11 — Ikigai y flujo: estar aquí y ahora"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No necesitas una vida perfecta para tener sentido. Necesitas aprender a ver el oro en las grietas y a no desperdiciar, esperando algo mejor, lo que ya tienes hoy.",
+   "es_literal": true,
+   "ancla": "No necesitas una vida perfecta para tener sentido. Necesitas aprender a ver el oro en las grietas y a no desperdiciar, esperando algo mejor, lo que ya tienes hoy.",
+   "temas": [
+    "wabi-sabi",
+    "imperfección"
+   ],
+   "intensidad": 4,
+   "gancho": "No necesitas una vida perfecta para tener sentido",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — Wabi-sabi: aceptar lo imperfecto e inacabado"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando una pieza de cerámica valiosa se rompe, hay una tradición que rellena las grietas con laca y oro: el kintsugi. El objeto no oculta su rotura, la exhibe convertida en vetas doradas, y suele considerarse más hermoso por haberse roto y reparado, no a pesar de ello.",
+   "es_literal": false,
+   "ancla": "rellenan las grietas con laca mezclada con oro en polvo. Se llama *kintsugi*, \"carpintería de oro\" o \"unión con oro\". El resultado no es un objeto que oculta avergonzado su rotura, sino uno que la exhibe abiertamente, convertida en vetas doradas que recorren la superficie como ríos de luz.",
+   "temas": [
+    "kintsugi",
+    "imperfección"
+   ],
+   "intensidad": 4,
+   "gancho": "Rellenan las grietas de la cerámica rota con oro",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — Wabi-sabi: aceptar lo imperfecto e inacabado"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Todas estas frases suenan sensatas y prudentes, y todas son, en el fondo, formas elegantes de no vivir, coartadas para no arriesgarse a hacerlo mal. El perfeccionismo no protege la calidad; protege del miedo a fracasar, y al hacerlo, impide empezar.",
+   "es_literal": true,
+   "ancla": "Todas estas frases suenan sensatas y prudentes, y todas son, en el fondo, formas elegantes de no vivir, coartadas para no arriesgarse a hacerlo mal. El perfeccionismo no protege la calidad; protege del miedo a fracasar, y al hacerlo, impide empezar.",
+   "temas": [
+    "perfeccionismo",
+    "wabi-sabi"
+   ],
+   "intensidad": 3,
+   "gancho": "El perfeccionismo no protege la calidad: protege del miedo",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12 — Wabi-sabi: aceptar lo imperfecto e inacabado"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un ejercicio de dos columnas: a la izquierda, tres o cuatro cosas de tu vida que vives como grietas —un fracaso, una etapa dura, una pérdida—. A la derecha, frente a cada una, qué te dio esa grieta: qué aprendiste, en qué te hizo más fuerte, qué puerta te abrió.",
+   "es_literal": false,
+   "ancla": "Coge una hoja y traza dos columnas. En la de la izquierda, escribe tres o cuatro cosas de tu vida que sueles vivir como grietas: un fracaso, una etapa dura, un error que aún te avergüenza, una pérdida, una limitación tuya.",
+   "temas": [
+    "kintsugi",
+    "autoconocimiento"
+   ],
+   "intensidad": 3,
+   "gancho": "Dos columnas: tus grietas y el oro que dejaron",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12 — Wabi-sabi: aceptar lo imperfecto e inacabado"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El sentido no se piensa hasta encontrarlo. Se hace hasta que aparece.",
+   "es_literal": true,
+   "ancla": "El sentido no se piensa hasta encontrarlo. Se hace hasta que aparece.",
+   "temas": [
+    "experimentos",
+    "acción"
+   ],
+   "intensidad": 3,
+   "gancho": "El sentido no se piensa: se hace hasta que aparece",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — Encontrarlo con preguntas y experimentos pequeños"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un experimento devuelve datos reales, corporales: qué te hizo perder la hora, de qué saliste lleno, qué echaste de menos al día siguiente. La cabeza miente con facilidad y se cuenta historias. El cuerpo, en esto, no sabe mentir.",
+   "es_literal": false,
+   "ancla": "Un experimento, en cambio, te devuelve datos reales, corporales, incorruptibles: qué hiciste que te hizo perder la hora, qué hiciste de lo que saliste lleno, qué echaste de menos al día siguiente. La cabeza miente con facilidad, se cuenta historias, se deja arrastrar por lo que \"debería\". El cuerpo, en esto, no sabe mentir.",
+   "temas": [
+    "experimentos",
+    "autoconocimiento"
+   ],
+   "intensidad": 3,
+   "gancho": "La cabeza miente; el cuerpo no sabe mentir",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — Encontrarlo con preguntas y experimentos pequeños"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un método en cinco pasos: vuelve a tu inventario de pequeñas alegrías, elige tres con más carga, convierte cada una en un micro-experimento de una semana, cierra la semana con tres preguntas honestas sobre qué te hizo perder la noción del tiempo, y sigue las pistas del cuerpo, no las del deber.",
+   "es_literal": false,
+   "ancla": "Convierte cada una en un micro-experimento de una semana.** Una acción pequeña, concreta, repetible, ligada a esa alegría. Si te alegra el olor del pan, tu experimento puede ser intentar hornear uno el fin de semana.",
+   "temas": [
+    "experimentos",
+    "método"
+   ],
+   "intensidad": 2,
+   "gancho": "Un método de cinco pasos para encontrar pistas, no respuestas",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — Encontrarlo con preguntas y experimentos pequeños"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Tu razón de ser no está guardada dentro de tu cabeza, completa y terminada, esperando a que el test adecuado la desentierre. No es un dato oculto que haya que revelar: se forma en la acción, en el contacto real con las cosas.",
+   "es_literal": false,
+   "ancla": "tu razón de ser no está guardada dentro de tu cabeza, completa y terminada, enterrada en algún pliegue del alma, esperando pacientemente a que el cuestionario adecuado la desentierre como quien encuentra un fósil. No es un dato oculto que haya que revelar.",
+   "temas": [
+    "tests",
+    "autoconocimiento"
+   ],
+   "intensidad": 3,
+   "gancho": "Tu razón de ser no es un dato oculto que desenterrar",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — Encontrarlo con preguntas y experimentos pequeños"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que puede llevarse un cambio nunca fue todo tu ikigai. Lo que es de verdad tuyo, viaja contigo.",
+   "es_literal": true,
+   "ancla": "Lo que puede llevarse un cambio nunca fue todo tu ikigai. Lo que es de verdad tuyo, viaja contigo.",
+   "temas": [
+    "estaciones",
+    "ikigai"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que es de verdad tuyo viaja contigo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — Ikigai en las estaciones de la vida"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cada persona florece a su tiempo y a su manera, como el cerezo, el ciruelo, el melocotonero y el albaricoquero: los cuatro florecen en primavera, pero ninguno espera a florecer como el vecino. Comparar tu primavera con la de otro es la manera más segura de no ver la tuya.",
+   "es_literal": false,
+   "ancla": "Cada persona florece a su tiempo y a su manera. Tu ikigai no tiene por qué parecerse al de nadie, ni llegar cuando les llegó a los demás, ni tener la forma brillante y admirable que muestran los otros en sus vidas de escaparate.",
+   "temas": [
+    "oubaitori",
+    "comparación"
+   ],
+   "intensidad": 3,
+   "gancho": "Ningún árbol espera a florecer como el vecino",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — Ikigai en las estaciones de la vida"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Después de perderlo todo de golpe, alguien reconstruye su vida sin ningún gran plan: un paseo diario junto al río, una clase de cerámica los martes, una comida semanal con dos amigas, unas plantas que cuidar en el balcón. Gestos pequeños, casi mecánicos al principio, sin fe.",
+   "es_literal": false,
+   "ancla": "Empezó con un paseo diario junto al río, al atardecer, solo eso. Luego se apuntó a un curso de cerámica los martes, más por llenar la tarde que por otra cosa. Después organizó una comida semanal con dos amigas, un ritual fijo, sagrado, pasara lo que pasara.",
+   "temas": [
+    "reconstrucción",
+    "pequeños gestos"
+   ],
+   "intensidad": 4,
+   "gancho": "Reconstruir una vida entera con un paseo y una clase de cerámica",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — Ikigai en las estaciones de la vida"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Divide una hoja en cuatro franjas, como las estaciones de un año: la etapa que fuiste, la que eres, las que intuyes que vendrán. Bajo cada una, anota qué te daba sentido en ella. Verás una hebra que se repite disfrazada en todas: esa es tu hilo rojo.",
+   "es_literal": false,
+   "ancla": "Coge una hoja y divídela en cuatro franjas, como las cuatro estaciones de un año. En cada franja escribe una etapa de tu vida —la que fuiste, la que eres, y las dos que intuyes que vendrán—. Bajo cada etapa, anota qué te daba (o te da, o te dará) sentido en ella",
+   "temas": [
+    "estaciones",
+    "autoconocimiento"
+   ],
+   "intensidad": 2,
+   "gancho": "Cuatro franjas: las estaciones de tu propio ikigai",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14 — Ikigai en las estaciones de la vida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No esperes a tener ganas para hacer tu gesto. Haz tu gesto, y las ganas vendrán detrás.",
+   "es_literal": true,
+   "ancla": "No esperes a tener ganas para hacer tu gesto. Haz tu gesto, y las ganas vendrán detrás.",
+   "temas": [
+    "días grises",
+    "constancia"
+   ],
+   "intensidad": 3,
+   "gancho": "No esperes a tener ganas: haz tu gesto primero",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — Sostener el ikigai (cuando se apaga)"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El *gaman* sano es atravesar un invierno sabiendo, en el fondo del corazón, que la primavera volverá; es resistir con la vista puesta en que esto, sea lo que sea, pasará. El *gaman* mal entendido, en cambio, es quedarse congelado para siempre en una vida que ya no tiene arreglo, en un trabajo que te destruye, en una relación que te apaga, confundiendo la resignación con la virtud.",
+   "es_literal": true,
+   "ancla": "El *gaman* sano es atravesar un invierno sabiendo, en el fondo del corazón, que la primavera volverá; es resistir con la vista puesta en que esto, sea lo que sea, pasará. El *gaman* mal entendido, en cambio, es quedarse congelado para siempre en una vida que ya no tiene arreglo, en un trabajo que te destruye, en una relación que te apaga, confundiendo la resignación con la virtud.",
+   "temas": [
+    "gaman",
+    "resiliencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Gaman sano espera la primavera; mal entendido, se congela",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15 — Sostener el ikigai (cuando se apaga)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Prepara, mientras estás bien, un kit de emergencia de tres líneas para los días en que el sentido se apague: el ritual más fácil de todos los tuyos, el nombre de una persona a la que escribir sin que te juzgue, y una frase tuya que te recuerde que esto pasará.",
+   "es_literal": false,
+   "ancla": "Escribe en una nota —en el móvil, en un papel en la cartera, donde sea que vayas a encontrarla— tres cosas, solo tres. Primera: **el ritual más fácil de todos los tuyos**, el que puedes ejecutar aunque estés hundido y sin ganas de nada.",
+   "temas": [
+    "días grises",
+    "previsión"
+   ],
+   "intensidad": 3,
+   "gancho": "Un kit de emergencia de tres líneas para los días negros",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15 — Sostener el ikigai (cuando se apaga)"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Que el sentido se apague durante temporadas no es un fracaso tuyo ni la prueba de que lo estabas haciendo mal. Es parte del ciclo natural del sentido, que como todo lo vivo tiene sus inviernos.",
+   "es_literal": false,
+   "ancla": "Esto no es un fracaso tuyo ni la prueba de que \"lo estabas haciendo mal\" ni de que todo lo anterior fuera mentira. Es, sencillamente, parte del ciclo natural del sentido, que como todo lo vivo tiene sus inviernos.",
+   "temas": [
+    "días grises",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Que el sentido se apague no es un fracaso tuyo",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Sostener el ikigai (cuando se apaga)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El ikigai no se busca. Se despierta. Y se despierta en lo pequeño, cada mañana.",
+   "es_literal": true,
+   "ancla": "El ikigai no se busca. Se despierta. Y se despierta en lo pequeño, cada mañana.",
+   "temas": [
+    "ikigai",
+    "práctica cotidiana"
+   ],
+   "intensidad": 4,
+   "gancho": "El ikigai no se busca: se despierta cada mañana",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "CIERRE — El ikigai se despierta cada mañana"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un café o un té de primera hora, bebido sin pantalla, sin leer nada y sin planear el día: solo el calor entre las manos, el olor que sube y el primer sabor en la boca.",
+   "es_literal": false,
+   "ancla": "Bébete tu primer café o té de la mañana sin hacer nada más: sin pantalla, sin leer, sin planear el día. Solo el calor entre las manos, el olor que sube, el primer sabor en la boca.",
+   "temas": [
+    "atención",
+    "rituales"
+   ],
+   "intensidad": 2,
+   "gancho": "El primer café del día, sin nada más alrededor",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Anexo 1 — Reto de 30 días para despertar tu ikigai"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige algo que llevas tiempo posponiendo por parecerte demasiado grande, y hazlo hoy en su versión mínima: dos flexiones, una página leída, una sola frase escrita. Si tu versión mínima todavía te da pereza, hazla aún más pequeña.",
+   "es_literal": false,
+   "ancla": "Elige una cosa buena que llevas tiempo posponiendo por parecerte demasiado grande, y hazla hoy en su versión mínima: dos flexiones, una página leída, una sola frase escrita, un correo abierto sin llegar a redactarlo entero.",
+   "temas": [
+    "empezar pequeño",
+    "hábitos"
+   ],
+   "intensidad": 2,
+   "gancho": "Haz hoy la versión más mínima de lo que pospones",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Anexo 1 — Reto de 30 días para despertar tu ikigai"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una conversación cualquiera, un café con alguien, un rato con quien se vive: tratarlo como único e irrepetible, porque en realidad lo es. Esa versión exacta de esa persona, en ese momento, no va a volver.",
+   "es_literal": false,
+   "ancla": "Trata un encuentro cualquiera de hoy —una conversación, un café con alguien, incluso un rato con quien vives— como si fuera único e irrepetible, porque en realidad lo es: esa versión exacta de esa persona, en ese momento, no volverá.",
+   "temas": [
+    "ichigo ichie",
+    "presencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Esa versión exacta de esa persona no volverá",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Anexo 1 — Reto de 30 días para despertar tu ikigai"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cómo sostener el inventario: añade al menos una línea concreta y sensorial cada día. Una vez por semana, relee todo el inventario sin corregir nada. Y marca las tres o cuatro alegrías más fieles: esas forman tu kit de emergencia para los días grises.",
+   "es_literal": false,
+   "ancla": "Añade al menos una entrada al día. Basta una sola línea, concreta y sensorial; no un valor abstracto, sino una cosa que de verdad pasó hoy.",
+   "temas": [
+    "inventario",
+    "hábitos"
+   ],
+   "intensidad": 2,
+   "gancho": "Cómo sostener un inventario de pequeñas alegrías",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Anexo 3 — Inventario de pequeñas alegrías"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué es lo último que hiciste que te hizo perder la noción del tiempo?",
+   "es_literal": true,
+   "ancla": "¿Qué es lo último que hiciste que te hizo perder la noción del tiempo? *(Ese olvido del reloj es la huella más fiable del flujo, y una de las mejores pistas de por dónde vive tu sentido.)*",
+   "temas": [
+    "flujo",
+    "autoconocimiento"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Qué te hizo perder la noción del tiempo la última vez?",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Anexo 4 — 50 preguntas para tu razón de ser"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Quién forma tu *moai*, tu círculo de apoyo real y recíproco?",
+   "es_literal": true,
+   "ancla": "¿Quién forma tu *moai*, tu círculo de apoyo real y recíproco? *(No cuentan los contactos ni los seguidores: solo quienes vendrían si de verdad los necesitaras, y por quienes tú irías.)*",
+   "temas": [
+    "moai",
+    "comunidad"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Quién forma de verdad tu círculo de apoyo?",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Anexo 4 — 50 preguntas para tu razón de ser"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué tarea, por pequeña que sea, haces con orgullo de que salga bien, aunque nadie más lo note?",
+   "es_literal": true,
+   "ancla": "¿Qué tarea, por pequeña que sea, haces con orgullo de que salga bien, aunque nadie más lo note? *(Ese orgullo callado por lo bien hecho es el corazón del* shokunin*, y puede vivir en la tarea más humilde.)*",
+   "temas": [
+    "shokunin",
+    "trabajo"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Qué haces con orgullo aunque nadie lo note?",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Anexo 4 — 50 preguntas para tu razón de ser"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué pequeña cosa, hoy, ya hace que valga la pena estar vivo?",
+   "es_literal": true,
+   "ancla": "¿Qué pequeña cosa, hoy, ya hace que valga la pena estar vivo? *(Si te ha venido una a la cabeza sin pensar, esa es la respuesta más importante de las cincuenta.)*",
+   "temas": [
+    "pequeñas alegrías",
+    "ikigai"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Qué pequeña cosa ya hace que valga la pena hoy?",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Anexo 4 — 50 preguntas para tu razón de ser"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay una palabra japonesa, yūgen, para la belleza profunda y misteriosa de lo que se intuye pero no se ve del todo: la emoción ante lo insinuado, lo velado, lo que el silencio sugiere.",
+   "es_literal": false,
+   "ancla": "***Yūgen*** (yúu-guen): la belleza profunda y misteriosa de lo que se intuye pero no se ve del todo; la emoción ante lo insinuado, lo velado, lo que el silencio sugiere.",
+   "temas": [
+    "yūgen",
+    "estética"
+   ],
+   "intensidad": 3,
+   "gancho": "La belleza de lo que se intuye pero no se ve del todo",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Anexo 5 — Glosario de términos japoneses"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay una diferencia entre el ikigai y el ikigai-kan: el primero son las razones concretas para levantarte; el segundo es la sensación misma de que la vida vale la pena, la calidez de fondo que deja vivir esas razones durante un tiempo.",
+   "es_literal": false,
+   "ancla": "***Ikigai-kan*** (i-ki-gái-kan): la *sensación* de que la vida vale la pena. Es el ikigai vivido no como concepto, sino como estado de ánimo cotidiano, la calidez de fondo de una vida con sentido.",
+   "temas": [
+    "ikigai-kan",
+    "sentido"
+   ],
+   "intensidad": 3,
+   "gancho": "El ikigai son las razones; el ikigai-kan, la calidez que dejan",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Anexo 5 — Glosario de términos japoneses"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El mindfulness es sobre todo una técnica: entrenar la mente para estar en el presente. El ikigai es más amplio, una manera entera de dar sentido a la vida que incluye esa atención pero no se agota en ella: se puede meditar cada día y seguir sin saber para qué levantarse.",
+   "es_literal": false,
+   "ancla": "El *mindfulness*, o atención plena, es sobre todo una técnica: entrenar la mente para estar en el presente sin juzgarlo. El ikigai es algo más amplio, una manera entera de dar sentido a la vida, que incluye esa atención pero no se agota en ella",
+   "temas": [
+    "mindfulness",
+    "ikigai"
+   ],
+   "intensidad": 3,
+   "gancho": "Se puede meditar cada día y no saber para qué levantarse",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Anexo 6 — Preguntas frecuentes"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Si estás atravesando una depresión, lo primero es buscar ayuda profesional. Ni este libro ni ninguna filosofía sustituyen a un psicólogo o a un médico. Pedir ayuda también es una forma de cuidar tu ikigai.",
+   "es_literal": false,
+   "ancla": "si estás atravesando una depresión, lo primero y prioritario es buscar ayuda profesional. Ni este libro ni ninguna filosofía, por bonita que suene, sustituyen a un psicólogo o a un médico",
+   "temas": [
+    "salud mental",
+    "límites del libro"
+   ],
+   "intensidad": 3,
+   "gancho": "Ni este libro ni ninguna filosofía sustituyen a un profesional",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Anexo 6 — Preguntas frecuentes"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El ikigai no promete felicidad; promete sentido, que es algo más hondo y más estable. La felicidad es un estado de ánimo que va y viene con las circunstancias, casi imposible de sostener a voluntad; el sentido, en cambio, se puede sostener incluso en un día triste.",
+   "es_literal": true,
+   "ancla": "El ikigai no promete felicidad; promete sentido, que es algo más hondo y más estable. La felicidad es un estado de ánimo que va y viene con las circunstancias, casi imposible de sostener a voluntad; el sentido, en cambio, se puede sostener incluso en un día triste.",
+   "temas": [
+    "felicidad",
+    "sentido"
+   ],
+   "intensidad": 3,
+   "gancho": "No promete felicidad: promete sentido",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Anexo 6 — Preguntas frecuentes"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro evita a propósito las cifras redondas y los estudios citados con aparato de autoridad. No por desprecio a la investigación, sino porque su tesis es que el sentido vive en lo pequeño, y eso no se demuestra con estadísticas.",
+   "es_literal": false,
+   "ancla": "este libro ha evitado a propósito las cifras redondas y los estudios citados con aparato de autoridad. No por desprecio a la investigación, sino porque su tesis —que el sentido vive en lo pequeño y no se demuestra con estadísticas— lo pedía.",
+   "temas": [
+    "honestidad",
+    "fuentes"
+   ],
+   "intensidad": 2,
+   "gancho": "Evita a propósito las cifras redondas y los estudios de adorno",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Una nota honesta sobre las fuentes"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Conformarse es posponer la vida esperando que algún día llegue lo grande —el trabajo soñado, la relación perfecta, la casa, el momento en que por fin empezarás a vivir de verdad— y, mientras tanto, dejar sin habitar todos los días que pasan por el camino, que son casi todos. Despertar el ikigai en lo pequeño no es renunciar a lo grande; es dejar de aplazar y empezar a vivir ya, con lo que tienes hoy.",
+   "es_literal": true,
+   "ancla": "Conformarse es posponer la vida esperando que algún día llegue lo grande —el trabajo soñado, la relación perfecta, la casa, el momento en que por fin empezarás a vivir de verdad— y, mientras tanto, dejar sin habitar todos los días que pasan por el camino, que son casi todos. Despertar el ikigai en lo pequeño no es renunciar a lo grande; es dejar de aplazar y empezar a vivir ya, con lo que tienes hoy.",
+   "temas": [
+    "conformismo",
+    "ambición"
+   ],
+   "intensidad": 3,
+   "gancho": "No es conformarse: es dejar de aplazar la vida",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Anexo 6 — Preguntas frecuentes"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Muchas razones pequeñas son, casi siempre, más sólidas que una sola grande.",
+   "es_literal": true,
+   "ancla": "Muchas razones pequeñas son, casi siempre, más sólidas que una sola grande.",
+   "temas": [
+    "ikigai",
+    "resiliencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Muchas razones pequeñas son más sólidas que una grande",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Anexo 6 — Preguntas frecuentes"
+  }
+ ]
+}

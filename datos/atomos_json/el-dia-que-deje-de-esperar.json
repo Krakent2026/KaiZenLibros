@@ -1,0 +1,1228 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "el-dia-que-deje-de-esperar",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "El propósito no te está esperando en ningún sitio; aparece en el suelo que pisas al caminar.",
+   "es_literal": true,
+   "ancla": "El propósito no te está esperando en ningún sitio; aparece en el suelo que pisas al caminar.",
+   "temas": [
+    "propósito",
+    "espera",
+    "acción"
+   ],
+   "intensidad": 5,
+   "gancho": "La frase que sostiene el libro entero",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Introducción — El día que dejé de esperar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El propósito no se descubre escondido dentro de ti. Se construye caminando, desde donde estás y con lo que hay. No es una búsqueda del tesoro: es una obra de construcción.",
+   "es_literal": false,
+   "ancla": "no tienes que descubrir nada escondido; tienes que construir algo nuevo, caminando, desde donde estás, con lo que hay. No es una búsqueda del tesoro; es una obra de construcción.",
+   "temas": [
+    "propósito",
+    "construcción"
+   ],
+   "intensidad": 4,
+   "gancho": "No es una búsqueda del tesoro: es una obra",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Introducción — El día que dejé de esperar"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Sentirse perdido no es un defecto de fábrica: muchas veces es la señal de estar lo bastante despierto como para hacerse las preguntas que casi nadie se hace.",
+   "es_literal": false,
+   "ancla": "Los que jamás se sienten perdidos suelen ser, precisamente, los que jamás se han parado a preguntarse hacia dónde van. Tu desasosiego no es una tara. Es una forma de lucidez incómoda.",
+   "temas": [
+    "desorientación",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "Tu desasosiego no es una tara",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Introducción — El día que dejé de esperar"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Es un libro de crecimiento personal, no un tratamiento: no sustituye el diagnóstico ni la ayuda de un profesional de la salud mental.",
+   "es_literal": false,
+   "ancla": "Este es un libro de crecimiento personal, no un tratamiento, y no sustituye el diagnóstico ni la ayuda de un profesional de la salud mental.",
+   "temas": [
+    "límites",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que este libro no es",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Introducción — El día que dejé de esperar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Vivir esperando a tenerlo claro es pasarse la vida en la antesala de la vida.",
+   "es_literal": true,
+   "ancla": "Vivir esperando a tenerlo claro es pasarse la vida en la antesala de la vida.",
+   "temas": [
+    "espera",
+    "claridad"
+   ],
+   "intensidad": 5,
+   "gancho": "La antesala de la vida",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — La sala de espera de tu propia vida"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La claridad no es el requisito para moverse: es el resultado de haberse movido.",
+   "es_literal": true,
+   "ancla": "La claridad no es el requisito para moverse: es el resultado de haberse movido. No te aclaras y entonces caminas; caminas y entonces te aclaras.",
+   "temas": [
+    "claridad",
+    "acción"
+   ],
+   "intensidad": 5,
+   "gancho": "Caminas y entonces te aclaras",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — La sala de espera de tu propia vida"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una vida que sobre el papel funciona, y aun así la sensación de estar viéndola desde detrás de un cristal, ligeramente apartado, esperando a que empiece la de verdad. «Cuando lo tenga claro, me pondré en serio.» Diez años pensándolo.",
+   "es_literal": false,
+   "ancla": "Es como si estuviera viendo su propia vida desde detrás de un cristal, ligeramente apartado, esperando a que empiece la de verdad.",
+   "temas": [
+    "espera",
+    "vacío"
+   ],
+   "intensidad": 4,
+   "gancho": "Ver tu vida desde detrás de un cristal",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 1 — La sala de espera de tu propia vida"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Escribe: «Estoy esperando a tener claro ___ para empezar a ___», todas las veces que te salga. Después pregunta a cada frase si es una espera con fecha y con un para qué, o una espera en la niebla. Marca las de niebla.",
+   "es_literal": false,
+   "ancla": "Puede que salgan varias frases; escríbelas todas, sin filtrar. Después, a cada una, hazle la pregunta de este capítulo: ¿es una espera con fecha y con un para qué, o una espera en la niebla?",
+   "temas": [
+    "espera",
+    "práctica"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos huecos que ponen tu espera a plena luz",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — La sala de espera de tu propia vida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El mito del gran propósito ha hecho sentir defectuosa a más gente que casi cualquier otra idea del crecimiento personal.",
+   "es_literal": true,
+   "ancla": "El mito del gran propósito ha hecho sentir defectuosa a más gente que casi cualquier otra idea del crecimiento personal.",
+   "temas": [
+    "propósito",
+    "mitos"
+   ],
+   "intensidad": 5,
+   "gancho": "El mito que deja a la gente sintiéndose rota",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — El mito del gran propósito"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La pasión no es el rayo previo que te dice por dónde empezar: es lo que sientes por algo que se te da bien y en lo que ya has invertido tiempo y esfuerzo.",
+   "es_literal": false,
+   "ancla": "La pasión es lo que sientes por algo que se te da bien y en lo que has invertido tiempo y esfuerzo, no un rayo previo que te dice mágicamente por dónde empezar.",
+   "temas": [
+    "pasión",
+    "vocación"
+   ],
+   "intensidad": 4,
+   "gancho": "La pasión llega después, no antes",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — El mito del gran propósito"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El propósito de verdad no es un rayo que cae y te ilumina; es una construcción lenta, artesanal, hecha de muchos pasos, muchos ajustes, muchos callejones sin salida y bastante paciencia.",
+   "es_literal": true,
+   "ancla": "El propósito de verdad no es un rayo que cae y te ilumina; es una construcción lenta, artesanal, hecha de muchos pasos, muchos ajustes, muchos callejones sin salida y bastante paciencia.",
+   "temas": [
+    "propósito",
+    "paciencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Ni rayo ni epifanía: obra artesanal",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — El mito del gran propósito"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un currículum que parece el de tres personas distintas: una carrera dejada a medias, otra terminada sin entusiasmo, seis meses aquí, dos años allá, tres ciudades. Y siempre la misma frase: «cuando sepa lo que quiero, me pongo en serio».",
+   "es_literal": false,
+   "ancla": "Trabajó de comercial, de camarero, en una start-up, en una oficina; en cada sitio duraba entre seis meses y dos años, y se iba con la misma sensación: \"esto no es\".",
+   "temas": [
+    "búsqueda",
+    "compromiso"
+   ],
+   "intensidad": 4,
+   "gancho": "Buscar «lo mío» como forma de no comprometerse",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — El mito del gran propósito"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Nadie llega tarde a una vida que no es una carrera.",
+   "es_literal": true,
+   "ancla": "Porque esa es la trampa de fondo: creemos que la vida es una carrera, con una línea de salida común, un recorrido igual para todos y una meta que hay que alcanzar antes que los demás. Pero la vida no es una carrera.",
+   "temas": [
+    "comparación",
+    "reloj social"
+   ],
+   "intensidad": 5,
+   "gancho": "Nadie llega tarde a algo que no es una carrera",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — La comparación y el reloj social"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es que tu vida sea peor: es que comparas tu detrás de las cámaras, crudo y con todas sus tomas falsas, con el tráiler cuidadosamente montado de la película de otro.",
+   "es_literal": false,
+   "ancla": "Comparar tu detrás de las cámaras —crudo, real, con todas sus tomas falsas— con el tráiler cuidadosamente montado de la película de otro es un juego que tienes perdido de antemano, siempre, sin excepción, porque las cartas están marcadas de origen.",
+   "temas": [
+    "comparación",
+    "redes"
+   ],
+   "intensidad": 4,
+   "gancho": "Tu detrás de las cámaras contra su tráiler",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 3 — La comparación y el reloj social"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Cuando notes el pinchazo de «voy tarde»: ¿tarde según quién? ¿Según qué reloj? ¿Quién puso ese reloj en hora?",
+   "es_literal": false,
+   "ancla": "Cuando notes el pinchazo de \"voy tarde\", pregúntate: ¿tarde según quién? ¿Según qué reloj? ¿Quién puso ese reloj en hora, y por qué debería mandar sobre mi vida?",
+   "temas": [
+    "reloj social",
+    "comparación"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Tarde según quién?",
+   "formatos": [
+    "pin",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — La comparación y el reloj social"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Experimento de un día: cada vez que te compares con alguien —en persona, en redes, en tu cabeza—, anota solo la hora, sin juzgarte. Por la noche, mira la lista y su longitud.",
+   "es_literal": false,
+   "ancla": "Cada vez que hoy te compares con alguien —en persona, en redes, en tu cabeza—, anótalo en el móvil o en un papel: solo la hora, nada más, sin juzgarte.",
+   "temas": [
+    "comparación",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Apunta la hora cada vez que te compares",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — La comparación y el reloj social"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No necesito saber qué hacer con mi vida. Solo qué hacer con la próxima hora.",
+   "es_literal": true,
+   "ancla": "No necesito saber qué hacer con mi vida. Solo qué hacer con la próxima hora.",
+   "temas": [
+    "bajón",
+    "paso mínimo"
+   ],
+   "intensidad": 5,
+   "gancho": "Para cuando vuelve el «no sé qué hacer con mi vida»",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Anexo 3 — Kit de rescate para los días de «no sé qué hago con mi vida»"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Una vida cómoda sin dirección puede sentirse, por dentro, como estar perdido en un hotel de lujo.",
+   "es_literal": true,
+   "ancla": "Una vida cómoda sin dirección puede sentirse, por dentro, como estar perdido en un hotel de lujo.",
+   "temas": [
+    "bienestar",
+    "sentido"
+   ],
+   "intensidad": 4,
+   "gancho": "Perdido en un hotel de lujo",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — Cuando todo está bien y aun así falta algo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Bienestar y sentido no son la misma cosa: uno es sentirse bien aquí y ahora, el otro es sentir que la vida va hacia algún sitio y que lo que haces tiene un porqué que va más allá de la comodidad.",
+   "es_literal": false,
+   "ancla": "es sentir que tu vida importa, que va hacia algún sitio, que lo que haces tiene un porqué que va más allá de tu propia comodidad. El sentido mira más allá del presente y más allá de uno mismo.",
+   "temas": [
+    "bienestar",
+    "sentido"
+   ],
+   "intensidad": 4,
+   "gancho": "Bienestar y sentido no son lo mismo",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — Cuando todo está bien y aun así falta algo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El sentido no es un lujo reservado a quien ya tiene lo demás resuelto. Es una necesidad tan básica como la comida o el afecto, y tener cubierto otro terreno no la anula.",
+   "es_literal": false,
+   "ancla": "Es una necesidad humana básica, tan real como la comida o el afecto. Que tengas cubiertas otras necesidades no anula esta.",
+   "temas": [
+    "sentido",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "El sentido no es un capricho de malcriado",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 4 — Cuando todo está bien y aun así falta algo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando aparezca ese rato tranquilo en que suele asomar el vacío, no lo tapes con el móvil. Quédate un minuto y pregúntale, en silencio, qué te está pidiendo. Casi nunca pide más de lo mismo: pide dirección, contribución, algo que importe.",
+   "es_literal": false,
+   "ancla": "Casi siempre no pide más de lo mismo (más placer, más cosas, más distracción), sino algo distinto: dirección, contribución, algo que importe.",
+   "temas": [
+    "vacío",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Pregúntale al vacío qué te está pidiendo",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — Cuando todo está bien y aun así falta algo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El propósito no es un lugar al que llegas; es un norte que te orienta mientras andas.",
+   "es_literal": true,
+   "ancla": "El propósito no es un lugar al que llegas; es un norte que te orienta mientras andas.",
+   "temas": [
+    "propósito",
+    "dirección"
+   ],
+   "intensidad": 5,
+   "gancho": "Un norte, no un destino",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — Propósito como dirección, no como destino"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El destino es como un GPS: si no le das la dirección exacta, se queda parado esperando un dato que no tienes, y tú te quedas parado con él. La dirección es como una brújula: solo señala un norte, y con eso basta para echar a andar.",
+   "es_literal": false,
+   "ancla": "El GPS necesita que le introduzcas la dirección exacta de destino; si no la sabes, no funciona, se queda parado esperando un dato que tú no tienes, y tú te quedas parado con él.",
+   "temas": [
+    "propósito",
+    "dirección"
+   ],
+   "intensidad": 4,
+   "gancho": "GPS contra brújula",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 5 — Propósito como dirección, no como destino"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Las direcciones no se agotan nunca: puedes caminar ochenta años en «aprender» o «cuidar» y siempre queda camino. Los destinos se acaban; las direcciones, no.",
+   "es_literal": false,
+   "ancla": "Puedes pasarte ochenta años caminando en cualquiera de ellas y aún tendrás más camino. Esto es importantísimo, porque significa que una dirección bien elegida es una fuente inagotable de sentido: nunca llegarás al final, nunca te quedarás sin \"para qué\".",
+   "temas": [
+    "dirección",
+    "propósito"
+   ],
+   "intensidad": 4,
+   "gancho": "Una dirección nunca se acaba",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5 — Propósito como dirección, no como destino"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Escribe una dirección, no una meta, para los próximos meses. En vez de «conseguir X», escribe «moverme hacia ___» o «acercarme más a ___». Luego anota un primer paso pequeño para esta semana.",
+   "es_literal": false,
+   "ancla": "En vez de \"conseguir X\" (destino cerrado), escribe \"moverme hacia ______\" o \"acercarme más a ______\" (dirección abierta).",
+   "temas": [
+    "dirección",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Cambia «conseguir» por «moverme hacia»",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — Propósito como dirección, no como destino"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No necesitas un gran ikigai; necesitas muchos ikigais pequeños repartidos por tus días.",
+   "es_literal": true,
+   "ancla": "No necesitas un gran ikigai; necesitas muchos ikigais pequeños repartidos por tus días.",
+   "temas": [
+    "ikigai",
+    "sentido"
+   ],
+   "intensidad": 5,
+   "gancho": "Muchos ikigais pequeños, no uno grande",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — Ikigai bien entendido (adiós al diagrama viral)"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El diagrama viral pide que cuatro cosas coincidan en un punto perfecto. El ikigai real no plantea ningún puzle que resolver: solo invita a llenar los días de pequeñas razones para vivirlos.",
+   "es_literal": false,
+   "ancla": "El ikigai real no plantea ningún puzle que resolver. No te pide encontrar el punto perfecto de nada. Te invita, simplemente, a llenar tus días de pequeñas razones para vivirlos.",
+   "temas": [
+    "ikigai",
+    "mitos"
+   ],
+   "intensidad": 4,
+   "gancho": "El diagrama viral no es el ikigai real",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6 — Ikigai bien entendido (adiós al diagrama viral)"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Después del duelo, una amiga le sugirió buscar tres razones minúsculas para levantarse cada mañana. Al principio le parecían ridículas comparadas con lo que había perdido.",
+   "es_literal": false,
+   "ancla": "Una amiga le sugirió que buscara tres razones minúsculas para levantarse cada mañana, tres ikigais diminutos. Al principio le costó horrores; le parecían ridículos comparados con lo que había perdido.",
+   "temas": [
+    "duelo",
+    "ikigai"
+   ],
+   "intensidad": 4,
+   "gancho": "Tres razones minúsculas para levantarse",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 6 — Ikigai bien entendido (adiós al diagrama viral)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Escribe tres micro-razones concretas para levantarte mañana. Pequeñas, cotidianas, reales, sin grandilocuencia. Y al despertar, antes de coger el móvil, recuérdalas.",
+   "es_literal": false,
+   "ancla": "Escribe tres micro-razones concretas para levantarte mañana. Pequeñas, cotidianas, reales, sin grandilocuencia.",
+   "temas": [
+    "ikigai",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres micro-razones antes de coger el móvil",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6 — Ikigai bien entendido (adiós al diagrama viral)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El sentido no se inventa desde cero; se descubre respondiendo a lo que la vida ya te está pidiendo.",
+   "es_literal": true,
+   "ancla": "El sentido no se inventa desde cero; se descubre respondiendo a lo que la vida ya te está pidiendo.",
+   "temas": [
+    "sentido",
+    "Frankl"
+   ],
+   "intensidad": 5,
+   "gancho": "El sentido se responde, no se inventa",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — El sentido no se inventa, se responde"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Frankl hablaba de tres vías hacia el sentido: hacer o crear algo, amar y vincularse, o elegir la actitud ante lo que no se puede cambiar. Si una está cerrada, casi siempre queda otra abierta.",
+   "es_literal": false,
+   "ancla": "Tres vías. Si no encuentras sentido por una, prueba por otra. Casi siempre, en cualquier vida y en cualquier momento, hay al menos una abierta.",
+   "temas": [
+    "Frankl",
+    "sentido"
+   ],
+   "intensidad": 4,
+   "gancho": "Tres puertas, casi siempre una abierta",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7 — El sentido no se inventa, se responde"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El sentido no siempre es una emoción cálida. Hay días en que no lo sientes y aun así lo sostienes con lo que haces; la emoción va y viene, el sentido se mantiene por debajo.",
+   "es_literal": false,
+   "ancla": "A veces el sentido es lo que sostienes con tus actos precisamente los días en que no lo sientes. La emoción va y viene; el sentido, cuando es de verdad, se mantiene por debajo, sostenido por lo que haces y por lo que valoras, no por cómo te sientes hoy.",
+   "temas": [
+    "sentido",
+    "emociones"
+   ],
+   "intensidad": 4,
+   "gancho": "El sentido no siempre se siente",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7 — El sentido no se inventa, se responde"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué te está pidiendo tu vida ahora mismo? No la misión bonita y abstracta que te gustaría tener, sino lo que de verdad tienes delante hoy.",
+   "es_literal": false,
+   "ancla": "No lo que te gustaría que te pidiera, no una misión abstracta y bonita, sino lo que de verdad tienes delante en tu vida concreta de hoy.",
+   "temas": [
+    "sentido",
+    "práctica"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Qué te pide tu vida ahora mismo?",
+   "formatos": [
+    "pin",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — El sentido no se inventa, se responde"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando no sabes qué quieres, mira qué valoras. Ahí está tu norte.",
+   "es_literal": true,
+   "ancla": "Cuando no sabes qué quieres, mira qué valoras. Ahí está tu norte.",
+   "temas": [
+    "valores",
+    "brújula"
+   ],
+   "intensidad": 5,
+   "gancho": "Ahí está tu norte",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8 — Tus valores son tu brújula"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuatro pistas para encontrar un valor que no ves: qué envidias sin maldad, en qué momentos te sentiste plenamente en tu sitio, qué te indigna de verdad, y qué harías aunque no te pagaran nada.",
+   "es_literal": false,
+   "ancla": "Piensa en alguien que envidias sin maldad, con esa envidia que en el fondo es admiración mezclada con un pinchazo de \"ojalá yo\". No te fijes en la persona, sino en qué exactamente le envidias.",
+   "temas": [
+    "valores",
+    "autoconocimiento"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuatro puertas traseras hacia tus valores",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8 — Tus valores son tu brújula"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Los valores que proclamas y los que vives no siempre coinciden. Mira tu agenda de la última semana: ahí están los reales, escritos en el lenguaje que no miente, el del tiempo.",
+   "es_literal": false,
+   "ancla": "Si dices que valoras la familia pero tu agenda no tiene ni una hora dedicada a ella, hay un desajuste. Si dices que valoras la salud pero no hay rastro de ello en cómo pasas tus días, hay un desajuste.",
+   "temas": [
+    "valores",
+    "coherencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Tu agenda dice tus valores reales",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8 — Tus valores son tu brújula"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige tres valores que sientas tuyos de verdad y escribe, para cada uno, una acción pequeña y realizable para esta semana. Tres valores, tres acciones con fecha: eso ya es caminar.",
+   "es_literal": false,
+   "ancla": "Tres valores, tres acciones con fecha. Eso ya no es una reflexión abstracta sobre el propósito: es una dirección con pasos concretos.",
+   "temas": [
+    "valores",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres valores, tres acciones con fecha",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — Tus valores son tu brújula"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La claridad es hija de la acción, no su madre.",
+   "es_literal": true,
+   "ancla": "La claridad es hija de la acción, no su madre.",
+   "temas": [
+    "acción",
+    "claridad"
+   ],
+   "intensidad": 5,
+   "gancho": "La claridad es hija de la acción",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — La acción crea claridad (no al revés)"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Pensar da la ilusión de controlarlo todo sin exponerse a nada; actuar expone a una realidad que no se controla. Es más cómodo sentirse en control estando quieto que perder el control avanzando.",
+   "es_literal": false,
+   "ancla": "Preferimos la ilusión de control del pensamiento al descontrol real de la acción, aunque el pensamiento no nos lleve a ningún sitio. Es más cómodo sentirse en control quieto que perder el control avanzando.",
+   "temas": [
+    "acción",
+    "miedo"
+   ],
+   "intensidad": 4,
+   "gancho": "Pensar no es lo mismo que avanzar",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 9 — La acción crea claridad (no al revés)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Antes de decidir nada, habla media hora con alguien que ya hace eso que te atrae. Esa conversación derriba fantasías y confirma intuiciones más rápido que meses de pensarlo a solas.",
+   "es_literal": false,
+   "ancla": "Media hora con alguien que lo vive por dentro vale más que veinte horas de imaginación. Este peldaño derriba muchas fantasías y confirma algunas intuiciones.",
+   "temas": [
+    "acción",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Media hora real vale más que veinte horas de imaginación",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — La acción crea claridad (no al revés)"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Quien analiza mucho y no actúa no necesita otro dato ni otra idea: necesita fijarse un límite de tiempo y decidir con lo que ya tiene, aunque quede algo por sopesar.",
+   "es_literal": false,
+   "ancla": "La regla que le funciona a mucha gente analítica es sencilla: fíjate un límite (\"me doy hasta el viernes para decidir esto\" o \"voy a reunir tres datos, no treinta\") y, llegado el límite, actúa con lo que tengas.",
+   "temas": [
+    "parálisis",
+    "decisión"
+   ],
+   "intensidad": 4,
+   "gancho": "El problema no es falta de análisis, es exceso",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 9 — La acción crea claridad (no al revés)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No tienes que decidir el resto de tu vida hoy. Solo tienes que diseñar el próximo experimento.",
+   "es_literal": true,
+   "ancla": "No tienes que decidir el resto de tu vida hoy. Solo tienes que diseñar el próximo experimento.",
+   "temas": [
+    "experimento",
+    "decisión"
+   ],
+   "intensidad": 5,
+   "gancho": "Diseña el próximo experimento, no el resto de tu vida",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Experimenta en pequeño en vez de decidir en grande"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un experimento de propósito tiene cuatro piezas: una hipótesis de lo que crees que podría encajarte, una prueba pequeña y barata para comprobarlo, un plazo con fecha, y una observación concreta de lo que sientes al hacerlo.",
+   "es_literal": false,
+   "ancla": "Qué crees que puede gustarte, encajarte o llenarte. Formúlalo como una suposición a comprobar, no como una certeza: \"creo que me llenaría enseñar\", \"sospecho que se me daría bien el trabajo manual\", \"quizá me gustaría más un entorno pequeño que uno corporativo\".",
+   "temas": [
+    "experimento",
+    "práctica"
+   ],
+   "intensidad": 4,
+   "gancho": "Las cuatro piezas de un experimento de propósito",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 10 — Experimenta en pequeño en vez de decidir en grande"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Un experimento no dicta un veredicto sobre quién eres; da un dato. Si sale mal, no fracasa la persona: el experimento ha hecho su trabajo, que era enseñar que esa dirección no era la suya.",
+   "es_literal": false,
+   "ancla": "cuando diseñas un experimento, el resultado no es un veredicto: es un dato. Si \"sale mal\", no fracasaste tú; el experimento simplemente te enseñó que esa dirección no era la tuya, y eso es un éxito del experimento, que para eso estaba.",
+   "temas": [
+    "experimento",
+    "fracaso"
+   ],
+   "intensidad": 4,
+   "gancho": "El experimento no falla nunca, solo enseña",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Experimenta en pequeño en vez de decidir en grande"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando no encuentres sentido mirándote a ti, prueba a mirar a quién tienes al lado y qué necesita.",
+   "es_literal": true,
+   "ancla": "Cuando no encuentres sentido mirándote a ti, prueba a mirar a quién tienes al lado y qué necesita.",
+   "temas": [
+    "servicio",
+    "sentido"
+   ],
+   "intensidad": 5,
+   "gancho": "Mira a quién tienes al lado",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — Dónde vive el sentido"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El sentido no depende de una sola fuente. Una vida con sentido robusto suele beber a la vez de lo que se hace, a quién se quiere y a quién se sirve; cuando una fuente se seca, las otras sostienen.",
+   "es_literal": false,
+   "ancla": "Una vida con sentido robusto suele beber de las tres fuentes a la vez, no de una sola. Y muchos de los malestares que sentimos vienen de tener una fuente hipertrofiada y las otras secas.",
+   "temas": [
+    "sentido",
+    "equilibrio"
+   ],
+   "intensidad": 4,
+   "gancho": "El sentido bebe de tres fuentes a la vez",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — Dónde vive el sentido"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El servicio da sentido cuando nace de la elección libre o de lo que sobra; desgasta cuando nace de la obligación, la culpa o la incapacidad de decir que no.",
+   "es_literal": false,
+   "ancla": "La regla es sencilla: el servicio da sentido cuando sale de tu abundancia o de tu elección libre, y desgasta cuando sale de la obligación, la culpa o la incapacidad de decir que no.",
+   "temas": [
+    "servicio",
+    "límites"
+   ],
+   "intensidad": 4,
+   "gancho": "Servir no es lo mismo que anularse",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Dónde vive el sentido"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "De vez en cuando conviene revisar el nivel de las tres fuentes de sentido, como quien mira el aceite del coche: cómo se anda de crear, de vínculos cuidados y de servir a otros. Suele haber una seca.",
+   "es_literal": false,
+   "ancla": "Haz de vez en cuando una revisión sencilla de tus tres fuentes, como quien revisa el nivel de aceite del coche.",
+   "temas": [
+    "sentido",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Revisa el nivel de tus tres fuentes de sentido",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — Dónde vive el sentido"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No esperes a no tener miedo. Camina con él; es un compañero de viaje, no una señal de stop.",
+   "es_literal": true,
+   "ancla": "No esperes a no tener miedo. Camina con él; es un compañero de viaje, no una señal de stop.",
+   "temas": [
+    "miedo",
+    "acción"
+   ],
+   "intensidad": 5,
+   "gancho": "El miedo es compañero, no señal de stop",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12 — Caminar con el miedo al lado"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay cosas que dependen de uno y cosas que no, y confundir las dos columnas es la fuente de casi todo el sufrimiento inútil. La serenidad nace de ocuparse a fondo solo de la primera.",
+   "es_literal": false,
+   "ancla": "hay cosas que dependen de ti y cosas que no dependen de ti, y confundirlas es la fuente de casi todo el sufrimiento inútil.",
+   "temas": [
+    "estoicismo",
+    "control"
+   ],
+   "intensidad": 4,
+   "gancho": "La dicotomía del control, en una frase",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 12 — Caminar con el miedo al lado"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Ante un asunto que angustia, divide una hoja en dos columnas: «depende de mí» y «no depende de mí». Ocúpate solo de la primera y suelta, a propósito, todo lo de la segunda.",
+   "es_literal": false,
+   "ancla": "Coge un asunto concreto que te angustie ahora mismo y divide una hoja en dos columnas: \"depende de mí\" y \"no depende de mí\".",
+   "temas": [
+    "control",
+    "práctica"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos columnas contra la angustia",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12 — Caminar con el miedo al lado"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Toda pérdida grande deja, junto al hueco, un espacio en blanco. Y en blanco se puede escribir.",
+   "es_literal": true,
+   "ancla": "Toda pérdida grande deja, junto al hueco, un espacio en blanco. Y en blanco se puede escribir.",
+   "temas": [
+    "transiciones",
+    "duelo"
+   ],
+   "intensidad": 5,
+   "gancho": "En blanco se puede escribir",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13 — Reinventarse en las transiciones y los duelos"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Dos transiciones a distinta edad: una elegida a medias, con la herida de no saber quién se es sin el papel de siempre; la otra impuesta del todo, con la herida de haberse disuelto por completo en cuidar a otra persona.",
+   "es_literal": false,
+   "ancla": "su herida es de identidad (\"¿quién soy yo sin este papel?\") y su tono, más de vértigo que de culpa.",
+   "temas": [
+    "transiciones",
+    "identidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos formas distintas de perderse en una transición",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 13 — Reinventarse en las transiciones y los duelos"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Antes de que un propósito nuevo pueda sostenerse, el anterior necesita descansar en paz, reconocido y despedido. Primero se despide a quien fuimos; luego se abre la puerta a quien seremos.",
+   "es_literal": false,
+   "ancla": "el propósito nuevo, para ser sólido y no un simple parche, necesita que el anterior descanse en paz, reconocido y despedido. El orden importa: primero despedirse de quien fuimos, con respeto; luego, desde ahí, abrir la puerta a quien seremos.",
+   "temas": [
+    "duelo",
+    "identidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Hay que despedir a quien fuiste antes de lo nuevo",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 13 — Reinventarse en las transiciones y los duelos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que no ves crecer no es lo que no está creciendo. Muchas raíces trabajan en silencio.",
+   "es_literal": true,
+   "ancla": "Lo que no ves crecer no es lo que no está creciendo. Muchas raíces trabajan en silencio.",
+   "temas": [
+    "meseta",
+    "constancia"
+   ],
+   "intensidad": 5,
+   "gancho": "Muchas raíces trabajan en silencio",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — Sostener cuando no ves resultados"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "En vez de medirse por resultados, que no se controlan y tardan, conviene medirse por procesos: lo que sí depende de uno y se puede marcar cada día, haya fruto visible o no.",
+   "es_literal": false,
+   "ancla": "En vez de medirte por resultados —que no controlas y que no llegan todavía—, mídete por procesos —que sí controlas por completo y que sí puedes ver y marcar cada día—.",
+   "temas": [
+    "proceso",
+    "constancia"
+   ],
+   "intensidad": 4,
+   "gancho": "Mídete por procesos, no por resultados",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — Sostener cuando no ves resultados"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Dejar algo porque no hay resultados inmediatos, porque llegó la parte aburrida o porque hoy ha sido un mal día suele ser abandono por meseta, y casi siempre trae arrepentimiento después.",
+   "es_literal": false,
+   "ancla": "Si lo dejas porque no ves resultados inmediatos, porque llegó la parte difícil o aburrida, porque te desanimaste un mal día, eso es abandono por meseta, y casi siempre te arrepentirás.",
+   "temas": [
+    "meseta",
+    "abandono"
+   ],
+   "intensidad": 4,
+   "gancho": "No decidas dejar nada en un mal día",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 14 — Sostener cuando no ves resultados"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Define una señal de proceso, algo que dependa solo de ti, y márcala cada día en un calendario. Lo que se mide, crece, y lo que ves crecer día a día es lo que sostiene en la meseta.",
+   "es_literal": false,
+   "ancla": "Coge un calendario, de papel o del móvil, y empieza hoy mismo a marcar cada día que la cumples. Lo que se mide, crece; y lo que ves crecer día a día, te sostiene en la meseta cuando la voz te diga que lo dejes.",
+   "temas": [
+    "proceso",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Marca en un calendario lo que sí controlas",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — Sostener cuando no ves resultados"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No hace falta dejar huella en el mundo. Basta con dejar bien lo que tocas cada día.",
+   "es_literal": true,
+   "ancla": "No hace falta dejar huella en el mundo. Basta con dejar bien lo que tocas cada día.",
+   "temas": [
+    "sentido",
+    "grandilocuencia"
+   ],
+   "intensidad": 5,
+   "gancho": "Basta con dejar bien lo que tocas",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15 — Propósito sin grandilocuencia"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay una palabra que se ha ido perdiendo: suficiente. La idea de que una vida no tiene que ser siempre más, más grande o más optimizada para valer lo que vale.",
+   "es_literal": false,
+   "ancla": "La idea, casi revolucionaria hoy, de que una vida puede ser suficiente. De que no todo tiene que ser siempre más, más grande, más ambicioso, más impactante, más optimizado.",
+   "temas": [
+    "suficiencia",
+    "sentido"
+   ],
+   "intensidad": 4,
+   "gancho": "La palabra que nos robaron: suficiente",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 15 — Propósito sin grandilocuencia"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Las vidas espectaculares se ven precisamente porque son raras. Por cada una de ellas hay millones de vidas normales, con sentido, que no se ven porque nunca son noticia.",
+   "es_literal": false,
+   "ancla": "las vidas espectaculares son visibles precisamente por raras; por cada una de ellas hay millones de vidas normales, buenas, llenas de sentido, que no se ven porque no son noticia.",
+   "temas": [
+    "comparación",
+    "grandilocuencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo espectacular se ve porque es raro",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15 — Propósito sin grandilocuencia"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El día que dejas de esperar es el día que tu vida, por fin, empieza de verdad.",
+   "es_literal": true,
+   "ancla": "El día que dejas de esperar es el día que tu vida, por fin, empieza de verdad.",
+   "temas": [
+    "espera",
+    "vida"
+   ],
+   "intensidad": 5,
+   "gancho": "El día que dejas de esperar, empieza a vivir",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — Vivir con sentido a diario"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Antes de dormir, tres preguntas en un minuto, no para juzgarse sino para orientarse: como quien mira la brújula por la noche para saber si el rumbo del día fue el bueno.",
+   "es_literal": false,
+   "ancla": "tres preguntas para hacerte al final del día, en un minuto, antes de dormir. No son para juzgarte, sino para orientarte, como quien mira la brújula antes de acostarse para saber si el rumbo del día fue el bueno.",
+   "temas": [
+    "ritual",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres preguntas antes de dormir",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — Vivir con sentido a diario"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Dos vidas pueden ser idénticas por fuera —mismo trabajo, misma casa, misma rutina— y una vivirse con sentido y la otra vacía. La diferencia no está en la vida, sino en cómo se está en ella.",
+   "es_literal": false,
+   "ancla": "Dos personas pueden tener exactamente la misma vida por fuera —el mismo trabajo, la misma casa, la misma rutina— y una vivirla con sentido y otra vacía. La diferencia no está en la vida que tienen, sino en cómo están en ella.",
+   "temas": [
+    "sentido",
+    "presencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Misma vida por fuera, abismo por dentro",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16 — Vivir con sentido a diario"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para un día realmente malo, tres pasos: bajar la exigencia a una sola cosa pequeña con sentido, salir del bucle del yo haciendo algo por otra persona, y dar un paso mínimo hacia la propia dirección.",
+   "es_literal": false,
+   "ancla": "Sal del bucle del \"yo\". Haz algo por otra persona, por pequeño que sea. Salir de tu propia cabeza es la vía más rápida de vuelta al suelo firme.",
+   "temas": [
+    "rescate",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "El plan de tres pasos para un mal día",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Anexo 3 — Kit de rescate para los días de \"no sé qué hago con mi vida\""
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Reorientar la vida pasados los cuarenta o los cincuenta no llega tarde a nada: la vida no es una carrera con un calendario común, y nadie llega tarde a algo que no es una competición.",
+   "es_literal": false,
+   "ancla": "Muchísima gente ha reorientado su vida y encontrado un sentido nuevo pasados los cuarenta, los cincuenta y más allá. La vida no es una carrera con un calendario común; nadie llega tarde a algo que no es una competición.",
+   "temas": [
+    "edad",
+    "reloj social"
+   ],
+   "intensidad": 4,
+   "gancho": "Nunca es tarde en una carrera que no existe",
+   "formatos": [
+    "cita",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Anexo 5 — Preguntas frecuentes"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Que algo cueste no significa que no sea para ti; muchas veces significa justo lo contrario, que importa lo suficiente como para que valga el esfuerzo.",
+   "es_literal": false,
+   "ancla": "Que algo te cueste no significa que no sea para ti; muchas veces significa justo lo contrario, que te importa lo suficiente como para que valga el esfuerzo.",
+   "temas": [
+    "mitos",
+    "esfuerzo"
+   ],
+   "intensidad": 4,
+   "gancho": "Que te cueste no significa que no sea lo tuyo",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Anexo 6 — Diez mitos sobre el propósito (y su desmontaje)"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Siguen siendo esos tus tres valores, o el tiempo les ha cambiado el orden? Conviene revisar la brújula una vez al año, no darla por hecha para siempre.",
+   "es_literal": false,
+   "ancla": "Una vez al año, quizá al empezar el año o en tu cumpleaños, vuelve a este ejercicio y comprueba si tus tres valores siguen siendo esos y si tu vida de hecho los está honrando.",
+   "temas": [
+    "valores",
+    "revisión"
+   ],
+   "intensidad": 3,
+   "gancho": "Revisa tu brújula una vez al año",
+   "formatos": [
+    "pin",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Anexo 2 — La brújula de valores (ejercicio guiado)"
+  }
+ ]
+}
