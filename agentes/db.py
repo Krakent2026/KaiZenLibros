@@ -323,7 +323,11 @@ def registrar_libro(con: sqlite3.Connection, *, id: str, sello: str, serie: str,
 
 
 def borrar_atomos_de(con: sqlite3.Connection, libro_id: str) -> int:
-    cur = con.execute("DELETE FROM atomos WHERE libro_id = ?", (libro_id,))
+    """Retira los átomos de un libro antes de reimportarlo, salvo los que ya usa alguna pieza de la cola
+    (la clave foránea lo impide y, además, esas piezas deben seguir apuntando a su texto)."""
+    cur = con.execute(
+        "DELETE FROM atomos WHERE libro_id = ? AND id NOT IN (SELECT atomo_id FROM cola WHERE atomo_id IS NOT NULL)",
+        (libro_id,))
     return cur.rowcount
 
 
