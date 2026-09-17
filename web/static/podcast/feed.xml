@@ -13,14 +13,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
-      <title>El consejo que se convierte en reproche</title>
-      <description>Arrancamos el pódcast con una idea del capítulo 12 de Trabajar sin romperte. Es sobre esos consejos que suenan bien y no se pueden seguir: vete, pon límites, busca otra cosa. Cuando no puedes hacerlo, el consejo no desaparece, se transforma en otra cosa. El episodio va de eso. Está en Trabajar sin romperte, libro 10 de la serie Mente distinta.
+      <title>Cuando no puedes cambiar de trabajo</title>
+      <description>Nuevo episodio: qué hacer cuando te dicen que si no te gusta el trabajo lo dejes, y tú no puedes dejarlo.
+
+Un consejo que no se puede seguir no se queda quieto. Se convierte en reproche: te falta valentía, o claridad, o amor propio. Este episodio propone otra pregunta y otro camino, cuando irse no es una opción real.
+
+La idea sale de Trabajar sin romperte, libro 10 de la serie Mente distinta.
 
 El libro: Trabajar sin romperte. https://krakent2026.github.io/KaiZenLibros/ir/trabajar-sin-romperte/?c=pod</description>
-      <enclosure url="https://krakent2026.github.io/KaiZenLibros/static/podcast/8.mp3" length="1526976" type="audio/mpeg"/>
+      <enclosure url="https://krakent2026.github.io/KaiZenLibros/static/podcast/8.mp3" length="1386864" type="audio/mpeg"/>
       <guid isPermaLink="false">kaizen-podcast-8</guid>
       <pubDate>Thu, 17 Sep 2026 18:17:29 +0000</pubDate>
-      <itunes:duration>00:04:45</itunes:duration>
+      <itunes:duration>00:04:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <link>https://krakent2026.github.io/KaiZenLibros/libros/trabajar-sin-romperte/</link>
     </item>

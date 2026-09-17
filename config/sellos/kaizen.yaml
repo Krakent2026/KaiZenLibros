@@ -217,7 +217,7 @@ podcast:
   # Motor: auto = Azure Speech si hay AZURE_SPEECH_KEY (voz HD, más natural), si no Edge TTS (gratis, sin clave).
   motor: auto
   # Edge TTS. Alternativas de España: es-ES-ElviraNeural, es-ES-AlvaroNeural.
-  voz: es-ES-XimenaNeural
+  voz: es-ES-ElviraNeural
   # Azure Speech: la misma Ximena en versión HD. Si la región no la ofrece, cae a Edge.
   voz_azure: "es-ES-Ximena:DragonHDLatestNeural"
   velocidad: "+0%"
