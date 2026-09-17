@@ -216,7 +216,7 @@ podcast:
   voz: es-ES-XimenaNeural
   # Azure Speech: la misma Ximena en versión HD. Si la región no la ofrece, cae a Edge.
   voz_azure: "es-ES-Ximena:DragonHDLatestNeural"
-  velocidad: "+6%"
+  velocidad: "+0%"
   tono: "+0Hz"
   ruta_web: static/podcast
   aviso_voz: "Este episodio se ha grabado con una voz sintética a partir del texto del libro."
