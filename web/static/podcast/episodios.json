@@ -1,1 +1,15 @@
-[]
+[
+ {
+  "id": 8,
+  "titulo": "El consejo que se convierte en reproche",
+  "descripcion": "Arrancamos el pódcast con una idea del capítulo 12 de Trabajar sin romperte. Es sobre esos consejos que suenan bien y no se pueden seguir: vete, pon límites, busca otra cosa. Cuando no puedes hacerlo, el consejo no desaparece, se transforma en otra cosa. El episodio va de eso. Está en Trabajar sin romperte, libro 10 de la serie Mente distinta.",
+  "libro": "Trabajar sin romperte",
+  "libro_slug": "trabajar-sin-romperte",
+  "numero_libro": 10,
+  "fecha": "2026-09-17T18:17:29+00:00",
+  "mp3": "https://krakent2026.github.io/KaiZenLibros/static/podcast/8.mp3",
+  "bytes": 1597248,
+  "duracion_seg": 285,
+  "enlace": "https://krakent2026.github.io/KaiZenLibros/ir/trabajar-sin-romperte/?c=pod"
+ }
+]
