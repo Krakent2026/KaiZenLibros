@@ -36,7 +36,7 @@ Comprobar que el mismo nombre está libre en todos los sitios antes de registrar
 ## 3. Amazon (no requiere cuentas nuevas)
 
 - Author Central: biografía de sello, foto o logotipo, enlace a la web.
-- KDP: comprobar que los 12 títulos de *Mente distinta* están en **KDP Select** (imprescindible para días gratis y ofertas relámpago).
+- KDP: comprobar que los títulos de las tres series activas (*Mente distinta*, *Crecimiento personal*, *Los Mensajeros*) están en **KDP Select** (imprescindible para días gratis y ofertas relámpago).
 - Anotar los **ASIN** de ebook y papel en `config/sellos/kaizen.yaml` y regenerar enlaces y web.
 - Amazon Afiliados (opcional): alta en amazon.es y amazon.com; leer las condiciones sobre enlazar libros propios en cada país antes de rellenar `amazon.afiliados`.
 

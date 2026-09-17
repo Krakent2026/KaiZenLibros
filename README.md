@@ -16,7 +16,7 @@ python herramientas/portada_podcast.py              # portada 3000×3000 para Ap
 ```
 
 - **Pódcast.** Los miércoles la plantilla planifica una pieza `audio`: el Redactor escribe un guion de 650-850 palabras, el Locutor lo sintetiza con Edge TTS (gratuito, voz `podcast.voz` del YAML) y el feed RSS sale con la web en `static/podcast/feed.xml`. Alta única en Spotify for Creators y Apple Podcasts Connect con esa URL; después los episodios llegan solos.
-- **Días gratis.** Con 12 libros en KDP Select el Bibliotecario reparte una promoción de 2 días cada semana (5 días por libro y 90 días es el límite de Amazon). Avisa por Telegram 14 días antes; programar la promo en KDP es manual.
+- **Días gratis.** Con los libros de las series activas en KDP Select (44 títulos en tres series) el Bibliotecario reparte una promoción de 2 días cada semana (5 días por libro y 90 días es el límite de Amazon). Avisa por Telegram 14 días antes; programar la promo en KDP es manual.
 - **KDP.** Deja los CSV de KDP Reports en `datos/kdp/` (no se versionan) y el Analista los suma al informe.
 
 ## Qué hay en el repositorio
@@ -62,14 +62,15 @@ Sin `KAIZEN_FUENTES`, se usa `../8.Espiritualidad` respecto al repositorio, que 
 ```bash
 python -m agentes.minero.extraer --serie mente_distinta --estimar            # coste aproximado, sin API
 python -m agentes.minero.extraer --serie mente_distinta --libro no-es-pereza --max-tramos 3   # prueba corta
-python -m agentes.minero.extraer --serie mente_distinta                      # los 12 libros
+python -m agentes.minero.extraer --serie mente_distinta                      # los 12 libros (vía API)
+python -m agentes.minero.extraer --importar-json datos/atomos_json           # átomos ya minados (sin coste): 3 series, 44 libros
 python -m agentes.minero.extraer --listar --serie mente_distinta             # muestra átomos
 python -m agentes.pipeline estado                                            # inventario y coste
 ```
 
 Cada átomo guarda un `ancla` (pasaje literal del manuscrito) con su offset y hash. Si el ancla, o la cita cuando es literal, no aparece en el fichero, el átomo queda como **no verificado** con el motivo y ningún agente posterior lo usa. El vocabulario vetado también se comprueba en ese momento.
 
-Modelos y esfuerzo se cambian en `config/sellos/kaizen.yaml` → `ia`. Por defecto el Minero usa `claude-sonnet-5`; la extracción completa de *Mente distinta* (673.000 palabras) cuesta del orden de 4-6 USD una sola vez.
+Modelos y esfuerzo se cambian en `config/sellos/kaizen.yaml` → `ia`. Por defecto el Minero usa `claude-sonnet-5`; la extracción completa de *Mente distinta* (673.000 palabras) costaría del orden de 4-6 USD. Las tres series activas (*Mente distinta*, *Crecimiento personal*, *Los Mensajeros*) ya están minadas y sus átomos van en `datos/atomos_json/` y en la base de datos.
 
 ### Ciclo diario (Fase 1)
 
