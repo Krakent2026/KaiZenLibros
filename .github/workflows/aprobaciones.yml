@@ -2,7 +2,7 @@ name: Aprobaciones y publicación
 
 on:
   schedule:
-    - cron: "15 */2 * * *"   # cada dos horas: recoge respuestas de Telegram y publica lo aprobado y vencido
+    - cron: "5,35 * * * *"   # cada media hora (el cron de GitHub se retrasa o salta corridas; así llega a tiempo): respuestas de Telegram y publicación de lo vencido
   workflow_dispatch:
 
 permissions:
