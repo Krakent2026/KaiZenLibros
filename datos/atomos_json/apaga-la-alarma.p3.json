@@ -1,0 +1,204 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "apaga-la-alarma",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "Tu cuerpo no se niega a dormir por fastidiarte. Se niega porque, en el fondo, no se siente lo bastante a salvo para bajar la guardia.",
+   "es_literal": true,
+   "ancla": "Tu cuerpo no se niega a dormir por fastidiarte. Se niega porque, en el fondo, no se siente lo bastante a salvo para bajar la guardia.",
+   "temas": ["sueño", "guardia"],
+   "intensidad": 5,
+   "gancho": "No se niega por fastidiarte. Se niega porque no se siente a salvo.",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 8 — Dormir en alerta"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Hay un cansancio limpio, el del cuerpo que se ha gastado de verdad, y uno sucio, el del cuerpo que lleva horas encendido sin moverse. El primero cae como una piedra. El segundo da vueltas.",
+   "es_literal": false,
+   "ancla": "Está el cansancio limpio, el del cuerpo que ha trabajado, se ha movido, ha gastado energía y pide descanso: ese cansancio duerme bien, cae como una piedra. Y está el cansancio sucio, el del cuerpo que lleva horas encendido sin gastarse de verdad, tenso todo el día en una silla, corriendo por dentro sin moverse por fuera.",
+   "temas": ["sueño", "cansancio"],
+   "intensidad": 4,
+   "gancho": "Exhausto de estar en guardia, no de haber vivido.",
+   "formatos": ["carrusel", "hilo", "cita"],
+   "capitulo": "Capítulo 8 — Dormir en alerta"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Al sueño no se le persigue: se le hace sitio. Cuanto más lo cazas, más se aleja; cuanto más te preparas, más viene solo.",
+   "es_literal": true,
+   "ancla": "Al sueño no se le persigue: se le hace sitio. Cuanto más lo cazas, más se aleja; cuanto más te preparas, más viene solo.",
+   "temas": ["sueño", "preparación"],
+   "intensidad": 4,
+   "gancho": "Al sueño no se le persigue: se le hace sitio.",
+   "formatos": ["cita", "pin", "reel"],
+   "capitulo": "Capítulo 8 — Dormir en alerta"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 8: los últimos diez minutos antes de acostarse, una rampa de descenso corta y siempre igual —luces bajas, móvil aparte, movimientos lentos—, y en la cama soltar el aire despacio unas cuantas veces. Sin intentar dormir.",
+   "es_literal": false,
+   "ancla": "dedica los últimos diez minutos antes de acostarte a una rampa de descenso corta y siempre igual —luces bajas, móvil aparte, movimientos lentos— y termina en la cama soltando el aire despacio unas cuantas veces, más largo al exhalar que al inhalar. No intentes dormir.",
+   "temas": ["práctica", "sueño", "rutina"],
+   "intensidad": 3,
+   "gancho": "No intentes dormir. Solo avisa al cuerpo de que el día terminó.",
+   "formatos": ["carrusel", "reel", "pin"],
+   "capitulo": "Capítulo 8 — Dormir en alerta"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No es respirar hondo. Es soltar el aire despacio. La calma no está en la inhalación: está en la exhalación larga.",
+   "es_literal": true,
+   "ancla": "No es respirar hondo. Es soltar el aire despacio. La calma no está en la inhalación: está en la exhalación larga.",
+   "temas": ["respiración", "exhalación"],
+   "intensidad": 5,
+   "gancho": "No está en el aire que entra. Está en el que sale.",
+   "formatos": ["cita", "pin", "reel"],
+   "capitulo": "Capítulo 9 — La exhalación: el freno del cuerpo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El cuerpo ya sabe hacerlo solo: cuando algo alivia de verdad no coges una bocanada, sueltas un suspiro largo. Se trata de hacer a propósito lo que el cuerpo hace cuando el peligro pasa.",
+   "es_literal": false,
+   "ancla": "Cuando algo te alivia de verdad, no coges una gran bocanada; sueltas un suspiro largo. Cuando un niño deja por fin de llorar, no inhala hondo; exhala en oleadas hasta que se calma.",
+   "temas": ["respiración", "cuerpo"],
+   "intensidad": 3,
+   "gancho": "La sabiduría del freno ya está escrita en ti.",
+   "formatos": ["carrusel", "hilo", "cita"],
+   "capitulo": "Capítulo 9 — La exhalación: el freno del cuerpo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro se niega a prometer que una exhalación apague una crisis como quien apaga una luz. Lo que suele hacer es cortar la subida por la mitad. A veces ese punto de menos ya es la diferencia.",
+   "es_literal": false,
+   "ancla": "No te prometo que esto apague una crisis como quien apaga una luz. Sería mentira, y este libro no te va a mentir. Lo que sí suele ocurrir —y lo que le ocurrió a Bea— es que le corta la subida por la mitad.",
+   "temas": ["honestidad", "respiración"],
+   "intensidad": 4,
+   "gancho": "Sería mentira, y este libro no te va a mentir.",
+   "formatos": ["cita", "hilo", "articulo"],
+   "capitulo": "Capítulo 9 — La exhalación: el freno del cuerpo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 9: tres exhalaciones el doble de largas que la inhalación. Aire contando hasta tres, salida despacio y con peso contando hasta seis, como empañando un cristal a cámara lenta. Sin forzar.",
+   "es_literal": false,
+   "ancla": "ahora mismo, sin esperar a estar mal, prueba tres exhalaciones el doble de largas que la inhalación. Coge aire contando hasta tres y suéltalo despacio, con peso, contando hasta seis, como si empañaras un cristal a cámara lenta.",
+   "temas": ["práctica", "exhalación"],
+   "intensidad": 4,
+   "gancho": "Dale peso al aire que sueltas.",
+   "formatos": ["carrusel", "reel", "pin"],
+   "capitulo": "Capítulo 9 — La exhalación: el freno del cuerpo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No puedes discutir con una película. Pero puedes salir del cine y notar el suelo bajo tus pies.",
+   "es_literal": true,
+   "ancla": "No puedes discutir con una película. Pero puedes salir del cine y notar el suelo bajo tus pies.",
+   "temas": ["anclaje", "presente"],
+   "intensidad": 4,
+   "gancho": "No puedes discutir con una película.",
+   "formatos": ["cita", "pin", "reel"],
+   "capitulo": "Capítulo 10 — Anclar el cuerpo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El anclaje no se hace cuando ya estás tranquilo. Se hace con el susto puesto: mirarte los pies estando nervioso es lo que empieza a bajar la alarma, no al revés.",
+   "es_literal": false,
+   "ancla": "El anclaje no se hace cuando estás bien: se hace cuando estás mal, y su trabajo es precisamente acompañarte de vuelta. No busques calma antes de anclarte. Ánclate con el susto puesto, y deja que sea el ancla la que traiga la calma.",
+   "temas": ["anclaje", "práctica"],
+   "intensidad": 4,
+   "gancho": "Ánclate con el susto puesto.",
+   "formatos": ["carrusel", "hilo", "cita"],
+   "capitulo": "Capítulo 10 — Anclar el cuerpo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Ninguna ancla vale para todos. A unos les va el frío y a otros el peso; a unos cerrar los ojos y a otros mirarlo todo. Si algo no sirve, no es que lo hagas mal: ese cuerpo prefiere otra puerta.",
+   "es_literal": false,
+   "ancla": "no todos los cuerpos responden igual a todas las anclas. A unas personas el frío les va de maravilla y el peso apenas; a otras, al revés. A algunas, cerrar los ojos y notar el cuerpo por dentro las calma; a otras, en cambio, mirarlo todo con los ojos bien abiertos les da más seguridad",
+   "temas": ["anclaje", "honestidad", "diferencias"],
+   "intensidad": 3,
+   "gancho": "No hay una manera correcta. Hay la que le habla a tu cuerpo.",
+   "formatos": ["carrusel", "hilo", "articulo"],
+   "capitulo": "Capítulo 10 — Anclar el cuerpo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 10: llevar la atención a las plantas de los pies, sentir el suelo que sostiene y presionarlos un poco. Luego mirar alrededor y nombrar despacio tres cosas que se ven.",
+   "es_literal": false,
+   "ancla": "la próxima vez que notes la alarma subir, lleva la atención a las plantas de tus pies y siente el suelo que te sostiene; presiónalos un poco. Luego mira alrededor y nombra, despacio, tres cosas que ves.",
+   "temas": ["práctica", "anclaje", "sentidos"],
+   "intensidad": 4,
+   "gancho": "Un sitio firme donde agarrarse mientras pasa.",
+   "formatos": ["carrusel", "reel", "pin"],
+   "capitulo": "Capítulo 10 — Anclar el cuerpo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El cuerpo se prepara para correr o pelear. Cuando no haces ni lo uno ni lo otro, esa energía no desaparece: se queda dentro esperando salida.",
+   "es_literal": true,
+   "ancla": "El cuerpo se prepara para correr o pelear. Cuando no haces ni lo uno ni lo otro, esa energía no desaparece: se queda dentro esperando salida.",
+   "temas": ["movimiento", "descarga"],
+   "intensidad": 4,
+   "gancho": "Esa energía no desaparece. Se queda dentro.",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 11 — Mover la alarma"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Distraerte a la fuerza es cerrar la tapa de la olla: la tensión sigue dentro, subiendo. Moverte a propósito es abrir la válvula. No has tapado nada; has soltado.",
+   "es_literal": false,
+   "ancla": "La diferencia es la misma que hay entre cerrar la tapa de una olla a presión y abrir la válvula. Distraerte a la fuerza es cerrar la tapa: la tensión sigue dentro, quizá disimulada, subiendo. Moverte a propósito para descargar es abrir la válvula",
+   "temas": ["movimiento", "descarga"],
+   "intensidad": 4,
+   "gancho": "La tapa o la válvula. No es lo mismo.",
+   "formatos": ["carrusel", "hilo", "cita"],
+   "capitulo": "Capítulo 11 — Mover la alarma"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 11: cuando el cuerpo se cargue, moverlo dos minutos. Andar rápido, sacudir con fuerza manos y brazos, o subir los hombros hasta las orejas y dejarlos caer con un suspiro, tres veces.",
+   "es_literal": false,
+   "ancla": "cuando notes hoy que la tensión sube y el cuerpo se te carga, muévelo dos minutos. Sal a andar rápido, o sacude con fuerza las manos y los brazos, o sube los hombros hasta las orejas y déjalos caer con un suspiro, tres veces.",
+   "temas": ["práctica", "movimiento"],
+   "intensidad": 4,
+   "gancho": "No te quedes quieto guisándote en la alarma.",
+   "formatos": ["carrusel", "reel", "pin"],
+   "capitulo": "Capítulo 11 — Mover la alarma"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No siempre puedes calmarte solo, y no tienes por qué. A veces la vía más rápida a tu propia calma pasa por el cuerpo tranquilo de otra persona.",
+   "es_literal": true,
+   "ancla": "No siempre puedes calmarte solo, y no tienes por qué. A veces la vía más rápida a tu propia calma pasa por el cuerpo tranquilo de otra persona.",
+   "temas": ["co-regulación", "compañía"],
+   "intensidad": 5,
+   "gancho": "No siempre puedes calmarte solo. Y no tienes por qué.",
+   "formatos": ["cita", "pin", "reel"],
+   "capitulo": "Capítulo 12 — La calma se contagia"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un cuerpo sereno regula aunque calle; uno agitado altera aunque acierte. La diferencia no está en lo listo del consejo, sino en el estado del cuerpo que tienes al lado.",
+   "es_literal": false,
+   "ancla": "La diferencia no está en lo listo del consejo. Está en el estado del cuerpo que tienes al lado. Un cuerpo sereno regula aunque calle; un cuerpo agitado altera aunque acierte.",
+   "temas": ["co-regulación", "presencia"],
+   "intensidad": 4,
+   "gancho": "Un cuerpo sereno regula aunque calle.",
+   "formatos": ["cita", "carrusel", "hilo"],
+   "capitulo": "Capítulo 12 — La calma se contagia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 12: buscar a propósito un rato de compañía tranquila con alguien que deje mejor cuerpo. Una llamada sin importancia, un café, sentarse cerca sin hablar del problema.",
+   "es_literal": false,
+   "ancla": "busca hoy, a propósito, un rato de compañía tranquila con alguien que te deje mejor cuerpo. Una llamada sin importancia, un café, sentarte cerca sin necesidad de hablar del problema. No te aísles cuando estés mal",
+   "temas": ["práctica", "co-regulación"],
+   "intensidad": 3,
+   "gancho": "No te aísles cuando estés mal.",
+   "formatos": ["carrusel", "reel", "pin"],
+   "capitulo": "Capítulo 12 — La calma se contagia"
+  }
+ ]
+}

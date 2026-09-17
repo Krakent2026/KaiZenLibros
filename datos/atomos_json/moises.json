@@ -1,0 +1,1341 @@
+{
+ "serie": "los_mensajeros",
+ "libro": "moises",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "El fuego no comía. El fuego solo ardía, como si arder fuera su modo de estar, y no su hambre.",
+   "es_literal": true,
+   "ancla": "El fuego no comía. El fuego solo ardía, como si arder fuera su modo de estar, y no su hambre.",
+   "temas": [
+    "zarza",
+    "fuego",
+    "asombro"
+   ],
+   "intensidad": 5,
+   "gancho": "Un fuego que arde sin devorar nada",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un pastor viejo se agacha entre las piedras y se desata unas sandalias gastadas. Es lo único que acierta a hacer con las manos mientras el resto de él tiembla.",
+   "es_literal": false,
+   "ancla": "se agachó temblando en medio del desierto, sobre las piedras desnudas y el polvo, y se quitó las sandalias gastadas de pastor",
+   "temas": [
+    "zarza",
+    "desierto",
+    "miedo"
+   ],
+   "intensidad": 4,
+   "gancho": "Descalzo sobre piedras, en mitad de la nada",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Era una voz que parecía llevar esperándolo desde antes de que él naciera, desde antes de la cesta, desde antes del río.",
+   "es_literal": true,
+   "ancla": "Era una voz que parecía llevar esperándolo desde antes de que él naciera, desde antes de la cesta, desde antes del río.",
+   "temas": [
+    "llamada",
+    "nombre",
+    "espera"
+   ],
+   "intensidad": 5,
+   "gancho": "Una voz que llevaba esperándolo desde antes del río",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay silencios que no descansan: se acumulan. Cuarenta años de callar le pesaban a este hombre en los hombros como pesa el sol de mediodía sobre la espalda del que anda.",
+   "es_literal": false,
+   "ancla": "Cuarenta años de silencio pesaban sobre sus hombros como pesa el sol de mediodía sobre la espalda del que anda.",
+   "temas": [
+    "silencio",
+    "vejez",
+    "desierto"
+   ],
+   "intensidad": 4,
+   "gancho": "Hay silencios que no descansan: se acumulan",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque a veces la fe no es más que eso: seguir calafateando una cesta en la oscuridad, sellando junta tras junta, mientras uno reza sin palabras que las aguas sean mansas.",
+   "es_literal": true,
+   "ancla": "Porque a veces la fe no es más que eso: seguir calafateando una cesta en la oscuridad, sellando junta tras junta, mientras uno reza sin palabras que las aguas sean mansas.",
+   "temas": [
+    "madre",
+    "fe",
+    "oficio"
+   ],
+   "intensidad": 5,
+   "gancho": "A veces creer es solo seguir sellando una cesta a oscuras",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 1 — El río de los niños"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una madre deja la cesta entre los juncos y sube el sendero sin volver la cabeza, mordiendo el manto para no gritar. Sabe que si mira, no se irá.",
+   "es_literal": false,
+   "ancla": "No pudo mirar atrás. Si miraba, no se iría. Se apretó el manto contra la boca para no gritar, se dio la vuelta y subió el sendero con las piernas flojas",
+   "temas": [
+    "madre",
+    "despedida",
+    "río"
+   ],
+   "intensidad": 5,
+   "gancho": "Si miraba atrás, no se iría",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El río de los niños"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Horas quieta entre las cañas, con los insectos zumbándole en la cara y sin espantarlos para no delatarse, una niña vigila la cesta donde flota su hermano.",
+   "es_literal": false,
+   "ancla": "Se quedó quieta como una garza, con esa paciencia feroz que solo tienen los niños cuando algo les importa de verdad, dispuesta a ver qué le pasaba a su hermano.",
+   "temas": [
+    "miriam",
+    "hermanos",
+    "vigilia"
+   ],
+   "intensidad": 4,
+   "gancho": "La paciencia feroz de una niña entre los juncos",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 1 — El río de los niños"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Y el faraón, mirándolos crecer, sentía en la boca del estómago el frío antiguo de los reyes: el miedo a los que son muchos.",
+   "es_literal": true,
+   "ancla": "Y el faraón, mirándolos crecer, sentía en la boca del estómago el frío antiguo de los reyes: el miedo a los que son muchos.",
+   "temas": [
+    "poder",
+    "miedo",
+    "egipto"
+   ],
+   "intensidad": 4,
+   "gancho": "El frío antiguo de los reyes: el miedo a los que son muchos",
+   "formatos": [
+    "cita",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El río de los niños"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo sabía en el cuerpo antes de saberlo en la cabeza, y cuando por fin lo supo con palabras, no fue una sorpresa: fue el nombre de una herida que llevaba puesta desde siempre.",
+   "es_literal": true,
+   "ancla": "Lo sabía en el cuerpo antes de saberlo en la cabeza, y cuando por fin lo supo con palabras, no fue una sorpresa: fue el nombre de una herida que llevaba puesta desde siempre.",
+   "temas": [
+    "identidad",
+    "herida",
+    "infancia"
+   ],
+   "intensidad": 5,
+   "gancho": "Hay cosas que el cuerpo sabe antes que la cabeza",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2 — Dos mundos"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Su problema no era haber elegido mal el bando. Era estar de este lado, con las sandalias limpias, mirando: no ser de ninguno de los dos lados.",
+   "es_literal": false,
+   "ancla": "Pero no estaba. Estaba de este lado, con las sandalias limpias, mirando. Y esa era exactamente su condena: no ser de ninguno de los dos lados.",
+   "temas": [
+    "identidad",
+    "pertenencia",
+    "clase"
+   ],
+   "intensidad": 4,
+   "gancho": "No era elegir mal el bando: era no ser de ninguno",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — Dos mundos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Y Moisés callaba, y el silencio le sabía a traición, porque callando les daba la razón, y no callar era descubrirse.",
+   "es_literal": true,
+   "ancla": "Y Moisés callaba, y el silencio le sabía a traición, porque callando les daba la razón, y no callar era descubrirse.",
+   "temas": [
+    "silencio",
+    "traición",
+    "miedo"
+   ],
+   "intensidad": 5,
+   "gancho": "Callar le sabía a traición. Hablar lo delataba",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — Dos mundos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "—Los tuyos son los que sufren, mi señor. Acuérdate de eso. Los tuyos son los que lloran junto al río.",
+   "es_literal": true,
+   "ancla": "—Los tuyos son los que sufren, mi señor. Acuérdate de eso. Los tuyos son los que lloran junto al río.",
+   "temas": [
+    "madre",
+    "pertenencia",
+    "memoria"
+   ],
+   "intensidad": 5,
+   "gancho": "«Los tuyos son los que lloran junto al río»",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 2 — Dos mundos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Aquel gesto —mirar a un lado y a otro— fue el gesto de un hombre que ya sabía lo que iba a hacer y buscaba testigos. No fue el gesto de un justo, sino el de un hombre a punto de cruzar una línea de la que no se vuelve.",
+   "es_literal": true,
+   "ancla": "Aquel gesto —mirar a un lado y a otro— fue el gesto de un hombre que ya sabía lo que iba a hacer y buscaba testigos. No fue el gesto de un justo, sino el de un hombre a punto de cruzar una línea de la que no se vuelve.",
+   "temas": [
+    "violencia",
+    "culpa",
+    "decisión"
+   ],
+   "intensidad": 5,
+   "gancho": "Miró a un lado y a otro: ya sabía lo que iba a hacer",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — El egipcio muerto"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La venganza que se ensaya de noche no se parece a la que ocurre de día. Donde esperaba triunfo, encontró un vacío frío y algo muy cercano a la náusea.",
+   "es_literal": false,
+   "ancla": "No sentía el triunfo que había imaginado en tantas noches de rabia contenida, cuando fantaseaba con hacer justicia. Sentía un vacío frío, un asombro, casi una náusea.",
+   "temas": [
+    "violencia",
+    "culpa",
+    "desengaño"
+   ],
+   "intensidad": 5,
+   "gancho": "La venganza ensayada de noche no se parece a la real",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3 — El egipcio muerto"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Había querido hacer justicia y había hecho un crimen. Había querido salvar a uno de los suyos y había tenido que huir de todos.",
+   "es_literal": true,
+   "ancla": "Había querido hacer justicia y había hecho un crimen. Había querido salvar a uno de los suyos y había tenido que huir de todos.",
+   "temas": [
+    "justicia",
+    "fracaso",
+    "huida"
+   ],
+   "intensidad": 5,
+   "gancho": "Quiso hacer justicia y acabó huyendo de todos",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — El egipcio muerto"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué queda de alguien cuando le quitan el palacio, el nombre y el pueblo, y solo le dejan una pregunta royéndole por dentro?",
+   "es_literal": false,
+   "ancla": "Solo un fugitivo con un muerto a la espalda y una pregunta sin respuesta royéndole por dentro.",
+   "temas": [
+    "identidad",
+    "huida",
+    "vacío"
+   ],
+   "intensidad": 4,
+   "gancho": "Un fugitivo con un muerto a la espalda y una pregunta",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — El egipcio muerto"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En un pozo de Madián, un forastero agotado saca agua para el rebaño ajeno delante de los pastores que acaban de echar a unas muchachas. Lo hace despacio, mirándolos.",
+   "es_literal": false,
+   "ancla": "Cogió a las muchachas el turno del pozo con sus propias manos, sacó agua para el rebaño de ellas y lo hizo delante de los pastores, despacio, mirándolos, dándoles la ocasión de decidir si aquello valía una pelea.",
+   "temas": [
+    "madián",
+    "pozo",
+    "coraje"
+   ],
+   "intensidad": 4,
+   "gancho": "Sacó agua despacio, mirándolos, sin levantar la voz",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 4 — El pozo de Madián"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Jetró era un hombre de la vieja hospitalidad del desierto, esa que es sagrada porque en la sed todos somos hermanos.",
+   "es_literal": true,
+   "ancla": "Jetró era un hombre de la vieja hospitalidad del desierto, esa que es sagrada porque en la sed todos somos hermanos.",
+   "temas": [
+    "hospitalidad",
+    "desierto",
+    "madián"
+   ],
+   "intensidad": 4,
+   "gancho": "En la sed todos somos hermanos",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — El pozo de Madián"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela no se presenta como crónica. En su propio texto, lo que cuenta se atribuye a «la vieja historia»: es ficción de base documental sobre un relato heredado, no un informe de lo ocurrido.",
+   "es_literal": false,
+   "ancla": "Dice la vieja historia que el Señor oyó el gemido de los hijos de Israel, y se acordó de su alianza con Abraham, con Isaac y con Jacob; que miró a los hebreos, y que los conoció.",
+   "temas": [
+    "fuentes",
+    "ficcion documental",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "El libro dice «la vieja historia», no «los hechos»",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — El pozo de Madián"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Nadie, viéndolo, habría apostado por él para nada. Y quizá por eso, precisamente por eso, fue elegido.",
+   "es_literal": true,
+   "ancla": "Nadie, viéndolo, habría apostado por él para nada. Y quizá por eso, precisamente por eso, fue elegido.",
+   "temas": [
+    "llamada",
+    "vejez",
+    "pastor"
+   ],
+   "intensidad": 5,
+   "gancho": "Nadie habría apostado por él. Quizá por eso",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — La montaña de Dios"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Antes de la voz, el desierto se calla entero: los pájaros dejan de cantar, los insectos de zumbar, el viento se para. Un pastor siente en la espalda el escalofrío de saberse mirado.",
+   "es_literal": false,
+   "ancla": "Se había hecho un silencio distinto, más hondo, como si el desierto entero contuviera la respiración. No cantaban ya los pájaros. No zumbaban los insectos. El viento se había parado.",
+   "temas": [
+    "zarza",
+    "silencio",
+    "presencia"
+   ],
+   "intensidad": 5,
+   "gancho": "El desierto entero se calló antes de que hablara el fuego",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 5 — La montaña de Dios"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El fuego come y deja ceniza; esa es su ley, tan cierta como que el agua moja o la piedra cae. Y allí, delante de sus ojos, la ley estaba rota.",
+   "es_literal": true,
+   "ancla": "Había visto arder mil cosas en su vida —rastrojos, leña, casas, cuerpos— y todo lo que arde se acaba. El fuego come y deja ceniza; esa es su ley, tan cierta como que el agua moja o la piedra cae. Y allí, delante de sus ojos, la ley estaba rota.",
+   "temas": [
+    "zarza",
+    "asombro",
+    "fuego"
+   ],
+   "intensidad": 5,
+   "gancho": "Todo lo que arde se acaba. Aquello no",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — La montaña de Dios"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela no finge precisión donde no la hay. Cuando toca la edad del protagonista, se apoya en «la cuenta de la vieja historia» y admite que en el desierto nadie llevaba los años exactos.",
+   "es_literal": false,
+   "ancla": "Ochenta años, o cerca, decía la cuenta de la vieja historia, aunque en el desierto nadie contaba los años con exactitud.",
+   "temas": [
+    "fuentes",
+    "honestidad",
+    "ficcion documental"
+   ],
+   "intensidad": 3,
+   "gancho": "«Ochenta años, o cerca»: el libro no finge exactitud",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — La montaña de Dios"
+  },
+  {
+   "tipo": "cita",
+   "texto": "—¿Quién soy yo —dijo con voz temblorosa— para ir al faraón, y para sacar de Egipto a los hijos de Israel?",
+   "es_literal": true,
+   "ancla": "—¿Quién soy yo —dijo con voz temblorosa— para ir al faraón, y para sacar de Egipto a los hijos de Israel?",
+   "temas": [
+    "duda",
+    "llamada",
+    "miedo"
+   ],
+   "intensidad": 5,
+   "gancho": "La primera respuesta a la llamada fue una objeción",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — El nombre"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No se trataba de quién era él. Se trataba de quién iba con él.",
+   "es_literal": true,
+   "ancla": "No se trataba de quién era él. Se trataba de quién iba con él.",
+   "temas": [
+    "llamada",
+    "compañía",
+    "duda"
+   ],
+   "intensidad": 4,
+   "gancho": "La pregunta no era quién era él, sino quién iba con él",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — El nombre"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Dios no le quitaba el peso, pero le daba un hombro donde apoyarlo. No le arreglaba la lengua, pero le daba una boca. Iba a mandarlo igual, el temblor no se lo quitaba nadie, pero no iba a mandarlo solo.",
+   "es_literal": true,
+   "ancla": "Dios no le quitaba el peso, pero le daba un hombro donde apoyarlo. No le arreglaba la lengua, pero le daba una boca. Iba a mandarlo igual, el temblor no se lo quitaba nadie, pero no iba a mandarlo solo.",
+   "temas": [
+    "hermanos",
+    "ayuda",
+    "miedo"
+   ],
+   "intensidad": 5,
+   "gancho": "No le quitaron el peso: le dieron un hombro",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6 — El nombre"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No se rindió con valor. Se rindió con miedo, temblando de la cabeza a los pies, con los ojos llenos de lágrimas y el alma aterrada de lo que acababa de aceptar.",
+   "es_literal": true,
+   "ancla": "No se rindió con valor. Se rindió con miedo, temblando de la cabeza a los pies, con los ojos llenos de lágrimas y el alma aterrada de lo que acababa de aceptar.",
+   "temas": [
+    "miedo",
+    "aceptación",
+    "llamada"
+   ],
+   "intensidad": 5,
+   "gancho": "Dijo que sí temblando, no con valor",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — El nombre"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El hombre al que mandan hablar delante de un rey confiesa lo que lleva callando desde niño: se le traba la lengua. Y la lengua se le traba justo al decirlo.",
+   "es_literal": false,
+   "ancla": "El príncipe que se educó entre los mejores oradores del mundo y no podía terminar una frase sin que se le atragantara.",
+   "temas": [
+    "tartamudez",
+    "vergüenza",
+    "palabra"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo mandan a hablar ante un rey y se le traba la lengua",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — El nombre"
+  },
+  {
+   "tipo": "cita",
+   "texto": "—No me ha hablado —dijo Moisés, y recogió el cayado del suelo—. Me ha mandado. Es distinto.",
+   "es_literal": true,
+   "ancla": "—No me ha hablado —dijo Moisés, y recogió el cayado del suelo—. Me ha mandado. Es distinto.",
+   "temas": [
+    "llamada",
+    "encargo",
+    "hermanos"
+   ],
+   "intensidad": 5,
+   "gancho": "«No me ha hablado. Me ha mandado. Es distinto»",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — El regreso"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Dos ancianos se abrazan en mitad de la arena. No se conocen de adultos: son hermanos y llevan cuarenta años separados. Lloran los dos, y en ese llanto cabe todo el tiempo perdido.",
+   "es_literal": false,
+   "ancla": "Lloraban los dos, dos viejos abrazados en mitad de la nada, y en aquel llanto cabían cuarenta años, una madre muerta a la que Moisés apenas recordaba, un pueblo esclavo, todo el tiempo perdido.",
+   "temas": [
+    "hermanos",
+    "reencuentro",
+    "llanto"
+   ],
+   "intensidad": 5,
+   "gancho": "Dos viejos abrazados en mitad de la nada",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — El regreso"
+  },
+  {
+   "tipo": "cita",
+   "texto": "—Es una tumba —dijo Moisés—. La más hermosa del mundo, pero una tumba. Está construida sobre huesos de esclavos.",
+   "es_literal": true,
+   "ancla": "—Es una tumba —dijo Moisés—. La más hermosa del mundo, pero una tumba. Está construida sobre huesos de esclavos.",
+   "temas": [
+    "egipto",
+    "esclavitud",
+    "belleza"
+   ],
+   "intensidad": 5,
+   "gancho": "La ciudad más hermosa del mundo, levantada sobre huesos",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — El regreso"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Devolverle la esperanza a alguien que ya había dejado de esperar es un acto hermoso y también peligroso: a partir de ahí, cualquier retraso duele el doble.",
+   "es_literal": false,
+   "ancla": "Un pueblo que ha vuelto a esperar y a quien se le arrebata la esperanza es más peligroso que un pueblo resignado.",
+   "temas": [
+    "esperanza",
+    "riesgo",
+    "pueblo"
+   ],
+   "intensidad": 4,
+   "gancho": "Encender la esperanza también es peligroso",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — El regreso"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Estábamos mal, pero estábamos vivos. Vinisteis vosotros con vuestro Dios y vuestras promesas, y ahora estamos peor que las bestias. ¿Esto es la liberación? ¿Esto?",
+   "es_literal": true,
+   "ancla": "Estábamos mal, pero estábamos vivos. Vinisteis vosotros con vuestro Dios y vuestras promesas, y ahora estamos peor que las bestias. ¿Esto es la liberación? ¿Esto?",
+   "temas": [
+    "esclavitud",
+    "reproche",
+    "esperanza"
+   ],
+   "intensidad": 5,
+   "gancho": "«Estábamos mal, pero estábamos vivos»",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — Deja ir a mi pueblo"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué haces cuando obedeces una llamada y lo primero que consigues es empeorar la vida de aquellos a los que ibas a ayudar?",
+   "es_literal": false,
+   "ancla": "Los he hecho más esclavos. Los he hecho odiosos. Y tú callas. ¿Por qué me enviaste, si no ibas a hacer nada?",
+   "temas": [
+    "duda",
+    "reproche",
+    "fracaso"
+   ],
+   "intensidad": 5,
+   "gancho": "Obedeció la llamada y todo empeoró. ¿Y entonces?",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8 — Deja ir a mi pueblo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Las órdenes de los poderosos bajan por escalones: del visir al intendente, del intendente al capataz, del capataz al jefe de cuadrilla. Cada escalón las aligera para quien manda y las agrava para el último.",
+   "es_literal": false,
+   "ancla": "Y la orden bajó, como bajan siempre las órdenes de los poderosos, escalón tras escalón, del visir a los intendentes, de los intendentes a los capataces egipcios, de los capataces a los jefes de cuadrilla hebreos",
+   "temas": [
+    "poder",
+    "jerarquía",
+    "trabajo"
+   ],
+   "intensidad": 4,
+   "gancho": "Una orden baja escalón tras escalón hasta una espalda",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8 — Deja ir a mi pueblo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En la sala del trono, rodeado de la corte de Egipto, teme menos morir que hablar: sabe que las palabras se le atascarán y que toda la sala se reirá.",
+   "es_literal": false,
+   "ancla": "el recuerdo de su tartamudez, la certeza de que si le tocara hablar a él, las palabras se le atascarían en la boca como piedras en un cauce seco, y toda la corte de Egipto reiría",
+   "temas": [
+    "miedo",
+    "tartamudez",
+    "faraón"
+   ],
+   "intensidad": 5,
+   "gancho": "Temía menos morir que abrir la boca ante la corte",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — Deja ir a mi pueblo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque el Señor le había advertido: no bastaría una plaga. Ni dos. El corazón del faraón era como el barro que en vez de deshacerse con el fuego se endurece.",
+   "es_literal": true,
+   "ancla": "Porque el Señor le había advertido: no bastaría una plaga. Ni dos. El corazón del faraón era como el barro que en vez de deshacerse con el fuego se endurece.",
+   "temas": [
+    "orgullo",
+    "poder",
+    "obstinación"
+   ],
+   "intensidad": 4,
+   "gancho": "Hay barro que, en vez de deshacerse con el fuego, se endurece",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — Las diez heridas de Egipto"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Y no sintió triunfo. Sintió el vértigo de asomarse al orgullo humano y no encontrarle fondo.",
+   "es_literal": true,
+   "ancla": "Y no sintió triunfo. Sintió el vértigo de asomarse al orgullo humano y no encontrarle fondo.",
+   "temas": [
+    "orgullo",
+    "vértigo",
+    "poder"
+   ],
+   "intensidad": 5,
+   "gancho": "Se asomó al orgullo humano y no le encontró fondo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — Las diez heridas de Egipto"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Sentado en un umbral, mira la línea donde la oscuridad se detiene: a un lado un imperio a ciegas, al otro unas calles de barro donde los niños siguen jugando.",
+   "es_literal": false,
+   "ancla": "Se sentó a la puerta de la casa donde se alojaba, en el barrio hebreo, y contempló la frontera invisible que separaba la luz de la sombra",
+   "temas": [
+    "tinieblas",
+    "frontera",
+    "egipto"
+   ],
+   "intensidad": 4,
+   "gancho": "La frontera entre la luz y la sombra pasaba por su puerta",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — Las diez heridas de Egipto"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cuánto está dispuesto a perder quien manda antes que admitir que se equivocó? En la novela, la pregunta la hacen sus propios ministros.",
+   "es_literal": false,
+   "ancla": "—¿Hasta cuándo será este hombre un lazo para nosotros? Deja ir a esos hombres para que sirvan al Señor su Dios. ¿Todavía no te das cuenta de que Egipto está arruinado?",
+   "temas": [
+    "poder",
+    "obstinación",
+    "corte"
+   ],
+   "intensidad": 4,
+   "gancho": "Se lo dijeron sus propios ministros: el país está arruinado",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — Las diez heridas de Egipto"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Después de meses de pulso, lo que siente ante el hombre que lo ha perseguido no es alegría. Es una punzada de algo parecido a la lástima.",
+   "es_literal": false,
+   "ancla": "Y sintió, en medio de todo, una punzada de algo parecido a la lástima.",
+   "temas": [
+    "compasión",
+    "enemigo",
+    "faraón"
+   ],
+   "intensidad": 4,
+   "gancho": "Al final del pulso no sintió alegría, sino lástima",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — Las diez heridas de Egipto"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La voz de Moisés ya no tropezaba como antaño; los meses de plagas, el ir y venir ante el faraón, el peso de hablar en nombre del que arde y no se consume habían limado en su lengua aquel tartamudeo antiguo.",
+   "es_literal": true,
+   "ancla": "La voz de Moisés ya no tropezaba como antaño; los meses de plagas, el ir y venir ante el faraón, el peso de hablar en nombre del que arde y no se consume habían limado en su lengua aquel tartamudeo antiguo.",
+   "temas": [
+    "tartamudez",
+    "palabra",
+    "cambio"
+   ],
+   "intensidad": 5,
+   "gancho": "La lengua que se trababa aprendió a caer entera",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 10 — La noche del cordero"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Pero era padre, y ser padre es, sobre todo, sostener a los hijos por encima del miedo propio.",
+   "es_literal": true,
+   "ancla": "Pero era padre, y ser padre es, sobre todo, sostener a los hijos por encima del miedo propio.",
+   "temas": [
+    "padres",
+    "miedo",
+    "hijos"
+   ],
+   "intensidad": 5,
+   "gancho": "Ser padre es sostener a los hijos por encima del miedo propio",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — La noche del cordero"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un niño pregunta a su padre, en mitad de la cena, si la sangre en la puerta bastará. El padre deja el pan, lo mira y responde que esta noche lo único que tienen es una palabra dada.",
+   "es_literal": false,
+   "ancla": "—Basta —dijo—. El Señor lo ha dicho. Y esta noche, hijo, lo único que tenemos es su palabra. Pero es más de lo que hemos tenido nunca.",
+   "temas": [
+    "padres",
+    "miedo",
+    "confianza"
+   ],
+   "intensidad": 5,
+   "gancho": "«¿Y si la sangre no basta?», preguntó el niño",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — La noche del cordero"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Ella había parido dos veces, y sabía lo que es tener un hijo, y no lograba alegrarse de que otra madre fuera a perder el suyo, aunque fuera del pueblo que la había esclavizado.",
+   "es_literal": true,
+   "ancla": "Ella había parido dos veces, y sabía lo que es tener un hijo, y no lograba alegrarse de que otra madre fuera a perder el suyo, aunque fuera del pueblo que la había esclavizado.",
+   "temas": [
+    "madres",
+    "compasión",
+    "enemigo"
+   ],
+   "intensidad": 5,
+   "gancho": "No conseguía alegrarse del duelo de otra madre",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — La noche del cordero"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Moisés inclinó apenas la cabeza, no ante el rey, sino ante el padre, y salió.",
+   "es_literal": true,
+   "ancla": "Moisés inclinó apenas la cabeza, no ante el rey, sino ante el padre, y salió.",
+   "temas": [
+    "duelo",
+    "respeto",
+    "faraón"
+   ],
+   "intensidad": 5,
+   "gancho": "No se inclinó ante el rey: ante el padre",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — La noche del cordero"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque una cosa es la firmeza que se muestra al pueblo, y otra el temblor que se guarda en el pecho.",
+   "es_literal": true,
+   "ancla": "Porque una cosa es la firmeza que se muestra al pueblo, y otra el temblor que se guarda en el pecho.",
+   "temas": [
+    "liderazgo",
+    "miedo",
+    "máscara"
+   ],
+   "intensidad": 5,
+   "gancho": "Una cosa es la firmeza que se muestra; otra, el temblor que se guarda",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11 — El mar"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Pero el fondo del mar no es camino para carros de guerra. Donde el pie descalzo de un pobre pisa firme, la rueda pesada se hunde.",
+   "es_literal": true,
+   "ancla": "Pero el fondo del mar no es camino para carros de guerra. Donde el pie descalzo de un pobre pisa firme, la rueda pesada se hunde.",
+   "temas": [
+    "mar",
+    "poder",
+    "fragilidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Donde el pie descalzo pisa firme, la rueda pesada se hunde",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — El mar"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una mujer saca de su zurrón un pandero que había cargado toda la huida sin saber por qué, lo alza y lo golpea una vez. El sonido rasga el silencio de la orilla.",
+   "es_literal": false,
+   "ancla": "Sacó el pandero del zurrón, deshizo el lienzo, y lo alzó sobre su cabeza. Y lo golpeó, una vez, y el sonido claro del cuero tenso rasgó el silencio de la orilla como un primer rayo de sol rasga la niebla.",
+   "temas": [
+    "miriam",
+    "canto",
+    "orilla"
+   ],
+   "intensidad": 5,
+   "gancho": "Cargó un pandero toda la huida sin saber para qué",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 11 — El mar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Salir de la esclavitud y ser un pueblo no son la misma cosa. Lo difícil empieza después: aprender a caminar sin cadenas, que a veces cuesta más que llevarlas.",
+   "es_literal": false,
+   "ancla": "Pero un pueblo libre no es lo mismo que un pueblo hecho, y quedaba por delante lo más difícil: aprender a caminar sin cadenas, que a veces es más duro que llevarlas.",
+   "temas": [
+    "libertad",
+    "desierto",
+    "madurez"
+   ],
+   "intensidad": 5,
+   "gancho": "Caminar sin cadenas cuesta más que llevarlas",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — El mar"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela no se mete en la cabeza del protagonista como si supiera lo que pensó. Cuando llega ahí, escribe «seguramente» y deja la duda a la vista del lector.",
+   "es_literal": false,
+   "ancla": "Sintió, seguramente, el vértigo de la duda, porque también él era hombre, y también él veía el mar delante y el ejército detrás y no veía, con los ojos de la carne, ninguna salida.",
+   "temas": [
+    "fuentes",
+    "honestidad",
+    "narrador"
+   ],
+   "intensidad": 3,
+   "gancho": "«Seguramente»: el libro marca dónde conjetura",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — El mar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "porque comprendía que sacar a un pueblo de la esclavitud era más fácil que sacar la esclavitud del pueblo.",
+   "es_literal": true,
+   "ancla": "porque comprendía que sacar a un pueblo de la esclavitud era más fácil que sacar la esclavitud del pueblo.",
+   "temas": [
+    "libertad",
+    "desierto",
+    "hábitos"
+   ],
+   "intensidad": 5,
+   "gancho": "Sacar al pueblo de la esclavitud fue lo fácil",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12 — El pan del cielo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un anciano ya no puede sostener los brazos en alto. Dos hombres le ponen una piedra debajo para que se siente y se los aguantan, uno a cada lado, hasta la puesta de sol.",
+   "es_literal": false,
+   "ancla": "Tomaron una piedra y la pusieron debajo de él, y Moisés se sentó sobre ella; y uno a cada lado, Aarón por un lado y Jur por el otro, le sostuvieron los brazos en alto.",
+   "temas": [
+    "ayuda",
+    "cansancio",
+    "compañía"
+   ],
+   "intensidad": 5,
+   "gancho": "Cuando le fallaron los brazos, se los sostuvieron dos",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12 — El pan del cielo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "un pueblo libre no es el que trabaja sin descanso, sino el que sabe detenerse.",
+   "es_literal": true,
+   "ancla": "un pueblo libre no es el que trabaja sin descanso, sino el que sabe detenerse.",
+   "temas": [
+    "descanso",
+    "libertad",
+    "trabajo"
+   ],
+   "intensidad": 4,
+   "gancho": "Libre no es quien no para: es quien sabe detenerse",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — El pan del cielo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La diferencia entre él y ellos no era que él no temiera, sino que él iba a subir a pesar del miedo, y ellos se quedaban a los pies.",
+   "es_literal": true,
+   "ancla": "La diferencia entre él y ellos no era que él no temiera, sino que él iba a subir a pesar del miedo, y ellos se quedaban a los pies.",
+   "temas": [
+    "miedo",
+    "valor",
+    "sinaí"
+   ],
+   "intensidad": 5,
+   "gancho": "No subía porque no temiera: subía con el miedo puesto",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — El fuego en la cumbre"
+  },
+  {
+   "tipo": "cita",
+   "texto": "En medio, en la ladera, subiendo y bajando, llevando de arriba abajo las palabras y de abajo arriba los ruegos, sin pertenecer ya del todo a ninguno de los dos lados.",
+   "es_literal": true,
+   "ancla": "En medio, en la ladera, subiendo y bajando, llevando de arriba abajo las palabras y de abajo arriba los ruegos, sin pertenecer ya del todo a ninguno de los dos lados.",
+   "temas": [
+    "soledad",
+    "mediación",
+    "pertenencia"
+   ],
+   "intensidad": 5,
+   "gancho": "Su sitio estaba en la ladera: ni arriba ni abajo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — El fuego en la cumbre"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No pertenecían a los que sabían leer. Pertenecían a todos por igual.",
+   "es_literal": true,
+   "ancla": "Pero estas diez palabras eran tan pocas que un niño podía aprenderlas, tan simples que un pastor iletrado podía llevarlas en el corazón sin sacerdote que se las interpretara. No pertenecían a los que sabían leer. Pertenecían a todos por igual.",
+   "temas": [
+    "ley",
+    "igualdad",
+    "memoria"
+   ],
+   "intensidad": 4,
+   "gancho": "Tan pocas palabras que no hacía falta saber leer",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — El fuego en la cumbre"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Se había puesto entre el fuego y el pueblo, y había decidido arder él antes que dejarlos arder a ellos.",
+   "es_literal": true,
+   "ancla": "Se había puesto entre el fuego y el pueblo, y había decidido arder él antes que dejarlos arder a ellos.",
+   "temas": [
+    "intercesión",
+    "sacrificio",
+    "liderazgo"
+   ],
+   "intensidad": 5,
+   "gancho": "Prefirió arder él antes que dejarlos arder a ellos",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14 — El becerro de oro"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La música se para de golpe. Todos se vuelven y ven al anciano de pie sobre los pedazos de piedra, jadeando, con las manos vacías y temblando.",
+   "es_literal": false,
+   "ancla": "Todos se volvieron hacia el pie del monte y vieron al anciano de pie sobre los pedazos rotos de las tablas, jadeando, con las manos vacías y temblorosas donde un instante antes había llevado la escritura de Dios",
+   "temas": [
+    "ruptura",
+    "dolor",
+    "silencio"
+   ],
+   "intensidad": 5,
+   "gancho": "La música se paró cuando la piedra se rompió",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — El becerro de oro"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Ningún pacto se sostiene solo con la lista de lo que no debe hacerse. También necesita la posibilidad de ser perdonado cuando se hace.",
+   "es_literal": false,
+   "ancla": "un pueblo se funda no sólo sobre lo que no debe hacerse, sino también sobre la posibilidad de ser perdonado cuando lo hace",
+   "temas": [
+    "perdón",
+    "ley",
+    "caída"
+   ],
+   "intensidad": 4,
+   "gancho": "Una ley sin perdón aplastaría a quien la recibe",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — El becerro de oro"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque no es la rebelión sonora la que agota a un hombre, sino la queja menuda y diaria, la gota que cae siempre en el mismo sitio.",
+   "es_literal": true,
+   "ancla": "Porque no es la rebelión sonora la que agota a un hombre, sino la queja menuda y diaria, la gota que cae siempre en el mismo sitio.",
+   "temas": [
+    "desgaste",
+    "liderazgo",
+    "paciencia"
+   ],
+   "intensidad": 5,
+   "gancho": "No agota la rebelión sonora: agota la gota diaria",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15 — Cuarenta años"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Preferían la esclavitud conocida a la libertad temida. Preferían a un amo que ver un gigante.",
+   "es_literal": true,
+   "ancla": "Preferían la esclavitud conocida a la libertad temida. Preferían a un amo que ver un gigante.",
+   "temas": [
+    "miedo",
+    "libertad",
+    "regreso"
+   ],
+   "intensidad": 5,
+   "gancho": "Preferían la esclavitud conocida a la libertad temida",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Cuarenta años"
+  },
+  {
+   "tipo": "escena",
+   "texto": "De pie ante un pequeño túmulo de piedras, uno más entre los miles que iban quedando atrás, entierra a su hermana y siente por primera vez, hasta el fondo, que se está quedando solo.",
+   "es_literal": false,
+   "ancla": "Moisés se quedó de pie ante el pequeño túmulo de piedras, un montón de piedras más entre los miles que iban quedando atrás, y por primera vez sintió en toda su hondura que se iba quedando solo.",
+   "temas": [
+    "duelo",
+    "miriam",
+    "soledad"
+   ],
+   "intensidad": 5,
+   "gancho": "Un túmulo más entre miles, y era el de su hermana",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15 — Cuarenta años"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El que llega recibe la tierra. El que se detiene en la puerta y sonríe, ese recibe algo que la tierra no puede dar: recibe el sentido entero de haber caminado.",
+   "es_literal": true,
+   "ancla": "El que llega recibe la tierra. El que se detiene en la puerta y sonríe, ese recibe algo que la tierra no puede dar: recibe el sentido entero de haber caminado.",
+   "temas": [
+    "umbral",
+    "renuncia",
+    "sentido"
+   ],
+   "intensidad": 5,
+   "gancho": "Hay quien llega y hay quien se detiene en la puerta",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16 — Desde el monte Nebo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Nadie es un gigante en abstracto. Lo es a los ojos de quien primero se ha mirado a sí mismo como una langosta.",
+   "es_literal": false,
+   "ancla": "Los gigantes solo son gigantes para el que se mira a sí mismo como langosta.",
+   "temas": [
+    "miedo",
+    "mirada",
+    "coraje"
+   ],
+   "intensidad": 4,
+   "gancho": "El gigante crece en los ojos del que se ve pequeño",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — Desde el monte Nebo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela no inventa un final que las fuentes no dan: dice que nadie supo nunca dónde quedó la tumba, que ninguna piedra la marca y que nadie puede arrodillarse ante ella.",
+   "es_literal": false,
+   "ancla": "Y nadie supo nunca dónde quedó su tumba. Ni entonces ni después; ninguna piedra la marca, ningún camino conduce a ella, ningún hombre puede arrodillarse ante ella.",
+   "temas": [
+    "fuentes",
+    "honestidad",
+    "tumba"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie supo nunca dónde quedó su tumba",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — Desde el monte Nebo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay frases que, una vez dichas en voz alta ante quien manda, ya no se pueden devolver al silencio. La libertad nombrada no vuelve a callarse del todo.",
+   "es_literal": false,
+   "ancla": "una vez que alguien ha nombrado la libertad ante el poder, la libertad no vuelve a callarse del todo",
+   "temas": [
+    "libertad",
+    "palabra",
+    "poder"
+   ],
+   "intensidad": 5,
+   "gancho": "La libertad nombrada ante el poder ya no se calla",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Epílogo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El libro se cierra sin cerrarse: una llama pequeña arde en la oscuridad sin consumirse, y cerca de ella hay alguien que empieza a descalzarse.",
+   "es_literal": false,
+   "ancla": "En algún lugar, ahora mismo, hay una llama pequeña que arde en la oscuridad y no se consume. Y hay, cerca de ella, alguien que empieza a descalzarse.",
+   "temas": [
+    "final",
+    "fuego",
+    "llamada"
+   ],
+   "intensidad": 5,
+   "gancho": "Cerca de la llama hay alguien que empieza a descalzarse",
+   "formatos": [
+    "reel",
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Epílogo"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Y si bajo voces que en apariencia dicen cosas distintas, en otras tierras y en otras lenguas, estuviera sonando siempre la misma pregunta?",
+   "es_literal": false,
+   "ancla": "Han venido mensajeros antes y vendrán mensajeros después, con otras caras, en otras tierras, hablando otras lenguas, y en apariencia dirán cosas distintas.",
+   "temas": [
+    "mensajeros",
+    "escucha",
+    "diversidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Otras caras, otras lenguas, otras tierras",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Epílogo"
+  }
+ ]
+}

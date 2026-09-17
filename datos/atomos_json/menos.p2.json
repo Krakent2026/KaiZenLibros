@@ -1,0 +1,204 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "menos",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "Restar no es perder algo. Es dejar de cargar con lo que no eras tú.",
+   "es_literal": true,
+   "ancla": "Restar no es perder algo. Es dejar de cargar con lo que no eras tú.",
+   "temas": ["soltar", "miedo", "restar"],
+   "intensidad": 5,
+   "gancho": "Restar no es perder",
+   "formatos": ["cita", "pin"],
+   "capitulo": "Capítulo 4 — Menos no es renunciar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Lo superfluo no ocupa un espacio que sobraba: ocupa, precisamente, el de lo esencial. El cajón lleno de trastos es un cajón que no puede guardar lo que importa; el armario lleno de «por si acaso» es un armario donde no encuentras lo que amas.",
+   "es_literal": false,
+   "ancla": "No es que lo superfluo esté ahí sin más, ocupando un espacio que sobraba. Es que está ocupando, precisamente, el espacio de lo esencial.",
+   "temas": ["coste de oportunidad", "objetos", "esencial"],
+   "intensidad": 4,
+   "gancho": "Lo que sobra ocupa el sitio de lo que importa",
+   "formatos": ["carrusel", "hilo", "articulo"],
+   "capitulo": "Capítulo 4 — Menos no es renunciar"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es austeridad triste —privarse por obligación, contando cada céntimo con amargura, mirando con envidia lo que tienen otros—: es sobriedad serena, tener lo que necesitas, cuidarlo y disfrutarlo sin anhelar más. Una es privación; la otra, libertad.",
+   "es_literal": false,
+   "ancla": "La primera es privación y resentimiento. La segunda es plenitud y libertad.",
+   "temas": ["sobriedad", "austeridad"],
+   "intensidad": 4,
+   "gancho": "Austeridad triste o sobriedad serena",
+   "formatos": ["carrusel", "pin", "hilo"],
+   "capitulo": "Capítulo 4 — Menos no es renunciar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La prueba de las dos columnas: 1) coge aquello de lo que dudes —un objeto, un compromiso, una suscripción—. 2) Traza dos columnas en un papel: lo que me da y lo que me quita. 3) Sé brutalmente honesto en ambas, sin adornar ni justificar. 4) La prueba no decide por ti: solo pone la verdad delante para que decidas tú.",
+   "es_literal": false,
+   "ancla": "traza dos columnas en un papel: *lo que me da* y *lo que me quita*. Y sé brutalmente honesto en ambas.",
+   "temas": ["decidir", "miedo", "soltar"],
+   "intensidad": 3,
+   "gancho": "Dos columnas para decidir sin pánico",
+   "formatos": ["carrusel", "reel"],
+   "capitulo": "Capítulo 4 — Menos no es renunciar"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Casi nadie recuerda lo que tiró, y menos aún lo echa de menos. De lo que sí se arrepiente la gente es de todo lo que cargó durante años sin necesidad.",
+   "es_literal": false,
+   "ancla": "El arrepentimiento casi nunca está en el lado de quitar. Está, casi siempre, en el lado de haber acumulado.",
+   "temas": ["arrepentimiento", "soltar"],
+   "intensidad": 4,
+   "gancho": "El arrepentimiento no vive en el lado de quitar",
+   "formatos": ["cita", "pin", "hilo"],
+   "capitulo": "Capítulo 4 — Menos no es renunciar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No es que tengas tus cosas. Pasado cierto punto, son tus cosas las que te tienen a ti.",
+   "es_literal": true,
+   "ancla": "No es que tengas tus cosas. Pasado cierto punto, son tus cosas las que te tienen a ti.",
+   "temas": ["objetos", "mantenimiento"],
+   "intensidad": 5,
+   "gancho": "Quién tiene a quién",
+   "formatos": ["cita", "pin"],
+   "capitulo": "Capítulo 5 — Menos cosas, más espacio"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La caja de la duda: 1) descarga un área pequeña, diez minutos, un cajón y no la casa entera. 2) Coge cada cosa en la mano y decide: se queda, se va, duda. 3) Lo dudoso va a una caja: ciérrala, escribe la fecha en la tapa y guárdala fuera de la vista. 4) Si en tres meses no has necesitado abrirla, la das entera sin volver a mirar dentro.",
+   "es_literal": false,
+   "ancla": "mete ahí todo lo que no sabes si soltar, ciérrala, escribe la fecha en la tapa y guárdala fuera de la vista.",
+   "temas": ["objetos", "metodo", "duda"],
+   "intensidad": 3,
+   "gancho": "Qué hacer con lo que no sabes si soltar",
+   "formatos": ["carrusel", "reel", "articulo"],
+   "capitulo": "Capítulo 5 — Menos cosas, más espacio"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Ordenar no es restar. Ordenar es encontrar un sitio para cada cosa; restar es reducir el número de cosas. Si ordenas sin restar, el orden se deshace enseguida, porque sigue habiendo demasiado.",
+   "es_literal": false,
+   "ancla": "Ordenar es encontrar un sitio para cada cosa; restar es reducir el número de cosas.",
+   "temas": ["orden", "objetos"],
+   "intensidad": 4,
+   "gancho": "No ordenes el exceso: réstalo",
+   "formatos": ["carrusel", "pin", "hilo"],
+   "capitulo": "Capítulo 5 — Menos cosas, más espacio"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El espacio que has creado al restar no es un hueco esperando a llenarse: es el premio. El estante despejado no está sin terminar; su desnudez es exactamente su valor.",
+   "es_literal": false,
+   "ancla": "El estante despejado no está \"sin terminar\"; está terminado, y su desnudez es exactamente su valor.",
+   "temas": ["vacio", "ma", "espacio"],
+   "intensidad": 4,
+   "gancho": "El hueco no está esperando nada",
+   "formatos": ["carrusel", "pin"],
+   "capitulo": "Capítulo 5 — Menos cosas, más espacio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No compras cosas. Compras la promesa de sentirte de otra manera. Y esa promesa nunca, nunca viene dentro del paquete.",
+   "es_literal": true,
+   "ancla": "No compras cosas. Compras la promesa de sentirte de otra manera. Y esa promesa nunca, nunca viene dentro del paquete.",
+   "temas": ["consumo", "deseo"],
+   "intensidad": 5,
+   "gancho": "Lo que de verdad va dentro del paquete",
+   "formatos": ["cita", "pin"],
+   "capitulo": "Capítulo 6 — El deseo que nunca se sacia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La lista de espera de 30 días: 1) cuando quieras comprar algo que no sea una necesidad clara, no lo compres en el momento. 2) Apúntalo en una lista con la fecha de hoy al lado. 3) Déjalo ahí, madurando, treinta días. 4) Si al cabo del mes lo sigues queriendo igual y encaja con tus esenciales, cómpralo con la conciencia tranquila.",
+   "es_literal": false,
+   "ancla": "Apúntalo en una lista, con la fecha de hoy al lado. Y déjalo ahí, madurando, treinta días.",
+   "temas": ["compras", "impulso", "metodo"],
+   "intensidad": 3,
+   "gancho": "El deseo es una ola: no te subas, espera a que rompa",
+   "formatos": ["carrusel", "reel", "pin"],
+   "capitulo": "Capítulo 6 — El deseo que nunca se sacia"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No va de dejar de comprar: va de dejar de comprar desde el vacío. Comprar vacío es tapar un hueco —aburrimiento, tristeza, la pura emoción del clic—. Comprar lleno es elegir con calma algo que de verdad vas a usar y a amar.",
+   "es_literal": false,
+   "ancla": "Comprar vacío es comprar para tapar un hueco: por aburrimiento, por ansiedad, por tristeza, por la pura emoción del clic, para sentir algo.",
+   "temas": ["consumo", "emociones"],
+   "intensidad": 4,
+   "gancho": "¿Esto lo quiero yo, o es el hueco el que lo quiere?",
+   "formatos": ["carrusel", "pin", "hilo"],
+   "capitulo": "Capítulo 6 — El deseo que nunca se sacia"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Aburrimiento, tristeza, comparación, celebración: ninguno de esos disparadores tiene que ver con necesitar el objeto. Son estados emocionales buscando alivio, y la compra es el que tenemos más a mano, a un pulgar de distancia.",
+   "es_literal": false,
+   "ancla": "Todos son estados emocionales buscando alivio, y la compra es solo el alivio que tenemos más a mano, el más socialmente aceptado, el que está a un pulgar de distancia.",
+   "temas": ["emociones", "compras"],
+   "intensidad": 4,
+   "gancho": "No querías el objeto: querías dejar de sentir eso",
+   "formatos": ["carrusel", "hilo", "articulo"],
+   "capitulo": "Capítulo 6 — El deseo que nunca se sacia"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tu vida es aquello a lo que prestas atención. Así que la verdadera pregunta es: ahora mismo, ¿quién decide dónde va tu atención, tú o tu pantalla?",
+   "es_literal": true,
+   "ancla": "Tu vida es aquello a lo que prestas atención. Así que la verdadera pregunta es: ahora mismo, ¿quién decide dónde va tu atención, tú o tu pantalla?",
+   "temas": ["atencion", "pantallas"],
+   "intensidad": 5,
+   "gancho": "Quién decide dónde va tu atención",
+   "formatos": ["cita", "pin"],
+   "capitulo": "Capítulo 7 — Menos pantalla, más vida"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cada notificación es, en el fondo, alguien —o algo— decidiendo por ti que en este preciso instante tienes que dejar lo que estás haciendo y mirar la pantalla. Es un permiso enorme sobre tu vida que regalaste sin darte cuenta.",
+   "es_literal": false,
+   "ancla": "cada notificación es, en el fondo, alguien —o algo— decidiendo por ti que en este preciso instante tienes que dejar lo que estás haciendo y mirar la pantalla",
+   "temas": ["notificaciones", "atencion"],
+   "intensidad": 5,
+   "gancho": "Un permiso que regalaste sin darte cuenta",
+   "formatos": ["carrusel", "pin", "hilo"],
+   "capitulo": "Capítulo 7 — Menos pantalla, más vida"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Rediseña el móvil en cuatro pasos: 1) borra las apps que no usas de verdad. 2) Desactiva casi todas las notificaciones; que solo te interrumpan las personas concretas que te importan. 3) Saca las apps pegajosas de la pantalla de inicio, a una carpeta de la última página. 4) Pon la pantalla en escala de grises.",
+   "es_literal": false,
+   "ancla": "Pon las apps más pegajosas, las que te atrapan por inercia, fuera de la pantalla de inicio, escondidas en una carpeta en la última página",
+   "temas": ["digital", "metodo", "friccion"],
+   "intensidad": 3,
+   "gancho": "La comodidad es lo que te atrapa; la fricción te suelta",
+   "formatos": ["carrusel", "reel", "articulo"],
+   "capitulo": "Capítulo 7 — Menos pantalla, más vida"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Esto no va de tirar el móvil por la ventana ni de demonizar la tecnología. Va de que la pantalla vuelva a ser una decisión tuya y deje de ser un reflejo involuntario. Separa la herramienta del caramelo.",
+   "es_literal": false,
+   "ancla": "Se trata, sencillamente, de que la pantalla vuelva a ser una **decisión** tuya y deje de ser un **reflejo** involuntario.",
+   "temas": ["digital", "habitos"],
+   "intensidad": 4,
+   "gancho": "Decisión, no reflejo",
+   "formatos": ["carrusel", "pin", "hilo"],
+   "capitulo": "Capítulo 7 — Menos pantalla, más vida"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué haces con los micro-huecos del día: la cola del supermercado, el ascensor, la espera del metro? El aburrimiento, ese vacío de estímulo que tanto tememos, no es un problema a resolver: es un espacio fértil.",
+   "es_literal": false,
+   "ancla": "El aburrimiento, ese vacío de estímulo que tanto tememos, no es un problema a resolver: es un espacio fértil.",
+   "temas": ["aburrimiento", "creatividad"],
+   "intensidad": 4,
+   "gancho": "¿Cuándo fue la última vez que te aburriste?",
+   "formatos": ["pin", "reel", "hilo"],
+   "capitulo": "Capítulo 7 — Menos pantalla, más vida"
+  }
+ ]
+}

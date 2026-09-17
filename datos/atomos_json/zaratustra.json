@@ -1,0 +1,1331 @@
+{
+ "serie": "los_mensajeros",
+ "libro": "zaratustra",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "porque el agua no mentía, y el frío no mentía, y el río, al menos el río, era honrado hasta el hueso.",
+   "es_literal": true,
+   "ancla": "seguía sin embargo obedeciendo en esto, porque el agua no mentía, y el frío no mentía, y el río, al menos el río, era honrado hasta el hueso.",
+   "temas": [
+    "duda",
+    "rito",
+    "honradez"
+   ],
+   "intensidad": 4,
+   "gancho": "Seguía el rito que ya no creía, porque el río no mentía",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La mañana más ruidosa del año amanece muda: ni un pájaro, ni un ternero. Solo el agua habla, y habla muy bajo, mientras un hombre entra en el río a por agua para la fiesta.",
+   "es_literal": false,
+   "ancla": "Esa mañana el mundo entero parecía haber contenido la respiración, como si toda la llanura fuese un solo animal agazapado, esperando. Ni un pájaro. Ni un ternero. Sólo el agua hablaba, y hablaba muy bajo.",
+   "temas": [
+    "silencio",
+    "espera",
+    "río"
+   ],
+   "intensidad": 4,
+   "gancho": "El día de la fiesta, la estepa entera contiene la respiración",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La novela se detiene en algo muy humano: se puede dejar de creer y seguir repitiendo los gestos de esa creencia durante años, por costumbre y por miedo a la intemperie.",
+   "es_literal": false,
+   "ancla": "porque un hombre puede abandonar la fe de sus padres y seguir, sin embargo, atado por mil hilos menudos a los gestos de esa fe, como el buey sigue atado a la noria mucho después de que el pozo se ha secado",
+   "temas": [
+    "costumbre",
+    "fe",
+    "duda"
+   ],
+   "intensidad": 4,
+   "gancho": "El buey sigue atado a la noria mucho después de secarse el pozo",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "porque el frío era tan puro que dolía, y el dolor, esa mañana, se parecía extrañamente a una plegaria.",
+   "es_literal": true,
+   "ancla": "y por un momento cerró los ojos, porque el frío era tan puro que dolía, y el dolor, esa mañana, se parecía extrañamente a una plegaria.",
+   "temas": [
+    "frío",
+    "plegaria",
+    "cuerpo"
+   ],
+   "intensidad": 4,
+   "gancho": "Un frío tan puro que se parecía a una plegaria",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela no presenta el nacimiento como crónica: lo cuenta como lo que es, un relato transmitido en voz baja, del que nadie puede dar fe.",
+   "es_literal": false,
+   "ancla": "Se cuenta —y quien lo cuenta baja la voz, como si aún temiera que alguien lo oyera— que la noche en que Dughdova sintió los primeros dolores, los perros de la aldea aullaron sin causa hasta el alba.",
+   "temas": [
+    "leyenda",
+    "ficcion documental",
+    "origen"
+   ],
+   "intensidad": 3,
+   "gancho": "Ficción documental: el relato de origen llega como leyenda, no como acta",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — El niño que reía"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Los niños lloran al nacer. Todos. Siempre. Lloran porque el mundo es frío y ancho y terrible, y el aire duele en los pulmones nuevos, y la luz hiere los ojos que nunca vieron. Todos los niños lloran. Este rió.",
+   "es_literal": true,
+   "ancla": "Los niños lloran al nacer. Todos. Siempre. Lloran porque el mundo es frío y ancho y terrible, y el aire duele en los pulmones nuevos, y la luz hiere los ojos que nunca vieron. Todos los niños lloran. Este rió.",
+   "temas": [
+    "nacimiento",
+    "presagio",
+    "risa"
+   ],
+   "intensidad": 5,
+   "gancho": "Todos los niños lloran al nacer. Este rió",
+   "formatos": [
+    "cita",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El niño que reía"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Los sacerdotes encienden una pira para devolver el niño a los dioses. La aldea entera mira. Y lo que la aldea cuenta después es que las llamas se apartaron.",
+   "es_literal": false,
+   "ancla": "Que se abrieron en torno al niño como se abre el agua en torno a una piedra, y que dejaron un hueco de aire fresco en mitad del ardor",
+   "temas": [
+    "fuego",
+    "miedo",
+    "infancia"
+   ],
+   "intensidad": 5,
+   "gancho": "Una pira encendida para un recién nacido, y un hueco de aire en mitad del ardor",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 1 — El niño que reía"
+  },
+  {
+   "tipo": "cita",
+   "texto": "el fuego estaba triste porque nadie le hablaba nunca, y sólo le pedían y le pedían y jamás le daban las gracias.",
+   "es_literal": true,
+   "ancla": "y el niño la miró con sus ojos serenos y contestó que no lo sabía, que a veces las palabras venían solas, y que el fuego estaba triste porque nadie le hablaba nunca, y sólo le pedían y le pedían y jamás le daban las gracias.",
+   "temas": [
+    "fuego",
+    "infancia",
+    "gratitud"
+   ],
+   "intensidad": 4,
+   "gancho": "Un niño de seis años explica por qué el fuego está triste",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — El niño que reía"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "A los siete años lo entregan a los sacerdotes con la idea de que la doctrina lo amansará. La novela sugiere lo contrario: enseñar a mirar de cerca es el modo más seguro de fabricar preguntas.",
+   "es_literal": false,
+   "ancla": "Los sacerdotes de todos los tiempos han creído que la doctrina domestica lo que la doctrina en verdad despierta.",
+   "temas": [
+    "doctrina",
+    "preguntas",
+    "formacion"
+   ],
+   "intensidad": 4,
+   "gancho": "Creyeron que la doctrina lo domesticaría",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2 — El aprendiz de los fuegos"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Tiene ocho años y ve su primer sacrificio. Le queda dentro el mugido del buey, y el ojo grande y húmedo que sigue mirando mientras la vida se va.",
+   "es_literal": false,
+   "ancla": "Recordaría el chorro caliente que saltó y humeó en el aire frío de la mañana, y la manera en que las patas del buey cedieron despacio, primero las traseras",
+   "temas": [
+    "sacrificio",
+    "infancia",
+    "compasion"
+   ],
+   "intensidad": 5,
+   "gancho": "Ocho años, un cuchillo de bronce y un mugido que ya no le salió del pecho",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 2 — El aprendiz de los fuegos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Pero el niño, en su rincón, no lograba imaginar a ningún dios digno de ese nombre que se alimentara del terror de un buey.",
+   "es_literal": true,
+   "ancla": "Pero el niño, en su rincón, no lograba imaginar a ningún dios digno de ese nombre que se alimentara del terror de un buey.",
+   "temas": [
+    "compasion",
+    "duda",
+    "sacrificio"
+   ],
+   "intensidad": 5,
+   "gancho": "La primera objeción de un niño, dicha solo por dentro",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — El aprendiz de los fuegos"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es un dios hambriento frente a un hombre en deuda: es un fuego que solo pide madera limpia y devuelve luz, calor y compañía.",
+   "es_literal": false,
+   "ancla": "El fuego no pedía sangre. El fuego sólo pedía madera limpia, y a cambio daba luz, y calor, y compañía en la noche.",
+   "temas": [
+    "fuego",
+    "sacrificio",
+    "contraste"
+   ],
+   "intensidad": 4,
+   "gancho": "El fuego no pedía sangre: pedía madera limpia",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — El aprendiz de los fuegos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Piden sangre y no dan justicia. Piden ganado y no dan verdad.",
+   "es_literal": true,
+   "ancla": "Piden sangre y no dan justicia. Piden ganado y no dan verdad. ¿Y si los daevas no son dioses?",
+   "temas": [
+    "justicia",
+    "poder",
+    "verdad"
+   ],
+   "intensidad": 5,
+   "gancho": "Piden sangre y no dan justicia",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — El aprendiz de los fuegos"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Si lo que ocurre es voluntad de los dioses, ¿qué clase de dioses son? Y si no lo es, ¿para qué sirven? La novela deja la pregunta abierta en boca de un chico de dieciséis años.",
+   "es_literal": false,
+   "ancla": "Y pensó: si los dioses quisieron esto, ¿qué clase de dioses son? Y si no lo quisieron, ¿de qué sirven?",
+   "temas": [
+    "violencia",
+    "pregunta",
+    "duda"
+   ],
+   "intensidad": 5,
+   "gancho": "Dos preguntas después de una noche de razia",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 3 — Las preguntas sin respuesta"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Ve, hijo. Sé que has de irte. Naciste riendo, y una risa así no se guarda bajo un techo.",
+   "es_literal": true,
+   "ancla": "Ve, hijo. Sé que has de irte. Naciste riendo, y una risa así no se guarda bajo un techo.",
+   "temas": [
+    "madre",
+    "despedida",
+    "ternura"
+   ],
+   "intensidad": 5,
+   "gancho": "Una madre despide a su hijo antes del alba",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — Las preguntas sin respuesta"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una cueva alta, la ventisca en la boca de piedra, días sin comer. Llora con la cara entre las manos y las lágrimas se le hielan antes de tocar la roca.",
+   "es_literal": false,
+   "ancla": "Lloró como no había llorado desde niño, con la cara entre las manos, y sus lágrimas caían y se helaban casi antes de tocar la piedra.",
+   "temas": [
+    "soledad",
+    "hambre",
+    "fondo"
+   ],
+   "intensidad": 5,
+   "gancho": "Años de búsqueda y ni una sola respuesta: la noche en que tocó fondo",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 3 — Las preguntas sin respuesta"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Tras años sin obtener nada, lo que lo levanta no es una respuesta: es un cambio de posición. Quizá el silencio no era una negativa, sino una espera; y quizá no le tocaba encontrar, sino ser encontrado.",
+   "es_literal": false,
+   "ancla": "la certeza de que valía la pena seguir buscando, de que el silencio del cielo no era una respuesta sino una espera, de que a lo mejor no era él quien tenía que encontrar, sino ser encontrado.",
+   "temas": [
+    "espera",
+    "busqueda",
+    "silencio"
+   ],
+   "intensidad": 5,
+   "gancho": "Quizá no era él quien tenía que encontrar, sino ser encontrado",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — Las preguntas sin respuesta"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La luz llega antes que el alba y el cuenco se le rompe contra las piedras. El agua del rito se pierde entre los guijarros y nadie, ni él ni la figura, la mira.",
+   "es_literal": false,
+   "ancla": "El cuenco se le cayó de las manos y se rompió contra las piedras, y el agua del haoma se derramó y se perdió entre los guijarros; pero ni él ni la figura la miraron. Aquella agua ya no importaba.",
+   "temas": [
+    "rito",
+    "encuentro",
+    "río"
+   ],
+   "intensidad": 5,
+   "gancho": "Se le rompe el cuenco del rito, y de pronto aquella agua ya no importa",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 4 — La orilla del río"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Lo primero que piensa el propio protagonista ante la visión no es que ha visto a Dios: es que ha perdido el juicio. La novela deja esa sospecha en pie, no la despacha.",
+   "es_literal": false,
+   "ancla": "y por un instante fugaz pensó en huir, correr río abajo, gritar; pensó que se había vuelto loco, que la sed de tantos años le había resquebrajado el juicio",
+   "temas": [
+    "duda",
+    "cordura",
+    "vision"
+   ],
+   "intensidad": 4,
+   "gancho": "Su primera explicación de la visión fue la locura",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — La orilla del río"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tengo las manos sucias. He dudado. He tenido miedo. He deseado el mal a hombres que me hicieron mal. No soy santo, ni sacerdote, ni sabio. ¿Por qué a mí?",
+   "es_literal": true,
+   "ancla": "Tengo las manos sucias. He dudado. He tenido miedo. He deseado el mal a hombres que me hicieron mal. No soy santo, ni sacerdote, ni sabio. ¿Por qué a mí?",
+   "temas": [
+    "duda",
+    "humildad",
+    "llamada"
+   ],
+   "intensidad": 5,
+   "gancho": "No soy santo, ni sacerdote, ni sabio. ¿Por qué a mí?",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — La orilla del río"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tú no has estado nunca contento. Esa es la herida por la que ha entrado la luz. No se te llama por lo que eres, sino por lo que has buscado.",
+   "es_literal": true,
+   "ancla": "están contentos con el mundo tal como es, y por eso no sirven. Tú no has estado nunca contento. Esa es la herida por la que ha entrado la luz. No se te llama por lo que eres, sino por lo que has buscado.",
+   "temas": [
+    "inconformidad",
+    "llamada",
+    "herida"
+   ],
+   "intensidad": 5,
+   "gancho": "Esa es la herida por la que ha entrado la luz",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — La orilla del río"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Es puro: quema lo impuro y de sí mismo no se ensucia. Es verdadero: no puede fingir estar apagado si arde, ni fingir arder si está apagado; en él no cabe la mentira.",
+   "es_literal": true,
+   "ancla": "Es puro: quema lo impuro y de sí mismo no se ensucia. Es verdadero: no puede fingir estar apagado si arde, ni fingir arder si está apagado; en él no cabe la mentira.",
+   "temas": [
+    "fuego",
+    "verdad",
+    "simbolo"
+   ],
+   "intensidad": 4,
+   "gancho": "En el fuego no cabe la mentira: arde o no arde",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — El Señor Sabio"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "En la novela, el mal no aparece como sustancia ni como castigo, sino como una elección que se sigue repitiendo. Y por eso mismo, dice el relato, puede volver a elegirse de otro modo.",
+   "es_literal": false,
+   "ancla": "El mal no es una cosa que yo pusiera en el mundo: es una elección que se sigue eligiendo, y por eso puede deshacerse, porque lo que se elige puede volver a elegirse de otro modo.",
+   "temas": [
+    "mal",
+    "eleccion",
+    "libertad"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que se elige puede volver a elegirse de otro modo",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5 — El Señor Sabio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Al lobo lo hice lobo y no puede sino desgarrar; a la estrella la hice estrella y no puede sino girar. Pero al hombre lo hice libre.",
+   "es_literal": true,
+   "ancla": "Al lobo lo hice lobo y no puede sino desgarrar; a la estrella la hice estrella y no puede sino girar. Pero al hombre lo hice libre.",
+   "temas": [
+    "libertad",
+    "responsabilidad",
+    "creacion"
+   ],
+   "intensidad": 5,
+   "gancho": "Al lobo lo hizo lobo. Al hombre lo hizo libre",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — El Señor Sabio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Prefiero ser tu pobre en el destierro que su rico en la mentira.",
+   "es_literal": true,
+   "ancla": "Poco me importa la casa, y el pan, y el nombre entre los hombres, si a cambio me das tu Verdad para llevarla. Prefiero ser tu pobre en el destierro que su rico en la mentira.",
+   "temas": [
+    "destierro",
+    "verdad",
+    "renuncia"
+   ],
+   "intensidad": 5,
+   "gancho": "Prefiero ser tu pobre en el destierro",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — El Señor Sabio"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Vuelve a la aldea en plena fiesta, empapado del río y con los trozos del cuenco roto en el zurrón, y se planta junto al altar humeante para decir en voz alta lo que ha visto.",
+   "es_literal": false,
+   "ancla": "Zaratustra se abrió paso entre la gente hasta el centro, junto al altar, y allí se detuvo, empapado todavía del río, con los pedazos del cuenco roto asomando en el zurrón, y alzó la voz.",
+   "temas": [
+    "ruptura",
+    "valor",
+    "aldea"
+   ],
+   "intensidad": 5,
+   "gancho": "Empapado y con el cuenco roto en el zurrón, alzó la voz en mitad de la fiesta",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — La Verdad y la Mentira"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Lo que descubre en la plaza no es un error inocente ni una fe equivocada: es un negocio, un poder que se sabe falso y que por eso mismo no soltará su hueso.",
+   "es_literal": false,
+   "ancla": "no un error inocente, sino un negocio; no una fe equivocada, sino un poder que se sabía falso y que por eso mismo mataría antes que soltar su hueso",
+   "temas": [
+    "poder",
+    "miedo",
+    "negocio"
+   ],
+   "intensidad": 5,
+   "gancho": "No era una fe equivocada: era un negocio",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — La Verdad y la Mentira"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La lluvia vino antes de que hubiera altares, y vendrá cuando no los haya. El sol sale para el justo y para el injusto sin que nadie lo pague con sangre.",
+   "es_literal": true,
+   "ancla": "La lluvia vino antes de que hubiera altares, y vendrá cuando no los haya. El sol sale para el justo y para el injusto sin que nadie lo pague con sangre.",
+   "temas": [
+    "miedo",
+    "verdad",
+    "sacrificio"
+   ],
+   "intensidad": 4,
+   "gancho": "La lluvia vino antes de que hubiera altares",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — La Verdad y la Mentira"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Después de que lo expulsen a golpes, la novela le deja la duda que muerde más: ¿y si fue demasiado deprisa, y si arrancó de cuajo lo que debía haber ido soltando poco a poco?",
+   "es_literal": false,
+   "ancla": "¿Y si se había explicado mal? ¿Y si había ido demasiado deprisa, demasiado fuerte, arrancando de cuajo lo que debía haber ido soltando poco a poco?",
+   "temas": [
+    "duda",
+    "fracaso",
+    "prisa"
+   ],
+   "intensidad": 4,
+   "gancho": "La duda que llega después: quizá fui demasiado deprisa",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6 — La Verdad y la Mentira"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tengo más miedo de vivir toda mi vida degollando corderos por un miedo que no es verdad, y de morir viejo sin haber dicho nunca en voz alta lo que sé que es cierto.",
+   "es_literal": true,
+   "ancla": "Tengo más miedo de vivir toda mi vida degollando corderos por un miedo que no es verdad, y de morir viejo sin haber dicho nunca en voz alta lo que sé que es cierto.",
+   "temas": [
+    "miedo",
+    "eleccion",
+    "coraje"
+   ],
+   "intensidad": 5,
+   "gancho": "Tengo miedo. Pero tengo más miedo de la otra cosa",
+   "formatos": [
+    "cita",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — La Verdad y la Mentira"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Lo echan de la última aldea soltándole los perros. Uno le muerde la pantorrilla, la herida supura, y esa noche enciende fuego en una hondonada no por rito, sino por no morir.",
+   "es_literal": false,
+   "ancla": "Lo habían echado de la última aldea con perros; le habían soltado los perros, y uno lo mordió en la pantorrilla, y la herida le supuraba y le ardía de fiebre.",
+   "temas": [
+    "fracaso",
+    "hambre",
+    "invierno"
+   ],
+   "intensidad": 5,
+   "gancho": "Echado con perros, con fiebre, encendiendo fuego para no morir",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 7 — El profeta sin oyentes"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "En el fondo del pozo, la novela deja caer la pregunta que cualquiera reconoce: ¿de qué sirve tener razón si nadie la quiere oír?",
+   "es_literal": false,
+   "ancla": "¿De qué sirve, Señor? ¿De qué sirve la Verdad si nadie la quiere? ¿Para qué encendiste una llama que sólo alumbra a un hombre en una hondonada, muerto de hambre, con la pierna podrida?",
+   "temas": [
+    "queja",
+    "soledad",
+    "sentido"
+   ],
+   "intensidad": 5,
+   "gancho": "¿De qué sirve la Verdad si nadie la quiere?",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 7 — El profeta sin oyentes"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Mirando una llama que el viento aplasta y que vuelve a erguirse sin que nadie la aplauda, entiende que si se apaga porque nadie lo escucha, entonces no amaba la verdad: amaba el aplauso de decirla.",
+   "es_literal": false,
+   "ancla": "Comprendió que la Verdad no era menos verdad porque nadie la quisiera. Que la llama no ardía para ser vista, sino porque era llama.",
+   "temas": [
+    "vocacion",
+    "vanidad",
+    "constancia"
+   ],
+   "intensidad": 5,
+   "gancho": "La llama no ardía para ser vista, sino porque era llama",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — El profeta sin oyentes"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No me prometiste oyentes. Me diste la Verdad para decirla, no para venderla. La diré aunque no me la compren.",
+   "es_literal": true,
+   "ancla": "No me prometiste oyentes. Me diste la Verdad para decirla, no para venderla. La diré aunque no me la compren. La diré aunque me maten.",
+   "temas": [
+    "vocacion",
+    "soledad",
+    "constancia"
+   ],
+   "intensidad": 5,
+   "gancho": "No me prometiste oyentes",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — El profeta sin oyentes"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela no maquilla el balance: diez años de camino, siete aldeas que lo expulsan y un solo seguidor. Con los ojos del mundo, eso se llama fracaso.",
+   "es_literal": false,
+   "ancla": "Pero un converso en diez años es, si se lo mira con los ojos del mundo, un fracaso.",
+   "temas": [
+    "fracaso",
+    "honestidad",
+    "recuento"
+   ],
+   "intensidad": 4,
+   "gancho": "Diez años, siete aldeas, un seguidor",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7 — El profeta sin oyentes"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Tres jinetes con lanzas los rodean en un vado y le pinchan el zurrón para ver qué cae: unas raíces, el pedernal, un puñado de bayas secas. Se ríen de que no lleve ni para el esfuerzo de matarlo.",
+   "es_literal": false,
+   "ancla": "Le pincharon a Zaratustra el zurrón con la punta de la lanza, para ver qué caía: cayeron unas raíces, el pedernal, un puñado de bayas secas.",
+   "temas": [
+    "camino",
+    "pobreza",
+    "peligro"
+   ],
+   "intensidad": 4,
+   "gancho": "Le vacían el zurrón en el suelo: raíces, pedernal y bayas secas",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — El camino a Bactra"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Puedes quitarme la vida, que es lo único que llevo. Pero no la Verdad, que no cabe en tu lanza.",
+   "es_literal": true,
+   "ancla": "Puedes quitarme la vida, que es lo único que llevo. Pero no la Verdad, que no cabe en tu lanza.",
+   "temas": [
+    "miedo",
+    "coraje",
+    "camino"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo dice a un jinete armado, descalzo y con hambre",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8 — El camino a Bactra"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es valiente por naturaleza: lo es por decisión. Cuando el peligro pasa, le tiemblan las manos, y la novela deja ver ahí la otra clase de valentía.",
+   "es_literal": false,
+   "ancla": "y le temblaban un poco las manos ahora que el peligro había pasado, porque no era valiente por naturaleza, sino por decisión, que es otra clase de valentía",
+   "temas": [
+    "valentia",
+    "miedo",
+    "decision"
+   ],
+   "intensidad": 4,
+   "gancho": "Valiente no por naturaleza: por decisión",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — El camino a Bactra"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La Verdad ya estaba en esa mujer, antes de que yo llegara. No la traje: la reconocí. Quizá mi oficio no sea encender fuegos donde no los hay, sino avivar los que ya arden bajo la ceniza.",
+   "es_literal": true,
+   "ancla": "La Verdad ya estaba en esa mujer, antes de que yo llegara. No la traje: la reconocí. Quizá mi oficio no sea encender fuegos donde no los hay, sino avivar los que ya arden bajo la ceniza.",
+   "temas": [
+    "bondad",
+    "encuentro",
+    "humildad"
+   ],
+   "intensidad": 4,
+   "gancho": "Una viuda le da caldo y techo, y él cambia de idea sobre su oficio",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — El camino a Bactra"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Llega a la vista de las murallas doradas de Bactra sin una carta, sin una moneda, sin un nombre que abra puertas: diez años de fracaso detrás y un solo discípulo al lado.",
+   "es_literal": false,
+   "ancla": "No tenía nada. Ni un pariente que lo recomendara, ni una carta, ni una moneda, ni un nombre que abriera puertas. Diez años de fracaso a la espalda. Un solo discípulo a su lado. Una pierna que aún cojeaba.",
+   "temas": [
+    "umbral",
+    "pobreza",
+    "ciudad"
+   ],
+   "intensidad": 4,
+   "gancho": "Frente a las murallas de Bactra, sin carta, sin moneda y sin nombre",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — El camino a Bactra"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Ponme a prueba cuanto se te antoje: lo verdadero se deja mirar de cerca, y hasta gana en la mirada; sólo lo falso necesita la penumbra.",
+   "es_literal": true,
+   "ancla": "Ponme a prueba cuanto se te antoje: lo verdadero se deja mirar de cerca, y hasta gana en la mirada; sólo lo falso necesita la penumbra.",
+   "temas": [
+    "prueba",
+    "verdad",
+    "corte"
+   ],
+   "intensidad": 5,
+   "gancho": "Sólo lo falso necesita la penumbra",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — El caballo del rey"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Los sacerdotes de la corte pierden la disputa y esa misma noche vacían sus casas de lo más inmundo que encuentran para esconderlo bajo la estera del cuarto del forastero.",
+   "es_literal": false,
+   "ancla": "De sus casas sacaron los objetos más impuros y aborrecibles que hallaron: cráneos de perro, uñas y cabellos cortados y no enterrados —que la ley antigua tenía por inmundos—, huesos de muerto",
+   "temas": [
+    "calumnia",
+    "poder",
+    "corte"
+   ],
+   "intensidad": 5,
+   "gancho": "Perdieron la discusión y esa noche sembraron su cuarto de inmundicia",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — El caballo del rey"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Puede jurar que esos objetos no son suyos y estará diciendo la verdad. Pero la novela nombra la aritmética real: la verdad de un forastero solo pesa menos que la mentira de alguien de la casa.",
+   "es_literal": false,
+   "ancla": "Podía jurar por Ahura Mazda que aquellos objetos no eran suyos, y sería la verdad, pero la verdad de un forastero solo pesa menos que la mentira de un sacerdote de la casa.",
+   "temas": [
+    "calumnia",
+    "poder",
+    "verdad"
+   ],
+   "intensidad": 5,
+   "gancho": "La verdad de un forastero solo pesa menos que la mentira de la casa",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 9 — El caballo del rey"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El episodio del caballo del rey llega desde la tradición, no desde el archivo. La novela lo recrea como relato heredado, sin presentarlo como hecho comprobado.",
+   "es_literal": false,
+   "ancla": "Porque a los tres días, el reino de Bactra amaneció con un prodigio de espanto.",
+   "temas": [
+    "ficcion documental",
+    "tradicion",
+    "prodigio"
+   ],
+   "intensidad": 3,
+   "gancho": "El prodigio del establo es tradición recreada, no crónica",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — El caballo del rey"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La reina le da a su marido la única vara de medir que necesita: quien hace un prodigio para que lo sigan teme tus preguntas; quien hace un prodigio y te invita a comprobarlo, las desea.",
+   "es_literal": false,
+   "ancla": "entre el hombre que hace un prodigio para que lo sigan y el hombre que hace un prodigio y luego te ofrece que compruebes tú mismo si es verdad. El primero teme tu pregunta. El segundo la desea.",
+   "temas": [
+    "hutaosa",
+    "criterio",
+    "prodigio"
+   ],
+   "intensidad": 5,
+   "gancho": "El primero teme tu pregunta. El segundo la desea",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — La conversión de Vishtaspa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Bebe sin miedo, rey. La Verdad no teme la prueba. Solo la Mentira teme.",
+   "es_literal": true,
+   "ancla": "Bebe sin miedo, rey. La Verdad no teme la prueba. Solo la Mentira teme.",
+   "temas": [
+    "prueba",
+    "confianza",
+    "rey"
+   ],
+   "intensidad": 4,
+   "gancho": "Solo la Mentira teme la prueba",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — La conversión de Vishtaspa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Ahura Mazda no arroja a nadie aquí. Los hombres se arrojan solos, y llaman destino a lo que fue elección.",
+   "es_literal": true,
+   "ancla": "Ahura Mazda no arroja a nadie aquí. Los hombres se arrojan solos, y llaman destino a lo que fue elección.",
+   "temas": [
+    "eleccion",
+    "responsabilidad",
+    "destino"
+   ],
+   "intensidad": 5,
+   "gancho": "Llaman destino a lo que fue elección",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — La conversión de Vishtaspa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un rey se convierte con una copa. Un pueblo se convierte con toda una vida de trabajo.",
+   "es_literal": true,
+   "ancla": "Un rey se convierte con una copa. Un pueblo se convierte con toda una vida de trabajo.",
+   "temas": [
+    "trabajo",
+    "cambio",
+    "paciencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo difícil no era el rey: era el día siguiente",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — La conversión de Vishtaspa"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Para encender el fuego del templo no toma brasa de palacio: junta brasas de dieciséis hogares distintos, el del rey y el de un pastor, el de una viuda y el de un niño enfermo.",
+   "es_literal": false,
+   "ancla": "Había reunido brasas traídas de dieciséis hogares distintos —del hogar del rey y del de un pastor, del de un herrero y del de una viuda, del de un labrador y del de un niño enfermo—",
+   "temas": [
+    "fuego",
+    "igualdad",
+    "comunidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Dieciséis hogares, un solo fuego: el del rey y el de la viuda",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — La casa del fuego"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Lo primero que dice ante el nuevo altar es lo que el altar no es. El fuego no es el dios: es un signo al que se mira a través, no un ídolo al que se mira.",
+   "es_literal": false,
+   "ancla": "Este fuego no es Ahura Mazda. Ningún ojo de carne puede ver al Señor Sabio.",
+   "temas": [
+    "fuego",
+    "simbolo",
+    "culto"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo primero que dijo del fuego fue lo que el fuego no era",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — La casa del fuego"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "En esa tierra el saqueo era glorioso y arar era cosa de siervos. La novela cuenta cómo se invirtió el juicio: no vale más quien roba a caballo, sino quien hace crecer lo que otros comerán.",
+   "es_literal": false,
+   "ancla": "El buen labrador vale ante el Señor Sabio más que cien saqueadores.",
+   "temas": [
+    "trabajo",
+    "razia",
+    "dignidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Donde robar era glorioso y arar era de siervos, se cambió la vara",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11 — La casa del fuego"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Ya viejo, sienta a su hija pequeña en las rodillas por las tardes y le cuenta, con palabras que ella pueda entender, que el mundo fue hecho hermoso y que hay que cuidarlo.",
+   "es_literal": false,
+   "ancla": "La sentaba sobre sus rodillas por las tardes y le contaba, en palabras que ella pudiera entender, cómo el Señor Sabio había hecho el mundo hermoso",
+   "temas": [
+    "hija",
+    "ternura",
+    "vejez"
+   ],
+   "intensidad": 4,
+   "gancho": "El hombre que durmió en establos, contando cuentos a su hija",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — La casa del fuego"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No dejéis que la guerra os convierta en aquello contra lo que peleáis.",
+   "es_literal": true,
+   "ancla": "El que mata así defiende la Verdad sin volverse él mismo mentira. No dejéis que la guerra os convierta en aquello contra lo que peleáis.",
+   "temas": [
+    "guerra",
+    "odio",
+    "limite"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que dijo a los suyos la víspera de la batalla",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — La guerra santa"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La noche después del combate anda entre los heridos con un cántaro. Cuando encuentra a un muchacho del bando enemigo, se arrodilla igual y le da de beber igual, hablándole aunque no lo entienda.",
+   "es_literal": false,
+   "ancla": "se arrodillaba junto a él igual que junto a los suyos y le daba de beber igual, y le hablaba en voz baja aunque el otro no entendiera su lengua, porque la voz que consuela no necesita ser entendida",
+   "temas": [
+    "guerra",
+    "compasion",
+    "enemigo"
+   ],
+   "intensidad": 5,
+   "gancho": "Da de beber al muchacho enemigo con el mismo cántaro",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 12 — La guerra santa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Hay una clase de acierto que no da ninguna alegría, Jamaspa. Hoy hemos hecho lo que había que hacer, y no lo que yo querría que se pudiera hacer.",
+   "es_literal": true,
+   "ancla": "Hay una clase de acierto que no da ninguna alegría, Jamaspa. Hoy hemos hecho lo que había que hacer, y no lo que yo querría que se pudiera hacer.",
+   "temas": [
+    "victoria",
+    "duelo",
+    "guerra"
+   ],
+   "intensidad": 5,
+   "gancho": "Hay una clase de acierto que no da ninguna alegría",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — La guerra santa"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El primero que creyó en él se muere de una herida enconada y le pide, lúcido en la última noche, que le cuente qué hay al otro lado como si nunca lo hubiera oído.",
+   "es_literal": false,
+   "ancla": "No de morir. De lo que viene después. He creído toda mi vida. Pero ahora que estoy en el borde, ahora que lo tengo delante, tengo miedo.",
+   "temas": [
+    "muerte",
+    "miedo",
+    "amistad"
+   ],
+   "intensidad": 5,
+   "gancho": "He creído toda mi vida. Y ahora que lo tengo delante, tengo miedo",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 13 — El Puente del Juicio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El miedo hace buenos a los esclavos; solo la esperanza hace buenos a los hombres libres.",
+   "es_literal": true,
+   "ancla": "El miedo hace buenos a los esclavos; solo la esperanza hace buenos a los hombres libres.",
+   "temas": [
+    "miedo",
+    "esperanza",
+    "libertad"
+   ],
+   "intensidad": 5,
+   "gancho": "El miedo hace buenos a los esclavos",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13 — El Puente del Juicio"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Su hija resume lo que ha entendido velando a un muerto: el que teme cuenta sus faltas y tiembla; el que espera cuenta sus días y siembra.",
+   "es_literal": false,
+   "ancla": "El que teme cuenta sus faltas y tiembla. El que espera cuenta sus días y siembra.",
+   "temas": [
+    "miedo",
+    "esperanza",
+    "hija"
+   ],
+   "intensidad": 4,
+   "gancho": "El que teme tiembla. El que espera siembra",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — El Puente del Juicio"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un niño le pregunta para qué sirve el fuego del templo si su dios no lo necesita. Le responde que el fuego no es para el dios: es para el que se olvida, y que bastará mirar una llama para recordar.",
+   "es_literal": false,
+   "ancla": "Cuando seas mayor y no recuerdes ni una palabra de mis himnos, mira una llama, y en ella me recordarás a mí, y a lo que quise que fuerais.",
+   "temas": [
+    "fuego",
+    "memoria",
+    "infancia"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuando no recuerdes ni una palabra, mira una llama",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — La renovación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El que vigila sus pensamientos no tiene que vigilar sus obras: le salen bien solas.",
+   "es_literal": true,
+   "ancla": "Quien quiera enderezar su vida, que empiece por dentro, por lo que piensa cuando nadie lo ve, porque de ahí sale todo lo demás como el río sale del manantial. El que vigila sus pensamientos no tiene que vigilar sus obras: le salen bien solas.",
+   "temas": [
+    "pensamiento",
+    "orden",
+    "habito"
+   ],
+   "intensidad": 4,
+   "gancho": "Empezar por dentro, por lo que se piensa cuando nadie mira",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — La renovación"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Cuando el viejo maestro le pide a su discípulo que mire el futuro, la respuesta no adorna nada: un camino que sube y baja, y sangra, como el que ya conocen.",
+   "es_literal": false,
+   "ancla": "No quiero mentirte en tu vejez. No veo un camino recto y ascendente. Veo un camino que sube y baja, y sangra, como el que ya conocemos.",
+   "temas": [
+    "futuro",
+    "honestidad",
+    "vejez"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie le promete un camino recto: sube, baja y sangra",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14 — La renovación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Y si entran, me encontrarán haciendo lo que he hecho toda mi vida. No se me ocurre mejor manera de que me encuentren.",
+   "es_literal": true,
+   "ancla": "Y si entran, me encontrarán haciendo lo que he hecho toda mi vida. No se me ocurre mejor manera de que me encuentren.",
+   "temas": [
+    "vejez",
+    "fidelidad",
+    "asedio"
+   ],
+   "intensidad": 5,
+   "gancho": "Con el enemigo a las puertas, se niega a salir de la ciudad",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — El segundo asalto"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El Señor Sabio no pide perfección. Pide dirección. Pide que el corazón mire hacia la luz, aunque los pies tropiecen.",
+   "es_literal": true,
+   "ancla": "El Señor Sabio no pide perfección. Pide dirección. Pide que el corazón mire hacia la luz, aunque los pies tropiecen.",
+   "temas": [
+    "imperfeccion",
+    "consuelo",
+    "direccion"
+   ],
+   "intensidad": 5,
+   "gancho": "No pide perfección. Pide dirección",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15 — El segundo asalto"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Manda al sur a su mujer y a su hija, las abraza mucho rato y las aparta con firmeza. Solo cuando la esquina se las lleva y ya no puede verlas, se permite llorar.",
+   "es_literal": false,
+   "ancla": "y solo cuando ya no pudo verlas se permitió, él también, que le corrieran las lágrimas por la cara vieja. Porque era un hombre. Y los hombres, hasta los profetas, lloran cuando ven irse a los que aman.",
+   "temas": [
+    "despedida",
+    "familia",
+    "llanto"
+   ],
+   "intensidad": 5,
+   "gancho": "Esperó a que doblaran la esquina para llorar",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15 — El segundo asalto"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La ciudad arde y las puertas han caído. Dentro de la casa del fuego, un anciano con la túnica blanca pone otra rama sobre las brasas, sin prisa, haciendo lo mismo que ha hecho cincuenta años.",
+   "es_literal": false,
+   "ancla": "Y estaba haciendo, tranquilamente, sin prisa, en medio del fin del mundo, lo que había hecho toda su vida: cuidaba el fuego.",
+   "temas": [
+    "final",
+    "fuego",
+    "serenidad"
+   ],
+   "intensidad": 5,
+   "gancho": "En medio del fin del mundo, seguía cuidando el fuego",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — El fuego que no se apaga"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela no le concede un final prodigioso: muere como mueren los hombres, sin nada que detenga el bronce, viejo y en una ciudad vencida.",
+   "es_literal": false,
+   "ancla": "Zaratustra murió como muere un hombre: apuñalado por la espalda, viejo, indefenso, en una ciudad vencida, sin milagro que lo salvara",
+   "temas": [
+    "muerte",
+    "honestidad",
+    "humanidad"
+   ],
+   "intensidad": 5,
+   "gancho": "Ningún prodigio lo salva al final: muere como mueren los hombres",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16 — El fuego que no se apaga"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Ahí está la apuesta del libro: no una figura inalcanzable a la que mirar desde abajo, sino un hombre con frío, hambre y dudas al que cabe parecerse.",
+   "es_literal": false,
+   "ancla": "No nos dejó un dios al que mirar de lejos. Nos dejó un hombre al que parecernos.",
+   "temas": [
+    "humanidad",
+    "ejemplo",
+    "cierre"
+   ],
+   "intensidad": 5,
+   "gancho": "No un dios al que mirar de lejos: un hombre al que parecernos",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — El fuego que no se apaga"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "En el cierre, el libro no pone nombres ni ordena tradiciones: se limita a decir que otras, cada una con sus palabras, cuentan en el fondo la misma historia.",
+   "es_literal": false,
+   "ancla": "No hace falta ponerles nombre a esas religiones aquí. Ellas mismas, cada una a su modo, con sus propias palabras, contarían la misma historia esencial que contó Zaratustra",
+   "temas": [
+    "tradiciones",
+    "respeto",
+    "cierre"
+   ],
+   "intensidad": 4,
+   "gancho": "El libro no ordena tradiciones ni pone nombres en el cierre",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Epílogo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El final del libro lo dice sin adornos: se puede quemar la casa del fuego, no se puede quemar el fuego. Las ideas no viven en el cuerpo de quien las dice.",
+   "es_literal": false,
+   "ancla": "Las ideas no viven en el cuerpo del que las dice. Ese es su secreto y esa es su fuerza. Se puede quemar la casa del fuego. No se puede quemar el fuego.",
+   "temas": [
+    "ideas",
+    "memoria",
+    "cierre"
+   ],
+   "intensidad": 5,
+   "gancho": "Se puede quemar la casa del fuego. No se puede quemar el fuego",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Epílogo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Una vida entera cabe en dos elementos: entró en un río helado a los treinta años a buscar agua para un rito, y terminó a los setenta y siete bañado en la luz de una llama.",
+   "es_literal": false,
+   "ancla": "Empezó en el agua, aquel hombre. Entró en el río frío del deshielo a los treinta años, a buscar agua para un rito, y salió de aquellas aguas convertido en otra cosa",
+   "temas": [
+    "agua",
+    "fuego",
+    "vida"
+   ],
+   "intensidad": 4,
+   "gancho": "Empezó en el agua y terminó en el fuego",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Epílogo"
+  }
+ ]
+}

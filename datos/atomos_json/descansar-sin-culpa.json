@@ -1,0 +1,1237 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "descansar-sin-culpa",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "No es que hagas poco. Es que no paras nunca del todo.",
+   "es_literal": true,
+   "ancla": "Todas esas escenas tienen algo en común. No es que hagas poco. Es que no paras nunca del todo.",
+   "temas": [
+    "descanso",
+    "agotamiento"
+   ],
+   "intensidad": 4,
+   "gancho": "El problema no era la cantidad. Era la falta de tregua.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Introducción — Cansados de no parar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Que estés cansado no habla de tu falta de fuerza. Habla de cuánto llevas aguantando en un mundo diseñado para que no pares, con una voz dentro que te culpa cada vez que lo intentas.",
+   "es_literal": false,
+   "ancla": "Estás cansado porque vives en un mundo diseñado para que no pares, con una voz dentro que te culpa cada vez que lo intentas. Cualquiera se agotaría con eso.",
+   "temas": [
+    "agotamiento",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "Cualquiera se agotaría con eso.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Introducción — Cansados de no parar"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro dice de entrada lo que no es: un manual de productividad disfrazado. No enseña a descansar para rendir más ni a optimizar las pausas para exprimirse mejor después.",
+   "es_literal": false,
+   "ancla": "No es un manual de productividad disfrazado. No voy a enseñarte a descansar para rendir más, ni a optimizar tus pausas para exprimirte mejor luego.",
+   "temas": [
+    "descanso",
+    "productividad"
+   ],
+   "intensidad": 3,
+   "gancho": "Aquí el descanso no es una herramienta para trabajar más.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Introducción — Cansados de no parar"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El descanso no es el premio del trabajo: es parte de estar vivo. No se gana, se necesita. Y por eso no hay que merecerlo, hay que permitírselo.",
+   "es_literal": false,
+   "ancla": "Lo que propone este libro es al revés: el descanso no es el premio del trabajo, es parte de estar vivo. No se gana. Se necesita. Y por tanto no hay que merecerlo: hay que permitírselo.",
+   "temas": [
+    "descanso",
+    "permiso"
+   ],
+   "intensidad": 5,
+   "gancho": "No se gana. Se necesita.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — Cansados de no parar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El cansancio sano se va durmiendo. El agotamiento crónico es el que sigue ahí cuando despiertas.",
+   "es_literal": true,
+   "ancla": "El cansancio sano se va durmiendo. El agotamiento crónico es el que sigue ahí cuando despiertas.",
+   "temas": [
+    "agotamiento",
+    "sueño"
+   ],
+   "intensidad": 4,
+   "gancho": "Hay un cansancio que ya está ahí al abrir los ojos.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — Cansados de no parar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El libro lo cuenta con varios depósitos: uno para el cuerpo, otro para la mente, otro para las emociones, otro para los sentidos. Dormir llena el primero. Si el que tienes seco es otro, seguirás notando la falta.",
+   "es_literal": false,
+   "ancla": "Piénsalo así: es como si tuvieras varios depósitos distintos —uno para el cuerpo, otro para la mente, otro para las emociones, otro para los sentidos— y solo supieras rellenar el primero.",
+   "temas": [
+    "cansancio",
+    "descanso"
+   ],
+   "intensidad": 4,
+   "gancho": "Echas gasolina en el depósito que ya estaba lleno.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — Cansados de no parar"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Y si la pregunta no fuera «por qué duermo bien y sigo cansado», sino «de qué estoy cansado, exactamente»?",
+   "es_literal": false,
+   "ancla": "Por eso Cristina se equivocaba de pregunta. No era «¿por qué duermo bien y sigo cansada?». Era «¿de qué estoy cansada, exactamente?».",
+   "temas": [
+    "cansancio",
+    "preguntas"
+   ],
+   "intensidad": 3,
+   "gancho": "Cambiar la pregunta cambia hacia dónde miras.",
+   "formatos": [
+    "pin",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — Cansados de no parar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El paso con que cierra el capítulo: 1) antes de acostarte, párate un minuto; 2) pregúntate de qué estás cansado hoy de verdad —del cuerpo, de la cabeza, del corazón, de tantos estímulos, de no encontrarle sentido a nada—; 3) no lo arregles, solo nómbralo con honestidad.",
+   "es_literal": false,
+   "ancla": "antes de acostarte, párate un minuto y pregúntate de qué estás cansado hoy de verdad. No «estoy cansado» a secas, sino de qué: ¿del cuerpo, de la cabeza, del corazón, de tantos estímulos, de no encontrarle sentido a nada?",
+   "temas": [
+    "cansancio",
+    "practica"
+   ],
+   "intensidad": 3,
+   "gancho": "Dejar de decir «estoy cansado» a secas y decir de qué.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — Cansados de no parar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Estar ocupado no te hace valioso. Solo te hace estar ocupado.",
+   "es_literal": true,
+   "ancla": "Estar ocupado no te hace valioso. Solo te hace estar ocupado.",
+   "temas": [
+    "ocupacion",
+    "valor"
+   ],
+   "intensidad": 5,
+   "gancho": "La medalla de ir a tope, mirada de cerca.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — La cultura del «no parar»"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En una comida alguien cuenta que no se acuerda ni de sus últimas vacaciones, que lleva tres años sin parar. Lo dice como quien enseña una medalla. Y en la mesa asienten con admiración, como si acabara de contar una hazaña.",
+   "es_literal": false,
+   "ancla": "Lo dijo como quien enseña una medalla. Y lo curioso, lo que deberíamos mirar con lupa, es que los demás en la mesa asintieron con una mezcla de admiración y respeto, como si Álvaro acabara de contar una hazaña.",
+   "temas": [
+    "ocupacion",
+    "cultura"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie le dijo: «qué barbaridad, deberías parar».",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2 — La cultura del «no parar»"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Cuestionar la glorificación del ajetreo no es hacerse vago: es dejar de confundir el valor con el agotamiento. El vago huye del esfuerzo; aquí se huye de la ausencia de tregua.",
+   "es_literal": false,
+   "ancla": "Cuestionar la glorificación del ajetreo no es hacerse vago. Es dejar de confundir el valor con el agotamiento. El vago huye del esfuerzo; nosotros no huimos del esfuerzo, huimos de la ausencia de tregua.",
+   "temas": [
+    "cultura",
+    "descanso"
+   ],
+   "intensidad": 4,
+   "gancho": "El enemigo nunca fue el esfuerzo.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — La cultura del «no parar»"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El paso con que cierra el capítulo: 1) caza una sola vez, hoy, ese pequeño orgullo de «estar liadísimo»; 2) al oírtelo decir o pensar, párate un segundo y pregúntate por dentro si eso te hace mejor o solo más cansado; 3) si te atreves, la próxima vez responde «bien, con calma».",
+   "es_literal": false,
+   "ancla": "hoy, caza una sola vez ese pequeño orgullo de «estar liadísimo». Cuando te oigas decirlo o pensarlo, párate un segundo y cuestiónalo por dentro: «¿de verdad esto me hace mejor, o solo me hace estar más cansado?»",
+   "temas": [
+    "cultura",
+    "practica"
+   ],
+   "intensidad": 3,
+   "gancho": "No tienes que cambiar nada más. Solo verlo.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — La cultura del «no parar»"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Descansar no es rendirse: es lo que te permite seguir.",
+   "es_literal": true,
+   "ancla": "Es parte de estar vivo. Descansar no es rendirse: es lo que te permite seguir.",
+   "temas": [
+    "descanso",
+    "culpa"
+   ],
+   "intensidad": 5,
+   "gancho": "Seis palabras para contestarle a la culpa.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — La culpa de descansar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La culpa de descansar no te avisa de que haces algo mal. Solo repite una vieja lección que nunca fue verdad.",
+   "es_literal": true,
+   "ancla": "La culpa de descansar no te avisa de que haces algo mal. Solo repite una vieja lección que nunca fue verdad.",
+   "temas": [
+    "culpa",
+    "descanso"
+   ],
+   "intensidad": 5,
+   "gancho": "No es una señal. Es un eco.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — La culpa de descansar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "A alguien a quien quieres, reventado en el sofá, le dirías «descansa, lo necesitas, no pasa nada por parar». Esa es la frase que no te dices a ti. La misma culpa que le negarías a un amigo por cruel te la aplicas cada día.",
+   "es_literal": false,
+   "ancla": "Fíjate entonces en la doble vara: eres capaz de dar permiso a los demás para descansar, y solo te lo niegas a ti.",
+   "temas": [
+    "culpa",
+    "autocuidado"
+   ],
+   "intensidad": 4,
+   "gancho": "La doble vara se ve mejor desde fuera.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3 — La culpa de descansar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El paso con que cierra el capítulo: 1) descansa cinco minutos sin justificarlo; 2) cuando aparezca la voz de la culpa —y aparecerá—, ponle nombre en voz baja: «esto es la culpa»; 3) contéstale con una frase corta tuya; 4) sigue con tu día sin correr para recuperar el tiempo.",
+   "es_literal": false,
+   "ancla": "hoy, descansa cinco minutos sin justificarlo y sin compensarlo después. Siéntate, para, no hagas nada. Cuando aparezca la voz de la culpa —y aparecerá—, ponle nombre («esto es la culpa») y contéstale con una frase tuya.",
+   "temas": [
+    "culpa",
+    "practica"
+   ],
+   "intensidad": 3,
+   "gancho": "Cinco minutos que no tienes que ganarte.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — La culpa de descansar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Puedes dormir ocho horas y levantarte cansado, porque el cansancio no siempre está donde llega el sueño.",
+   "es_literal": true,
+   "ancla": "Puedes dormir ocho horas y levantarte cansado, porque el cansancio no siempre está donde llega el sueño.",
+   "temas": [
+    "sueño",
+    "cansancio"
+   ],
+   "intensidad": 4,
+   "gancho": "Dormir bien y despertarse vacío tiene explicación.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — Dormir no es descansar"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El sueño no es el descanso: es un descanso. Uno importantísimo e insustituible para lo suyo. Pero solo uno.",
+   "es_literal": false,
+   "ancla": "el sueño es un descanso, no *el* descanso. Es uno, importantísimo, insustituible para lo suyo. Pero solo uno. Y llevamos toda la vida creyendo que descansar y dormir son la misma cosa, cuando no lo son.",
+   "temas": [
+    "sueño",
+    "descanso"
+   ],
+   "intensidad": 4,
+   "gancho": "Descansar y dormir no son la misma cosa.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — Dormir no es descansar"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no viene a quitarle importancia al sueño: dice que es lo primero que hay que cuidar y que sin ese cimiento lo demás cojea. Lo que sostiene es otra cosa: que dormir bien es necesario y no siempre suficiente.",
+   "es_literal": false,
+   "ancla": "Conviene decir aquí una cosa, para que no haya malentendidos. Que el sueño no lo sea todo no significa que no importe. Importa muchísimo, y es lo primero que hay que cuidar; hay un capítulo entero, más adelante, dedicado solo a recuperar la noche.",
+   "temas": [
+    "sueño",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Necesario no es lo mismo que suficiente.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Dormir no es descansar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Una pista del capítulo para encontrar lo que te falta: 1) fíjate en qué descanso ajeno envidias últimamente; 2) tradúcelo —el viaje a solas señala silencio, las risas hasta tarde señalan compañía, la tarde sin nada señala tiempo sin obligaciones—; 3) date hoy una dosis pequeña de eso.",
+   "es_literal": false,
+   "ancla": "Si te descubres envidiando a quien se va solo de viaje, probablemente te falte silencio y soledad. Si envidias a quien se ríe con sus amigos hasta tarde, quizá lo que te falta es compañía buena.",
+   "temas": [
+    "descanso",
+    "practica"
+   ],
+   "intensidad": 3,
+   "gancho": "La envidia sana señala el descanso que no te das.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Dormir no es descansar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando el trabajo no tiene final, el descanso no tiene principio.",
+   "es_literal": true,
+   "ancla": "Cuando el trabajo no tiene final, el descanso no tiene principio.",
+   "temas": [
+    "trabajo",
+    "descanso"
+   ],
+   "intensidad": 5,
+   "gancho": "Por eso cerrar el portátil no basta.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — El trabajo que no termina nunca"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un día sin final se derrama sobre todos los demás. Ponle un borde, y recuperas la noche.",
+   "es_literal": true,
+   "ancla": "Un día sin final se derrama sobre todos los demás. Ponle un borde, y recuperas la noche.",
+   "temas": [
+    "trabajo",
+    "limites"
+   ],
+   "intensidad": 4,
+   "gancho": "El trabajo de hoy ya no trae sirena. La pones tú.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — El trabajo que no termina nunca"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Darle vueltas a un correo a las once de la noche no adelanta el correo. Preocuparse por la reunión de mañana no prepara la reunión: te la hace vivir dos veces. Todo el desgaste del trabajo, ninguna de sus ventajas.",
+   "es_literal": false,
+   "ancla": "Porque darle vueltas a un correo a las once de la noche no adelanta el correo; solo te desvela. Preocuparse por la reunión de mañana no prepara la reunión; solo te la hace vivir dos veces, una esta noche sufriéndola y otra mañana teniéndola.",
+   "temas": [
+    "trabajo",
+    "rumiar"
+   ],
+   "intensidad": 4,
+   "gancho": "El trabajo fantasma que se hace fuera de horas sin producir nada.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5 — El trabajo que no termina nunca"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El ritual de cierre del capítulo, en tres pasos: 1) vacía la cabeza en un sitio de confianza, apuntando lo que queda pendiente; 2) decide qué es «suficiente por hoy» y que lo demás es de mañana; 3) haz un gesto físico de cierre, siempre el mismo: cerrar el portátil despacio, apagar la lámpara, dar una vuelta a la manzana.",
+   "es_literal": false,
+   "ancla": "**Primero, vacía la cabeza en un sitio de confianza.** Antes de terminar, dedica dos o tres minutos a apuntar lo que queda pendiente. Todo. Lo que no diste hecho, lo que tienes que hacer mañana, lo que no quieres olvidar.",
+   "temas": [
+    "trabajo",
+    "practica",
+    "limites"
+   ],
+   "intensidad": 3,
+   "gancho": "Cerrar el ordenador es apagar una máquina. Cerrar el día es otra cosa.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — El trabajo que no termina nunca"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Estar disponible para todos, siempre, es la forma más fina de no estar nunca disponible para ti.",
+   "es_literal": true,
+   "ancla": "Estar disponible para todos, siempre, es la forma más fina de no estar nunca disponible para ti.",
+   "temas": [
+    "desconectar",
+    "limites"
+   ],
+   "intensidad": 5,
+   "gancho": "Nadie te pidió que miraras el correo el domingo.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — Disponible siempre"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No puedes soltar con una mano mientras con la otra sigues agarrado por si acaso.",
+   "es_literal": true,
+   "ancla": "No puedes soltar con una mano mientras con la otra sigues agarrado por si acaso.",
+   "temas": [
+    "desconectar",
+    "descanso"
+   ],
+   "intensidad": 4,
+   "gancho": "Con la tarde libre, pero descansando de guardia.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — Disponible siempre"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Las ventanas de desconexión del capítulo: 1) decide una franja de antemano —una hora, una tarde, la noche del domingo— y trátala como una cita; 2) pon distancia física con el móvil: otra habitación, un cajón, cargando lejos de ti; 3) avisa a quien corresponda de que por lo urgente de verdad te localicen por otra vía, y suelta.",
+   "es_literal": false,
+   "ancla": "**Segundo, pon distancia física con el móvil.** Esto es más poderoso de lo que parece. No basta con proponerte no mirarlo, porque si lo tienes en la mano, lo mirarás; el gesto es casi automático",
+   "temas": [
+    "desconectar",
+    "practica",
+    "movil"
+   ],
+   "intensidad": 3,
+   "gancho": "No pelees con el impulso: pon el móvil donde no llegue.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — Disponible siempre"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no pide que abandones una guardia real. Reconoce que hay trabajos y circunstancias en los que estar localizable es necesario, y distingue eso de la disponibilidad difusa, permanente y por si acaso, que es la que agota.",
+   "es_literal": false,
+   "ancla": "Hay trabajos y hay circunstancias —una guardia médica, un familiar enfermo, una responsabilidad concreta— en los que estar localizable es real y necesario. No te voy a pedir que abandones eso.",
+   "temas": [
+    "desconectar",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Una cosa es estar de guardia. Otra, estarlo por costumbre.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — Disponible siempre"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No puedes dar de un pozo vacío. Cuidar a los demás empieza por no dejar que el tuyo se seque.",
+   "es_literal": true,
+   "ancla": "No puedes dar de un pozo vacío. Cuidar a los demás empieza por no dejar que el tuyo se seque.",
+   "temas": [
+    "cuidadores",
+    "autocuidado"
+   ],
+   "intensidad": 5,
+   "gancho": "Para quien lleva años siendo el último de la fila.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — Cuidar a todos menos a ti"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El que se ocupa de todos rara vez tiene a alguien que se ocupe de él. Por eso ese trabajo te toca a ti.",
+   "es_literal": true,
+   "ancla": "El que se ocupa de todos rara vez tiene a alguien que se ocupe de él. Por eso ese trabajo te toca a ti.",
+   "temas": [
+    "cuidadores",
+    "autocuidado"
+   ],
+   "intensidad": 4,
+   "gancho": "El cansancio de quien cuida no cierra nunca.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — Cuidar a todos menos a ti"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Cenar de pie junto a la encimera mientras el resto de la casa ya come. Nadie lo ha pedido; simplemente ocurre. Se come deprisa, con un oído en cada uno, y al levantarse no se sabría decir a qué sabía la cena.",
+   "es_literal": false,
+   "ancla": "cuando quiso darse cuenta, todos comían y ella seguía de pie, con el plato aún en la sartén, calculando si le daba tiempo a sentarse antes de que alguien necesitara algo.",
+   "temas": [
+    "cuidadores",
+    "cotidiano"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie decide un día dejar de cuidarse. Ocurre en silencio.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7 — Cuidar a todos menos a ti"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El mínimo innegociable del capítulo: 1) elige tu mínimo posible hoy, no el ideal —quince minutos, un café sentada, una ducha sin prisa—; 2) protégelo como proteges lo de los demás: eso no se toca; 3) pide ayuda y luego acéptala, tolerando que otro lo haga distinto de como tú lo harías.",
+   "es_literal": false,
+   "ancla": "**Empieza por el mínimo, no por el ideal.** No vamos a rediseñar tu vida ni a mandarte un fin de semana de balneario que sabes que no vas a poder darte. Vamos a por algo minúsculo y real. Quince minutos.",
+   "temas": [
+    "cuidadores",
+    "practica",
+    "limites"
+   ],
+   "intensidad": 3,
+   "gancho": "Que no salga perfecto es el precio de que tú respires.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — Cuidar a todos menos a ti"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Hay descansos que llenan y descansos que vacían. Aprender a distinguirlos vale más que muchas horas de sueño.",
+   "es_literal": true,
+   "ancla": "Hay descansos que llenan y descansos que vacían. Aprender a distinguirlos vale más que muchas horas de sueño.",
+   "temas": [
+    "falso descanso",
+    "ocio"
+   ],
+   "intensidad": 4,
+   "gancho": "Tres horas de sofá y levantarse peor que antes.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8 — El descanso que no descansa"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Distraerse no es descansar: la distracción anestesia, el descanso repara. Por eso puedes distraerte horas y seguir agotado.",
+   "es_literal": false,
+   "ancla": "La diferencia clave, la que te va a servir para el resto de tu vida, es esta: **distraerse no es lo mismo que descansar.** Distraerse es tapar el cansancio con estímulos, poner ruido encima del vacío para no notarlo. Descansar es reponer de verdad lo que se gastó.",
+   "temas": [
+    "falso descanso",
+    "pantallas"
+   ],
+   "intensidad": 5,
+   "gancho": "Una tirita de ruido sobre una herida de cansancio.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8 — El descanso que no descansa"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no viene a quitarte el móvil ni a hacerte sentir mal por ver una serie. Dice que no hay nada malo en distraerse: el problema es confundirlo con descanso y quedarse solo con eso, tarde tras tarde.",
+   "es_literal": false,
+   "ancla": "Que quede claro, porque este no es un libro que venga a quitarte el móvil ni a hacerte sentir culpable por ver una serie: no hay nada malo en distraerse.",
+   "temas": [
+    "falso descanso",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "La meta no es la pureza. Es recuperar la elección.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — El descanso que no descansa"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La pregunta del después, tal como la propone el capítulo: 1) en vez de juzgar un descanso por lo apetecible que parece antes, júzgalo por cómo te deja al terminar; 2) pregúntate si has salido con más energía o con menos; 3) ve armando tus dos listas, la de lo que repone y la de lo que vacía; 4) la próxima vez, elige de la primera.",
+   "es_literal": false,
+   "ancla": "**Hazte la pregunta del después.** Es la herramienta más simple y más potente que hay. En lugar de juzgar un descanso por lo apetecible que parece de antemano, júzgalo por cómo te deja después.",
+   "temas": [
+    "falso descanso",
+    "practica"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que engancha no es lo mismo que lo que sacia.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — El descanso que no descansa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El descanso no es lo que haces cuando terminas todo. Es lo que te permites en mitad de una vida que nunca termina.",
+   "es_literal": true,
+   "ancla": "El descanso no es lo que haces cuando terminas todo. Es lo que te permites en mitad de una vida que nunca termina.",
+   "temas": [
+    "permiso",
+    "descanso"
+   ],
+   "intensidad": 5,
+   "gancho": "La lista no se acaba. Ese era el problema.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — Permiso para parar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El descanso no es un premio que se cobra al final. Es una necesidad, como beber agua o dormir.",
+   "es_literal": true,
+   "ancla": "El descanso no es un premio que se cobra al final. Es una necesidad, como beber agua o dormir. A nadie se le ocurre pensar que hay que ganarse el derecho a respirar.",
+   "temas": [
+    "permiso",
+    "descanso"
+   ],
+   "intensidad": 5,
+   "gancho": "A nadie se le ocurre ganarse el derecho a respirar.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — Permiso para parar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Si el descanso hay que ganárselo trabajando, cuanto más cansado estés menos derecho tienes a él, porque aún no has hecho bastante. Esa voz te lo niega justo cuando más falta hace y te lo permitiría cuando ya no hiciera falta.",
+   "es_literal": false,
+   "ancla": "Si el descanso hay que ganárselo con trabajo, entonces cuanto más cansado estés, menos derecho tienes a él, porque significa que aún no has hecho bastante.",
+   "temas": [
+    "permiso",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie conduce hasta quedarse seco para merecer repostar.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — Permiso para parar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Darse permiso, en la práctica: 1) dítelo explícito y en voz alta, aunque estés solo; 2) agenda el descanso con su hora y protégelo como una cita médica; 3) empieza pequeño y sin condiciones, sin haber terminado antes la lista; 4) ten preparada una frase corta de defensa para cuando algo intente ocupar ese hueco.",
+   "es_literal": false,
+   "ancla": "**Agenda el descanso y protégelo como una cita.** Esto es lo más importante que te vas a llevar, así que quédate con ello. Lo que no se agenda, no ocurre; lo devora lo urgente.",
+   "temas": [
+    "permiso",
+    "practica",
+    "agenda"
+   ],
+   "intensidad": 3,
+   "gancho": "Tienes una cita contigo. Y a esa no se falta.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — Permiso para parar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Dos minutos de pausa real rinden más que una hora de empujar en seco.",
+   "es_literal": true,
+   "ancla": "Dos minutos de pausa real rinden más que una hora de empujar en seco.",
+   "temas": [
+    "pausas",
+    "trabajo"
+   ],
+   "intensidad": 4,
+   "gancho": "Empujar sin parar no es la línea recta más corta.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Micro-descansos"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Levantarse a mirar el móvil no es una pausa: es cambiar una pantalla exigente por otra. La pausa que repara le da a la parte cansada lo contrario de lo que la fatigó.",
+   "es_literal": false,
+   "ancla": "Y volvía a la mesa igual de espeso, o más. Porque eso no era una pausa: era cambiar una pantalla exigente por otra.",
+   "temas": [
+    "pausas",
+    "pantallas"
+   ],
+   "intensidad": 4,
+   "gancho": "Si la pausa consiste en cambiar de pantalla, no es pausa.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Micro-descansos"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El capítulo se niega a vender la pausa como truco de productividad. Dice que paras porque un ser vivo necesita tregua, y que volver mejor al trabajo es un regalo añadido, no el motivo.",
+   "es_literal": false,
+   "ancla": "Es verdad que la pausa te hace volver mejor, y lo digo porque a alguien como Álvaro ese argumento le entra; pero no paras para rendir. Paras porque un ser vivo necesita tregua.",
+   "temas": [
+    "pausas",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "La pausa no es gasolina para exprimirte mejor.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — Micro-descansos"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El paso con que cierra el capítulo: 1) una micro-pausa a media mañana; 2) otra a media tarde; 3) otra entre dos tareas. Cortas, un par de minutos, y sin pantallas: mirar por la ventana, estirarte, salir a respirar o cerrar los ojos sin hacer nada.",
+   "es_literal": false,
+   "ancla": "reparte tres micro-pausas de verdad a lo largo del día de hoy: una a media mañana, una a media tarde y una entre dos tareas. Que sean cortas —bastan un par de minutos— y sin pantallas",
+   "temas": [
+    "pausas",
+    "practica"
+   ],
+   "intensidad": 3,
+   "gancho": "No las tienes que ganar. Solo tomarlas.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — Micro-descansos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No siempre estás cansado de hacer demasiado. A veces estás cansado de descansar solo de una cosa.",
+   "es_literal": true,
+   "ancla": "No siempre estás cansado de hacer demasiado. A veces estás cansado de descansar solo de una cosa.",
+   "temas": [
+    "tipos de descanso",
+    "cansancio"
+   ],
+   "intensidad": 4,
+   "gancho": "Rellenas siempre el mismo depósito y el vacío es otro.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — Descansar en todos los planos"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El mapa del capítulo: descanso físico, mental, emocional, social, sensorial, creativo y el del sentido. Casi todos cubrimos uno o dos y desatendemos el resto, no por torpes, sino porque nadie nos dijo que existían.",
+   "es_literal": false,
+   "ancla": "La idea es sencilla: descansamos en varios planos, y solemos cubrir bien uno o dos mientras desatendemos por completo los demás. No porque seamos torpes, sino porque nadie nos enseñó que existían.",
+   "temas": [
+    "tipos de descanso"
+   ],
+   "intensidad": 3,
+   "gancho": "No es un catálogo que memorizar. Es tener más de una puerta.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Descansar en todos los planos"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Cuando piensas en tu cansancio de estos días, ¿dónde lo notas? ¿En el cuerpo, en la cabeza, en las ganas de que te dejen en paz, en el ruido y las pantallas, o en que nada te ilusiona?",
+   "es_literal": false,
+   "ancla": "Cuando piensas en tu cansancio de estos días, ¿dónde lo notas? ¿Es el cuerpo, pesado y agarrotado? ¿Es la cabeza, saturada, incapaz de un pensamiento más?",
+   "temas": [
+    "cansancio",
+    "preguntas"
+   ],
+   "intensidad": 3,
+   "gancho": "Con que empieces a distinguir, ya has ganado.",
+   "formatos": [
+    "pin",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Descansar en todos los planos"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El paso con que cierra el capítulo: 1) repasa el mapa —físico, mental, emocional, social, sensorial, del sentido—; 2) pregúntate cuál es tu descanso más descuidado, el que lleva más tiempo esperando; 3) date hoy una dosis pequeña de justo ese. No el que tienes de sobra: el que te falta.",
+   "es_literal": false,
+   "ancla": "repasa el mapa y pregúntate cuál es tu descanso más descuidado —el físico, el mental, el emocional, el social, el sensorial o el del sentido—. Elige uno, el que lleve más tiempo esperando, y date hoy una dosis pequeña de justo ese.",
+   "temas": [
+    "tipos de descanso",
+    "practica"
+   ],
+   "intensidad": 3,
+   "gancho": "Las dosis pueden ser pequeñas y aun así llegan.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Descansar en todos los planos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Al sueño no se llega frenando en seco. Se llega bajando la pendiente.",
+   "es_literal": true,
+   "ancla": "Al sueño no se llega frenando en seco. Se llega bajando la pendiente.",
+   "temas": [
+    "noche",
+    "sueño"
+   ],
+   "intensidad": 4,
+   "gancho": "El sueño no se ordena. Se prepara.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12 — Recuperar la noche"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Casi las doce, el cuerpo por los suelos y la cabeza a mil: la lista de mañana, ese correo sin contestar, la semana entera. Coges el móvil «un momento» para desconectar y cuarenta minutos después sigues igual de despierto, solo que con los ojos irritados.",
+   "es_literal": false,
+   "ancla": "Y sin embargo, ahí está, boca arriba en la oscuridad, con la mente disparada: repasando lo de mañana, reordenando la lista, recordando de golpe ese correo que no contestó, planificando la semana, saltando de un pensamiento a otro sin freno.",
+   "temas": [
+    "noche",
+    "cotidiano"
+   ],
+   "intensidad": 4,
+   "gancho": "El cuerpo quiere parar y la cabeza sigue en horario de oficina.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12 — Recuperar la noche"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El paso con que cierra el capítulo: 1) en la última media hora antes de dormir, baja las luces; 2) suelta las pantallas y cámbialas por algo tranquilo —unas páginas en papel, una ducha templada, estar sin hacer nada—; 3) si la cabeza da vueltas, deja anotado lo pendiente para mañana.",
+   "es_literal": false,
+   "ancla": "esta noche, regálate un pequeño ritual de descenso. En la última media hora antes de dormir, baja las luces, suelta las pantallas y cambia el ritmo por algo tranquilo: unas páginas en papel, una ducha templada, estar sin hacer nada.",
+   "temas": [
+    "noche",
+    "practica"
+   ],
+   "intensidad": 3,
+   "gancho": "No fuerces nada. Solo prepárale la bajada.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — Recuperar la noche"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro pone aquí un límite claro: si el mal dormir se vuelve tu estado permanente y te está comiendo la vida de día, eso ya no es asunto de un ritual, sino de pedir ayuda a quien sepa. Un libro acompaña; no sustituye a un profesional.",
+   "es_literal": false,
+   "ancla": "Pero si el mal dormir se vuelve tu estado permanente, si llevas mucho tiempo sin descansar por mucho que lo intentes, si la falta de sueño te está comiendo la vida de día, eso ya no es asunto de un ritual y sí de pedir ayuda a quien sepa.",
+   "temas": [
+    "noche",
+    "honestidad",
+    "limites"
+   ],
+   "intensidad": 3,
+   "gancho": "No es rendirse: es lo sensato.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — Recuperar la noche"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una tarde cualquiera en el sofá, con el té enfriándose. La cabeza pide tarea: «podrías aprovechar para…». Y en vez de levantarse, uno se queda. Mira la luz. Escucha la calle, un pájaro, un coche. Los sonidos de una casa en reposo que casi nunca se oyen.",
+   "es_literal": false,
+   "ancla": "Y se quedó. Miró la luz. Escuchó la calle. Un pájaro. Un coche que pasaba. Los sonidos de una casa en reposo, que ella casi nunca oía porque casi nunca estaba quieta el tiempo suficiente para oírlos.",
+   "temas": [
+    "ocio",
+    "cotidiano"
+   ],
+   "intensidad": 4,
+   "gancho": "No hizo nada que sirviera para nada. Y no se cayó el mundo.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — El ocio sin culpa y el no hacer nada"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El ocio verdadero no es la ausencia de trabajo: es un tiempo que vale por sí mismo. No es el hueco entre dos tareas, es un fin y no un medio.",
+   "es_literal": false,
+   "ancla": "Hay una palabra vieja para esto, y merece la pena rescatarla: el ocio verdadero no es la ausencia de trabajo, sino un tiempo que vale por sí mismo. No es el hueco entre dos tareas. Es un fin, no un medio.",
+   "temas": [
+    "ocio",
+    "descanso"
+   ],
+   "intensidad": 4,
+   "gancho": "Un rato que no le debe nada a nadie.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — El ocio sin culpa y el no hacer nada"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Lo que distingue al ocio que descansa no es que sea productivo, sino que estés presente: un paseo en el que de verdad ves la calle, una comida que de verdad saboreas. Lo inútil que descansa es lo inútil que se vive, no lo que solo se consume para matar el rato.",
+   "es_literal": false,
+   "ancla": "El ocio verdadero es presente: estás ahí, entero, en lo que haces, aunque lo que hagas sea una tontería. Un paseo en el que de verdad ves la calle. Una comida que de verdad saboreas.",
+   "temas": [
+    "ocio",
+    "presencia"
+   ],
+   "intensidad": 3,
+   "gancho": "No se mide por lo productivo. Sí por lo presente.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — El ocio sin culpa y el no hacer nada"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El cuerpo no falla de repente. Lleva tiempo avisando en voz baja a quien había dejado de escuchar.",
+   "es_literal": true,
+   "ancla": "El cuerpo no falla de repente. Lleva tiempo avisando en voz baja a quien había dejado de escuchar.",
+   "temas": [
+    "señales",
+    "agotamiento"
+   ],
+   "intensidad": 5,
+   "gancho": "Las señales grandes llegan tarde. Las pequeñas, a tiempo.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — Decir basta a tiempo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay dos formas de dejar de trabajar: parar y caer. Parar es una decisión que tomas con energía todavía en reserva. Caer es lo que hace el cuerpo por ti cuando ya no le dejaste otra salida, y de eso se tarda semanas en volver.",
+   "es_literal": false,
+   "ancla": "Parar es una decisión. La tomas tú, a tiempo, cuando todavía tienes algo de energía en reserva para decidir bien. Caer no es una decisión: es lo que pasa cuando llevas tanto tiempo sin parar que el cuerpo te para a la fuerza, sin pedirte opinión.",
+   "temas": [
+    "señales",
+    "limites"
+   ],
+   "intensidad": 4,
+   "gancho": "Las dos te llevan al sofá. No se parecen en nada.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 14 — Decir basta a tiempo"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Cuando salte tu luz ámbar, tres preguntas rápidas: ¿qué puedo soltar hoy?, ¿qué puedo aplazar?, ¿qué puedo pedir?",
+   "es_literal": false,
+   "ancla": "Cuando aparezca la señal, prueba a hacerte tres preguntas rápidas. La primera: ¿qué puedo soltar hoy? Casi siempre hay algo en la lista del día que no es tan urgente como parecía, que puede esperar a mañana o directamente no hacerse.",
+   "temas": [
+    "señales",
+    "preguntas"
+   ],
+   "intensidad": 3,
+   "gancho": "La mayoría de las tardes de ámbar se reconducen sin drama.",
+   "formatos": [
+    "pin",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — Decir basta a tiempo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El descanso no es la meta a la que se llega tras un largo esfuerzo: es el otro tiempo del mismo compás. Tensión y pausa, alternándose como inspirar y espirar.",
+   "es_literal": false,
+   "ancla": "No es la meta a la que se llega después de un largo esfuerzo. Es el otro tiempo de un mismo compás. Esfuerzo y recuperación, actividad y pausa, tensión y descanso, alternándose como la inspiración y la espiración.",
+   "temas": [
+    "ritmo",
+    "descanso"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie coge aire durante horas para soltarlo una vez al día.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15 — El descanso como ritmo, no como premio"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El descanso no se acumula bien. No es como el dinero, que ahorras todo el año y gastas de golpe: el cuerpo lo quiere repartido, un poco cada día. Por eso quien lo aplaza a agosto llega demasiado roto para disfrutarlo.",
+   "es_literal": false,
+   "ancla": "Es que el descanso, sencillamente, no se acumula bien. No es como el dinero, que puedes ahorrar todo el año y gastarlo de golpe. Es más como el sueño: no puedes dormir cuarenta horas seguidas para no tener que dormir el resto del mes.",
+   "temas": [
+    "ritmo",
+    "vacaciones"
+   ],
+   "intensidad": 4,
+   "gancho": "«Ya descansaré en verano» es el peor negocio posible.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15 — El descanso como ritmo, no como premio"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El paso con que cierra el capítulo: 1) elige una franja fija de descanso para tu semana —una tarde, una mañana, un rato diario a la misma hora—; 2) ponla en el calendario con nombre y hora, como una cita ineludible; 3) defiéndela esta semana, cuando algo intente ocupar ese hueco.",
+   "es_literal": false,
+   "ancla": "elige una franja fija de descanso para tu semana —una tarde, una mañana, un rato diario a la misma hora— y ponla en el calendario con nombre y hora, como una cita ineludible.",
+   "temas": [
+    "ritmo",
+    "practica",
+    "agenda"
+   ],
+   "intensidad": 3,
+   "gancho": "Si es lo primero que cae, no es un ritmo: es un deseo.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — El descanso como ritmo, no como premio"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cómo distinguir un descanso de una tarea disfrazada de descanso? Con una pregunta casi tonta: ¿te alivia o te añade presión?",
+   "es_literal": false,
+   "ancla": "¿Cómo se distingue un descanso de una tarea disfrazada de descanso? Por una pregunta sencilla, casi tonta, pero infalible: ¿te alivia o te añade presión?",
+   "temas": [
+    "sostener",
+    "preguntas"
+   ],
+   "intensidad": 3,
+   "gancho": "El descanso que hay que cumplir ya no descansa.",
+   "formatos": [
+    "pin",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16 — Sostener una vida descansada"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuidado con convertir el descanso en otra cosa que hacer bien. El descanso no se aprueba: se habita.",
+   "es_literal": true,
+   "ancla": "Cuidado con convertir el descanso en otra cosa que hacer bien. El descanso no se aprueba: se habita.",
+   "temas": [
+    "sostener",
+    "autoexigencia"
+   ],
+   "intensidad": 5,
+   "gancho": "Cambiar la rueda de hámster por otra pintada de colores relajantes.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — Sostener una vida descansada"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro cuenta con la recaída: habrá semanas en que se caigan todas las pausas y vuelvas a no parar. No es un fracaso ni borra lo aprendido. Solo avisa de que toca dar un paso de vuelta.",
+   "es_literal": false,
+   "ancla": "Y lo más importante del kaizen aplicado al descanso es esto: incluye la recaída. Vas a volver a la rueda.",
+   "temas": [
+    "sostener",
+    "kaizen"
+   ],
+   "intensidad": 4,
+   "gancho": "Volver a la rueda no es el final del camino: es una curva.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16 — Sostener una vida descansada"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No hace falta ganarse el descanso: hace falta permitírselo.",
+   "es_literal": true,
+   "ancla": "No tienes que producir más para merecer una pausa, ni compensar después el rato que pares, ni esperar a estar tan roto que no te quede otra. El descanso no es un cheque que se cobra al final de una jornada bien cumplida.",
+   "temas": [
+    "permiso",
+    "descanso"
+   ],
+   "intensidad": 5,
+   "gancho": "La frase que sostiene el libro entero.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "CIERRE — Permiso para descansar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "A los cinco del libro no les llegó un mes libre, ni una vida más fácil, ni menos cosas que hacer. Lo que cambió no fue su agenda: fue su permiso.",
+   "es_literal": false,
+   "ancla": "Ninguna encontró más tiempo. No les llegó un mes libre, ni una vida más fácil, ni menos cosas que hacer. Lo que cambió no fue su agenda: fue su permiso.",
+   "temas": [
+    "permiso",
+    "personajes"
+   ],
+   "intensidad": 4,
+   "gancho": "Ninguna encontró más tiempo. Todas se lo permitieron.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "reel"
+   ],
+   "capitulo": "CIERRE — Permiso para descansar"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Descansar no es pereza: la pereza es no querer hacer lo que toca; el descanso es hacer lo que un ser humano necesita para seguir siendo uno.",
+   "es_literal": false,
+   "ancla": "Es negarte a tratarte como una herramienta que solo importa mientras funciona. La pereza es no querer hacer lo que toca; el descanso es hacer lo que un ser humano necesita para seguir siendo uno.",
+   "temas": [
+    "descanso",
+    "pereza"
+   ],
+   "intensidad": 4,
+   "gancho": "No son lo mismo, y en el fondo lo sabes.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "CIERRE — Permiso para descansar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El menú del anexo funciona en dos entradas: 1) mira de qué estás cansado —del cuerpo, de la cabeza, de las emociones, de la gente, de los estímulos, de la falta de algo que te ilusione— y ve a esa sección; 2) mira el tiempo que tienes de verdad, dos minutos, diez o media hora; 3) elige uno solo, el del depósito que te falta.",
+   "es_literal": false,
+   "ancla": "Primero, mira de qué estás cansado —del cuerpo, de la cabeza, de las emociones, de la gente, de los estímulos, de la falta de algo que te ilusione— y ve a esa sección. Luego, mira el tiempo que tienes de verdad —dos minutos, diez, media hora— y elige.",
+   "temas": [
+    "tipos de descanso",
+    "practica"
+   ],
+   "intensidad": 3,
+   "gancho": "No repitas el descanso que ya tienes de sobra.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "ANEXO 2 — Menú de descansos"
+  }
+ ]
+}

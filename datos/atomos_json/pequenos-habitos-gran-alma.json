@@ -1,0 +1,1218 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "pequenos-habitos-gran-alma",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "El alma no se labra con grandes gestos, sino con los pequeños que amas lo bastante para repetir.",
+   "es_literal": true,
+   "ancla": "El alma no se labra con grandes gestos, sino con los pequeños que amas lo bastante para repetir.",
+   "temas": [
+    "alma",
+    "hábitos",
+    "repetición"
+   ],
+   "intensidad": 5,
+   "gancho": "La frase que sostiene el libro entero.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — No te falta disciplina, le falta alma a lo que haces"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No vamos a fortalecer tu fuerza de voluntad; vamos a hacer que no la necesites.",
+   "es_literal": true,
+   "ancla": "Ese es todo el secreto de este libro, y puedo resumírtelo en una frase: no vamos a fortalecer tu fuerza de voluntad; vamos a hacer que no la necesites.",
+   "temas": [
+    "fuerza de voluntad",
+    "sentido"
+   ],
+   "intensidad": 4,
+   "gancho": "El plan no es más voluntad: es no necesitarla.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Introducción — No te falta disciplina, le falta alma a lo que haces"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es una vida cumplida: es una vida vivida. La primera se mide por lo que tachas; la segunda, por cuántos de tus minutos has estado de verdad dentro de ellos.",
+   "es_literal": false,
+   "ancla": "Una vida vivida es otra cosa. No se mide por lo que tachas, sino por lo que habitas. Por cuántos de tus minutos has estado de verdad dentro de ellos.",
+   "temas": [
+    "presencia",
+    "vida cotidiana"
+   ],
+   "intensidad": 4,
+   "gancho": "Cumplir el día no es lo mismo que vivirlo.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Introducción — No te falta disciplina, le falta alma a lo que haces"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Todas las casillas del día en verde, la racha intacta, el círculo cerrado. Y al dejar el teléfono en la mesilla, una pregunta que lleva semanas rondando: he cumplido el día entero, ¿y cuántos de sus minutos he vivido?",
+   "es_literal": false,
+   "ancla": "Debería sentirse bien. Ha ganado. Ha cumplido. Y sin embargo, mientras deja el teléfono en la mesilla y la habitación se queda a oscuras, la asalta una pregunta incómoda que lleva semanas rondándola",
+   "temas": [
+    "hábitos",
+    "vacío",
+    "apps"
+   ],
+   "intensidad": 4,
+   "gancho": "Todas las casillas en verde y un vacío educado.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Introducción — No te falta disciplina, le falta alma a lo que haces"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro no pide perfección. Dice de entrada que vas a fallar, que vas a saltarte días y que vas a olvidarte una semana entera, y que no pasa nada.",
+   "es_literal": false,
+   "ancla": "Y no te voy a pedir perfección. Vas a fallar. Vas a saltarte días. Vas a olvidarte durante una semana entera. Y no pasará absolutamente nada, porque tengo un capítulo dedicado precisamente a eso, a volver sin culpa.",
+   "temas": [
+    "perfeccionismo",
+    "culpa"
+   ],
+   "intensidad": 3,
+   "gancho": "Aquí se avisa desde el principio: vas a saltarte días.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Introducción — No te falta disciplina, le falta alma a lo que haces"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No se sostiene lo que te impones. Se sostiene lo que te llena.",
+   "es_literal": true,
+   "ancla": "No se sostiene lo que te impones. Se sostiene lo que te llena.",
+   "temas": [
+    "sentido",
+    "constancia"
+   ],
+   "intensidad": 5,
+   "gancho": "La voluntad se agota. El sentido, no.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — La fuerza de voluntad no basta (y el sentido sí)"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "La pregunta no es «¿cómo me obligo a hacer esto?», sino otra muy distinta: ¿qué amo lo bastante como para volver a ello sin que me cueste?",
+   "es_literal": false,
+   "ancla": "La pregunta buena es otra, y es una pregunta de amor, no de fuerza: **\"¿qué amo lo bastante como para volver a ello sin que me cueste?\"**.",
+   "temas": [
+    "sentido",
+    "hábitos"
+   ],
+   "intensidad": 4,
+   "gancho": "Cambia la pregunta y cambia el esfuerzo.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — La fuerza de voluntad no basta (y el sentido sí)"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No falla el carácter: falla la herramienta. Cuando se agota la voluntad no nos decimos «se me acabó el depósito», nos decimos «soy un desastre», y así añadimos culpa al cansancio.",
+   "es_literal": false,
+   "ancla": "Cuando fallamos por agotamiento de la voluntad, no nos decimos \"vaya, se me agotó el depósito, es normal\". Nos decimos \"soy un desastre, no tengo fuerza de voluntad, nunca cambio\". Es decir, añadimos culpa al cansancio.",
+   "temas": [
+    "culpa",
+    "fuerza de voluntad"
+   ],
+   "intensidad": 4,
+   "gancho": "Añadimos culpa al cansancio y lo llamamos falta de carácter.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — La fuerza de voluntad no basta (y el sentido sí)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige un solo gesto pequeño que ames, no que «debas»: un té en silencio, mirar el cielo un minuto, oler el café antes de beberlo. Hazlo hoy sin ninguna exigencia. Y fíjate en que no te cuesta.",
+   "es_literal": false,
+   "ancla": "**Tu ritual de hoy:** elige un solo gesto pequeño que *ames*, no que \"debas\". Un té caliente bebido en silencio, mirar el cielo un minuto entero, escribir una sola línea sobre el día, oler el café antes de beberlo, acariciar a tu mascota sin prisa.",
+   "temas": [
+    "práctica",
+    "sentido"
+   ],
+   "intensidad": 3,
+   "gancho": "Un gesto que ames, no uno que debas.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — La fuerza de voluntad no basta (y el sentido sí)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que haces sin alma te vacía. Lo que haces con alma te construye.",
+   "es_literal": true,
+   "ancla": "Lo que haces sin alma te vacía. Lo que haces con alma te construye.",
+   "temas": [
+    "rito",
+    "alma"
+   ],
+   "intensidad": 5,
+   "gancho": "Misma acción, distinta consecuencia por dentro.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — El hábito como rito, no como tarea"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es lo mismo una tarea que un rito. La tarea existe para terminarse; el rito, para habitarse. Los mismos platos, el mismo fregadero: lo que cambia es con qué alma lo haces.",
+   "es_literal": false,
+   "ancla": "Un rito, en cambio, existe para habitarse. No lo haces para acabarlo, sino para estar dentro de él mientras dura. Su valor no está al final, como una recompensa por haber aguantado, sino repartido en cada instante del proceso.",
+   "temas": [
+    "rito",
+    "vida cotidiana"
+   ],
+   "intensidad": 4,
+   "gancho": "La tarea se despacha. El rito se habita.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — El hábito como rito, no como tarea"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Mismo café, misma cocina, misma hora. Solo cambió el alrededor: una respiración honda antes de encender la cafetera, el primer sorbo con los ojos cerrados y un instante de gracias antes de empezar el día.",
+   "es_literal": false,
+   "ancla": "Le propuse un experimento minúsculo: elegir uno solo de sus hábitos —el café de la mañana— y convertirlo en un rito de verdad. Umbral: antes de encender la cafetera, una respiración honda y \"este es mi momento\".",
+   "temas": [
+    "rito",
+    "mañana"
+   ],
+   "intensidad": 3,
+   "gancho": "El mismo café de siempre, ahora habitado.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 2 — El hábito como rito, no como tarea"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Coge una tarea que ya haces y dale tres partes. Umbral: una respiración honda antes de empezar. Gesto: despacio, una cosa a la vez. Cierre: un instante de «ya está» al terminar.",
+   "es_literal": false,
+   "ancla": "**Tu ritual de hoy:** elige una tarea cualquiera de tu día —hacer café, lavarte la cara, ordenar la mesa, dar de comer al gato, ducharte— y conviértela hoy en rito con los tres elementos.",
+   "temas": [
+    "rito",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Umbral, gesto y cierre: la anatomía de un rito.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2 — El hábito como rito, no como tarea"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Aquello a lo que prestas atención se convierte en tu vida. Elige bien.",
+   "es_literal": true,
+   "ancla": "Aquello a lo que prestas atención se convierte en tu vida. Elige bien.",
+   "temas": [
+    "atención",
+    "presencia"
+   ],
+   "intensidad": 5,
+   "gancho": "Tu vida es aquello a lo que atiendes.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — La atención como acto sagrado"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Dónde estabas hace cinco minutos, mientras leías la última página? No tu cuerpo, que estaba aquí, sentado. Tu atención.",
+   "es_literal": true,
+   "ancla": "¿Dónde estabas hace cinco minutos, mientras leías la última página? No tu cuerpo, que estaba aquí, sentado. Tu atención.",
+   "temas": [
+    "atención",
+    "distracción"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Dónde estaba tu atención hace cinco minutos?",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — La atención como acto sagrado"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El cerebro no hace varias cosas a la vez: salta de una a otra y en cada salto paga peaje. Quien atiende al correo, a la conversación y al vídeo no hace tres cosas bien: hace tres cosas mal.",
+   "es_literal": false,
+   "ancla": "Quien cree que está atendiendo a la vez al correo, a la conversación y al vídeo no está haciendo tres cosas bien: está haciendo tres cosas mal, a trompicones, y encima acaba más cansado.",
+   "temas": [
+    "atención",
+    "multitarea"
+   ],
+   "intensidad": 3,
+   "gancho": "La multitarea no es una habilidad: es fragmentación.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3 — La atención como acto sagrado"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Coge con las dos manos una taza o cualquier objeto pequeño. Detente. Nota su peso, su temperatura, su textura. Míralo como si fuera la primera vez y busca un detalle en el que nunca te habías fijado.",
+   "es_literal": false,
+   "ancla": "Si tienes cerca una taza, o un vaso, o cualquier objeto pequeño, cógelo con las dos manos. Detente. Nota su peso real en las palmas. Su temperatura, fría o tibia. La textura de su superficie bajo la yema de tus dedos, lisa o rugosa.",
+   "temas": [
+    "atención",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "La vida contemplativa empieza en una taza.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — La atención como acto sagrado"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cada gesto que repites es un voto silencioso sobre la persona en la que te estás convirtiendo.",
+   "es_literal": true,
+   "ancla": "Cada gesto que repites es un voto silencioso sobre la persona en la que te estás convirtiendo.",
+   "temas": [
+    "carácter",
+    "repetición"
+   ],
+   "intensidad": 5,
+   "gancho": "Cada gesto repetido es un voto.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — Lo pequeño moldea el alma"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El carácter no es fijo ni cambia de golpe. Es sedimento: se deposita capa invisible sobre capa invisible con cada gesto que repetimos, hasta formar la roca de quiénes somos.",
+   "es_literal": false,
+   "ancla": "El carácter no es fijo ni se cambia de golpe. El carácter es sedimento. Se deposita, capa invisible sobre capa invisible, con cada gesto que repetimos, hasta formar, con los años y sin que lo veamos formarse, la roca de quiénes somos.",
+   "temas": [
+    "carácter",
+    "hábitos"
+   ],
+   "intensidad": 4,
+   "gancho": "El carácter no se decide: se sedimenta.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — Lo pequeño moldea el alma"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La identidad funciona mejor como brújula que como látigo: en lugar de «¿qué debería hacer?», la pregunta es «¿qué haría la persona que quiero llegar a ser?».",
+   "es_literal": false,
+   "ancla": "La manera poderosa es usar la identidad como brújula: en lugar de preguntarte \"¿qué debería hacer?\", preguntarte \"¿qué haría la persona que quiero llegar a ser?\".",
+   "temas": [
+    "identidad",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "Brújula, no látigo.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Lo pequeño moldea el alma"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "La pregunta de la productividad es «¿qué consigo con esto?». La de este libro es otra, más callada: ¿en quién me convierto haciéndolo?",
+   "es_literal": false,
+   "ancla": "La de este libro, más callada y más honda: **\"¿en quién me convierto haciéndolo?\"**.",
+   "temas": [
+    "identidad",
+    "productividad"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos preguntas distintas para el mismo gesto.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Lo pequeño moldea el alma"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cómo cruzas los umbrales pequeños decide cómo vives los espacios grandes.",
+   "es_literal": true,
+   "ancla": "Cómo cruzas los umbrales pequeños decide cómo vives los espacios grandes.",
+   "temas": [
+    "umbrales",
+    "transiciones"
+   ],
+   "intensidad": 5,
+   "gancho": "Los umbrales pequeños deciden las horas grandes.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — El umbral y los pequeños comienzos"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "A la entrada de los santuarios japoneses hay un torii: un pórtico que no cierra nada, sin puertas ni cerradura. No separa; señala. El suelo es el mismo a un lado y a otro; cambia la manera de pisarlo.",
+   "es_literal": false,
+   "ancla": "Lo curioso y lo profundo del *torii* es que no cierra nada. No tiene puertas, ni muros, ni cerradura, ni guardián; puedes rodearlo si quieres, no impide el paso a nadie. No sirve para separar físicamente, sino para señalar simbólicamente.",
+   "temas": [
+    "umbrales",
+    "tradiciones"
+   ],
+   "intensidad": 3,
+   "gancho": "Una puerta que no cierra nada y lo cambia todo.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — El umbral y los pequeños comienzos"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Trabajar desde casa sin ningún tránsito: del desayuno con el móvil a estar «trabajando» en pijama en la mesa de la cocina, sin haber entrado nunca del todo y, por eso mismo, sin salir nunca.",
+   "es_literal": false,
+   "ancla": "Se levantaba, desayunaba mirando el móvil, y sin ningún tránsito, sin ninguna puerta, se encontraba de pronto \"trabajando\" en pijama en la mesa de la cocina, con la mente todavía en las redes sociales, sin haber empezado nunca del todo.",
+   "temas": [
+    "umbrales",
+    "teletrabajo"
+   ],
+   "intensidad": 3,
+   "gancho": "Sin puerta de entrada tampoco hay puerta de salida.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — El umbral y los pequeños comienzos"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige una transición del día —salir de casa, volver, sentarte a comer, irte a dormir— y créale un micro-rito: una respiración honda y una palabra silenciosa que marque que algo empieza aquí.",
+   "es_literal": false,
+   "ancla": "**Tu ritual de hoy:** elige una transición de tu día —salir de casa, volver a ella, empezar a trabajar, sentarte a comer, irte a dormir— y créale hoy un micro-rito de umbral: una respiración honda y consciente, más una palabra silenciosa que marque \"algo nuevo empieza aquí\".",
+   "temas": [
+    "umbrales",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres segundos en la puerta cambian la entrada.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — El umbral y los pequeños comienzos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No hace falta buscar lo sagrado en otra parte. Está en el próximo gesto que ibas a hacer sin mirar.",
+   "es_literal": true,
+   "ancla": "No hace falta buscar lo sagrado en otra parte. Está en el próximo gesto que ibas a hacer sin mirar.",
+   "temas": [
+    "vida cotidiana",
+    "presencia"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo sagrado está en el próximo gesto, no en otra parte.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — Comer, caminar, limpiar: la práctica está en lo que ya haces"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "No hay que añadir prácticas a una vida ya saturada: hay que habitar las que ya tienes. Ya comes, ya caminas, ya friegas. El material está todo puesto; solo falta el alma.",
+   "es_literal": false,
+   "ancla": "No hay que meter la práctica con calzador en una vida que ya no da más de sí. La práctica *es* la vida que ya tienes, vivida con presencia en lugar de con ausencia. El material está todo puesto; solo falta el alma.",
+   "temas": [
+    "vida cotidiana",
+    "tiempo"
+   ],
+   "intensidad": 4,
+   "gancho": "No hay que sacar tiempo: hay que habitar el que ya se te va.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6 — Comer, caminar, limpiar: la práctica está en lo que ya haces"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Quince minutos hasta el metro, siempre con los cascos y la cabeza en la primera reunión. Un día, los mismos quince minutos sin cascos, sintiendo los pies en el suelo. «Llego al trabajo distinto», dijo.",
+   "es_literal": false,
+   "ancla": "A la semana volvió con una expresión entre desconcertada y genuinamente curiosa: \"Es raro, pero llego al trabajo distinto. Como más entero, más aquí, menos acelerado.",
+   "temas": [
+    "caminar",
+    "atención"
+   ],
+   "intensidad": 3,
+   "gancho": "El mismo trayecto de siempre, sin cascos.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 6 — Comer, caminar, limpiar: la práctica está en lo que ya haces"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige una sola actividad automática del día —comer, caminar, fregar, ducharte, doblar la ropa— y hazla hoy, una única vez, completamente despierto: sin pantallas, sin cascos, sin adelantarte a lo siguiente.",
+   "es_literal": false,
+   "ancla": "**Tu ritual de hoy:** elige una sola actividad automática de tu día —comer, caminar, fregar, ducharte, doblar la ropa— y hazla hoy, una única vez, completamente despierto.",
+   "temas": [
+    "práctica",
+    "atención"
+   ],
+   "intensidad": 3,
+   "gancho": "Una actividad automática, hecha despierto una vez.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — Comer, caminar, limpiar: la práctica está en lo que ya haces"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La forma más rápida de salir de ti mismo es mirar de verdad a otro.",
+   "es_literal": true,
+   "ancla": "La forma más rápida de salir de ti mismo es mirar de verdad a otro.",
+   "temas": [
+    "vínculo",
+    "atención"
+   ],
+   "intensidad": 5,
+   "gancho": "Mirar a otro de verdad es salir de uno mismo.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — El arte de saludar y despedir"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay un saludo que cuesta más: el dirigido a quien la vida en común ha vuelto invisible. Mirar a los ojos a quien te cobra o nombrar a quien limpia el portal va contra la corriente de la indiferencia.",
+   "es_literal": false,
+   "ancla": "Y sin embargo, detenerse un segundo a verlas de verdad —mirar a los ojos a quien te cobra, dar las gracias con el nombre a quien te sirve, reconocer con una mirada a quien limpia el portal— es uno de los gestos más humanos y más sagrados que existen",
+   "temas": [
+    "vínculo",
+    "dignidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Ver al invisible: la diferencia entre una función y una persona.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 7 — El arte de saludar y despedir"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Años saludando al portero con un «buenas» sin levantar la vista. Un día se detuvo, guardó el móvil, lo miró a los ojos y le preguntó de verdad qué tal iba la mañana. La conversación duró dos minutos.",
+   "es_literal": false,
+   "ancla": "Se detuvo, guardó el móvil en el bolsillo, miró al hombre a los ojos —de verdad, por primera vez en años— y le dijo, despacio, sin prisa: \"Buenos días, José. ¿Qué tal va la mañana?\".",
+   "temas": [
+    "vínculo",
+    "soledad"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos minutos de conversación y un poco menos de fantasma.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 7 — El arte de saludar y despedir"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Saluda hoy a una persona como si de verdad la vieras: mírala a los ojos un segundo más, di su nombre si lo sabes y escucha su respuesta entera antes de seguir tu camino.",
+   "es_literal": false,
+   "ancla": "**Tu ritual de hoy:** saluda hoy a una persona —quien sea: un familiar, un compañero, el cajero, un vecino, un desconocido— como si de verdad la vieras. Mírala a los ojos un segundo más, di su nombre si lo sabes, y escucha de verdad su respuesta antes de seguir tu camino.",
+   "temas": [
+    "vínculo",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Un segundo más de mirada. Ahí ocurre el reconocimiento.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — El arte de saludar y despedir"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuida las cosas pequeñas con cariño y estarás cuidándote a ti sin darte cuenta.",
+   "es_literal": true,
+   "ancla": "Cuida las cosas pequeñas con cariño y estarás cuidándote a ti sin darte cuenta.",
+   "temas": [
+    "cuidado",
+    "objetos"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que cuidas te cuida, y sin ruido.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8 — El cuidado de lo pequeño"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuidar algo pequeño te ordena por dentro mientras lo haces: te saca de la cabeza, te ancla en algo concreto y vivo fuera de ti, te devuelve la sensación de estar al cargo de algo.",
+   "es_literal": false,
+   "ancla": "el acto mismo de cuidar te ordena por dentro mientras lo haces. Te saca de tu cabeza y de tus preocupaciones dando vueltas, te ancla en algo concreto, vivo y presente fuera de ti, te da la sensación reconfortante y estabilizadora de estar al cargo de algo",
+   "temas": [
+    "cuidado",
+    "calma"
+   ],
+   "intensidad": 4,
+   "gancho": "Regar una planta es un islote firme en un día caótico.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8 — El cuidado de lo pequeño"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es la cultura del reemplazo: es el wabi-sabi. La taza descascarillada por el uso y la mesa con las marcas de años no son objetos a sustituir; son objetos llenos de historia.",
+   "es_literal": false,
+   "ancla": "el *wabi-sabi* enseña a ver la belleza y el valor precisamente en una taza descascarillada por el uso, en una mesa de madera con las marcas y los círculos de años de vasos y de vida, en un jersey remendado con cariño",
+   "temas": [
+    "wabi-sabi",
+    "objetos",
+    "imperfección"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo gastado no es lo feo: es lo que ha vivido contigo.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8 — El cuidado de lo pequeño"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige un objeto o una planta que te acompañe —una taza, un libro, una herramienta, una prenda querida— y cuídalo hoy con atención plena: límpialo despacio, riégala, arréglalo, ponlo bonito.",
+   "es_literal": false,
+   "ancla": "**Tu ritual de hoy:** elige un objeto o una planta que te acompañe en tu vida —una taza, un libro, una herramienta de trabajo, una planta, una prenda querida— y cuídalo hoy con atención plena: límpialo despacio, riégala con cuidado, arréglalo, ordénalo, ponlo bonito.",
+   "temas": [
+    "cuidado",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuida una cosa pequeña como si importara. Importa.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8 — El cuidado de lo pequeño"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La gratitud no cambia lo que tienes. Cambia lo que ves. Y lo que ves es tu vida.",
+   "es_literal": true,
+   "ancla": "La gratitud no cambia lo que tienes. Cambia lo que ves. Y lo que ves es tu vida.",
+   "temas": [
+    "gratitud",
+    "mirada"
+   ],
+   "intensidad": 5,
+   "gancho": "La gratitud no cambia lo que tienes, sino lo que ves.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — La gratitud como hábito diario"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es optimismo ingenuo ni forzarse a estar contento cuando duele. Es un entrenamiento de la atención hacia lo bueno que ya está y que damos por descontado.",
+   "es_literal": false,
+   "ancla": "La gratitud verdadera es algo mucho más sobrio y más honesto: es, sencillamente, un **entrenamiento de la atención hacia lo bueno que ya está y que damos por descontado**.",
+   "temas": [
+    "gratitud",
+    "atención"
+   ],
+   "intensidad": 4,
+   "gancho": "Gratitud no es fingir que todo va bien.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — La gratitud como hábito diario"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Sobre la gratitud, el libro se queda en lo que se ha observado: quienes la cultivan suelen referir algo más de ánimo y algo más de entereza. No es magia y no resuelve problemas reales.",
+   "es_literal": false,
+   "ancla": "No es magia, no cura enfermedades, no resuelve problemas reales, y no hace falta inflar los datos ni prometer transformaciones espectaculares para justificarla.",
+   "temas": [
+    "gratitud",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que se ha observado, dicho sin inflar.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — La gratitud como hábito diario"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Esta noche, antes de dormir, nombra tres cosas pequeñas y concretas de hoy por las que dar las gracias. En voz baja o por escrito. Cuanto más pequeñas y precisas, mejor.",
+   "es_literal": false,
+   "ancla": "**Tu ritual de hoy:** esta noche, antes de dormir, nombra tres cosas pequeñas y concretas de hoy por las que dar las gracias. En voz baja o por escrito en una libreta. Cuanto más pequeñas y precisas, mejor.",
+   "temas": [
+    "gratitud",
+    "práctica",
+    "noche"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres gracias concretas y de hoy. Nada genérico.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — La gratitud como hábito diario"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El silencio no está vacío. Está lleno de todo lo que el ruido no te deja oír.",
+   "es_literal": true,
+   "ancla": "El silencio no está vacío. Está lleno de todo lo que el ruido no te deja oír.",
+   "temas": [
+    "silencio",
+    "pausa"
+   ],
+   "intensidad": 5,
+   "gancho": "El silencio no está vacío.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — El silencio y la pausa"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "En cuanto aparece un hueco —el ascensor, la cola, el semáforo— sacamos el móvil por reflejo. Cada vez que rellenamos un silencio con ruido perdemos una pequeña cita con nosotros mismos.",
+   "es_literal": false,
+   "ancla": "Y cada vez que rellenamos apresuradamente un silencio con ruido, perdemos, sin saberlo, una pequeña cita con nosotros mismos, una oportunidad de oír lo que llevamos dentro.",
+   "temas": [
+    "silencio",
+    "móvil"
+   ],
+   "intensidad": 4,
+   "gancho": "Cada hueco rellenado es una cita contigo que se cancela.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — El silencio y la pausa"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Aquí nadie promete una mente en blanco. El silencio de fuera no calla el de dentro: solo te da un sitio desde donde observar el ruido sin que te arrastre.",
+   "es_literal": false,
+   "ancla": "El silencio de fuera no busca producir mágicamente el silencio de dentro; no vas a \"poner la mente en blanco\", eso no existe y no es el objetivo",
+   "temas": [
+    "silencio",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Poner la mente en blanco no existe, y no es el objetivo.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — El silencio y la pausa"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Regálate hoy un minuto entero de silencio elegido: sin móvil, sin música, sin objetivo. Solo tú, respirando. Al principio se hará largo; quédate y aguanta el minuto.",
+   "es_literal": false,
+   "ancla": "**Tu ritual de hoy:** regálate hoy un minuto entero de silencio elegido. Sin móvil, sin música, sin objetivo, sin hacer absolutamente nada. Solo tú, respirando, en silencio, presente. Un minuto de reloj.",
+   "temas": [
+    "silencio",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Un minuto de reloj sin hacer nada.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — El silencio y la pausa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El mundo está lleno de belleza gratis. Solo cobra una cosa: que te detengas a mirarla.",
+   "es_literal": true,
+   "ancla": "El mundo está lleno de belleza gratis. Solo cobra una cosa: que te detengas a mirarla.",
+   "temas": [
+    "belleza",
+    "asombro"
+   ],
+   "intensidad": 5,
+   "gancho": "La belleza solo cobra una cosa: que te detengas.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — La belleza y el asombro cotidiano"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El enemigo de la belleza cotidiana no es la fealdad: es la costumbre, esa ceguera lenta por la que algo deja de existir para nosotros de tanto repetirse delante de nuestros ojos.",
+   "es_literal": false,
+   "ancla": "La costumbre es una especie de ceguera lenta y silenciosa que nos va cayendo encima sin que la notemos: al principio algo nos maravilla y nos detiene, y a fuerza de repetirse y repetirse ante nuestros ojos, deja poco a poco de existir para nosotros",
+   "temas": [
+    "belleza",
+    "costumbre"
+   ],
+   "intensidad": 4,
+   "gancho": "La primera vez que viste el mar te dejó sin aliento.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11 — La belleza y el asombro cotidiano"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La gratitud y el asombro no son lo mismo. La gratitud es un «gracias» por lo recibido; el asombro es un «oh» callado que no pide nada. Uno te vuelve más agradecido; el otro, más despierto.",
+   "es_literal": false,
+   "ancla": "La gratitud es un \"gracias\"; el asombro es un \"oh\" callado. Los dos educan la mirada, pero por caminos distintos: uno te vuelve más agradecido, el otro más despierto.",
+   "temas": [
+    "asombro",
+    "gratitud"
+   ],
+   "intensidad": 3,
+   "gancho": "Un «gracias» y un «oh» no son el mismo gesto.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — La belleza y el asombro cotidiano"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Detente hoy diez segundos completos ante algo que normalmente pasarías de largo: el cielo, una planta, una luz, un rostro. Míralo de verdad, sin fotografiarlo, solo recibiéndolo.",
+   "es_literal": false,
+   "ancla": "**Tu ritual de hoy:** detente hoy diez segundos, de verdad diez segundos completos, ante algo bello que normalmente pasarías de largo sin ver: el cielo, una planta, una luz, un rostro, la espuma de un café, un árbol.",
+   "temas": [
+    "asombro",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Diez segundos ante algo que ibas a pasar de largo.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — La belleza y el asombro cotidiano"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La bondad no es lo que haces cuando te ven. Es lo que haces cuando nadie mira.",
+   "es_literal": true,
+   "ancla": "La bondad no es lo que haces cuando te ven. Es lo que haces cuando nadie mira.",
+   "temas": [
+    "bondad",
+    "anonimato"
+   ],
+   "intensidad": 5,
+   "gancho": "La bondad se mide cuando nadie mira.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12 — La bondad que hace bien a quien la da"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La bondad que más talla por dentro es la anónima: la que se hace en secreto y luego se olvida. Cuando haces el bien para que te vean, el gesto alimenta el ego en lugar de disolverlo.",
+   "es_literal": false,
+   "ancla": "En cambio, el bien hecho en la sombra, sin premio, sin testigos, sin que nadie llegue a saberlo jamás, te transforma por dentro profundamente sin inflarte por fuera ni un milímetro.",
+   "temas": [
+    "bondad",
+    "ego"
+   ],
+   "intensidad": 4,
+   "gancho": "El bien contado alimenta otra cosa.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12 — La bondad que hace bien a quien la da"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es el servicio que se vacía: es el que fluye desde lo lleno. Dar desde el corazón exhausto seca; poner límites y descansar no traiciona a nadie, hace posible seguir dando.",
+   "es_literal": false,
+   "ancla": "La bondad verdadera fluye desde la abundancia, no desde el vaciamiento. Da desde lo que le sobra al corazón lleno, no desde lo que le arranca al corazón exhausto.",
+   "temas": [
+    "bondad",
+    "límites",
+    "descanso"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie puede dar agua de un pozo seco.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — La bondad que hace bien a quien la da"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Haz hoy un pequeño bien sin que nadie lo sepa: ayuda, cede, alegra o cuida en secreto, sin contarlo después. Y luego fíjate en cómo te sientes el resto del día.",
+   "es_literal": false,
+   "ancla": "**Tu ritual de hoy:** haz hoy un pequeño bien sin que nadie lo sepa. Un gesto anónimo, sin recompensa, sin contarlo a nadie después, ni siquiera insinuarlo. Ayuda, cede, alegra, cuida, en secreto, y olvídalo.",
+   "temas": [
+    "bondad",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Un bien anónimo, hecho y olvidado.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12 — La bondad que hace bien a quien la da"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No se trata de hacer mucho un día, sino un poco cada día, al ritmo que el día y la estación te pidan.",
+   "es_literal": true,
+   "ancla": "No se trata de hacer mucho un día, sino un poco cada día, al ritmo que el día y la estación te pidan.",
+   "temas": [
+    "ritmo",
+    "constancia"
+   ],
+   "intensidad": 5,
+   "gancho": "Un poco cada día, al ritmo que toque.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13 — Los ritmos y las estaciones"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando un gesto depende de que «te acuerdes» o de que «tengas ganas», depende de algo caprichoso. Atado a un momento fijo del día, se sostiene casi solo: el ritmo hace el trabajo pesado de la constancia.",
+   "es_literal": false,
+   "ancla": "Cuando los gestos van atados a momentos fijos y cotidianos del día, dejan de depender de que \"te acuerdes\" o de que \"tengas ganas\", que son precisamente las dos excusas que matan silenciosamente cualquier práctica antes de que arraigue.",
+   "temas": [
+    "ritmo",
+    "hábitos"
+   ],
+   "intensidad": 4,
+   "gancho": "Las ganas fallan. El ritmo no pide permiso.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — Los ritmos y las estaciones"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Si te quedas con dos gestos, que sean estos: un umbral de calma al despertar y un cierre de gratitud al dormir. Un ancla por la mañana, otra por la noche. Y entre las dos, el día.",
+   "es_literal": false,
+   "ancla": "Si de todo este libro te quedas solo con dos gestos, que sean esos dos: un umbral de calma al despertar y un cierre de gratitud al dormir. Un ancla por la mañana, otra por la noche. Y entre las dos, el día.",
+   "temas": [
+    "ritmo",
+    "práctica",
+    "mañana"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos anclas: una al despertar, otra al dormir.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13 — Los ritmos y las estaciones"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que amas con la mano abierta lo disfrutas; lo que agarras con el puño cerrado lo asfixias y te asfixia.",
+   "es_literal": true,
+   "ancla": "Lo que amas con la mano abierta lo disfrutas; lo que agarras con el puño cerrado lo asfixias y te asfixia.",
+   "temas": [
+    "soltar",
+    "apego"
+   ],
+   "intensidad": 5,
+   "gancho": "Mano abierta o puño cerrado.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — Soltar y vaciar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Guardar rencor pesa sobre todo a quien lo carga. La otra persona muchas veces ni lo sabe, o ya ni se acuerda del asunto, y nosotros seguimos llevando la piedra de aquel agravio.",
+   "es_literal": false,
+   "ancla": "Y lo más injusto y lo más absurdo es que el rencor casi siempre hace más daño a quien lo carga que a quien va dirigido. La otra persona, muchas veces, ni sabe que la guardamos rencor, o le da igual, o ya ni se acuerda del asunto",
+   "temas": [
+    "rencor",
+    "soltar"
+   ],
+   "intensidad": 4,
+   "gancho": "El rencor lo carga quien lo guarda.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14 — Soltar y vaciar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Suelta hoy una sola cosa pequeña. Puede ser física —un objeto, un papel, una prenda— o invisible —una queja que decides no repetir, una exigencia, un rencor pequeño—. Elige solo una, la que sientas.",
+   "es_literal": false,
+   "ancla": "**Tu ritual de hoy:** suelta hoy una sola cosa pequeña. Puede ser física —un objeto que regalas, tiras o donas, un papel, una prenda— o puede ser invisible —una queja que decides no repetir más, una exigencia que te quitas de encima, un rencor pequeño que sueltas, la necesidad de tener razón en algo—.",
+   "temas": [
+    "soltar",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Suelta una sola cosa. Una.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — Soltar y vaciar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No falla quien se salta un día. Falla quien usa ese día como excusa para abandonarlo todo.",
+   "es_literal": true,
+   "ancla": "No falla quien se salta un día. Falla quien usa ese día como excusa para abandonarlo todo.",
+   "temas": [
+    "constancia",
+    "culpa"
+   ],
+   "intensidad": 5,
+   "gancho": "Saltarse un día no es el fallo.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15 — Constancia amable frente a disciplina dura"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es disciplina dura: es constancia amable. La primera se rompe con el primer fallo, porque funciona con la lógica del todo o nada. La segunda no depende de no fallar, sino de volver.",
+   "es_literal": false,
+   "ancla": "La constancia amable, en cambio, es prácticamente irrompible, indestructible, y por una razón bellísima y muy sencilla: no depende de no fallar nunca, cosa imposible, sino solo de volver, cosa siempre posible.",
+   "temas": [
+    "constancia",
+    "disciplina"
+   ],
+   "intensidad": 5,
+   "gancho": "Eres un jardín, no un edificio.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15 — Constancia amable frente a disciplina dura"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Ten tu mínimo sagrado: la versión más pequeña del gesto, la que puedes hacer hasta en tu peor día. Si son tres gracias, una. Si es un minuto de silencio, tres respiraciones. Sirve para no romper el hilo.",
+   "es_literal": false,
+   "ancla": "Si tu gesto habitual son tres gracias, el mínimo sagrado es una sola gracia, una. Si es un minuto entero de silencio, son tres respiraciones conscientes, treinta segundos. Si es un paseo consciente de diez minutos, son diez pasos atendiendo los pies.",
+   "temas": [
+    "constancia",
+    "práctica"
+   ],
+   "intensidad": 4,
+   "gancho": "El mínimo sagrado mantiene la brasa encendida.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15 — Constancia amable frente a disciplina dura"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No estás construyendo hábitos. Estás dejando que emerja un alma. Ten paciencia con ella, y ternura.",
+   "es_literal": true,
+   "ancla": "No estás construyendo hábitos. Estás dejando que emerja un alma. Ten paciencia con ella, y ternura.",
+   "temas": [
+    "identidad",
+    "alma"
+   ],
+   "intensidad": 5,
+   "gancho": "No coleccionas hábitos.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — La identidad espiritual que emerge"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La señal de que un hábito del alma ha echado raíces no es sentirlo cada vez más intenso, sino dejar de notarlo: se vuelve invisible de tan tuyo y pasa de práctica que haces a algo que eres.",
+   "es_literal": false,
+   "ancla": "La señal de que un hábito del alma ha echado raíces de verdad no es que lo sientas cada vez con más intensidad, sino, al contrario, que dejas de notarlo, que se vuelve invisible de tan tuyo.",
+   "temas": [
+    "identidad",
+    "carácter"
+   ],
+   "intensidad": 4,
+   "gancho": "La señal de que va bien es que dejas de notarlo.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16 — La identidad espiritual que emerge"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Aquí no hay métricas, ni niveles que alcanzar, ni rachas que presumir, ni una versión final de ti que desbloquear. Tampoco un día en que puedas decir «ya está, misión cumplida».",
+   "es_literal": false,
+   "ancla": "Por eso este libro no te ha dado en ningún momento métricas, ni niveles que alcanzar, ni rachas que presumir, ni una \"versión final y optimizada de ti\" que desbloquear como en un videojuego.",
+   "temas": [
+    "honestidad",
+    "identidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Sin métricas, sin rachas, sin meta final.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16 — La identidad espiritual que emerge"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo pequeño, repetido con sentido, se vuelve sagrado. El carácter es la suma callada de tus gestos, no de tus buenas intenciones.",
+   "es_literal": true,
+   "ancla": "Lo pequeño, repetido con sentido, se vuelve sagrado. El carácter es la suma callada de tus gestos, no de tus buenas intenciones.",
+   "temas": [
+    "carácter",
+    "repetición"
+   ],
+   "intensidad": 5,
+   "gancho": "El carácter es la suma de tus gestos, no de tus intenciones.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Cierre — El alma ya está aquí"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Mañana: tres respiraciones en la cama antes del móvil; el café bebido con atención, sin pantalla; diez segundos ante algo bello; un saludo mirando a los ojos; y tres gracias antes de dormir.",
+   "es_literal": false,
+   "ancla": "Al despertar, antes de coger el móvil, quédate treinta segundos en la cama y haz tres respiraciones. Ese es tu primer umbral. Luego, prepárate el café o el té y bébelo con atención, saboreándolo, sin pantalla, aunque solo sea el primer sorbo.",
+   "temas": [
+    "práctica",
+    "ritmo"
+   ],
+   "intensidad": 4,
+   "gancho": "Cinco gestos mínimos repartidos en un día que ibas a vivir igual.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Cierre — El alma ya está aquí"
+  }
+ ]
+}

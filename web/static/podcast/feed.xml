@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kai Zen, cinco minutos</title>
+    <link>https://krakent2026.github.io/KaiZenLibros/podcast/</link>
+    <atom:link href="https://krakent2026.github.io/KaiZenLibros/static/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>es-es</language>
+    <description>Una idea de un libro, leída en voz alta. Cinco minutos, sin promesas y sin prisa.</description>
+    <itunes:author>Kai Zen</itunes:author>
+    <itunes:owner><itunes:name>Kai Zen</itunes:name><itunes:email></itunes:email></itunes:owner>
+    <itunes:image href="https://krakent2026.github.io/KaiZenLibros/static/podcast/portada.jpg"/>
+    <itunes:category text="Self-Improvement"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+  </channel>
+</rss>

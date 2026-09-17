@@ -1,0 +1,193 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "disciplina-amable",
+ "atomos": [
+  {
+   "tipo": "dato_honesto",
+   "texto": "Sobre la autocompasión, el libro no da cifras ni promesas: dice que suele observarse una tendencia y pide tomarla como tendencia, no como ley férrea.",
+   "es_literal": false,
+   "ancla": "No lo tomes como una ley férrea ni como una promesa; tómalo como lo que es: una tendencia observada que apunta en una dirección clara, la contraria a lo que el capataz te hace creer.",
+   "temas": ["evidencia", "honestidad"],
+   "intensidad": 3,
+   "gancho": "Una tendencia observada, no una ley",
+   "formatos": ["cita", "articulo", "carrusel"],
+   "capitulo": "Capítulo 3 — El mito de \"si no me exijo, me abandono\""
+  },
+  {
+   "tipo": "cita",
+   "texto": "El perfeccionismo no es apuntar alto. Es poner el listón tan imposiblemente alto que tengas la excusa perfecta, blindada, para no saltar nunca y no arriesgarte a fallar.",
+   "es_literal": true,
+   "ancla": "El perfeccionismo no es apuntar alto. Es poner el listón tan imposiblemente alto que tengas la excusa perfecta, blindada, para no saltar nunca y no arriesgarte a fallar.",
+   "temas": ["perfeccionismo", "miedo"],
+   "intensidad": 5,
+   "gancho": "El listón imposible como coartada",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 4 — El perfeccionismo como sabotaje"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Perfeccionismo y procrastinación son primos hermanos. Quien más se exige suele ser quien menos empieza, porque empezar significa arriesgarse a hacerlo imperfecto.",
+   "es_literal": false,
+   "ancla": "Solemos pensar que quien más se exige es quien más hace, quien más produce. A menudo es justo al revés: quien más se exige es quien menos *empieza*, porque empezar significa arriesgarse a hacerlo imperfecto",
+   "temas": ["perfeccionismo", "procrastinación"],
+   "intensidad": 4,
+   "gancho": "Quien más se exige es quien menos empieza",
+   "formatos": ["cita", "carrusel", "hilo"],
+   "capitulo": "Capítulo 4 — El perfeccionismo como sabotaje"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una amiga entra en el piso recién reformado y dice «qué bonito, qué acogedor». La respuesta automática es el rodapié torcido y la pintura de ahí. Están mirando la misma habitación.",
+   "es_literal": false,
+   "ancla": "Una amiga entró y dijo \"¡qué bonito, qué acogedor!\", y Sofía, en automático, respondió: \"Bueno, pero mira, ese rodapié quedó torcido, y la pintura de ahí…\"",
+   "temas": ["perfeccionismo", "mirada"],
+   "intensidad": 4,
+   "gancho": "Estamos mirando la misma habitación",
+   "formatos": ["reel", "carrusel", "audio"],
+   "capitulo": "Capítulo 4 — El perfeccionismo como sabotaje"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige una tarea que estés posponiendo por perfeccionismo. 2) Hazla hoy a propósito de forma imperfecta: el borrador feo, la versión del sesenta por ciento. 3) Entrégala sin releerla diez veces. 4) Observa qué pasa de verdad, y que ahora existe.",
+   "es_literal": false,
+   "ancla": "elige una tarea que estés posponiendo por perfeccionismo —esa que \"aún no está lista\", esa que no empiezas hasta tenerlo todo controlado y atado, esa que revisas sin soltar— y hazla hoy, a propósito y con toda la intención, de forma imperfecta.",
+   "temas": ["perfeccionismo", "práctica"],
+   "intensidad": 3,
+   "gancho": "Hazlo hoy a propósito imperfecto",
+   "formatos": ["carrusel", "reel", "hilo"],
+   "capitulo": "Capítulo 4 — El perfeccionismo como sabotaje"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un fallo no borra tu progreso. Solo lo borra la historia que te cuentas después: \"ya que he fallado, para qué seguir\". El fallo es un punto; la historia lo convierte en el final.",
+   "es_literal": true,
+   "ancla": "Un fallo no borra tu progreso. Solo lo borra la historia que te cuentas después: \"ya que he fallado, para qué seguir\". El fallo es un punto; la historia lo convierte en el final.",
+   "temas": ["todo o nada", "fallo"],
+   "intensidad": 5,
+   "gancho": "El fallo es un punto, no el final",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 5 — El \"todo o nada\" y por qué te hace abandonar"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Se resbala la bandeja y un plato se rompe al llegar a la mesa. Nadie, absolutamente nadie, vacía después la nevera entera y se queda sin cenar el resto de la semana. Con la constancia lo hacemos cada semana.",
+   "es_literal": false,
+   "ancla": "Imagina que llevas una bandeja con la cena caliente y, al llegar a la mesa, se te resbala y un plato cae al suelo y se rompe en mil pedazos con estruendo.",
+   "temas": ["todo o nada", "hábitos"],
+   "intensidad": 4,
+   "gancho": "Se rompe un plato, no se tira la nevera",
+   "formatos": ["reel", "carrusel", "pin"],
+   "capitulo": "Capítulo 5 — El \"todo o nada\" y por qué te hace abandonar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Veinticinco días de treinta es un mes buenísimo. El todo o nada no ve veinticinco: ve cinco fallos, y desde ese juicio salta a cero. La constancia no la gana quien apunta más alto, sino quien no baja a cero.",
+   "es_literal": false,
+   "ancla": "Si tu meta es meditar los treinta días del mes y fallas cinco días, ¿cuántos has meditado? Veinticinco. Veinticinco días de treinta. Eso es un mes buenísimo, un mes de sobresaliente que cualquier persona sensata celebraría.",
+   "temas": ["todo o nada", "constancia"],
+   "intensidad": 4,
+   "gancho": "Veinticinco de treinta es un mes buenísimo",
+   "formatos": ["cita", "carrusel", "hilo"],
+   "capitulo": "Capítulo 5 — El \"todo o nada\" y por qué te hace abandonar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La regla que sustituye al todo o nada: 1) cuenta desde ya con que vas a fallar algún día; 2) marca tu línea roja en el día siguiente al fallo; 3) ahí vuelves, aunque sea al mínimo y a rastras; 4) nunca dos veces seguidas.",
+   "es_literal": false,
+   "ancla": "La regla no dice \"no falles\", que sería otra exigencia imposible; dice algo mucho más humano y más manejable: no falles *dos veces seguidas*.",
+   "temas": ["todo o nada", "práctica", "constancia"],
+   "intensidad": 4,
+   "gancho": "Nunca dos veces seguidas",
+   "formatos": ["carrusel", "pin", "reel"],
+   "capitulo": "Capítulo 5 — El \"todo o nada\" y por qué te hace abandonar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Fallar es la primera flecha, y a veces no la podemos esquivar. Machacarnos por haber fallado es la segunda, y esa te la disparas tú, con tu mano. La buena noticia, la que lo cambia todo, es que la segunda siempre es opcional.",
+   "es_literal": true,
+   "ancla": "Fallar es la primera flecha, y a veces no la podemos esquivar. Machacarnos por haber fallado es la segunda, y esa te la disparas tú, con tu mano. La buena noticia, la que lo cambia todo, es que la segunda siempre es opcional.",
+   "temas": ["culpa", "autocastigo"],
+   "intensidad": 5,
+   "gancho": "La segunda flecha te la disparas tú",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 6 — La culpa después de fallar (y cómo cortarla)"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La culpa sana habla de lo que hiciste y termina en una corrección concreta. La tóxica habla de lo que eres y no propone nada. Una te devuelve al camino; la otra te sienta en la cuneta y te convence de que no vale la pena levantarse.",
+   "es_literal": false,
+   "ancla": "La culpa sana dice, práctica: \"haz esto distinto la próxima vez, así\". La culpa tóxica dice, lapidaria: \"eres así, defectuoso, y no vas a cambiar nunca\".",
+   "temas": ["culpa", "identidad"],
+   "intensidad": 4,
+   "gancho": "Una habla de lo que hiciste; otra, de lo que eres",
+   "formatos": ["cita", "carrusel", "hilo"],
+   "capitulo": "Capítulo 6 — La culpa después de fallar (y cómo cortarla)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Tres pasos para cortar el bucle tras un fallo: 1) nombrar («esto es culpa, una emoción, no la verdad sobre mí»); 2) normalizar («le pasa a todo el mundo, las personas caen»); 3) volver («¿cuál es el siguiente paso pequeño?»).",
+   "es_literal": false,
+   "ancla": "Nombrar, normalizar, volver. Tres palabras. Cuanto antes recorras los tres pasos tras un fallo, menos energía te robará la culpa",
+   "temas": ["culpa", "práctica"],
+   "intensidad": 4,
+   "gancho": "Nombrar, normalizar, volver",
+   "formatos": ["carrusel", "pin", "hilo"],
+   "capitulo": "Capítulo 6 — La culpa después de fallar (y cómo cortarla)"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay una prueba sencilla para la culpa que se disfraza de madurez: si eso que llamas responsabilidad no termina nunca en una acción concreta y solo te deja peor, no es responsabilidad. Es el capataz con abrigo nuevo.",
+   "es_literal": false,
+   "ancla": "Si tu \"responsabilidad\" no termina nunca en una acción concreta y solo te deja peor, no es responsabilidad: es el capataz con abrigo nuevo.",
+   "temas": ["culpa", "responsabilidad"],
+   "intensidad": 4,
+   "gancho": "El capataz con abrigo nuevo",
+   "formatos": ["cita", "carrusel", "reel"],
+   "capitulo": "Capítulo 6 — La culpa después de fallar (y cómo cortarla)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "A tu amiga le regalas comprensión, perspectiva y ánimo, sin dudarlo. A ti te reservas el látigo, sin piedad. Ese doble rasero, esa crueldad que solo aplicas contigo mismo y con nadie más, es la raíz misma de tu falta de constancia.",
+   "es_literal": true,
+   "ancla": "A tu amiga le regalas comprensión, perspectiva y ánimo, sin dudarlo. A ti te reservas el látigo, sin piedad. Ese doble rasero, esa crueldad que solo aplicas contigo mismo y con nadie más, es la raíz misma de tu falta de constancia.",
+   "temas": ["doble rasero", "autocompasión"],
+   "intensidad": 5,
+   "gancho": "El doble rasero que no ves",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 7 — Trátate como tratarías a un amigo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una amiga llama un domingo por la tarde, con la voz rota: llevaba dos semanas saliendo a correr cada mañana y ha fallado tres días seguidos. Quiere dejarlo. A ella nadie le diría «lo sabía, eres un fracaso». A ella, no.",
+   "es_literal": false,
+   "ancla": "Tu mejor amiga te llama por teléfono, un domingo por la tarde, y notas por su voz que está hundida.",
+   "temas": ["doble rasero", "amistad"],
+   "intensidad": 4,
+   "gancho": "Lo que le dirías a ella un domingo",
+   "formatos": ["reel", "carrusel", "audio"],
+   "capitulo": "Capítulo 7 — Trátate como tratarías a un amigo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Cuando te sorprendas machacándote, para en seco. 2) Pregúntate qué le dirías a un amigo al que quieres si estuviera exactamente en tu lugar. 3) Dítelo a ti con esas mismas palabras. 4) Si ayuda, ponte una mano en el centro del pecho mientras lo dices.",
+   "es_literal": false,
+   "ancla": "hoy, cuando te sorprendas machacándote por algo, en el momento en que notes el latigazo, para en seco y hazte la pregunta que lo cambia todo, la pregunta llave: *\"¿Qué le diría a un amigo al que quiero de verdad si estuviera exactamente en mi lugar, sintiendo esto?\"*",
+   "temas": ["autocompasión", "práctica"],
+   "intensidad": 4,
+   "gancho": "La pregunta llave, en medio del latigazo",
+   "formatos": ["carrusel", "pin", "reel"],
+   "capitulo": "Capítulo 7 — Trátate como tratarías a un amigo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Suele describirse la autocompasión con tres piezas que trabajan juntas: amabilidad en lugar de crítica automática, humanidad compartida (fallar no te hace un caso raro) y atención serena, sin dramatizar el dolor ni negarlo.",
+   "es_literal": false,
+   "ancla": "Amabilidad, humanidad compartida, presencia serena. Los tres juntos, trenzados, componen esa voz del buen amigo interior que vamos a entrenar despacio en el resto del libro.",
+   "temas": ["autocompasión"],
+   "intensidad": 3,
+   "gancho": "Amabilidad, humanidad compartida, presencia serena",
+   "formatos": ["carrusel", "articulo", "hilo"],
+   "capitulo": "Capítulo 7 — Trátate como tratarías a un amigo"
+  }
+ ]
+}

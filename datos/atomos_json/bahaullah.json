@@ -1,0 +1,1250 @@
+{
+ "serie": "los_mensajeros",
+ "libro": "bahaullah",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "Bendito seas Tú, oh mi Señor, decía la voz en la oscuridad. Bendito seas por lo que ha caído sobre mí en Tu senda.",
+   "es_literal": true,
+   "ancla": "Bendito seas Tú, oh mi Señor, decía la voz en la oscuridad. Bendito seas por lo que ha caído sobre mí en Tu senda.",
+   "temas": [
+    "prisión",
+    "oración",
+    "oscuridad"
+   ],
+   "intensidad": 5,
+   "gancho": "En el fondo de la mazmorra, una voz que da las gracias",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un sótano que fue depósito de agua guarda ahora a ciento cincuenta condenados. No hay día ni noche: solo la tiniebla espesa, el frío que sube de la tierra y un aire que cuesta respirar.",
+   "es_literal": false,
+   "ancla": "Había solo la tiniebla, espesa como aceite, y el frío que subía de la tierra removida, y el hedor que ninguna palabra alcanza a nombrar sin ensuciarse",
+   "temas": [
+    "mazmorra",
+    "encierro",
+    "frío"
+   ],
+   "intensidad": 4,
+   "gancho": "El Síyáh-Chál: un depósito de agua que ya no guardaba agua",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Lo que descendía sobre él no venía a consolarlo de la prisión: venía a decirle que la prisión era pequeña, que las cadenas eran pequeñas, que la muerte que pasaba lista sobre el pozo era pequeña",
+   "es_literal": true,
+   "ancla": "Lo que descendía sobre él no venía a consolarlo de la prisión: venía a decirle que la prisión era pequeña, que las cadenas eran pequeñas, que la muerte que pasaba lista sobre el pozo era pequeña",
+   "temas": [
+    "consuelo",
+    "prisión",
+    "perspectiva"
+   ],
+   "intensidad": 5,
+   "gancho": "No venía a consolarlo del encierro: venía a empequeñecerlo",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Y en el fondo del pozo, donde no llegaba ninguna luz, empezó a amanecer.",
+   "es_literal": true,
+   "ancla": "Y en el fondo del pozo, donde no llegaba ninguna luz, empezó a amanecer.",
+   "temas": [
+    "amanecer",
+    "encierro",
+    "esperanza"
+   ],
+   "intensidad": 5,
+   "gancho": "Donde no llegaba ninguna luz, empezó a amanecer",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Encuentra a un anciano descalzo junto al camino, con los pies heridos por las piedras. Descabalga, se quita su propio calzado, se lo da y sigue a pie llevando el caballo de la brida.",
+   "es_literal": false,
+   "ancla": "Se detuvo, descabalgó, y sin que el hombre se lo pidiera se quitó su propio calzado y se lo dio, y siguió a pie el resto del camino, llevando el caballo de la brida, mientras el anciano, con lágrimas, lo bendecía.",
+   "temas": [
+    "generosidad",
+    "camino",
+    "gesto"
+   ],
+   "intensidad": 3,
+   "gancho": "Le dio sus zapatos a un desconocido y siguió el camino descalzo",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — El padre de los pobres"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No hacía distinción de credo ni de origen. Daba como quien devuelve algo que nunca fue suyo.",
+   "es_literal": true,
+   "ancla": "No hacía distinción de credo ni de origen. Daba como quien devuelve algo que nunca fue suyo.",
+   "temas": [
+    "generosidad",
+    "desapego"
+   ],
+   "intensidad": 4,
+   "gancho": "Daba como quien devuelve algo que nunca fue suyo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El padre de los pobres"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La novela distingue entre dos maneras de dar. El dinero se desprende fácil cuando sobra; el tiempo, no. Sentarse a escuchar a alguien es lo que de verdad cuesta a quien tiene mucho.",
+   "es_literal": false,
+   "ancla": "Y no daba solo dinero, que es lo más fácil de dar para quien lo tiene de sobra. Daba su tiempo, que es lo que los grandes guardan con más avaricia.",
+   "temas": [
+    "escucha",
+    "tiempo",
+    "generosidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo más difícil de dar no es el dinero: es el tiempo",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 1 — El padre de los pobres"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En una asamblea de ochenta hombres, una mujer poeta se presenta con el rostro descubierto y anuncia que las cadenas del pasado quedan rotas. Algunos se tapan los ojos, convencidos de que el cielo se desplomará.",
+   "es_literal": false,
+   "ancla": "En medio de la asamblea, para escándalo de muchos y espanto de algunos, se presentó ante los reunidos con el rostro descubierto, sin velo, y con voz firme proclamó que había amanecido el día prometido y que las cadenas del pasado quedaban rotas.",
+   "temas": [
+    "táhirih",
+    "ruptura",
+    "asamblea"
+   ],
+   "intensidad": 5,
+   "gancho": "Táhirih se quitó el velo ante ochenta hombres y el cielo no se cayó",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — La causa nueva"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La novela subraya una rareza: reconoció aquella causa sin haber visto nunca al hombre que la predicaba. No hubo encuentro, ni prueba, ni señal. Solo unas páginas leídas.",
+   "es_literal": false,
+   "ancla": "No fue Mírzá Husayn-Alí a Shíráz. No vio al Báb con sus ojos; no había de verlo nunca en toda su vida, ni una sola vez, cara a cara.",
+   "temas": [
+    "reconocimiento",
+    "báb",
+    "lectura"
+   ],
+   "intensidad": 4,
+   "gancho": "Nunca se vieron cara a cara, ni una sola vez",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2 — La causa nueva"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué mueve a alguien que lo tiene todo —nombre, fortuna, seguridad— a ponerse del lado del perseguido justo cuando la razón del mundo aconseja lo contrario?",
+   "es_literal": false,
+   "ancla": "Fue un reconocimiento que asombra si se piensa. Todo, en la razón de este mundo, aconsejaba lo contrario.",
+   "temas": [
+    "riesgo",
+    "decisión",
+    "convicción"
+   ],
+   "intensidad": 4,
+   "gancho": "Todo aconsejaba lo contrario. Aun así, no vaciló",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — La causa nueva"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Habían querido sepultar una fe, y en el mismo sepulcro que le cavaron le dieron cuna.",
+   "es_literal": true,
+   "ancla": "Aquí estaba la gran ironía que los verdugos jamás llegaron a sospechar. Habían querido sepultar una fe, y en el mismo sepulcro que le cavaron le dieron cuna.",
+   "temas": [
+    "ironía",
+    "persecución",
+    "origen"
+   ],
+   "intensidad": 5,
+   "gancho": "Cavaron un sepulcro y salió una cuna",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — El pozo negro"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque las cadenas pueden atar el cuello de un hombre, y trabarle los pies, y hundirlo en la tiniebla más honda que sepa cavar el odio. Pero hay algo que ningún hierro alcanza a encadenar.",
+   "es_literal": true,
+   "ancla": "Porque las cadenas pueden atar el cuello de un hombre, y trabarle los pies, y hundirlo en la tiniebla más honda que sepa cavar el odio. Pero hay algo que ningún hierro alcanza a encadenar.",
+   "temas": [
+    "cadenas",
+    "libertad interior"
+   ],
+   "intensidad": 5,
+   "gancho": "Hay algo que ningún hierro alcanza a encadenar",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 3 — El pozo negro"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "En el momento decisivo del libro, el narrador se detiene y avisa de que no va a contar lo que pasó allí. No lo reconstruye ni lo explica: reconoce que hay algo que su relato no puede contener.",
+   "es_literal": false,
+   "ancla": "No se ha de decir aquí lo que aquella voz le dijo, ni desvelar lo que estaba velado, ni forzar la puerta de un misterio que Él mismo, cuando quiso, apenas entreabrió con imágenes tomadas del mar, del fuego, de la aurora",
+   "temas": [
+    "límite",
+    "narrador",
+    "misterio"
+   ],
+   "intensidad": 4,
+   "gancho": "La novela llega al centro de la historia y decide callar",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — El pozo negro"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "En el pozo enseñaba algo muy concreto: a subir los escalones sin miedo. No prometía que no fueran a morir; les hablaba en voz baja durante las horas ciegas hasta que la muerte dejaba de ser lo más grande de la habitación.",
+   "es_literal": false,
+   "ancla": "Él les enseñaba a morir sin miedo. Les hablaba en voz baja durante las largas horas ciegas, y les recordaba que las cadenas no llegan al alma, y que la muerte no es sino una puerta",
+   "temas": [
+    "miedo",
+    "muerte",
+    "acompañamiento"
+   ],
+   "intensidad": 5,
+   "gancho": "Les enseñaba a morir sin miedo en el fondo de un pozo",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "audio"
+   ],
+   "capitulo": "Capítulo 3 — El pozo negro"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Prefiero el camino helado con las manos limpias que el brasero encendido con las manos manchadas.",
+   "es_literal": true,
+   "ancla": "—Me pides que compre una casa con la moneda de la mentira. ¿De qué me serviría el techo, si tuviera que vivir bajo él sabiéndome traidor a la verdad? Prefiero el camino helado con las manos limpias que el brasero encendido con las manos manchadas.",
+   "temas": [
+    "integridad",
+    "destierro",
+    "elección"
+   ],
+   "intensidad": 5,
+   "gancho": "Le ofrecieron su casa a cambio de una mentira. Escogió el hielo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — El primer destierro"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Y era justamente lo contrario lo que ocurría: el destierro, que era castigo, se iba convirtiendo, paso a paso, en camino, y cada legua ganada hacia el oeste llevaba consigo una simiente hacia tierra nueva.",
+   "es_literal": true,
+   "ancla": "Y era justamente lo contrario lo que ocurría: el destierro, que era castigo, se iba convirtiendo, paso a paso, en camino, y cada legua ganada hacia el oeste llevaba consigo una simiente hacia tierra nueva.",
+   "temas": [
+    "destierro",
+    "camino",
+    "reverso"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo echaron para que se perdiera. Cada legua sembraba",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — El primer destierro"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Un niño de ocho años, con los pies helados en un caravasar, hace a su padre la pregunta que nadie se atreve a hacer: ¿por qué nos odian, si no les hemos hecho nada?",
+   "es_literal": false,
+   "ancla": "El niño, aquella misma noche, se acercó a su padre cuando la Navváb ya dormía rendida junto al brasero. No podía dormir; le dolían los pies helados y le pesaba en el pecho una pregunta que no se atrevía a hacer.",
+   "temas": [
+    "infancia",
+    "odio",
+    "exilio"
+   ],
+   "intensidad": 4,
+   "gancho": "La pregunta de un niño de ocho años en mitad del destierro",
+   "formatos": [
+    "hilo",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — El primer destierro"
+  },
+  {
+   "tipo": "cita",
+   "texto": "—Antes tenía mucho y me faltaba la paz —decía—. Ahora tengo poco y la paz me sobra. Dime tú cuál de las dos cosas es riqueza.",
+   "es_literal": true,
+   "ancla": "—Antes tenía mucho y me faltaba la paz —decía—. Ahora tengo poco y la paz me sobra. Dime tú cuál de las dos cosas es riqueza.",
+   "temas": [
+    "pobreza",
+    "riqueza",
+    "navváb"
+   ],
+   "intensidad": 4,
+   "gancho": "Ella lo había perdido todo y no lo llamaba caída",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — La ciudad de la paz"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un hombre que había renegado en público para salvar la vida llega embozado de noche a la casa junto al río. No se atreve a entrar. Cuando lo hacen pasar, cae de rodillas y confiesa a borbotones, esperando el desprecio.",
+   "es_literal": false,
+   "ancla": "Se presentó en la casa una noche, embozado, temblando, y no se atrevía a entrar. Cuando al fin lo hicieron pasar, cayó de rodillas y confesó su cobardía a borbotones, esperando el desprecio.",
+   "temas": [
+    "vergüenza",
+    "regreso",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "Había abjurado para no morir, y no sabía cómo mirarse",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — La ciudad de la paz"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El que se arrepiente de verdad no es menos que el que nunca cayó; a veces es más, porque conoce la hondura de la que ha sido sacado.",
+   "es_literal": true,
+   "ancla": "No mires atrás, al día de tu flaqueza, como si fuera un muro. Míralo como un umbral que ya cruzaste.",
+   "temas": [
+    "culpa",
+    "segunda oportunidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Mira el día de tu flaqueza como un umbral, no como un muro",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — La ciudad de la paz"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Porque una cosa es que te hiera el extraño, y otra muy distinta que te hiera el que comió de tu pan.",
+   "es_literal": true,
+   "ancla": "Porque una cosa es que te hiera el extraño, y otra muy distinta que te hiera el que comió de tu pan.",
+   "temas": [
+    "traición",
+    "familia",
+    "herida"
+   ],
+   "intensidad": 5,
+   "gancho": "La herida del extraño y la del que comió de tu pan no pesan igual",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — La ciudad de la paz"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Ante la maniobra de su hermano no se defendió: se marchó. La novela lo lee así: no se apartó el vencido, sino el que podía haber vencido, y lo hizo para que no hubiera batalla.",
+   "es_literal": false,
+   "ancla": "Porque no se había apartado el vencido, sino el que podía haber vencido. Se había apartado no por debilidad, sino por una fuerza que el ambicioso jamás comprendería: la fuerza del que ama tanto la unidad que prefiere desaparecer antes que quebrarla.",
+   "temas": [
+    "renuncia",
+    "unidad",
+    "conflicto"
+   ],
+   "intensidad": 5,
+   "gancho": "Se apartó no por debilidad, sino para que no hubiera batalla",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6 — El derviche de la montaña"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Dos años en una cueva del Kurdistán bajo un nombre falso: piedra por cama, lana burda por ropa, dátiles y pan seco por comida. Nadie en aquellos valles sabe a quién están dando limosna.",
+   "es_literal": false,
+   "ancla": "Dormía sobre la piedra o sobre un poco de paja. Vestía de lana burda. Se alimentaba de lo poco que la montaña y la caridad de los aldeanos le daban: un puñado de dátiles, un poco de leche agria, pan seco.",
+   "temas": [
+    "soledad",
+    "pobreza",
+    "montaña"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos años en una cueva, con otro nombre, sin que nadie lo supiera",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 6 — El derviche de la montaña"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No he traído nada de las escuelas, shaykh. He traído solo un corazón vacío, y Dios ha puesto en él lo que ha querido.",
+   "es_literal": true,
+   "ancla": "Hay un saber que se busca en los libros y se atesora en la memoria; es bueno, y honra al que lo alcanza.",
+   "temas": [
+    "saber",
+    "humildad",
+    "vacío"
+   ],
+   "intensidad": 4,
+   "gancho": "Un maestro subió a examinarlo y bajó convertido en alumno",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — El derviche de la montaña"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué se le contesta a quien te pregunta por qué bajas de la montaña donde por fin has hallado la paz, para volver al sitio que te la quitó?",
+   "es_literal": false,
+   "ancla": "—Nos dejas huérfanos, derviche —le dijo—. ¿A dónde vas, que sea más digno de ti que estas montañas? ¿Quién hay abajo que te merezca?",
+   "temas": [
+    "regreso",
+    "despedida",
+    "deber"
+   ],
+   "intensidad": 4,
+   "gancho": "Volvió al lugar que le dolía porque allí lo necesitaban más",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — El derviche de la montaña"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El que corre tras Dios por el mundo entero es como el que recorre la casa buscando la lámpara que lleva encendida en la mano.",
+   "es_literal": true,
+   "ancla": "Vuelve al corazón, que ahí te espera, y ahí te ha esperado siempre mientras tú lo buscabas por los caminos.",
+   "temas": [
+    "búsqueda",
+    "interioridad"
+   ],
+   "intensidad": 4,
+   "gancho": "Buscaba en el desierto lo que llevaba encendido en la mano",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — El libro de la certeza"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La luz que arde en todas ellas es una sola luz. Quien ama de veras a una de esas lámparas, ama a todas, porque ama la luz.",
+   "es_literal": true,
+   "ancla": "Y quien reniega de una por amor a otra, no ha entendido ninguna, pues no ha visto que la luz era la misma.",
+   "temas": [
+    "religiones",
+    "unidad",
+    "lámparas"
+   ],
+   "intensidad": 5,
+   "gancho": "Muchas lámparas, una sola luz",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — El libro de la certeza"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No enseño a los hombres a alzarse contra sus reyes, sino a alzarse contra sí mismos, que es la única guerra que vale la pena.",
+   "es_literal": true,
+   "ancla": "—No busco ningún trono de los que se conquistan y se pierden —respondió—. No tengo ejército ni lo quiero.",
+   "temas": [
+    "poder",
+    "conflicto interior"
+   ],
+   "intensidad": 5,
+   "gancho": "Le preguntaron si quería un trono o un ejército",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — El libro de la certeza"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un mercader viejo manda por escrito las preguntas que no le dejan dormir. La respuesta llega en dos días y dos noches, dictada sin pausa, con un secretario que apenas alcanza a mojar la pluma.",
+   "es_literal": false,
+   "ancla": "Él dictaba, y un secretario apenas alcanzaba a mojar la pluma y trazar los signos antes de que llegaran las palabras siguientes. No había vacilación, ni corrección, ni pausa para pensar.",
+   "temas": [
+    "escritura",
+    "duelo",
+    "preguntas"
+   ],
+   "intensidad": 4,
+   "gancho": "Preguntó por carta; le contestaron con un libro entero",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — El libro de la certeza"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela no coloca ninguna tradición por encima de otra. Presenta a los grandes mensajeros como un mismo sol que sale sobre horizontes distintos, y recrea esa idea como ficción documental, sin dictaminar sobre la verdad de ninguna fe.",
+   "es_literal": false,
+   "ancla": "Que Abraham, Moisés, Jesús, Muhammad, el Báb, no eran mensajeros rivales ni religiones enfrentadas, sino un solo Sol que sale una y otra vez sobre distintos horizontes, siempre el mismo sol aunque cambien el cielo y la hora.",
+   "temas": [
+    "ficción documental",
+    "religiones",
+    "enfoque"
+   ],
+   "intensidad": 3,
+   "gancho": "Ficción de base documental: ninguna tradición por encima de otra",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — El libro de la certeza"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Doce días en un jardín cercado por el Tigris, con los jardineros cortando rosas al alba y amontonándolas ante la tienda hasta hacer montañas de flores. Al fondo, la orden de partir hacia un destierro más lejano.",
+   "es_literal": false,
+   "ancla": "Rosas rojas como brasas, rosas blancas como la nieve, rosas amarillas como el oro, tantas y tan abiertas que los jardineros no daban abasto para cortarlas, y las apilaban en montones ante la tienda del huésped hasta formar montañas de flores.",
+   "temas": [
+    "ridván",
+    "jardín",
+    "despedida"
+   ],
+   "intensidad": 5,
+   "gancho": "Doce días entre rosas, a las puertas de un destierro",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — El jardín del Ridván"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tratad los unos a los otros con el mayor amor y armonía, con amistad y camaradería. Tan poderosa es la luz de la unidad que puede iluminar toda la tierra.",
+   "es_literal": true,
+   "ancla": "—Sois los frutos de un mismo árbol y las hojas de una misma rama —dijo—. Tratad los unos a los otros con el mayor amor y armonía, con amistad y camaradería. Tan poderosa es la luz de la unidad que puede iluminar toda la tierra.",
+   "temas": [
+    "unidad",
+    "amistad"
+   ],
+   "intensidad": 5,
+   "gancho": "Frutos de un mismo árbol, hojas de una misma rama",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — El jardín del Ridván"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "En aquel jardín prohibió la espada para siempre. Nada de su causa se extendería por la fuerza ni por el miedo: solo por la palabra y por vidas que cambiaran a la vista de todos.",
+   "es_literal": false,
+   "ancla": "Su religión no se extendería por la fuerza, ni por la conquista, ni por el miedo, sino solo por el amor, por la palabra, por el ejemplo de vidas transformadas.",
+   "temas": [
+    "no violencia",
+    "espada",
+    "persuasión"
+   ],
+   "intensidad": 5,
+   "gancho": "Prohibió la espada en la difusión de su propia causa",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8 — El jardín del Ridván"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "A los que lloraban su marcha les dejó una idea sobria: se puede desterrar a un hombre, pero no se puede desterrar de un pecho lo que ya ha entrado en él.",
+   "es_literal": false,
+   "ancla": "Un rey puede desterrar a un hombre, pero no puede desterrar de un pecho la verdad que ya ha entrado en él.",
+   "temas": [
+    "destierro",
+    "interioridad",
+    "despedida"
+   ],
+   "intensidad": 4,
+   "gancho": "Se puede desterrar a un hombre; no lo que lleva dentro",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — El jardín del Ridván"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El que teme al hombre, del hombre depende. El que se apoya en el poder, con el poder se derrumba.",
+   "es_literal": true,
+   "ancla": "—No hemos venido a esta ciudad a mendigar. No hay ante nosotros más puerta que la de Dios, y a ninguna otra llamaremos.",
+   "temas": [
+    "poder",
+    "dignidad",
+    "miedo"
+   ],
+   "intensidad": 5,
+   "gancho": "En la capital donde todos suplicaban, no llamó a ninguna puerta",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — Constantinopla"
+  },
+  {
+   "tipo": "cita",
+   "texto": "En la ciudad donde todo el mundo pedía, hubo un hombre que no pidió nada. En la corte donde todos se doblaban, hubo uno que no se dobló.",
+   "es_literal": true,
+   "ancla": "Y así permaneció. En la ciudad donde todo el mundo pedía, hubo un hombre que no pidió nada. En la corte donde todos se doblaban, hubo uno que no se dobló.",
+   "temas": [
+    "dignidad",
+    "corte",
+    "silencio"
+   ],
+   "intensidad": 5,
+   "gancho": "No mandó regalos, no pidió audiencias, no cruzó un solo palacio",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — Constantinopla"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La novela apunta algo incómodo sobre el trato humano: se perdona al que nos teme e incluso al que nos odia. Lo que no se perdona es salir de una conversación sintiéndose pequeño.",
+   "es_literal": false,
+   "ancla": "Porque los hombres perdonan al que los teme, y aun al que los odia; pero no perdonan al que, sin odiarlos ni temerlos, los deja sintiéndose pequeños.",
+   "temas": [
+    "orgullo",
+    "poder",
+    "resentimiento"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que no se perdona es que alguien te deje sintiéndote pequeño",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — Constantinopla"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Los echan de la capital en pleno invierno y con pocos días de aviso. Doce jornadas por llanuras heladas: el pan se hiela antes de llegar a la boca y el agua se convierte en hielo dentro de los odres.",
+   "es_literal": false,
+   "ancla": "Salieron de Constantinopla al amanecer, en lo más recio del invierno. La nieve cubría los caminos y el viento cortaba el rostro. Doce días de marcha por llanuras heladas, entre torrentes congelados y aldeas ateridas, sin más abrigo que la fe que los sostenía.",
+   "temas": [
+    "invierno",
+    "destierro",
+    "marcha"
+   ],
+   "intensidad": 4,
+   "gancho": "Doce días de nieve por no haber ido a suplicar a nadie",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 9 — Constantinopla"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Días postrado, ardiendo en fiebre, al borde de la muerte por un veneno servido en la mesa. El hijo mayor no se aparta de la cabecera: enjuga el sudor, acerca el agua, se muerde los labios para no gemir.",
+   "es_literal": false,
+   "ancla": "Abdu'l-Bahá no se apartó de su cabecera ni un instante, húmedos los ojos, firme la mano, sosteniendo la esperanza cuando ya casi no había esperanza que sostener.",
+   "temas": [
+    "veneno",
+    "hijo",
+    "enfermedad"
+   ],
+   "intensidad": 5,
+   "gancho": "El veneno vino de la mano de su propio hermano",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — Adrianópolis"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La verdad no necesita de la venganza para vencer: le basta con ser verdad.",
+   "es_literal": true,
+   "ancla": "Guardad vuestros corazones limpios de rencor, que el rencor es un veneno más lento pero no menos mortal que el que corrió por mis venas.",
+   "temas": [
+    "venganza",
+    "rencor",
+    "verdad"
+   ],
+   "intensidad": 5,
+   "gancho": "El rencor, un veneno más lento y no menos mortal",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — Adrianópolis"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No devolvió mal por mal. No entregó a su hermano al castigo que sus actos merecían ante los hombres. Pero tampoco calló la verdad, ni la disfrazó, ni pretendió que no hubiera ocurrido lo que había ocurrido.",
+   "es_literal": true,
+   "ancla": "No devolvió mal por mal. No entregó a su hermano al castigo que sus actos merecían ante los hombres. Pero tampoco calló la verdad, ni la disfrazó, ni pretendió que no hubiera ocurrido lo que había ocurrido.",
+   "temas": [
+    "perdón",
+    "verdad",
+    "hermano"
+   ],
+   "intensidad": 5,
+   "gancho": "Perdonar sin fingir que no pasó nada",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — Adrianópolis"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Sobre el episodio del veneno, el narrador admite que las versiones no coinciden y que no hay manera de saber cuál fue el vehículo. No rellena el hueco: lo deja a la vista.",
+   "es_literal": false,
+   "ancla": "Otras versiones dirían que fue el té; otras, que fue el pan. Poco importa el vehículo de la infamia.",
+   "temas": [
+    "fuentes",
+    "versiones",
+    "límite"
+   ],
+   "intensidad": 3,
+   "gancho": "Unas versiones dicen el té; otras, el pan. El libro no elige",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — Adrianópolis"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No temblaba su voz, aunque temblara su mano. No pedía, sino que ofrecía. No suplicaba, sino que amonestaba.",
+   "es_literal": true,
+   "ancla": "No temblaba su voz, aunque temblara su mano. No pedía, sino que ofrecía. No suplicaba, sino que amonestaba. No se inclinaba ante los tronos, sino que los convocaba ante un trono más alto que todos ellos.",
+   "temas": [
+    "reyes",
+    "cartas",
+    "aplomo"
+   ],
+   "intensidad": 5,
+   "gancho": "Le temblaba la mano por el veneno. La voz, no",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — Cartas a los reyes"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "A un rey le escribió algo sencillo y difícil: que el poder no era suyo, sino un depósito que alguien le había confiado, y que de ese depósito tendría que responder.",
+   "es_literal": false,
+   "ancla": "En ella, Bahá'u'lláh le recordó al Sháh que el poder que ostentaba le había sido confiado como un depósito, no otorgado como una propiedad, y que de aquel depósito habría de responder ante Aquel que lo había elevado y podía abatirlo.",
+   "temas": [
+    "poder",
+    "responsabilidad",
+    "reyes"
+   ],
+   "intensidad": 4,
+   "gancho": "El poder no es una propiedad: es un depósito",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11 — Cartas a los reyes"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Desde dónde habla un preso sin ejército, sin trono y sin un palmo de tierra cuando escribe a los dueños del mundo no para pedirles nada, sino para advertirles?",
+   "es_literal": false,
+   "ancla": "Era el mundo entero puesto del revés: el más débil hablando como el más fuerte, el desposeído dirigiéndose a los dueños de todo, el cautivo enseñando a los que lo tenían cautivo.",
+   "temas": [
+    "autoridad",
+    "reyes",
+    "prisión"
+   ],
+   "intensidad": 5,
+   "gancho": "Un cautivo escribiendo a seis coronas, y sin pedir nada",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — Cartas a los reyes"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela cuenta el destino de aquellas cartas como lo contaron después quienes las habían leído, con su asombro incluido. Recrea escenas y conversaciones: no las ofrece como acta de lo sucedido.",
+   "es_literal": false,
+   "ancla": "Los que habían leído la tabla no olvidaron jamás con qué exactitud terrible se había cumplido lo anunciado, y hubo entre los soberanos de Europa quien, al conocer la coincidencia, sintió pasar sobre su nuca el escalofrío de lo inexplicable.",
+   "temas": [
+    "ficción documental",
+    "fuentes",
+    "cartas"
+   ],
+   "intensidad": 3,
+   "gancho": "Ficción documental: el libro recrea, no levanta acta",
+   "formatos": [
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Cartas a los reyes"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Setenta personas desembarcan en una ciudad-penal tras días de mar y calor. La población se agolpa a verlos pasar entre insultos. Nadie les ofrece una jarra de agua.",
+   "es_literal": false,
+   "ancla": "Nadie tendió una mano; nadie ofreció una jarra de agua a aquellos viajeros extenuados que habían cruzado un mar de fuego.",
+   "temas": [
+    "aká",
+    "llegada",
+    "hostilidad"
+   ],
+   "intensidad": 5,
+   "gancho": "Llegaron a Aká y la ciudad los recibió escupiendo",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — La prisión más grande"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Alegraos, pues, y no lloréis por los muros: llorad más bien por quienes, teniendo las puertas abiertas de par en par, tienen cerrado el corazón.",
+   "es_literal": true,
+   "ancla": "—Estas paredes pueden retener un cuerpo, pero no fueron hechas para retener el espíritu, ni la mano del hombre puede levantar un muro que la voluntad de Dios no atraviese.",
+   "temas": [
+    "muros",
+    "libertad interior"
+   ],
+   "intensidad": 5,
+   "gancho": "No llores por los muros: llora por los corazones cerrados",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — La prisión más grande"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La ciudad tardó años en cambiar de opinión, y nadie sabría decir el día en que empezó. Primero el escupitajo se volvió mirada esquiva; luego, saludo tímido; al final, reverencia.",
+   "es_literal": false,
+   "ancla": "El escupitajo se volvió mirada esquiva, y la mirada esquiva se volvió saludo tímido, y el saludo se volvió reverencia.",
+   "temas": [
+    "prejuicio",
+    "tiempo",
+    "vecindad"
+   ],
+   "intensidad": 4,
+   "gancho": "Del escupitajo a la reverencia, sin un solo discurso",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12 — La prisión más grande"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Los que lo habían enviado a Aká para que muriera olvidado le habían dado, sin saberlo, la ciudad entera.",
+   "es_literal": true,
+   "ancla": "Los que lo habían enviado a Aká para que muriera olvidado le habían dado, sin saberlo, la ciudad entera.",
+   "temas": [
+    "aká",
+    "reverso",
+    "prisión"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo mandaron a morir olvidado y le dieron una ciudad",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — La prisión más grande"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un muchacho de veintidós años pasea al anochecer por la azotea de la prisión, absorto en su plegaria, con los ojos alzados y no clavados en el suelo. En el suelo hay un tragaluz abierto. No lo ve.",
+   "es_literal": false,
+   "ancla": "Mírzá Mihdí, absorto en su recogimiento, con los ojos alzados a Dios y no clavados en el suelo, siguió caminando. No lo vio. Puso el pie en el vacío.",
+   "temas": [
+    "accidente",
+    "hijo",
+    "azotea"
+   ],
+   "intensidad": 5,
+   "gancho": "Caminaba rezando por la azotea y puso el pie en el vacío",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 13 — La Rama Purísima"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Eso pidió el hijo, en el último aliento: no salvarse, sino ser puente para los que venían detrás.",
+   "es_literal": true,
+   "ancla": "Que su muerte sirviera para que otros pudieran acercarse. Que su vida se derramara para ensanchar el camino de la fe.",
+   "temas": [
+    "sacrificio",
+    "hijo",
+    "peregrinos"
+   ],
+   "intensidad": 5,
+   "gancho": "Le ofrecieron la vida y pidió otra cosa",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — La Rama Purísima"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Pocas veces el amor se ha dicho a sí mismo con tan pocas palabras y con tan alto precio.",
+   "es_literal": true,
+   "ancla": "Y quedó para siempre, en la memoria de los suyos, como el hijo que no pidió salvarse, sino servir; el que, teniendo delante la vida, escogió que su muerte fuera provechosa a los demás.",
+   "temas": [
+    "amor",
+    "entrega",
+    "duelo"
+   ],
+   "intensidad": 5,
+   "gancho": "Pocas palabras y un precio altísimo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — La Rama Purísima"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Peregrinos que han caminado meses no siempre logran entrar. Se apostan en un recodo de la muralla, con los ojos fijos en una ventana, y esperan horas a que una mano se asome y salude. Con eso vuelven a casa.",
+   "es_literal": false,
+   "ancla": "Y allí aguardaban horas, con los ojos fijos en aquella ventana, hasta que Bahá'u'lláh, sabedor de que lo esperaban, se asomaba un momento y agitaba la mano en un gesto de saludo y de bendición.",
+   "temas": [
+    "peregrinos",
+    "espera",
+    "muralla"
+   ],
+   "intensidad": 4,
+   "gancho": "Caminaron meses para ver una mano asomada a una ventana",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — El libro más sagrado"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El libro se escribió en Aká, entre muros; pero no era para Aká, ni para aquel siglo: era para el mundo que aún no había nacido.",
+   "es_literal": true,
+   "ancla": "El libro se escribió en Aká, entre muros; pero no era para Aká, ni para aquel siglo: era para el mundo que aún no había nacido.",
+   "temas": [
+    "libro",
+    "futuro",
+    "prisión"
+   ],
+   "intensidad": 5,
+   "gancho": "Escrito entre muros para un mundo que aún no había nacido",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — El libro más sagrado"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "A los suyos les repetía que proclamar la unidad con los labios no sirve de nada si en la propia casa, con el vecino, se sigue obrando la división. Una idea que se contempla no es lo mismo que una vida que se practica.",
+   "es_literal": false,
+   "ancla": "La unidad no era una idea que se contempla, sino una vida que se practica; y el primero que había de vivirla era quien la anunciaba.",
+   "temas": [
+    "unidad",
+    "coherencia",
+    "vida diaria"
+   ],
+   "intensidad": 4,
+   "gancho": "La unidad no se contempla: se practica con el vecino",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14 — El libro más sagrado"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Pocas noches antes del final pide que lo incorporen y que abran de par en par la ventana que da al mar. Está oscuro y no se ve el agua, pero se la oye. Se queda escuchándola largo rato, en silencio.",
+   "es_literal": false,
+   "ancla": "Estaba oscuro, y no se veía el agua; pero se la oía, esa respiración honda y antigua que sube y baja sin fin, la misma que había acompañado sus años de destierro desde Aká hasta Bahjí.",
+   "temas": [
+    "mar",
+    "vejez",
+    "despedida"
+   ],
+   "intensidad": 5,
+   "gancho": "Mandó abrir la ventana al mar para oír el agua a oscuras",
+   "formatos": [
+    "reel",
+    "audio",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — La ascensión"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Sin sobresalto. Como una lámpara que ha ardido toda la noche y a la que ya no hace falta, porque llega el día.",
+   "es_literal": true,
+   "ancla": "En la madrugada del veintinueve de mayo, cuando aún no había amanecido del todo y el mar era una lámina gris bajo el cielo que empezaba a clarear, se apagó la respiración del anciano.",
+   "temas": [
+    "muerte",
+    "amanecer",
+    "calma"
+   ],
+   "intensidad": 5,
+   "gancho": "Una lámpara que se apaga porque ya está llegando el día",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 15 — La ascensión"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La ciudad que lo había recibido con piedras lo despidió con lágrimas.",
+   "es_literal": true,
+   "ancla": "Algunos de los que habían combatido su nombre enviaron cartas de duelo, y en ellas —ellos, que lo habían llamado enemigo de Dios— lo llamaban ahora luminaria de la época, mar de generosidad, el que había venido a hacer el bien a los hombres.",
+   "temas": [
+    "aká",
+    "duelo",
+    "cambio"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo recibieron con piedras y lo despidieron llorando",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — La ascensión"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "En la escena más íntima del final, el narrador se niega a poner nombre al hijo que está junto al lecho y a transcribir lo que le dijo en voz baja. Deja el hueco donde está.",
+   "es_literal": false,
+   "ancla": "El anciano volvió el rostro hacia los suyos —hacia el hijo que no había de nombrar aquí, el que había compartido con él la cadena y el pan del cautivo desde niño— y dijo algo en voz muy baja, unas palabras de aliento y de encargo",
+   "temas": [
+    "narrador",
+    "límite",
+    "intimidad"
+   ],
+   "intensidad": 3,
+   "gancho": "El narrador decide no nombrar ni transcribir la última escena",
+   "formatos": [
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15 — La ascensión"
+  },
+  {
+   "tipo": "cita",
+   "texto": "«La tierra es un solo país, y la humanidad, sus ciudadanos.»",
+   "es_literal": true,
+   "ancla": "«Sois los frutos de un mismo árbol y las hojas de una misma rama», había escrito. «La tierra es un solo país, y la humanidad, sus ciudadanos.» No era una metáfora piadosa para consolar corazones; era, decía Él, la ley y la necesidad de la edad que llegaba.",
+   "temas": [
+    "unidad",
+    "humanidad",
+    "frontera"
+   ],
+   "intensidad": 5,
+   "gancho": "La tierra es un solo país, y la humanidad, sus ciudadanos",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — Un solo país"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Si la humanidad va a unirse de un modo o de otro, ¿qué le queda por elegir, salvo hacerlo por sabiduría o hacerlo por desastre?",
+   "es_literal": false,
+   "ancla": "la humanidad, decía, se unificaría, de un modo o de otro; y la única elección que le quedaba era hacerlo por la sabiduría o hacerlo por el desastre.",
+   "temas": [
+    "unidad",
+    "elección",
+    "historia"
+   ],
+   "intensidad": 5,
+   "gancho": "Por sabiduría o por desastre: la elección que planteaba",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — Un solo país"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Entre los principios que la novela recoge hay uno que se explica solo con una imagen: hombre y mujer como las dos alas de un mismo pájaro, que no puede volar mientras una siga atada.",
+   "es_literal": false,
+   "ancla": "la igualdad del hombre y la mujer, que eran a sus ojos las dos alas de un solo pájaro, incapaz de volar mientras una estuviese atada",
+   "temas": [
+    "igualdad",
+    "mujer",
+    "imagen"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos alas del mismo pájaro: con una atada no se vuela",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16 — Un solo país"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Los hombres son las hojas de una misma rama y los frutos de un mismo árbol. Las religiones son las estaciones de una misma vida. Los mensajeros son las lámparas de una sola Luz.",
+   "es_literal": true,
+   "ancla": "Los hombres son las hojas de una misma rama y los frutos de un mismo árbol. Las religiones son las estaciones de una misma vida. Los mensajeros son las lámparas de una sola Luz.",
+   "temas": [
+    "unidad",
+    "religiones",
+    "serie"
+   ],
+   "intensidad": 5,
+   "gancho": "Las religiones, estaciones de una misma vida",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Epílogo — Las hojas de una misma rama"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cuántas guerras, cuántas hogueras y cuántos muros levantaron hombres que adoraban, sin saberlo, al mismo Dios con distinto nombre?",
+   "es_literal": false,
+   "ancla": "Piénsese en cuánta sangre se ha derramado sobre la tierra en nombre de las diferencias entre ellos: cuántas guerras, cuántas hogueras, cuántos muros levantados por hombres que adoraban, sin saberlo, al mismo Dios con distinto nombre.",
+   "temas": [
+    "religiones",
+    "conflicto",
+    "reconocimiento"
+   ],
+   "intensidad": 5,
+   "gancho": "Muros levantados entre gente que rezaba al mismo Dios",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Epílogo — Las hojas de una misma rama"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El epílogo dice en voz alta lo que la serie venía diciendo bajo: estas once vidas se cuentan como novelas, no como doctrina, y ninguna de ellas se coloca por encima de las otras.",
+   "es_literal": false,
+   "ancla": "Porque lo que Bahá'u'lláh proclamó, y lo que estas once novelas han querido narrar, es una sola verdad: que los mensajeros no fueron rivales ni extraños.",
+   "temas": [
+    "serie",
+    "enfoque",
+    "ficción documental"
+   ],
+   "intensidad": 3,
+   "gancho": "Once novelas, once vidas, ninguna por encima de otra",
+   "formatos": [
+    "articulo",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Epílogo — Las hojas de una misma rama"
+  }
+ ]
+}

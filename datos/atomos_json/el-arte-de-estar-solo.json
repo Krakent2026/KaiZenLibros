@@ -1,0 +1,1322 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "el-arte-de-estar-solo",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "La soledad se sufre; la solitud se elige.",
+   "es_literal": true,
+   "ancla": "La soledad se sufre; la solitud se elige. Y la buena noticia, la que sostiene este libro entero, es que se puede aprender a pasar de una a la otra.",
+   "temas": [
+    "soledad",
+    "solitud",
+    "lenguaje"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos palabras para dos experiencias que metemos en una",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — La compañía que te falta eres tú"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es soledad o compañía: son las dos. Quien solo sabe estar acompañado vive llenando huecos; quien solo sabe estar solo se ha amputado media vida.",
+   "es_literal": false,
+   "ancla": "Quien solo sabe estar acompañado vive dependiendo, llenando huecos, aferrándose a quien sea con tal de no quedarse a solas. Y quien solo sabe estar solo se ha amputado media vida.",
+   "temas": [
+    "vinculos",
+    "soledad",
+    "equilibrio"
+   ],
+   "intensidad": 3,
+   "gancho": "No hay bando bueno y bando malo entre soledad y compañía",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Introducción — La compañía que te falta eres tú"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro se niega a decirte que la soledad que duele «es buena si sabes mirarla». Eso sería una crueldad disfrazada de sabiduría.",
+   "es_literal": false,
+   "ancla": "Lo que nunca voy a hacer es decirte que la soledad que duele «es buena si sabes mirarla», porque eso sería una crueldad disfrazada de sabiduría.",
+   "temas": [
+    "honestidad",
+    "soledad no elegida"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que este libro se niega a decirte sobre la soledad que duele",
+   "formatos": [
+    "cita",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Introducción — La compañía que te falta eres tú"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La cola que no avanza. Los diez minutos hasta que llega el autobús. La sobremesa en la que, de golpe, todos se han ido. Huecos pequeños que la vida deja y que casi nunca miramos de frente.",
+   "es_literal": false,
+   "ancla": "La cola del supermercado que no avanza. Los diez minutos hasta que llega el autobús. La sobremesa en la que, de golpe, todos se han ido y te quedas tú con la mesa a medio recoger.",
+   "temas": [
+    "huecos",
+    "cotidiano"
+   ],
+   "intensidad": 2,
+   "gancho": "Los huecos pequeños que tapamos antes de que lleguen a asomar",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Introducción — La compañía que te falta eres tú"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Hemos construido un mundo entero para no quedarnos nunca a solas con nosotros mismos. ¿Y luego nos preguntamos por qué cuesta tanto estar en paz?",
+   "es_literal": false,
+   "ancla": "Hemos construido un mundo entero dedicado, entre otras cosas, a que nunca tengamos que quedarnos a solas con nosotros mismos. Y luego nos preguntamos por qué nos cuesta tanto estar en paz.",
+   "temas": [
+    "distraccion",
+    "paz",
+    "epoca"
+   ],
+   "intensidad": 3,
+   "gancho": "Una pregunta incómoda sobre el mundo que hemos montado",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Introducción — La compañía que te falta eres tú"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Coger el móvil. Dejarlo. Volver a cogerlo. Escribir en tres grupos «¿alguien hace algo esta noche?» y mirar la pantalla como quien espera que le tiren una cuerda.",
+   "es_literal": false,
+   "ancla": "Cogió el móvil. Lo dejó. Lo volvió a coger. Escribió en tres grupos distintos «¿alguien hace algo esta noche?» y se quedó mirando la pantalla esperando respuesta como quien espera que le tiren una cuerda.",
+   "temas": [
+    "huida",
+    "movil",
+    "viernes"
+   ],
+   "intensidad": 3,
+   "gancho": "Diez minutos de casa vacía y la mano ya va sola al bolsillo",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 1 — El miedo a estar solo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El miedo a estar solo no dice que te pase algo raro: dice que eres humano. Lo que hagas con él, eso sí es cosa tuya.",
+   "es_literal": true,
+   "ancla": "El miedo a estar solo no dice que te pase algo raro: dice que eres humano. Lo que hagas con él, eso sí es cosa tuya.",
+   "temas": [
+    "miedo",
+    "normalidad"
+   ],
+   "intensidad": 4,
+   "gancho": "El miedo a estar solo no te delata: te describe como humano",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El miedo a estar solo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La alarma antigua que se enciende cuando estás solo se encuentra hoy con una salida de emergencia siempre a mano. Y una alarma que siempre puede huir nunca aprende que no había peligro.",
+   "es_literal": false,
+   "ancla": "La alarma antigua se encuentra hoy con una salida de emergencia siempre a mano. Y una alarma que siempre puede huir nunca aprende que no había peligro.",
+   "temas": [
+    "miedo",
+    "huida",
+    "pantallas"
+   ],
+   "intensidad": 3,
+   "gancho": "Una alarma que siempre puede huir nunca aprende que no pasa nada",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 1 — El miedo a estar solo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cinco minutos, y ya. 1) Siéntate a solas sin móvil, sin pantalla, sin música. 2) No medites ni pongas la mente en blanco: solo quédate. 3) Observa el impulso de coger el teléfono sin obedecerlo. 4) Cuando pasen los cinco minutos, se acabó.",
+   "es_literal": false,
+   "ancla": "siéntate cinco minutos a solas, sin móvil, sin pantalla, sin música. No tienes que meditar ni poner la mente en blanco ni conseguir nada. Solo quédate y observa qué pasa: la incomodidad que quizá aparezca, el impulso de coger el teléfono, las ganas de levantarte.",
+   "temas": [
+    "practica",
+    "silencio",
+    "empezar"
+   ],
+   "intensidad": 2,
+   "gancho": "Cinco minutos sin pantalla: el primer rato a solas del libro",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El miedo a estar solo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Ver el impulso de huir y obedecerlo son dos cosas distintas. El que no tiene esa distancia obedece siempre; el que la cultiva, elige.",
+   "es_literal": false,
+   "ancla": "Esa pequeña distancia entre el impulso y tú es, literalmente, donde vive tu libertad. El que no la tiene, obedece siempre. El que la cultiva, elige.",
+   "temas": [
+    "impulso",
+    "libertad",
+    "eleccion"
+   ],
+   "intensidad": 4,
+   "gancho": "Entre el impulso y tú hay un hueco. Ahí vive tu libertad",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — El miedo a estar solo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Se puede estar solo y en paz, y se puede estar acompañado y solísimo. El problema nunca fue el número de personas.",
+   "es_literal": true,
+   "ancla": "Se puede estar solo y en paz, y se puede estar acompañado y solísimo. El problema nunca fue el número de personas.",
+   "temas": [
+    "soledad",
+    "conexion"
+   ],
+   "intensidad": 4,
+   "gancho": "El número de gente en la sala no decide si te sientes solo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — Soledad no es lo mismo que estar solo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "«Estoy solo» describe una situación. «Me siento solo» describe una herida. Confundirlas lleva a buscar gente cuando lo que falta es conexión.",
+   "es_literal": false,
+   "ancla": "«Estoy solo» describe una situación. «Me siento solo» describe una herida. Confundirlas te lleva a curar con gente lo que solo se cura reconectando.",
+   "temas": [
+    "nombrar",
+    "soledad",
+    "desconexion"
+   ],
+   "intensidad": 4,
+   "gancho": "Un hecho y una herida, y la lengua los llama igual",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — Soledad no es lo mismo que estar solo"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "La próxima vez que notes la punzada, para un segundo: ¿estoy solo o me siento solo? Son cosas distintas y piden cosas distintas.",
+   "es_literal": false,
+   "ancla": "Así que la próxima vez que notes esa punzada de soledad, para un segundo y pregúntate con honestidad: ¿estoy solo o me siento solo? Son cosas distintas y piden cosas distintas.",
+   "temas": [
+    "nombrar",
+    "autoobservacion"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Estoy solo o me siento solo? No piden lo mismo",
+   "formatos": [
+    "pin",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — Soledad no es lo mismo que estar solo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Puedes tener a treinta personas mirándote y no haber sido visto por ninguna. La compañía que cura no es la que te rodea; es la que te ve.",
+   "es_literal": true,
+   "ancla": "Puedes tener a treinta personas mirándote y no haber sido visto por ninguna. La compañía que cura no es la que te rodea; es la que te ve.",
+   "temas": [
+    "mascara",
+    "fiesta",
+    "conexion"
+   ],
+   "intensidad": 5,
+   "gancho": "Por qué una fiesta llena puede ser el sitio más solitario",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — Soledad no es lo mismo que estar solo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No huimos de estar solos: huimos de lo que sentiríamos si nos quedáramos quietos. El ruido de fuera tapa el ruido de dentro.",
+   "es_literal": true,
+   "ancla": "No huimos de estar solos: huimos de lo que sentiríamos si nos quedáramos quietos. El ruido de fuera tapa el ruido de dentro.",
+   "temas": [
+    "huida",
+    "ruido",
+    "silencio"
+   ],
+   "intensidad": 4,
+   "gancho": "El ruido de fuera tapa el ruido de dentro",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — Por qué huimos"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Durante un día, observa tu forma favorita de huir del silencio: móvil, tele, un plan de última hora. 2) Ponle nombre. 3) Una sola vez, cuando notes el impulso, no lo obedezcas. 4) Quédate en el hueco sin taparlo y mira qué aparece.",
+   "es_literal": false,
+   "ancla": "identifica tu forma favorita de huir del silencio —el móvil, la tele, un plan de última hora, lo que sea— y, una sola vez hoy, cuando notes el impulso, no lo obedezcas. Quédate en el hueco sin taparlo, aunque sea incómodo al principio.",
+   "temas": [
+    "practica",
+    "huida",
+    "autoobservacion"
+   ],
+   "intensidad": 3,
+   "gancho": "Caza tu forma favorita de huir y, una vez, no la uses",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — Por qué huimos"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Hay una prueba para distinguir el disfrute de la huida: el disfrute puede esperar; la huida, no. Si que te interrumpan la música te pone nervioso, no estabas escuchando: estabas tapando.",
+   "es_literal": false,
+   "ancla": "El disfrute puede esperar; la huida, no. Cuando pones música porque te apetece, si algo la interrumpe no pasa nada. Cuando la pones para tapar el silencio, la interrupción te pone nervioso, porque el silencio vuelve a asomar.",
+   "temas": [
+    "huida",
+    "urgencia",
+    "disfrute"
+   ],
+   "intensidad": 3,
+   "gancho": "El disfrute puede esperar. La huida, no",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — Por qué huimos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Si al terminar una actividad te sientes más vacío que al empezar, sospecha: probablemente no estabas disfrutando, estabas huyendo.",
+   "es_literal": true,
+   "ancla": "Si al terminar una actividad te sientes más vacío que al empezar, sospecha: probablemente no estabas disfrutando, estabas huyendo.",
+   "temas": [
+    "huida",
+    "scroll",
+    "resaca"
+   ],
+   "intensidad": 4,
+   "gancho": "El disfrute deja poso. La huida deja resaca",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — Por qué huimos"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La entrada comprada hace tres semanas, la exposición que hacía ilusión y, de golpe, la escena montada en la cabeza: pedir una sola entrada en la taquilla y cruzar la sala grande mientras los demás van en pareja.",
+   "es_literal": false,
+   "ancla": "ella, plantada delante de una foto, sin nadie al lado con quien comentar; ella, cruzando la sala grande mientras los demás iban en pareja o en grupo; ella, pidiendo una sola entrada en la taquilla",
+   "temas": [
+    "verguenza",
+    "planes",
+    "mirada ajena"
+   ],
+   "intensidad": 3,
+   "gancho": "Cancelar un plan que te apetecía por no ir solo a verlo",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 4 — Estar solo no es un fracaso"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Nadie te mira tanto como crees; y quien te mira, casi nunca piensa lo que temes que piensa.",
+   "es_literal": true,
+   "ancla": "Nadie te mira tanto como crees; y quien te mira, casi nunca piensa lo que temes que piensa.",
+   "temas": [
+    "mirada ajena",
+    "efecto foco"
+   ],
+   "intensidad": 4,
+   "gancho": "El foco que sientes encima no lo enciende nadie de fuera",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — Estar solo no es un fracaso"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El fracaso no fue ir sola a la exposición: eso ni llegó a ocurrir. Fue quedarse en casa y dejar que la mirada imaginaria de un desconocido decidiera cómo pasaba el sábado.",
+   "es_literal": false,
+   "ancla": "Porque el verdadero fracaso de aquel día no fue haber ido sola —eso ni siquiera llegó a ocurrir—. Fue haberse quedado en casa perdiéndose algo que le apetecía. Fue dejar que la mirada imaginaria de un desconocido decidiera cómo pasaba ella su sábado.",
+   "temas": [
+    "verguenza",
+    "renuncias",
+    "fracaso"
+   ],
+   "intensidad": 4,
+   "gancho": "Las renuncias silenciosas que se acumulan sin dar la cara",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — Estar solo no es un fracaso"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige algo pequeño y en público: un café, un paseo, comer fuera. 2) Hazlo solo. 3) Sin dar explicaciones y sin disimular: nada de fingir que esperas a alguien ni de refugiarte en el móvil. 4) Si aparece el cosquilleo, obsérvalo y quédate.",
+   "es_literal": false,
+   "ancla": "haz una cosa a solas en público —un café, un paseo, comer fuera— sin dar explicaciones a nadie y sin disimular que estás solo. Nada de fingir que esperas compañía ni de refugiarte en el móvil todo el rato.",
+   "temas": [
+    "practica",
+    "verguenza",
+    "publico"
+   ],
+   "intensidad": 3,
+   "gancho": "Un café a solas, en público, y sin coartada",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — Estar solo no es un fracaso"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no promete que la primera vez se disfrute. Puede que vuelvas a casa pensando «esto no es para mí». No significa que hayas fracasado: significa que era la primera vez.",
+   "es_literal": false,
+   "ancla": "puede que la primera vez lo pases regular. Que te vayas a casa pensando «no lo he disfrutado nada, esto no es para mí». Es normal, y no significa que hayas fracasado. Significa que era la primera vez.",
+   "temas": [
+    "expectativas",
+    "practica",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Nadie disfruta de una habilidad el día que la estrena",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Estar solo no es un fracaso"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La persona con la que vas a pasar más horas de tu vida eres tú. Vale la pena que te caigas bien.",
+   "es_literal": true,
+   "ancla": "La persona con la que vas a pasar más horas de tu vida eres tú. Vale la pena que te caigas bien.",
+   "temas": [
+    "relacion contigo",
+    "compania"
+   ],
+   "intensidad": 4,
+   "gancho": "La relación más larga de tu vida empezó el día que naciste",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — La compañía de uno mismo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Si un amigo te hablara como te hablas tú en tus peores días, no aguantarías ni una semana con él. Con ese compañero interior convives de por vida.",
+   "es_literal": false,
+   "ancla": "Si un amigo te hablara como te hablas tú a ti mismo en tus peores días —con esa dureza, esos «qué desastre eres», esos «otra vez la has liado»—, no aguantarías ni una semana con él.",
+   "temas": [
+    "voz interior",
+    "relacion contigo"
+   ],
+   "intensidad": 4,
+   "gancho": "Al compañero de piso permanente no se le puede cambiar",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — La compañía de uno mismo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Proponte un plan a solas que de verdad te apetezca, no lo productivo ni lo que quedaría bien. 2) Prepárate algo rico. 3) Pon lo que te guste. 4) Estate presente en tu propio plan, sin escaparte al móvil cada dos minutos.",
+   "es_literal": false,
+   "ancla": "date un plan a solas que de verdad te apetezca —no lo productivo, no lo que quedaría bien, sino lo que te gusta a ti— y trátate durante ese rato como tratarías a la mejor compañía.",
+   "temas": [
+    "practica",
+    "buena compania",
+    "presencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Trátate durante ese rato como tratarías a un buen invitado",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — La compañía de uno mismo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando aprendes a estar bien contigo, dejas de necesitar a la gente por miedo y empiezas a quererla por gusto.",
+   "es_literal": true,
+   "ancla": "Cuando aprendes a estar bien contigo, dejas de necesitar a la gente por miedo y empiezas a quererla por gusto.",
+   "temas": [
+    "vinculos",
+    "miedo",
+    "eleccion"
+   ],
+   "intensidad": 5,
+   "gancho": "Necesitar por miedo y querer por gusto no son lo mismo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — La compañía de uno mismo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Necesitar soledad para recuperarte no es un síntoma de que algo vaya mal en ti: es una necesidad tan legítima como la de dormir o comer. Al que duerme ocho horas no lo llamamos vago.",
+   "es_literal": false,
+   "ancla": "Necesitar soledad para recuperarte no es un síntoma de que algo vaya mal en ti; es una necesidad tan legítima como la de dormir o comer.",
+   "temas": [
+    "introversion",
+    "energia",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "El introvertido no está roto: administra la energía distinto",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5 — La compañía de uno mismo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Estar solo no es quedarte sin nadie: es aprender a estar contigo. Pero aprender a estar contigo nunca ha querido decir tener que hacerlo todo tú solo.",
+   "es_literal": true,
+   "ancla": "Estar solo no es quedarte sin nadie: es aprender a estar contigo. Pero aprender a estar contigo nunca ha querido decir tener que hacerlo todo tú solo.",
+   "temas": [
+    "tesis",
+    "duelo",
+    "ayuda"
+   ],
+   "intensidad": 5,
+   "gancho": "La frase que sostiene el libro, con su matiz al lado",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — El silencio y la casa vacía"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este capítulo no le pide a nadie en duelo que apague la tele de golpe y abrace el silencio como si fuera un regalo. Eso sería cruel y sería falso.",
+   "es_literal": false,
+   "ancla": "Así que este capítulo no le va a pedir a Ramón —ni a ti, si estás en un momento parecido— que apague la tele de golpe y abrace el silencio como si fuera un regalo. Eso sería cruel y sería falso.",
+   "temas": [
+    "duelo",
+    "silencio",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que este libro no le pide a quien está en un duelo",
+   "formatos": [
+    "cita",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — El silencio y la casa vacía"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) No apagues la tele toda la tarde: apágala diez minutos. 2) Elige un momento del día que no sea el peor. 3) Siéntate donde estés a gusto y quédate, sin exigirte sentir nada bonito. 4) Cuando pasen, si quieres, la vuelves a encender.",
+   "es_literal": false,
+   "ancla": "Empieza por muy poco. No apagues la tele toda la tarde. Apágala diez minutos. Diez. Elige un momento del día que no sea el peor —no la noche, si la noche es cuando más se hunde la casa— y quédate esos diez minutos sin ruido de fondo.",
+   "temas": [
+    "practica",
+    "silencio",
+    "duelo"
+   ],
+   "intensidad": 3,
+   "gancho": "Diez minutos sin ruido de fondo. Nadie te quita la muleta de golpe",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6 — El silencio y la casa vacía"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El silencio deja de asustar el día en que dejas de huir de él; no antes, y no de golpe.",
+   "es_literal": true,
+   "ancla": "El silencio deja de asustar el día en que dejas de huir de él; no antes, y no de golpe.",
+   "temas": [
+    "silencio",
+    "miedo",
+    "ritmo"
+   ],
+   "intensidad": 4,
+   "gancho": "Huir del silencio, a la larga, alimenta el miedo al silencio",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — El silencio y la casa vacía"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando alguien juzga que estés solo, no está diciendo nada sobre ti. Está diciendo algo sobre él.",
+   "es_literal": true,
+   "ancla": "Cuando alguien juzga que estés solo, no está diciendo nada sobre ti. Está diciendo algo sobre él.",
+   "temas": [
+    "juicio ajeno",
+    "proyeccion"
+   ],
+   "intensidad": 4,
+   "gancho": "El juicio ajeno no es un diagnóstico sobre tu vida",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — Soltar el qué pensarán"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Todos vamos por el mundo convencidos de ser observados, y por eso mismo casi nadie observa a nadie: cada uno va en su propio escenario, seguro de ser el único iluminado.",
+   "es_literal": false,
+   "ancla": "Todos vamos por el mundo convencidos de ser observados, y por eso mismo casi nadie observa a nadie: cada uno va en su propio escenario, seguro de ser el único iluminado.",
+   "temas": [
+    "mirada ajena",
+    "efecto foco"
+   ],
+   "intensidad": 4,
+   "gancho": "El que va solo dos filas delante cree exactamente lo mismo que tú",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 7 — Soltar el qué pensarán"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige un plan que creías «de dos» y que te apetezca de verdad: un café, una película, una comida. 2) Hazlo sin buscar compañía. 3) Sin justificarte. 4) Sin el móvil de escudo: mira a la gente, atiende a la película, estate ahí.",
+   "es_literal": false,
+   "ancla": "haz solo un plan que creías «de dos». Elige uno que te apetezca de verdad —un café, una película, una comida, un paseo por un sitio nuevo— y hazlo sin buscar compañía, sin justificarte y sin usar el móvil de escudo.",
+   "temas": [
+    "practica",
+    "planes",
+    "presencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Empieza por el peldaño que te dé vértigo pero sea alcanzable",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — Soltar el qué pensarán"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Cuando aparezca el «qué pensarán», hazle una pregunta honesta: ¿quién, exactamente, está pensando eso de mí? ¿Puedo verle la cara? Casi siempre el juez es un fantasma.",
+   "es_literal": false,
+   "ancla": "«¿Quién, exactamente, está pensando eso de mí? ¿Puedo verle la cara?». Casi siempre la respuesta es que no hay nadie. Que el juez es un fantasma. Que el público está vacío.",
+   "temas": [
+    "mirada ajena",
+    "miedo",
+    "pregunta"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Quién está pensando mal de mí ahora mismo? A ver, nómbralo",
+   "formatos": [
+    "pin",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — Soltar el qué pensarán"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El móvil boca arriba sobre el muslo, para notar la vibración en cuanto llegue. Una casa entera, una serie a medias, un libro empezado. Y no poder con ninguno.",
+   "es_literal": false,
+   "ancla": "con el móvil boca arriba sobre el muslo para notar la vibración en cuanto llegara, incapaz de concentrarse en nada. Tenía una casa entera para ella, una serie a medias, un libro empezado, un montón de cosas que hacer. Y no podía con ninguna.",
+   "temas": [
+    "dependencia",
+    "movil",
+    "espera"
+   ],
+   "intensidad": 3,
+   "gancho": "Un mensaje sin responder y la tarde entera secuestrada",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 8 — Depender menos"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Querer es «me alegra tenerte». Necesitar desesperadamente es «sin ti, o sin tu respuesta ahora mismo, me caigo». Depender menos no es querer menos.",
+   "es_literal": false,
+   "ancla": "Querer es «me alegra tenerte». Necesitar desesperadamente es «sin ti, o sin tu respuesta ahora mismo, me caigo». Lo primero suma.",
+   "temas": [
+    "dependencia",
+    "querer",
+    "vinculos"
+   ],
+   "intensidad": 4,
+   "gancho": "La línea finísima entre querer y necesitar desesperadamente",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — Depender menos"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Dónde vive tu bienestar? ¿Dentro de ti, donde puedes acceder a él, o fuera, en manos de otros, a la espera de que te lo concedan?",
+   "es_literal": false,
+   "ancla": "¿dónde vive tu bienestar? ¿Dentro de ti, donde puedes acceder a él, o fuera, en manos de otros, a la espera de que te lo concedan?",
+   "temas": [
+    "dependencia",
+    "autonomia"
+   ],
+   "intensidad": 4,
+   "gancho": "Si tu calma está fuera, cualquiera te la quita con un silencio",
+   "formatos": [
+    "pin",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — Depender menos"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Pasa un rato sin buscar compañía ni aprobación. 2) Si has enviado un mensaje, déjalo estar y ocúpate de otra cosa. 3) Cuando aparezca el impulso de coger el móvil solo para no sentirte solo, para un segundo y respira. 4) Sostén el hueco tú, aunque sean minutos.",
+   "es_literal": false,
+   "ancla": "pasa un rato sin buscar compañía ni aprobación, a gusto contigo. Si has enviado un mensaje, déjalo estar y ocúpate de otra cosa sin quedarte pendiente de la respuesta.",
+   "temas": [
+    "practica",
+    "dependencia",
+    "movil"
+   ],
+   "intensidad": 3,
+   "gancho": "Manda el mensaje y sigue con tu vida en vez de quedarte de guardia",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — Depender menos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El tiempo contigo no es lo que te sobra cuando has atendido a todos: es lo que te permite atenderlos sin vaciarte.",
+   "es_literal": true,
+   "ancla": "El tiempo contigo no es lo que te sobra cuando has atendido a todos: es lo que te permite atenderlos sin vaciarte.",
+   "temas": [
+    "espacio propio",
+    "culpa",
+    "necesidad"
+   ],
+   "intensidad": 4,
+   "gancho": "El espacio propio no es un capricho que se saca del sobrante",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — Ratos a solas a propósito"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Abre el calendario ahora y agenda una cita contigo esta semana. 2) Ponle día y hora: un bloque real, una hora basta. 3) Protégela como protegerías un compromiso con otra persona. 4) Cuando llegue, haz solo lo que te apetezca, sin rendir cuentas.",
+   "es_literal": false,
+   "ancla": "abre el calendario ahora y agenda una cita contigo mismo esta semana. Ponle día y hora, un bloque real —una hora basta para empezar—, y trátala como el compromiso que es: protégela, no la canceles, no dejes que nada la invada.",
+   "temas": [
+    "practica",
+    "cita contigo",
+    "calendario"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que no está en el calendario no existe. También tu rato",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — Ratos a solas a propósito"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La soledad que sufres te cae encima y la aguantas como se aguanta la lluvia. La que eliges la buscas, la agendas, la proteges. La primera es un hueco que tapas; la segunda, un espacio que abres.",
+   "es_literal": false,
+   "ancla": "Una es la soledad que sufres: la que te cae encima sin pedirla y que aguantas como se aguanta la lluvia. La otra es la soledad que eliges: la que buscas a propósito, la que agendas, la que proteges",
+   "temas": [
+    "solitud",
+    "eleccion",
+    "soledad"
+   ],
+   "intensidad": 4,
+   "gancho": "De padecer la soledad a citarla: ahí está todo el salto",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — Ratos a solas a propósito"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Una cita contigo con el móvil encima, mirándolo cada dos minutos, no es una cita contigo: es una cita con el móvil en la que tú estás de acompañante.",
+   "es_literal": false,
+   "ancla": "Una cita contigo con el móvil encima, mirándolo cada dos minutos, no es una cita contigo: es una cita con el móvil en la que tú estás de acompañante.",
+   "temas": [
+    "cita contigo",
+    "movil",
+    "presencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Déjalo en otra habitación. Al principio cuesta; luego se agradece",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — Ratos a solas a propósito"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No estás solo cuando tienes una pantalla en la mano: estás en compañía de todo el mundo menos de ti.",
+   "es_literal": true,
+   "ancla": "No estás solo cuando tienes una pantalla en la mano: estás en compañía de todo el mundo menos de ti.",
+   "temas": [
+    "pantallas",
+    "soledad falsa"
+   ],
+   "intensidad": 5,
+   "gancho": "La forma más cómoda y más engañosa de huir de uno mismo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — Estar solo sin pantallas"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La lámpara cálida, la infusión, la manta buena. Y media hora mirando la pantalla cuarenta veces: abrir tres veces la misma red social sin que hubiera cambiado nada, contestar dos mensajes sin ninguna urgencia.",
+   "es_literal": false,
+   "ancla": "Había abierto tres veces la misma red social sin que hubiera cambiado nada. Había contestado a dos mensajes que no tenían ninguna urgencia.",
+   "temas": [
+    "pantallas",
+    "scroll",
+    "cotidiano"
+   ],
+   "intensidad": 3,
+   "gancho": "Parecía una tarde tranquila consigo misma. No lo era",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 10 — Estar solo sin pantallas"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Medio segundo de conciencia entre el impulso y el gesto. El suficiente para preguntarte: ¿esto es para hacer, o para escapar?",
+   "es_literal": false,
+   "ancla": "Aprender a estar solo empieza, muchas veces, por meter medio segundo de conciencia entre el impulso y el gesto. Solo medio segundo. El suficiente para preguntarte: ¿esto es para hacer, o para escapar?",
+   "temas": [
+    "movil",
+    "impulso",
+    "conciencia"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Cojo el móvil para hacer algo o para no estar donde estoy?",
+   "formatos": [
+    "pin",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — Estar solo sin pantallas"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Creemos que el móvil nos quita la soledad, y en realidad nos quita las dos cosas a la vez: no nos da compañía de verdad y tampoco nos deja estar solos de verdad.",
+   "es_literal": false,
+   "ancla": "Creemos que el móvil nos quita la soledad, y en realidad nos quita las dos cosas a la vez: no nos da compañía de verdad y tampoco nos deja estar solos de verdad.",
+   "temas": [
+    "pantallas",
+    "compania",
+    "tierra de nadie"
+   ],
+   "intensidad": 4,
+   "gancho": "Ni con otros ni contigo: la tierra de nadie de la pantalla",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — Estar solo sin pantallas"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Deja el móvil en otra habitación, no a tu lado. 2) Quédate un rato contigo sin ninguna pantalla: diez o quince minutos bastan. 3) Cuando notes el tirón de ir a por él, no lo obedezcas. 4) Quédate en el hueco y mira qué aparece cuando dejas de taparlo.",
+   "es_literal": false,
+   "ancla": "deja el móvil en otra habitación —no a tu lado, en otra— y quédate un rato contigo sin ninguna pantalla. Empieza por diez o quince minutos. Cuando notes el tirón de ir a por él, no lo obedezcas: quédate en el hueco y mira qué aparece cuando dejas de taparlo.",
+   "temas": [
+    "practica",
+    "pantallas",
+    "presencia"
+   ],
+   "intensidad": 3,
+   "gancho": "En otra habitación, no boca abajo al lado: boca abajo sigue llamando",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — Estar solo sin pantallas"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Aquí no se prometen iluminaciones. Se habla de cosas concretas, humanas, comprobables en tu propia vida si le das ocasión.",
+   "es_literal": false,
+   "ancla": "Conviene decirlo con cuidado, sin exagerar y sin vender humo, porque este es un terreno en el que es fácil caer en el entusiasmo fácil y prometer iluminaciones. No te prometo iluminaciones.",
+   "temas": [
+    "honestidad",
+    "expectativas"
+   ],
+   "intensidad": 3,
+   "gancho": "Sin entusiasmo fácil: lo que la soledad elegida sí trae",
+   "formatos": [
+    "cita",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Lo que la soledad te da"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "A solas no tienes que ser nada para nadie: ni agradable, ni interesante, ni fuerte, ni el que anima la reunión. Puedes aflojar y dejar la cara de estar bien.",
+   "es_literal": false,
+   "ancla": "Cuando estás solo y no tienes que ser nada para nadie, ni agradable, ni interesante, ni fuerte, ni el que anima la reunión. Puedes, sencillamente, aflojar. Dejar la cara de estar bien.",
+   "temas": [
+    "descanso",
+    "publico",
+    "regalos"
+   ],
+   "intensidad": 4,
+   "gancho": "El descanso de no tener público solo se encuentra a solas",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — Lo que la soledad te da"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La soledad no es un pozo seco que hay que aguantar hasta que alguien lo llene. Es un manantial que mana de ti, si le quitas las piedras que lo tapan.",
+   "es_literal": true,
+   "ancla": "La soledad no es un pozo seco que hay que aguantar hasta que alguien lo llene. Es un manantial que mana de ti, si le quitas las piedras que lo tapan.",
+   "temas": [
+    "regalos",
+    "soledad",
+    "imagen"
+   ],
+   "intensidad": 5,
+   "gancho": "Las piedras son el miedo, la prisa, el ruido, la costumbre de huir",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — Lo que la soledad te da"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige algo que solo florece a solas: pensar una decisión sin interrupciones, escribir, pintar, pasear sin rumbo. 2) Hazlo sin público y sin enseñárselo a nadie. 3) Quédate el rato suficiente, sin salir corriendo en los primeros minutos incómodos.",
+   "es_literal": false,
+   "ancla": "dedica un rato a algo que solo florece a solas —pensar sin interrupciones una decisión que traes entre manos, escribir, pintar, pasear sin rumbo ni compañía—. No lo hagas para enseñarlo a nadie.",
+   "temas": [
+    "practica",
+    "creatividad",
+    "claridad"
+   ],
+   "intensidad": 3,
+   "gancho": "Los primeros minutos casi nunca dan nada: son de aclimatación",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — Lo que la soledad te da"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La soledad sana te devuelve a la vida más lleno; el aislamiento te va apartando de ella, y te vacía fingiendo que te protege.",
+   "es_literal": true,
+   "ancla": "La soledad sana te devuelve a la vida más lleno; el aislamiento te va apartando de ella, y te vacía fingiendo que te protege.",
+   "temas": [
+    "aislamiento",
+    "frontera",
+    "soledad sana"
+   ],
+   "intensidad": 5,
+   "gancho": "La frontera entre la soledad que nutre y el encierro que vacía",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — Solo pero no aislado"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El aislamiento es sigiloso. No llega con un cartel que lo anuncie: llega disfrazado de cosas razonables. Un «hoy no me apetece» que se repite. Nadie decide aislarse; uno se descubre aislado.",
+   "es_literal": false,
+   "ancla": "El aislamiento es sigiloso. No llega de un día para otro con un cartel que diga «aislamiento». Llega despacio, disfrazado de cosas razonables. Un «hoy no me apetece» que se repite.",
+   "temas": [
+    "aislamiento",
+    "senales"
+   ],
+   "intensidad": 4,
+   "gancho": "Cada paso parece sensato; por eso cuesta ver el conjunto",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12 — Solo pero no aislado"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "No te preguntes cuánto tiempo pasas solo, que eso engaña. Pregúntate si estás solo porque lo eliges o porque ya no sabes estar de otra manera.",
+   "es_literal": false,
+   "ancla": "no te preguntes cuánto tiempo pasas solo, que eso engaña, sino si estás solo porque lo eliges o porque ya no sabes estar de otra manera.",
+   "temas": [
+    "aislamiento",
+    "eleccion",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "El reloj no lo dice. Solo lo dice la honestidad contigo",
+   "formatos": [
+    "pin",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — Solo pero no aislado"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No eliges bien a quién quieres cerca hasta que dejas de necesitar a alguien, quien sea, para no estar solo.",
+   "es_literal": true,
+   "ancla": "No eliges bien a quién quieres cerca hasta que dejas de necesitar a alguien, quien sea, para no estar solo.",
+   "temas": [
+    "vinculos",
+    "eleccion",
+    "miedo"
+   ],
+   "intensidad": 5,
+   "gancho": "El miedo a la soledad es un pésimo criterio para elegir compañía",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — Mejores vínculos desde la soledad"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El vínculo-refugio se sostiene por miedo al vacío: «te necesito para no estar solo». El vínculo elegido se sostiene desde un sitio lleno: «te elijo». Uno es un rescate; el otro, un regalo.",
+   "es_literal": false,
+   "ancla": "es el que sostienes desde un sitio lleno. Su lógica es «te elijo». No te hace falta esa persona para respirar, y precisamente por eso su presencia es un regalo y no un rescate.",
+   "temas": [
+    "vinculos",
+    "refugio",
+    "eleccion"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos vínculos que por fuera se parecen y por dentro son opuestos",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — Mejores vínculos desde la soledad"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Casi todos hemos sostenido vínculos por miedo a estar solos en algún momento, y no tiene nada de vergonzoso. Revisar no es condenar: no fuiste falso, fuiste una persona con miedo.",
+   "es_literal": false,
+   "ancla": "Casi todos hemos sostenido vínculos por miedo a estar solos en algún momento, y no tiene nada de vergonzoso. Es de lo más humano.",
+   "temas": [
+    "vinculos",
+    "culpa",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Revisar tus vínculos sin látigo y sin sentencias",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — Mejores vínculos desde la soledad"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El espacio en una pareja no es la distancia que os separa: es el aire que os deja seguir queriéndoos sin ahogaros.",
+   "es_literal": true,
+   "ancla": "El espacio en una pareja no es la distancia que os separa: es el aire que os deja seguir queriéndoos sin ahogaros.",
+   "temas": [
+    "pareja",
+    "espacio",
+    "convivencia"
+   ],
+   "intensidad": 5,
+   "gancho": "Las relaciones que no dejan ni un hueco de aire se asfixian",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — La soledad en pareja y en familia"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Que quieras una hora a solas no significa que quieras a tu pareja una hora menos. Tu cuarto, tu paseo, tu rato de silencio no son un mensaje cifrado de «me aburres».",
+   "es_literal": false,
+   "ancla": "Que quieras una hora a solas no significa que quieras a tu pareja una hora menos. Que necesites tu cuarto, tu paseo, tu rato de silencio, no es un mensaje cifrado de «me aburres» ni de «prefiero no estar contigo».",
+   "temas": [
+    "pareja",
+    "espacio",
+    "malentendidos"
+   ],
+   "intensidad": 4,
+   "gancho": "Tu espacio no le resta amor a nadie",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — La soledad en pareja y en familia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para pedir tu rato sin abrir grietas: 1) Avisa antes, no desaparezcas a media tarde. 2) Di la causa: «no es por nada tuyo». 3) Anuncia el regreso: «vuelvo y cenamos». 4) Dilo con cariño y con antelación.",
+   "es_literal": false,
+   "ancla": "reserva hoy o esta semana un rato para ti dentro de la convivencia —media hora en tu cuarto, un paseo tú solo, un café sin nadie— y, en lugar de escaparte a hurtadillas, comunícalo bien: «necesito un rato para mí, no es por ti, vuelvo mejor».",
+   "temas": [
+    "practica",
+    "pareja",
+    "limites"
+   ],
+   "intensidad": 3,
+   "gancho": "Aviso, causa y regreso: el espacio que promete volver no asusta",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — La soledad en pareja y en familia"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Estar solo por elección es un arte; estar solo por pérdida es un duelo. Y a un duelo no se le da un curso: se le da tiempo, y compañía, y permiso para doler.",
+   "es_literal": true,
+   "ancla": "Estar solo por elección es un arte; estar solo por pérdida es un duelo. Y a un duelo no se le da un curso: se le da tiempo, y compañía, y permiso para doler.",
+   "temas": [
+    "duelo",
+    "soledad no elegida",
+    "respeto"
+   ],
+   "intensidad": 5,
+   "gancho": "A un duelo no se le da un curso",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — La soledad que no elegiste"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro lo dice sin rodeos: la soledad no deseada, la que persiste y duele y no afloja con el tiempo, merece vínculos y, si hace falta, ayuda profesional. Pedirla no es rendirse.",
+   "es_literal": false,
+   "ancla": "La soledad no deseada, la que persiste y duele y no afloja con el tiempo, merece vínculos y, si hace falta, ayuda profesional.",
+   "temas": [
+    "ayuda",
+    "limites del libro",
+    "honestidad"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que ningún capítulo puede sustituir",
+   "formatos": [
+    "cita",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — La soledad que no elegiste"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El duelo no es una cuesta que se sube en línea recta hasta salir: se parece más al mar, con olas grandes que de golpe te tapan y ratos de calma en los que respiras. Que vuelva una ola no significa que lo hagas mal.",
+   "es_literal": false,
+   "ancla": "El duelo no es una cuesta que se sube en línea recta hasta salir; se parece más al mar, que sube y baja, con olas grandes que de golpe te tapan y ratos de calma en los que respiras.",
+   "temas": [
+    "duelo",
+    "vaiven",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie va rápido en esto. Nadie",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "audio"
+   ],
+   "capitulo": "Capítulo 15 — La soledad que no elegiste"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando la soledad pesa, dos gestos el mismo día: 1) Uno hacia dentro, mínimo: un baño caliente, tu comida favorita, sentarte al sol. 2) Uno hacia fuera: un mensaje, aceptar una compañía que evitabas, o decirle a alguien de confianza cómo estás de verdad.",
+   "es_literal": false,
+   "ancla": "haz dos gestos pequeños, uno en cada dirección. Uno hacia dentro: algo amable contigo, aunque sea mínimo —un baño caliente, tu comida favorita, sentarte al sol un rato—. Y uno hacia fuera: tiéndele la mano a alguien, escribe un mensaje, acepta una compañía que llevabas evitando",
+   "temas": [
+    "practica",
+    "duelo",
+    "vinculos"
+   ],
+   "intensidad": 4,
+   "gancho": "Una mano hacia dentro y otra hacia fuera, el mismo día",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15 — La soledad que no elegiste"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Pasar del miedo a la soledad al desprecio de la gente no es haber crecido: es haber cambiado de huida.",
+   "es_literal": true,
+   "ancla": "Pasar del miedo a la soledad al desprecio de la gente no es haber crecido: es haber cambiado de huida.",
+   "temas": [
+    "pendulo",
+    "aislamiento",
+    "orgullo"
+   ],
+   "intensidad": 5,
+   "gancho": "El riesgo del que casi nadie avisa cuando aprendes a estar solo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — Hacer las paces con estar solo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "No hay una proporción correcta de soledad y compañía que valga para todo el mundo. Lo que cuenta no es el reparto, sino el motor: si eliges desde la calma o reaccionas desde el miedo.",
+   "es_literal": false,
+   "ancla": "La pregunta no es «¿cuánta soledad es la sana?», porque no tiene una respuesta universal. La pregunta es «¿estoy eligiendo desde la calma o reaccionando desde el miedo?».",
+   "temas": [
+    "equilibrio",
+    "motor",
+    "eleccion"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuando el motor es el gusto y no el miedo, la proporción es tuya",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16 — Hacer las paces con estar solo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Quien no soporta su propia compañía vivirá huyendo y dependiendo: de la gente, de la pareja, de las pantallas, de la aprobación. Quien la disfruta puede quedarse o irse, acompañarse o retirarse. Elegir.",
+   "es_literal": false,
+   "ancla": "quien no soporta su propia compañía vivirá huyendo y dependiendo toda la vida —de la gente, de la pareja, de las pantallas, de la aprobación—, y quien la disfruta, en cambio, puede quedarse o irse, acompañarse o retirarse, elegir.",
+   "temas": [
+    "libertad",
+    "dependencia",
+    "cierre"
+   ],
+   "intensidad": 5,
+   "gancho": "Dejar de estar a merced del vacío es una libertad de fondo",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "audio"
+   ],
+   "capitulo": "CIERRE — A gusto contigo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No se trata de preferir la soledad. Se trata de poder decir «me apetece estar con gente» sin que sea huida, y «me apetece estar solo» sin que sea encierro.",
+   "es_literal": false,
+   "ancla": "De poder decir «me apetece estar con gente» sin que sea huida, y «me apetece estar solo» sin que sea encierro.",
+   "temas": [
+    "equilibrio",
+    "cierre",
+    "libertad"
+   ],
+   "intensidad": 4,
+   "gancho": "Las dos casas abiertas, y ninguna de las dos da miedo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "CIERRE — A gusto contigo"
+  }
+ ]
+}

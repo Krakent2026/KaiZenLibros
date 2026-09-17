@@ -1,0 +1,1283 @@
+{
+ "serie": "los_mensajeros",
+ "libro": "el-bab",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "No sabían —no podían saber— que hay semillas que solo germinan cuando caen partidas en la tierra, y que la sangre de ciertos hombres no apaga el fuego que encendieron, sino que lo extiende.",
+   "es_literal": true,
+   "ancla": "No sabían —no podían saber— que hay semillas que solo germinan cuando caen partidas en la tierra, y que la sangre de ciertos hombres no apaga el fuego que encendieron, sino que lo extiende.",
+   "temas": [
+    "semilla",
+    "persecucion",
+    "tabriz"
+   ],
+   "intensidad": 5,
+   "gancho": "Hay semillas que solo germinan cuando caen partidas",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Diez mil personas llenan al alba la plaza de Tabríz y ninguna habla en voz alta. Solo un murmullo continuo, hecho de rezos a medias y de nombres susurrados.",
+   "es_literal": false,
+   "ancla": "Se decía que había allí, aquella mañana, cerca de diez mil almas, y que ni una sola hablaba en voz alta.",
+   "temas": [
+    "tabriz",
+    "multitud",
+    "1850"
+   ],
+   "intensidad": 4,
+   "gancho": "Diez mil personas y ni una sola voz alta",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Se reconocían entre sí con una mirada rápida y volvían a bajar los ojos.",
+   "es_literal": true,
+   "ancla": "mordiéndose los labios para no gritar. Se reconocían entre sí con una mirada rápida y volvían a bajar los ojos.",
+   "temas": [
+    "miedo",
+    "amistad",
+    "tabriz"
+   ],
+   "intensidad": 4,
+   "gancho": "Los que lo amaban, callados entre la multitud",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El maestro pronuncia la primera palabra del Corán y espera que el niño la repita. El niño no la repite: pregunta qué significa, y vuelve a preguntar, hasta que el maestro se queda sin respuesta.",
+   "es_literal": false,
+   "ancla": "El maestro pronunció la primera palabra y esperó que el niño la repitiera. Pero el niño no la repitió.",
+   "temas": [
+    "infancia",
+    "escuela",
+    "shiraz"
+   ],
+   "intensidad": 4,
+   "gancho": "El niño que no repetía: preguntaba",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El niño que sabía sin que le enseñaran"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Los demás niños corren al patio a perseguirse y gritar. Uno se queda de pie junto al muro, con el rostro alzado hacia el cielo del mediodía, ajeno al bullicio.",
+   "es_literal": false,
+   "ancla": "vio al pequeño Alí Muhammad de pie junto al muro, muy quieto, con el rostro alzado hacia el cielo del mediodía y las manos juntas sobre el pecho, absorto en una oración silenciosa",
+   "temas": [
+    "infancia",
+    "oracion",
+    "escuela"
+   ],
+   "intensidad": 3,
+   "gancho": "Todos al patio; uno se queda junto al muro",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El niño que sabía sin que le enseñaran"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Este niño no necesita de un maestro como yo. Es él quien podría enseñarme a mí.",
+   "es_literal": true,
+   "ancla": "—Te traigo de nuevo lo que tú me confiaste, y te lo devuelvo con temor. Este niño no necesita de un maestro como yo. Es él quien podría enseñarme a mí.",
+   "temas": [
+    "maestro",
+    "humildad",
+    "infancia"
+   ],
+   "intensidad": 4,
+   "gancho": "Un maestro devuelve a su alumno, y explica por qué",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El niño que sabía sin que le enseñaran"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Pero la hondura no se le fue. Sencillamente, aprendió a guardarla dentro, como quien lleva una brasa en el hueco de las manos para que el viento no la apague.",
+   "es_literal": true,
+   "ancla": "Pero la hondura no se le fue. Sencillamente, aprendió a guardarla dentro, como quien lleva una brasa en el hueco de las manos para que el viento no la apague.",
+   "temas": [
+    "infancia",
+    "interioridad",
+    "silencio"
+   ],
+   "intensidad": 4,
+   "gancho": "Aprender a llevar la brasa en el hueco de las manos",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El niño que sabía sin que le enseñaran"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No había en él codicia. Y un mercader sin codicia era, en Bushihr, tan extraño como un pez fuera del agua.",
+   "es_literal": true,
+   "ancla": "No había en él codicia. Y un mercader sin codicia era, en Bushihr, tan extraño como un pez fuera del agua.",
+   "temas": [
+    "honradez",
+    "bushihr",
+    "comercio"
+   ],
+   "intensidad": 4,
+   "gancho": "Un mercader sin codicia en un puerto hecho de codicia",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — El mercader honrado"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un cliente entra a buscarlo una tarde y lo encuentra inclinado sobre unas páginas, con las mejillas húmedas. Se retira en silencio, sin atreverse a interrumpirlo, y nunca sabrá qué había leído allí.",
+   "es_literal": false,
+   "ancla": "Un cliente que fue a buscarlo cierta tarde lo encontró así, inclinado sobre unas páginas, con las mejillas húmedas de lágrimas, y se retiró en silencio, sin osar interrumpirlo",
+   "temas": [
+    "bushihr",
+    "escritura",
+    "intimidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Entró a cerrar un trato y lo encontró llorando",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — El mercader honrado"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Cuando comprenden que el niño se va, el padre lo toma en brazos y no lo suelta: lo mece despacio junto a la ventana abierta a la brisa del golfo, murmurándole algo que nadie alcanza a oír.",
+   "es_literal": false,
+   "ancla": "el joven padre lo tomó en brazos y no lo soltó. Lo meció despacio, junto a la ventana por la que entraba la brisa tibia del golfo, murmurándole al oído no se sabe qué palabras",
+   "temas": [
+    "duelo",
+    "hijo",
+    "paternidad"
+   ],
+   "intensidad": 5,
+   "gancho": "La noche en que meció a su hijo hasta el final",
+   "formatos": [
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 2 — El mercader honrado"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Y el joven de Shiraz lloró también, porque era hombre y era padre y tenía un corazón de carne, y quien diga que los santos no lloran a sus muertos no ha entendido nada de los santos.",
+   "es_literal": true,
+   "ancla": "Y el joven de Shiraz lloró también, porque era hombre y era padre y tenía un corazón de carne, y quien diga que los santos no lloran a sus muertos no ha entendido nada de los santos.",
+   "temas": [
+    "duelo",
+    "paternidad",
+    "humanidad"
+   ],
+   "intensidad": 5,
+   "gancho": "Quien diga que los santos no lloran a sus muertos",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — El mercader honrado"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cada creyente, en el fondo de su corazón, guardaba aquella espera como se guarda una brasa bajo la ceniza; y aunque los siglos pasaban y el Prometido no venía, la brasa no se apagaba",
+   "es_literal": true,
+   "ancla": "Cada creyente, en el fondo de su corazón, guardaba aquella espera como se guarda una brasa bajo la ceniza; y aunque los siglos pasaban y el Prometido no venía, la brasa no se apagaba",
+   "temas": [
+    "espera",
+    "persia",
+    "esperanza"
+   ],
+   "intensidad": 4,
+   "gancho": "Mil años de espera y la brasa sin apagarse",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — La espera del Prometido"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela reconstruye la espera del Prometido tal como la vivían quienes esperaban, con el detalle que las fuentes permiten. Es ficción histórica de base documental: narra esa espera, no dictamina sobre ella.",
+   "es_literal": false,
+   "ancla": "Esperaban, como habían esperado sus padres y los padres de sus padres durante mil años, el retorno del Prometido.",
+   "temas": [
+    "ficcion-documental",
+    "espera"
+   ],
+   "intensidad": 2,
+   "gancho": "La novela cuenta la espera; no la arbitra",
+   "formatos": [
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3 — La espera del Prometido"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cuántas veces se pasa de largo junto a aquello que se llevaba años esperando, solo porque llega vestido de otra manera?",
+   "es_literal": false,
+   "ancla": "porque lo esperaban rodeado de esplendor y venía vestido de pobreza, porque lo aguardaban con estruendo y venía en silencio",
+   "temas": [
+    "reconocimiento",
+    "espera"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo aguardaban con estruendo y venía en silencio",
+   "formatos": [
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — La espera del Prometido"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Se levanta de la oración a las puertas de Shiraz y ve venir por el camino a un joven a pie, sin prisa, con el aire de quien acude a una cita concertada mucho antes.",
+   "es_literal": false,
+   "ancla": "Venía a pie, sin prisa, con una serenidad que no era la de quien pasea sino la de quien acude a una cita largamente concertada.",
+   "temas": [
+    "shiraz",
+    "encuentro",
+    "1844"
+   ],
+   "intensidad": 4,
+   "gancho": "Un desconocido en el camino, al caer la tarde",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — La noche del anuncio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "yo soy solo la Puerta. Aquel a quien Dios hará manifiesto es mayor que yo. Yo soy el alba que anuncia el sol; Él es el sol. Yo soy la letra; Él es el Libro.",
+   "es_literal": true,
+   "ancla": "yo soy solo la Puerta. Aquel a quien Dios hará manifiesto es mayor que yo. Yo soy el alba que anuncia el sol; Él es el sol. Yo soy la letra; Él es el Libro.",
+   "temas": [
+    "puerta",
+    "anuncio",
+    "humildad"
+   ],
+   "intensidad": 5,
+   "gancho": "Yo soy el alba que anuncia el sol; Él es el sol",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — La noche del anuncio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Yo, que hasta entonces me había tenido por sabio, comprendí que no sabía nada; y en aquella nada, por primera vez, fui rico.",
+   "es_literal": true,
+   "ancla": "Yo, que hasta entonces me había tenido por sabio, comprendí que no sabía nada; y en aquella nada, por primera vez, fui rico.",
+   "temas": [
+    "humildad",
+    "saber",
+    "busqueda"
+   ],
+   "intensidad": 5,
+   "gancho": "Entró siendo el más docto y salió siendo un principiante",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — La noche del anuncio"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Las palabras del joven no argumentaban: revelaban. No trataban de convencer: alumbraban.",
+   "es_literal": true,
+   "ancla": "Lo que ahora se le venía encima no era una enseñanza más elevada que la suya, sino de otra clase enteramente. Las palabras del joven no argumentaban: revelaban. No trataban de convencer: alumbraban.",
+   "temas": [
+    "palabra",
+    "reconocimiento"
+   ],
+   "intensidad": 4,
+   "gancho": "No argumentaban: revelaban",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — La noche del anuncio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La fe que se recibe de otro se puede perder; la que nace de dentro no se pierde jamás.",
+   "es_literal": true,
+   "ancla": "para que su fe fuera enteramente suya y nadie pudiera arrebatársela después. La fe que se recibe de otro se puede perder; la que nace de dentro no se pierde jamás.",
+   "temas": [
+    "fe",
+    "libertad",
+    "conviccion"
+   ],
+   "intensidad": 4,
+   "gancho": "La fe que se recibe de otro se puede perder",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — Las Letras del Viviente"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Uno había soñado la víspera con una casa de patio pequeño y un limonero, y al ver el limonero real supo que había llegado. Otro reconoció, en una sola frase, la respuesta a una oración dicha a solas en el desierto.",
+   "es_literal": false,
+   "ancla": "Otro había soñado, la víspera de partir, con una casa de patio pequeño y un limonero, y al ver el limonero real supo que había llegado a su destino.",
+   "temas": [
+    "shiraz",
+    "discipulos",
+    "sueno"
+   ],
+   "intensidad": 4,
+   "gancho": "Llegaban de uno en uno, guiados por un sueño",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — Las Letras del Viviente"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "No salió a buscar seguidores ni mandó emisarios a reunirlos. Esperó, y dejó que cada uno llegara por su propia sed. Lo que nadie te ha empujado a elegir tampoco te lo puede arrebatar nadie.",
+   "es_literal": false,
+   "ancla": "así el Báb permanecía en su casa de Shiraz y dejaba que la sed de cada alma la trajera por su propio pie",
+   "temas": [
+    "libertad",
+    "discipulos",
+    "espera"
+   ],
+   "intensidad": 3,
+   "gancho": "No salió a buscarlos: esperó a que llegaran",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — Las Letras del Viviente"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Id como mensajeros, no como conquistadores. No llevéis más arma que la palabra, ni más fuerza que el amor, ni más prueba que vuestra propia vida transformada. No obliguéis a nadie; solo anunciad.",
+   "es_literal": true,
+   "ancla": "Id como mensajeros, no como conquistadores. No llevéis más arma que la palabra, ni más fuerza que el amor, ni más prueba que vuestra propia vida transformada. No obliguéis a nadie; solo anunciad.",
+   "temas": [
+    "mision",
+    "no-violencia",
+    "palabra"
+   ],
+   "intensidad": 5,
+   "gancho": "Mensajeros, no conquistadores",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — Las Letras del Viviente"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En medio de la marea de peregrinos, se aferra a la anilla de la puerta de la Kaaba —el gesto reservado a quien va a hacer una declaración solemne— y alza la voz por encima del rumor de la multitud.",
+   "es_literal": false,
+   "ancla": "Se aferró a la anilla de la puerta de la Kaaba —un gesto que la tradición reservaba a quien iba a hacer ante Dios una declaración solemne—",
+   "temas": [
+    "la-meca",
+    "proclamacion",
+    "peregrinacion"
+   ],
+   "intensidad": 5,
+   "gancho": "El gesto que se hacía antes de decir algo irrevocable",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — La Meca"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque así obra siempre la verdad: no arrasa como el viento, sino que prende como la brasa, aquí y allá, en los corazones dispuestos.",
+   "es_literal": true,
+   "ancla": "Porque así obra siempre la verdad: no arrasa como el viento, sino que prende como la brasa, aquí y allá, en los corazones dispuestos.",
+   "temas": [
+    "verdad",
+    "proclamacion"
+   ],
+   "intensidad": 4,
+   "gancho": "La verdad no arrasa: prende",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6 — La Meca"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "No quiso que su anuncio quedara en rumor de provincia. Lo llevó al lugar hacia el que millones vuelven el rostro cada día, para decirlo donde todos estaban reunidos.",
+   "es_literal": false,
+   "ancla": "El Báb no quería que su reclamo quedara reducido a un rumor de provincia persa, a una novedad que naciera y muriera entre las paredes de Shiraz.",
+   "temas": [
+    "la-meca",
+    "proclamacion",
+    "valentia"
+   ],
+   "intensidad": 4,
+   "gancho": "Decirlo en el centro y no en los márgenes",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — La Meca"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Por primera vez en mi vida siento que la puerta está abierta. Que el aire que entra por ella viene de un sitio verdadero. Moriré pronto, pero moriré de cara a esa puerta.",
+   "es_literal": true,
+   "ancla": "Por primera vez en mi vida siento que la puerta está abierta. Que el aire que entra por ella viene de un sitio verdadero. Moriré pronto, pero moriré de cara a esa puerta.",
+   "temas": [
+    "espera",
+    "vejez",
+    "esperanza"
+   ],
+   "intensidad": 5,
+   "gancho": "Moriré pronto, pero moriré de cara a esa puerta",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 7 — La alarma de los doctores"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Este muchacho no niega a Dios; ojalá lo negara, sería más fácil de rebatir. Lo que hace es peor: dice que Dios ha vuelto a hablar. Y si Dios ha vuelto a hablar, entonces nosotros llevábamos siglos hablando solos.",
+   "es_literal": true,
+   "ancla": "Este muchacho no niega a Dios; ojalá lo negara, sería más fácil de rebatir. Lo que hace es peor: dice que Dios ha vuelto a hablar. Y si Dios ha vuelto a hablar, entonces nosotros llevábamos siglos hablando solos.",
+   "temas": [
+    "clero",
+    "poder",
+    "miedo"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que temían no era la negación: era el anuncio",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — La alarma de los doctores"
+  },
+  {
+   "tipo": "cita",
+   "texto": "¿Y cómo voy a decir que miente el que me ha enseñado a no mentir?",
+   "es_literal": true,
+   "ancla": "—¿Y cómo voy a decir que miente el que me ha enseñado a no mentir?",
+   "temas": [
+    "fidelidad",
+    "persecucion",
+    "coherencia"
+   ],
+   "intensidad": 5,
+   "gancho": "Le ofrecían la casa a cambio de una sola palabra",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — La alarma de los doctores"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué habrá visto ese hombre para preferir el látigo a negarlo? Es la pregunta que la novela deja clavada en los que miraban desde la plaza.",
+   "es_literal": false,
+   "ancla": "La gente que miraba en la plaza volvía a su casa en silencio, con una pregunta clavada dentro: ¿qué habrá visto ese hombre, para preferir esto a negarlo?",
+   "temas": [
+    "persecucion",
+    "testimonio"
+   ],
+   "intensidad": 4,
+   "gancho": "La pregunta que se llevaron a casa los que miraban",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — La alarma de los doctores"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Le tienden una trampa con el versículo más discutido del Libro. Pide recado de escribir y empieza: la caña rasga el papel sin una tachadura y un criado retira las hojas para dejar sitio a las siguientes.",
+   "es_literal": false,
+   "ancla": "La caña rasgaba el papel con un rumor menudo y continuo. Las páginas se acumulaban, una sobre otra, y un criado las iba retirando con cuidado para dejar sitio a las siguientes.",
+   "temas": [
+    "isfahan",
+    "escritura",
+    "disputa"
+   ],
+   "intensidad": 4,
+   "gancho": "Le tendieron una emboscada y pidió papel",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — Isfahán"
+  },
+  {
+   "tipo": "cita",
+   "texto": "A mi edad. A mi edad, y me encuentra la luz.",
+   "es_literal": true,
+   "ancla": "el viejo gobernador se quedó largo rato en la ventana, mirando cómo clareaba sobre las cúpulas, y que murmuró para sí, como quien no acaba de creerse su propia dicha: «A mi edad. A mi edad, y me encuentra la luz.»",
+   "temas": [
+    "isfahan",
+    "vejez",
+    "escepticismo"
+   ],
+   "intensidad": 5,
+   "gancho": "A mi edad, y me encuentra la luz",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — Isfahán"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Yo no he venido a sentarme en un trono, ni a que otros ganen tronos por mí. He venido a abrir una puerta, y las puertas no reinan: se dejan atravesar y luego se quedan atrás.",
+   "es_literal": true,
+   "ancla": "Yo no he venido a sentarme en un trono, ni a que otros ganen tronos por mí. He venido a abrir una puerta, y las puertas no reinan: se dejan atravesar y luego se quedan atrás.",
+   "temas": [
+    "poder",
+    "puerta",
+    "renuncia"
+   ],
+   "intensidad": 5,
+   "gancho": "Las puertas no reinan: se dejan atravesar",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — Isfahán"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No saben que ningún confín está lejos de Dios, y que allí donde está Dios no hay destierro.",
+   "es_literal": true,
+   "ancla": "«Me han traído —escribió— al confín de la tierra para cerrarme la boca. No saben que ningún confín está lejos de Dios, y que allí donde está Dios no hay destierro.»",
+   "temas": [
+    "destierro",
+    "mah-ku",
+    "libertad"
+   ],
+   "intensidad": 5,
+   "gancho": "Allí donde está Dios no hay destierro",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — La montaña de Máh-Kú"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El alcaide sale de la fortaleza antes de amanecer y ve una figura sola, de pie en el campo helado. Es su preso, orando, con la nieve posada sobre los hombros y sin dar señales de sentir el frío.",
+   "es_literal": false,
+   "ancla": "un hombre orando en la nieve, al filo del alba, envuelto en un silencio que no era el silencio vacío de la montaña, sino un silencio lleno, habitado, como el de un templo",
+   "temas": [
+    "mah-ku",
+    "carcelero",
+    "oracion"
+   ],
+   "intensidad": 5,
+   "gancho": "Salió antes del alba y vio una figura en la nieve",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — La montaña de Máh-Kú"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Puedo perder el puesto. Puedo perder la vida. Lo que no puedo es volver a ser el que era antes de aquella mañana.",
+   "es_literal": true,
+   "ancla": "Puedo perder el puesto. Puedo perder la vida. Lo que no puedo es volver a ser el que era antes de aquella mañana. Prefiero mil veces caer sirviendo a ese hombre que prosperar traicionándolo.",
+   "temas": [
+    "mah-ku",
+    "carcelero",
+    "cambio"
+   ],
+   "intensidad": 5,
+   "gancho": "El carcelero que ya no podía volver a ser el de antes",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — La montaña de Máh-Kú"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Porque la lejanía, que él creyó que sería olvido, se volvió leyenda. La montaña, que él creyó cárcel, se volvió faro.",
+   "es_literal": true,
+   "ancla": "Hayyi Mirza Aqasi había desterrado al Báb para apagarlo, y el destierro lo encendió más. Porque la lejanía, que él creyó que sería olvido, se volvió leyenda. La montaña, que él creyó cárcel, se volvió faro.",
+   "temas": [
+    "destierro",
+    "mah-ku",
+    "poder"
+   ],
+   "intensidad": 4,
+   "gancho": "La montaña que creyeron cárcel se volvió faro",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — La montaña de Máh-Kú"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un abuelo y su nieto tardan casi tres meses en llegar al llano desde el que se divisa la fortaleza. El viejo ya no puede subir: se sienta en una piedra y mira la roca de lejos, y le basta.",
+   "es_literal": false,
+   "ancla": "He caminado tres meses, a mi edad, hacia esa montaña. Cada paso ha sido una oración. He gastado en el camino las últimas fuerzas de mi vieja vida, y las he gastado yendo hacia Él.",
+   "temas": [
+    "peregrinacion",
+    "mah-ku",
+    "vejez"
+   ],
+   "intensidad": 5,
+   "gancho": "Tres meses de camino para mirar una roca de lejos",
+   "formatos": [
+    "reel",
+    "audio",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — La montaña de Máh-Kú"
+  },
+  {
+   "tipo": "cita",
+   "texto": "He visto a un hombre encadenado a una montaña que es más libre que todos los que están sueltos en las ciudades.",
+   "es_literal": true,
+   "ancla": "«He visto a un hombre encadenado a una montaña que es más libre que todos los que están sueltos en las ciudades. Y he entendido que la puerta no la abren los hombres. La puerta la abre Dios.»",
+   "temas": [
+    "chihriq",
+    "libertad",
+    "peregrinacion"
+   ],
+   "intensidad": 5,
+   "gancho": "Un preso más libre que los que andaban sueltos",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — Chihríq, la montaña penosa"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Perdido en la ventisca y ya resignado a morir en el monte, ve arriba una lucecita amarilla temblando en la noche negra y camina hacia ella. Era la lámpara de la celda, encendida a esas horas.",
+   "es_literal": false,
+   "ancla": "vio de pronto, arriba, un resplandor tenue en una ventana de la fortaleza, una lucecita amarilla que temblaba en la noche negra, y que caminó hacia ella como el náufrago hacia la orilla",
+   "temas": [
+    "chihriq",
+    "peregrinacion",
+    "lampara"
+   ],
+   "intensidad": 5,
+   "gancho": "Se perdió en la ventisca y caminó hacia una lámpara",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 10 — Chihríq, la montaña penosa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Guardad vuestros corazones para el Alba. La noche es larga y es fría, pero ninguna noche ha vencido nunca al amanecer.",
+   "es_literal": true,
+   "ancla": "Guardad vuestros corazones para el Alba. La noche es larga y es fría, pero ninguna noche ha vencido nunca al amanecer.",
+   "temas": [
+    "esperanza",
+    "duelo",
+    "chihriq"
+   ],
+   "intensidad": 5,
+   "gancho": "Ninguna noche ha vencido nunca al amanecer",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — Chihríq, la montaña penosa"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Escucha de pie, sin interrumpir, el relato del cerco y de los que van cayendo. Cuando el peregrino calla, se acerca a la ventana angosta y mira largo rato hacia el norte.",
+   "es_literal": false,
+   "ancla": "Se acercó a la angosta ventana desde la que se veían las cumbres y el cielo, y estuvo largo tiempo mirando hacia el norte, hacia el lugar invisible del que venían las noticias.",
+   "temas": [
+    "chihriq",
+    "duelo",
+    "noticias"
+   ],
+   "intensidad": 5,
+   "gancho": "Escuchó la noticia de pie y no interrumpió",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — Chihríq, la montaña penosa"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Al entrar en la sala fue a sentarse, sin que nadie se lo indicara, en el lugar que preside; cedió el asiento en cuanto se lo señalaron. El detalle ya lo había dicho todo sobre cómo se veía a sí mismo.",
+   "es_literal": false,
+   "ancla": "Aquel detalle mínimo, del que después se habló mucho, dijo más que muchos discursos: había entrado un hombre que no se sentía acusado.",
+   "temas": [
+    "tabriz",
+    "juicio",
+    "dignidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Entró en el tribunal alguien que no se sentía acusado",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — El juicio de Tabríz"
+  },
+  {
+   "tipo": "escena",
+   "texto": "A las preguntas honradas responde, y las desanuda en pocas palabras. A las que solo buscan la trampa no contesta nada: se queda mirando, y es el interrogador quien parece encogerse.",
+   "es_literal": false,
+   "ancla": "Callaba mirando a su interrogador con una serenidad ante la cual el argumento capcioso se deshacía solo, y era entonces el clérigo, y no el acusado, quien parecía disminuido",
+   "temas": [
+    "tabriz",
+    "juicio",
+    "silencio"
+   ],
+   "intensidad": 4,
+   "gancho": "Hay preguntas que solo merecen silencio",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — El juicio de Tabríz"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Le exigen un prodigio allí mismo, delante de todos, algo que fuerce la fe. No entra en ese terreno: responde que a quien no quiere creer, ningún prodigio le bastará.",
+   "es_literal": false,
+   "ancla": "Que quien tuviera oídos para oír, ya tenía delante prueba suficiente; y que a quien no quería creer, ningún prodigio le bastaría",
+   "temas": [
+    "juicio",
+    "prueba",
+    "fe"
+   ],
+   "intensidad": 4,
+   "gancho": "Le pidieron un prodigio y se negó a darlo",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — El juicio de Tabríz"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "el humillado en aquel patio no era el que recibía los golpes, sino los que los daban",
+   "es_literal": true,
+   "ancla": "algunos de los que habían acudido a burlarse bajaron la cabeza, incapaces de seguir mirando, porque intuían de pronto que el humillado en aquel patio no era el que recibía los golpes, sino los que los daban",
+   "temas": [
+    "tabriz",
+    "castigo",
+    "dignidad"
+   ],
+   "intensidad": 5,
+   "gancho": "Quién quedaba humillado de verdad en aquel patio",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — El juicio de Tabríz"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque un alba no se rompe sin manos que la abran; y las manos que abren un día nuevo suelen quedar rotas en el umbral.",
+   "es_literal": true,
+   "ancla": "Porque un alba no se rompe sin manos que la abran; y las manos que abren un día nuevo suelen quedar rotas en el umbral.",
+   "temas": [
+    "martirio",
+    "alba",
+    "sacrificio"
+   ],
+   "intensidad": 5,
+   "gancho": "Las manos que abren un día nuevo quedan rotas en el umbral",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — Los que rompían el alba"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Cercados en un fuerte de barro, ayunan días enteros y salen con el rostro luminoso. De noche cantan, y el canto sube por encima del humo de los cañones hasta las tiendas de los sitiadores, que no duermen.",
+   "es_literal": false,
+   "ancla": "cantaban en la noche versículos que hablaban de un amanecer, y su canto subía por encima del humo de los cañones como si el bosque entero rezara",
+   "temas": [
+    "tabarsi",
+    "cerco",
+    "canto"
+   ],
+   "intensidad": 5,
+   "gancho": "El canto que subía por encima del humo de los cañones",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 12 — Los que rompían el alba"
+  },
+  {
+   "tipo": "cita",
+   "texto": "hay un día que, una vez visto, ya no se puede perder sin morir por dentro, y que ellos habían preferido morir por fuera antes que morir por dentro",
+   "es_literal": true,
+   "ancla": "que se puede perder la hacienda, la casa, los hijos y la propia vida, pero que hay un día que, una vez visto, ya no se puede perder sin morir por dentro, y que ellos habían preferido morir por fuera antes que morir por dentro",
+   "temas": [
+    "tabarsi",
+    "conviccion",
+    "perdida"
+   ],
+   "intensidad": 5,
+   "gancho": "Preferir morir por fuera antes que morir por dentro",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12 — Los que rompían el alba"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En el cerco de Zanján las mujeres suben a las murallas, cargan los fusiles de sus hombres y acarrean agua y pólvora entre el fuego; una de ellas, vestida de hombre, pelea a la vista de todos.",
+   "es_literal": false,
+   "ancla": "que las mujeres, con el velo puesto y el corazón desnudo, subieron a las murallas, cargaron los fusiles de sus hombres, acarrearon agua y pólvora entre el fuego",
+   "temas": [
+    "zanjan",
+    "mujeres",
+    "cerco"
+   ],
+   "intensidad": 5,
+   "gancho": "En Zanján el nuevo día tuvo también rostro de mujer",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — Los que rompían el alba"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela no finge precisión donde las fuentes no la dan: miles cayeron en aquellos años, nadie los contó bien, se habla de varios miles y quizá fueron más.",
+   "es_literal": false,
+   "ancla": "Miles cayeron en aquellos años. Nadie los contó bien; se habla de varios miles, y quizá fueron más.",
+   "temas": [
+    "ficcion-documental",
+    "persecucion",
+    "cifras"
+   ],
+   "intensidad": 3,
+   "gancho": "Nadie los contó bien, y el libro no lo disimula",
+   "formatos": [
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12 — Los que rompían el alba"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Los hombres están reunidos en el jardín, discutiendo la ley y sus preceptos, cuando se abre la puerta de la tienda y ella aparece: el rostro descubierto, a la vista de todos.",
+   "es_literal": false,
+   "ancla": "Los creyentes estaban reunidos, los hombres, sentados en el jardín, hablando de la ley y de sus preceptos, cuando se abrió la puerta de la tienda y ella apareció.",
+   "temas": [
+    "badasht",
+    "tahirih",
+    "mujeres"
+   ],
+   "intensidad": 5,
+   "gancho": "Se abrió la tienda y ella entró con el rostro descubierto",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — Táhirih"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Permanece de pie en medio del escándalo, serena, sin sombra de vergüenza ni asomo de provocación: la calma de quien sabe exactamente lo que hace y lo que va a costarle.",
+   "es_literal": false,
+   "ancla": "No había en su rostro descubierto ni sombra de vergüenza ni asomo de provocación: había la paz terrible de quien sabe exactamente lo que hace y por qué lo hace, y está dispuesta a pagarlo.",
+   "temas": [
+    "badasht",
+    "tahirih",
+    "valor"
+   ],
+   "intensidad": 5,
+   "gancho": "La calma de quien sabe exactamente lo que va a costarle",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — Táhirih"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Podéis matarme cuando queráis, pero no podréis detener la emancipación de las mujeres.",
+   "es_literal": true,
+   "ancla": "Podéis matarme cuando queráis, pero no podréis detener la emancipación de las mujeres.",
+   "temas": [
+    "tahirih",
+    "mujeres",
+    "martirio"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que dijo antes de que la mataran",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — Táhirih"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tuvo algo más difícil de destruir: tuvo razón. Y la razón, cuando se paga con la vida, no muere; se siembra.",
+   "es_literal": true,
+   "ancla": "La primera mártir por la dignidad de la mujer no tuvo tumba, ni lápida, ni siquiera un cuerpo que sus hermanas pudieran llorar. Tuvo algo más difícil de destruir: tuvo razón. Y la razón, cuando se paga con la vida, no muere; se siembra.",
+   "temas": [
+    "tahirih",
+    "mujeres",
+    "memoria"
+   ],
+   "intensidad": 5,
+   "gancho": "No tuvo tumba. Tuvo algo más difícil de destruir",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — Táhirih"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Camino del patio, un muchacho se abre paso entre la guardia, se echa a sus pies y se aferra a su túnica: pide que no lo separen de su Señor. Se lo conceden.",
+   "es_literal": false,
+   "ancla": "Se aferró a su túnica y no quiso soltarla, y repitió entre lágrimas su ruego: que no lo separaran de su Señor, que le concedieran la gracia de partir a su lado.",
+   "temas": [
+    "tabriz",
+    "discipulo",
+    "1850"
+   ],
+   "intensidad": 5,
+   "gancho": "Se aferró a su túnica y pidió no ser separado de él",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — La plaza de Tabríz"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela se niega a describir su rostro en esa hora. Donde otros llenarían el hueco con invención, el libro deja el silencio y lo dice abiertamente.",
+   "es_literal": false,
+   "ancla": "No se describe aquí el rostro del Báb en aquella hora. Hay una reverencia que impone el silencio.",
+   "temas": [
+    "ficcion-documental",
+    "reverencia",
+    "tabriz"
+   ],
+   "intensidad": 3,
+   "gancho": "Hay un rostro que este libro decide no describir",
+   "formatos": [
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14 — La plaza de Tabríz"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Setecientos cincuenta hombres para dar muerte a un joven desarmado de treinta años. Nunca se había visto tal cosa para una sola ejecución.",
+   "es_literal": true,
+   "ancla": "Setecientos cincuenta hombres para dar muerte a un joven desarmado de treinta años. Nunca se había visto tal cosa para una sola ejecución. Era como si el poder, en el fondo, temiera que un solo fusil no bastara contra Aquel.",
+   "temas": [
+    "tabriz",
+    "poder",
+    "miedo"
+   ],
+   "intensidad": 5,
+   "gancho": "Nunca se había visto tal cosa para una sola ejecución",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — La plaza de Tabríz"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Las tres filas disparan a la vez y una nube densa cubre el muro, las cuerdas y los cuerpos. Durante unos instantes la plaza entera no ve nada y contiene el aliento.",
+   "es_literal": false,
+   "ancla": "El humo colgaba en el aire quieto de julio, y en aquel humo estaba suspendido el destino de un día.",
+   "temas": [
+    "tabriz",
+    "ejecucion",
+    "1850"
+   ],
+   "intensidad": 5,
+   "gancho": "Unos instantes en que la plaza entera no vio nada",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — La plaza de Tabríz"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Porque esto es lo que no comprendieron los que celebraron: que no habían apagado una lámpara, sino roto un jarrón que contenía una fragancia.",
+   "es_literal": true,
+   "ancla": "Porque esto es lo que no comprendieron los que celebraron: que no habían apagado una lámpara, sino roto un jarrón que contenía una fragancia. Y la fragancia, libre ya del jarrón, empezó a extenderse por toda Persia.",
+   "temas": [
+    "memoria",
+    "persecucion",
+    "palabra"
+   ],
+   "intensidad": 5,
+   "gancho": "No apagaron una lámpara: rompieron un frasco",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — Lo que dejó escrito"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Contra unas palabras emplearon todo el hierro de un imperio, y dieron el asunto por cerrado. Las palabras, sin embargo, no se acaban cuando se acaba quien las dijo.",
+   "es_literal": false,
+   "ancla": "Habían empleado, contra unas palabras, todo el hierro de un imperio. Y creían que con el hierro bastaba.",
+   "temas": [
+    "poder",
+    "palabra",
+    "memoria"
+   ],
+   "intensidad": 4,
+   "gancho": "Todo el hierro de un imperio contra unas palabras",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Lo que dejó escrito"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Se reúnen de noche y sacan las hojas guardadas: copiadas a mano, escondidas bajo el suelo, cosidas en el forro de un abrigo. Las leen a la luz de una lámpara y sienten que la voz no se ha callado.",
+   "es_literal": false,
+   "ancla": "copiadas y recopiadas a mano, escondidas bajo el suelo de las casas, cosidas en el forro de los abrigos, pasadas de mano en mano por caminos donde una sola de aquellas páginas, si era hallada, significaba la tortura",
+   "temas": [
+    "clandestinidad",
+    "escritura",
+    "comunidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Hojas cosidas en el forro de un abrigo",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — Lo que dejó escrito"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "En la cima misma del fervor, cuando todas las miradas estaban puestas en Él, gastó su prestigio entero en señalar hacia otro. Empequeñecerse a propósito no es lo que suele hacer quien podría recogerlo todo.",
+   "es_literal": false,
+   "ancla": "Los fundadores de imperios y de sectas han hecho siempre lo contrario: engrandecerse. El Báb hizo lo inaudito: empequeñecerse ante uno que todavía no existía a los ojos del mundo, gastar su gloria entera en anunciar una gloria mayor que no sería la suya.",
+   "temas": [
+    "humildad",
+    "anuncio",
+    "renuncia"
+   ],
+   "intensidad": 5,
+   "gancho": "Gastar la gloria propia en anunciar una ajena",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15 — Lo que dejó escrito"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En la oscuridad del pozo negro, encadenados y sabiendo que cada mañana se llevarán a alguno, los presos cantan; las voces suben por los peldaños hasta unos carceleros que no lo entienden.",
+   "es_literal": false,
+   "ancla": "entonaban versículos y oraciones, y unos respondían a otros de un extremo a otro del foso, y sus voces subían por los peldaños empinados hasta los oídos de los carceleros",
+   "temas": [
+    "siyah-chal",
+    "prision",
+    "canto"
+   ],
+   "intensidad": 5,
+   "gancho": "Cantaban encadenados y los carceleros no lo entendían",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 16 — Aquel que había de venir"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El alba es luz; aquello era tiniebla sin resquicio. El alba es aire fresco de la mañana; aquello era el aire podrido de una cloaca cerrada. El alba es libertad y horizonte; aquello era cadena, cepo, muro y fondo.",
+   "es_literal": true,
+   "ancla": "El alba es luz; aquello era tiniebla sin resquicio. El alba es aire fresco de la mañana; aquello era el aire podrido de una cloaca cerrada. El alba es libertad y horizonte; aquello era cadena, cepo, muro y fondo.",
+   "temas": [
+    "siyah-chal",
+    "oscuridad",
+    "alba"
+   ],
+   "intensidad": 5,
+   "gancho": "El lugar más opuesto posible a un amanecer",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — Aquel que había de venir"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Y si lo que de verdad empieza no empezara en la cumbre, sino en el punto más hondo al que puede descender una vida?",
+   "es_literal": false,
+   "ancla": "fue en ese fondo, en ese punto más hondo y más negro adonde puede descender una vida humana, donde había de encenderse la mayor luz",
+   "temas": [
+    "siyah-chal",
+    "oscuridad",
+    "comienzo"
+   ],
+   "intensidad": 4,
+   "gancho": "El fondo de un pozo como lugar de comienzo",
+   "formatos": [
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — Aquel que había de venir"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Al llegar a lo que ocurrió en aquel pozo, el narrador baja la voz: no explica ni dictamina la naturaleza de lo sucedido, solo recoge cómo lo contó quien lo vivió.",
+   "es_literal": false,
+   "ancla": "Hay que detenerse aquí, y bajar la voz. Porque de la naturaleza de lo que aconteció en aquel pozo no cabe hablar sino con temor y con reverencia, como quien se descalza al pisar tierra santa.",
+   "temas": [
+    "ficcion-documental",
+    "reverencia",
+    "siyah-chal"
+   ],
+   "intensidad": 3,
+   "gancho": "El punto en que el narrador decide bajar la voz",
+   "formatos": [
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16 — Aquel que había de venir"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En la ladera de una montaña sobre el mar hay hoy un santuario con una cúpula que, a ciertas horas, cuando el sol la hiere, arde en oro. Bajo ella reposa el mercader de Shiraz.",
+   "es_literal": false,
+   "ancla": "En su ladera, mirando al Mediterráneo, hay hoy un santuario coronado por una cúpula que a ciertas horas del día, cuando el sol la hiere, arde en oro.",
+   "temas": [
+    "carmelo",
+    "memoria",
+    "epilogo"
+   ],
+   "intensidad": 4,
+   "gancho": "De un foso a las afueras de Tabríz a una ladera sobre el mar",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Epílogo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Los que envolvieron los restos aquella primera noche murieron sin saber dónde acabarían. Los recibieron otros, y otros después: tres generaciones cargando algo cuyo destino no verían.",
+   "es_literal": false,
+   "ancla": "Fue una carrera de relevos que duró tres generaciones, corrida a oscuras, con la sola brújula de un amor que se negaba a soltar su carga.",
+   "temas": [
+    "fidelidad",
+    "memoria",
+    "generaciones"
+   ],
+   "intensidad": 4,
+   "gancho": "Una carrera de relevos corrida a oscuras",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Epílogo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El cierre recoge la idea que recorre toda la serie: los grandes mensajeros se leen como lámparas distintas de una misma luz, no como luces rivales. Ninguna tradición queda por encima de otra.",
+   "es_literal": false,
+   "ancla": "no son luces rivales ni lámparas enemigas: son lámparas distintas de una sola y misma Luz, encendidas por la misma mano en horas distintas de la larga noche del mundo",
+   "temas": [
+    "serie",
+    "unidad",
+    "epilogo"
+   ],
+   "intensidad": 3,
+   "gancho": "Lámparas distintas, no lámparas rivales",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Epílogo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La Puerta abre a otra Puerta. El alba llama a otra alba. Ningún mensajero es la última palabra, porque la Palabra de Dios, como su Misericordia, no tiene última página.",
+   "es_literal": true,
+   "ancla": "La Puerta abre a otra Puerta. El alba llama a otra alba. Ningún mensajero es la última palabra, porque la Palabra de Dios, como su Misericordia, no tiene última página.",
+   "temas": [
+    "epilogo",
+    "continuidad",
+    "puerta"
+   ],
+   "intensidad": 5,
+   "gancho": "La Puerta abre a otra Puerta; el alba llama a otra alba",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Epílogo"
+  }
+ ]
+}

@@ -1,0 +1,1246 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "el-amor-que-te-debes",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "El amor que te falta no está fuera esperándote. Está dentro, esperando que empieces a construirlo.",
+   "es_literal": true,
+   "ancla": "El amor que te falta no está fuera esperándote. Está dentro, esperando que empieces a construirlo.",
+   "temas": [
+    "autoestima",
+    "amor propio"
+   ],
+   "intensidad": 4,
+   "gancho": "La valía no se recibe: se levanta.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Introducción — El amor que buscabas fuera"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no pide que te quieras de un día para otro, por decreto, como quien enciende un interruptor. Dice justo lo contrario: que el amor propio no se enciende, se cultiva.",
+   "es_literal": false,
+   "ancla": "No te voy a pedir que te ames de un día para otro, por decreto, como quien enciende un interruptor. El amor propio no se enciende; se cultiva.",
+   "temas": [
+    "amor propio",
+    "expectativas"
+   ],
+   "intensidad": 3,
+   "gancho": "Aquí no hay interruptor. Hay cultivo.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Introducción — El amor que buscabas fuera"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "No empiezas a tratarte bien porque ya te quieras: empiezas a quererte porque te tratas bien. Los actos van por delante, y el sentimiento llega después, como llega la confianza en una amistad.",
+   "es_literal": false,
+   "ancla": "no empiezas a tratarte bien porque ya te quieras; empiezas a quererte porque te tratas bien",
+   "temas": [
+    "amor propio",
+    "hábitos"
+   ],
+   "intensidad": 4,
+   "gancho": "Primero el trato. El sentimiento viene detrás.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Introducción — El amor que buscabas fuera"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Dos personas reciben la misma crítica en el trabajo. Una la escucha, corrige lo que haya que corregir y sigue con su día. La otra se pasa la noche rumiando «no sirvo, lo sabía». La crítica fue la misma; lo que cambió fue el suelo sobre el que cayó.",
+   "es_literal": false,
+   "ancla": "La crítica fue la misma. Lo que cambió fue el suelo sobre el que cayó. Y ese suelo eres tú.",
+   "temas": [
+    "autoestima",
+    "crítica"
+   ],
+   "intensidad": 4,
+   "gancho": "La misma crítica, dos suelos distintos.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Introducción — El amor que buscabas fuera"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Publica la foto, deja el móvil bocabajo y aguanta cuatro minutos. Le da la vuelta: tres likes. Y sin decírselo, su valor de esa noche lo están decidiendo unos desconocidos, uno a uno, con el pulgar.",
+   "es_literal": false,
+   "ancla": "su valor de esa noche lo estaban decidiendo unos desconocidos, uno a uno, con el pulgar. Cada like sumaba un poco. Cada silencio restaba.",
+   "temas": [
+    "validación",
+    "redes"
+   ],
+   "intensidad": 4,
+   "gancho": "El termostato del ánimo, en manos ajenas.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — El agujero que intentas llenar fuera"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La aprobación de fuera funciona como el agua salada para la sed: cada trago calma un instante y te deja, al rato, con más sed que antes.",
+   "es_literal": true,
+   "ancla": "La aprobación de fuera funciona como el agua salada para la sed: cada trago calma un instante y te deja, al rato, con más sed que antes.",
+   "temas": [
+    "validación",
+    "aprobación"
+   ],
+   "intensidad": 4,
+   "gancho": "Aprobación ajena: agua salada para la sed.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — El agujero que intentas llenar fuera"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Quien pone su valor en manos de los demás les entrega, sin darse cuenta, la llave de su paz.",
+   "es_literal": true,
+   "ancla": "Quien pone su valor en manos de los demás les entrega, sin darse cuenta, la llave de su paz.",
+   "temas": [
+    "validación",
+    "autoestima"
+   ],
+   "intensidad": 4,
+   "gancho": "Quien decide tu valor decide tu paz.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El agujero que intentas llenar fuera"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Una prueba para distinguir el disfrute de la mendicidad. Uno: coge algo que hayas hecho, comprado o publicado hoy. Dos: pregúntate si lo harías igual si nadie fuera a enterarse. Tres: si sin público pierde todo su sentido, ahí tenías una mendicidad al descubierto, y eso es información, no motivo de vergüenza.",
+   "es_literal": false,
+   "ancla": "Pregúntate: si nadie se enterara, ¿seguiría haciéndolo? Si compraste ese objeto y nadie fuera a verlo, ¿lo querrías igual?",
+   "temas": [
+    "validación",
+    "autoconocimiento"
+   ],
+   "intensidad": 3,
+   "gancho": "Si nadie se enterara, ¿lo harías igual?",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — El agujero que intentas llenar fuera"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es sacar buena nota contigo: es dejar de ponerte nota. La autoestima pregunta si eres suficientemente bueno y te evalúa; la autocompasión no evalúa nada, solo te trata bien.",
+   "es_literal": false,
+   "ancla": "la autocompasión no evalúa nada, solo te trata bien, seas como seas y hayas hecho lo que hayas hecho",
+   "temas": [
+    "autocompasión",
+    "autoestima"
+   ],
+   "intensidad": 4,
+   "gancho": "No es sacar buena nota contigo.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — Qué es (y qué no es) el amor propio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Quererse no es evaluarse bien. Es tratarse bien, sobre todo cuando no hay nada que aprobar.",
+   "es_literal": true,
+   "ancla": "Quererse no es evaluarse bien. Es tratarse bien, sobre todo cuando no hay nada que aprobar.",
+   "temas": [
+    "autocompasión",
+    "amor propio"
+   ],
+   "intensidad": 4,
+   "gancho": "Tratarse bien, no evaluarse bien.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — Qué es (y qué no es) el amor propio"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La prueba del amigo, en tres pasos. Uno: caza al vuelo una frase que te dices y que jamás le dirías a alguien que quieres. Dos: anótala tal cual, con su crueldad intacta. Tres: reescríbela como se la dirías a esa persona, con la misma sinceridad y otro tono.",
+   "es_literal": false,
+   "ancla": "hoy, caza al vuelo una sola frase que te dices a ti mismo y que jamás le dirías a un amigo. Anótala tal cual, con su crueldad intacta.",
+   "temas": [
+    "diálogo interno",
+    "autocompasión"
+   ],
+   "intensidad": 3,
+   "gancho": "Misma verdad, otro tono.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — Qué es (y qué no es) el amor propio"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El amor propio es una relación, y como toda relación se sostiene sobre respeto, cuidado y lealtad. La lealtad es la que peor cumplimos: somos leales a todos menos a nosotros.",
+   "es_literal": false,
+   "ancla": "Somos leales a todos menos a nosotros. Y quererse, más que ninguna otra cosa, es dejar de ser el traidor de uno mismo.",
+   "temas": [
+    "amor propio",
+    "lealtad"
+   ],
+   "intensidad": 4,
+   "gancho": "Dejar de ser el traidor de uno mismo.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2 — Qué es (y qué no es) el amor propio"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Termina el informe a las once de la noche, lo revisa tres veces y lo manda. Objetivamente está muy bien. Y al cerrar el portátil no llega el alivio, sino una vocecita seca: «podría haberlo hecho mejor». Esa voz no es del todo suya.",
+   "es_literal": false,
+   "ancla": "se tragó esa voz, la instaló dentro y siguió repitiéndola sobre sí mismo cuando su padre ya no estaba delante",
+   "temas": [
+    "crítico interior",
+    "autoexigencia"
+   ],
+   "intensidad": 4,
+   "gancho": "La voz que te machaca, ¿de quién es?",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — De dónde viene tu autoestima"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No naciste creyendo que no valías. Alguien, sin querer casi siempre, te enseñó a dudarlo. Y lo que se aprende, se puede desaprender.",
+   "es_literal": true,
+   "ancla": "No naciste creyendo que no valías. Alguien, sin querer casi siempre, te enseñó a dudarlo. Y lo que se aprende, se puede desaprender.",
+   "temas": [
+    "autoestima",
+    "origen"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que se aprende, se puede desaprender.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — De dónde viene tu autoestima"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Coge una de las frases con las que te machacas y hazle tres preguntas, sin prisa. ¿Cuándo la oí por primera vez, y a quién le pertenece ese tono? ¿Es verdad, o solo es antigua? ¿Se la diría a un niño? Con eso deja de ser la verdad y pasa a ser una opinión heredada.",
+   "es_literal": false,
+   "ancla": "Que lleves toda la vida oyéndola no la vuelve cierta. Solo la vuelve familiar. La costumbre no es prueba. ¿Qué evidencia real tienes, hoy, de que eso sea verdad sobre ti?",
+   "temas": [
+    "crítico interior",
+    "origen"
+   ],
+   "intensidad": 4,
+   "gancho": "Que sea familiar no la vuelve cierta.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3 — De dónde viene tu autoestima"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Una cosa es que tu infancia explique cómo llegaste hasta aquí y otra muy distinta que te condene a quedarte. El pasado explica el punto de partida; no decide el de llegada.",
+   "es_literal": false,
+   "ancla": "El pasado explica el punto de partida. No decide el de llegada. Ese lo decides tú, desde hoy.",
+   "temas": [
+    "heridas",
+    "responsabilidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Explica de dónde vienes, no adónde vas.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — De dónde viene tu autoestima"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No tienes que ganarte tu valía: ya la tienes; solo has dejado de verla.",
+   "es_literal": true,
+   "ancla": "No tienes que ganarte tu valía: ya la tienes; solo has dejado de verla.",
+   "temas": [
+    "valía",
+    "autoestima"
+   ],
+   "intensidad": 5,
+   "gancho": "Ya la tienes. Solo dejaste de verla.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — La autoestima no se demuestra, se decide"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Tu valía no es un punto de llegada: es un punto de partida. No es algo que consigues al final, después de una vida de méritos, sino el suelo sobre el que estás de pie desde el principio.",
+   "es_literal": false,
+   "ancla": "No es algo que consigues al final, después de una vida de méritos, como quien gana una medalla. Es el suelo sobre el que estás de pie desde el principio, antes de haber hecho absolutamente nada.",
+   "temas": [
+    "valía",
+    "logros"
+   ],
+   "intensidad": 4,
+   "gancho": "De partida, no de llegada.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — La autoestima no se demuestra, se decide"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando te sorprendas midiéndote, para y desdobla la frase en dos. Una: «esto me ha salido mal», que es un hecho sobre lo que haces. Dos: «y sigo valiendo lo mismo que valía esta mañana», que es una decisión sobre lo que eres. No es un truco de lenguaje: es devolver cada cosa a su sitio.",
+   "es_literal": false,
+   "ancla": "cada vez que te sorprendas midiéndote, para y desdobla la frase. Donde has pensado \"soy un desastre porque me ha salido mal\", sepáralo en sus dos partes verdaderas",
+   "temas": [
+    "valía",
+    "diálogo interno"
+   ],
+   "intensidad": 3,
+   "gancho": "Desdobla la frase: el hecho por un lado, tú por otro.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — La autoestima no se demuestra, se decide"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La creencia condicional trabaja con un «por lo tanto»: ha salido mal, por lo tanto no valgo. La valía decidida cambia ese «por lo tanto» por un «y»: ha salido mal, y valgo.",
+   "es_literal": false,
+   "ancla": "Ha salido mal, *y* valgo. Parece poca cosa. Es un cambio de vida.",
+   "temas": [
+    "valía",
+    "autoexigencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Cambia el «por lo tanto» por un «y».",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — La autoestima no se demuestra, se decide"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El valor de la persona no está en lo que consigue, sino en lo que es cuando no consigue nada.",
+   "es_literal": true,
+   "ancla": "El valor de la persona no está en lo que consigue, sino en lo que es cuando no consigue nada.",
+   "temas": [
+    "valía",
+    "logros"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que eres cuando no consigues nada.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — La autoestima no se demuestra, se decide"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Si tu voz interior fuera una persona de carne y hueso que te siguiera todo el día diciéndote al oído las cosas que te dices tú, ¿la aguantarías? ¿Dejarías que alguien te hablara así?",
+   "es_literal": false,
+   "ancla": "si esa voz fuera una persona de carne y hueso, alguien que te siguiera todo el día diciéndote al oído las cosas que te dices tú, ¿la aguantarías?",
+   "temas": [
+    "crítico interior",
+    "diálogo interno"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Dejarías que alguien te hablara así?",
+   "formatos": [
+    "reel",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — El crítico que llevas dentro"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No toda voz interior es el crítico. La crítica útil apunta a la conducta, es concreta y te deja con ganas de levantarte. La cruel apunta a la persona, usa el siempre y el nunca, y te deja con ganas de desaparecer.",
+   "es_literal": false,
+   "ancla": "La crítica **útil** apunta a la conducta, no a la persona. Es concreta: te dice qué hiciste y qué podrías hacer distinto la próxima vez.",
+   "temas": [
+    "crítico interior",
+    "autoexigencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuando acaba, ¿quieres levantarte o esconderte?",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — El crítico que llevas dentro"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Tres movimientos con el crítico. Uno, pillarlo: cuando notes que te hundes de golpe, para y pregúntate qué acabas de decirte, con las palabras exactas. Dos, nombrarlo: ponle un nombre, aunque sea con humor, para dejar de ser esa voz y pasar a ser quien la escucha. Tres, responderle con firmeza amable: no discutas, corrige y devuelve la frase a su tamaño real.",
+   "es_literal": false,
+   "ancla": "Cuando notes que te hundes de golpe, que te encoges, que te llega esa oleada de vergüenza o de \"no valgo\", para y pregúntate: ¿qué acabo de decirme?",
+   "temas": [
+    "crítico interior",
+    "diálogo interno"
+   ],
+   "intensidad": 3,
+   "gancho": "Pillarlo, nombrarlo, responderle.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "audio"
+   ],
+   "capitulo": "Capítulo 5 — El crítico que llevas dentro"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Háblate como le hablarías a alguien a quien quieres y ves sufrir.",
+   "es_literal": true,
+   "ancla": "Háblate como le hablarías a alguien a quien quieres y ves sufrir.",
+   "temas": [
+    "diálogo interno",
+    "autocompasión"
+   ],
+   "intensidad": 4,
+   "gancho": "Como le hablarías a quien ves sufrir.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — El crítico que llevas dentro"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es lo mismo «he cometido un error» que «soy un fracasado». Lo primero habla de algo que hiciste, acotado en el tiempo, del que puedes hacer algo. Lo segundo habla de lo que eres, sin límites y sin salida posible.",
+   "es_literal": false,
+   "ancla": "\"He cometido un error\" habla de algo que hiciste, acotado en el tiempo, del que puedes hacer algo. \"Soy un fracasado\" habla de lo que eres, sin límites, para siempre, sin salida posible.",
+   "temas": [
+    "errores",
+    "identidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Un error es un evento, no una identidad.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — No eres tus pensamientos ni tus errores"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El cielo no es las nubes que lo cruzan, aunque a veces se llene entero de ellas. Tú eres el cielo. Los pensamientos, incluso los más oscuros y pegajosos, son nubes: pasan.",
+   "es_literal": true,
+   "ancla": "El cielo no es las nubes que lo cruzan, aunque a veces se llene entero de ellas. Tú eres el cielo. Los pensamientos, incluso los más oscuros y pegajosos, son nubes: pasan.",
+   "temas": [
+    "pensamientos",
+    "identidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Tú eres el cielo, no las nubes.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — No eres tus pensamientos ni tus errores"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un método que se juega en un solo verbo. Uno: escúchate cuando algo va mal y caza el «soy» que te hunde. Dos: si fue una acción, tradúcelo a «he hecho algo que salió mal». Tres: si es un estado, tradúcelo a «estoy pasando por un mal momento». Del «soy» no se sale; del «estoy», sí.",
+   "es_literal": false,
+   "ancla": "caza un \"soy…\" que te hunde y conviértelo en un \"he hecho…\" o un \"estoy…\".",
+   "temas": [
+    "lenguaje",
+    "identidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Del «soy» no se sale. Del «estoy», sí.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — No eres tus pensamientos ni tus errores"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Tus pensamientos no son hechos. Que tu mente diga «soy un desastre» no lo convierte en verdad, del mismo modo que si te dijera «va a llover» no empezaría a llover. No estás obligado a creerte todo lo que piensas.",
+   "es_literal": false,
+   "ancla": "Que tu mente diga \"soy un desastre\" no lo convierte en verdad, del mismo modo que si te dijera \"va a llover\" no empezaría a llover.",
+   "temas": [
+    "pensamientos",
+    "diálogo interno"
+   ],
+   "intensidad": 4,
+   "gancho": "No estás obligado a creerte lo que piensas.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — No eres tus pensamientos ni tus errores"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando te comparas, comparas tu interior con el exterior de la otra persona. Y no un exterior cualquiera: el más editado, el más elegido, el que esa persona ha decidido mostrar.",
+   "es_literal": false,
+   "ancla": "Porque comparas tu interior con el exterior de la otra persona. Y no un exterior cualquiera, sino el más editado, el más elegido, el más pulido de todos: el que ella misma ha decidido mostrar.",
+   "temas": [
+    "comparación",
+    "redes"
+   ],
+   "intensidad": 4,
+   "gancho": "Tu dentro contra su portada. Claro que pierdes.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — La trampa de la comparación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Compararte es el modo más rápido y más seguro de robarte a ti mismo la alegría de tu propia vida.",
+   "es_literal": true,
+   "ancla": "Compararte es el modo más rápido y más seguro de robarte a ti mismo la alegría de tu propia vida.",
+   "temas": [
+    "comparación"
+   ],
+   "intensidad": 4,
+   "gancho": "El modo más rápido de robarte la alegría.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — La trampa de la comparación"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cambia la referencia. Uno: en cuanto notes la punzada, nómbrala en voz baja, «me estoy comparando». Dos: suelta el ahora ajeno, que es un punto que nunca alcanzarás porque se mueve. Tres: mira tu propio antes: dónde estabas hace un año, qué miedo tenías entonces que hoy ya casi no notas.",
+   "es_literal": false,
+   "ancla": "Pero hay otra comparación que sí es justa, sí es útil y sí te sostiene: compararte con tu propio *antes*.",
+   "temas": [
+    "comparación",
+    "progreso"
+   ],
+   "intensidad": 3,
+   "gancho": "La vara no es la vida de nadie: es la tuya de ayer.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — La trampa de la comparación"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es lo mismo comparar que aprender. Si al mirar al otro te encoges, te mides y sales perdiendo, estás comparando. Si te enciendes, tomas nota y piensas «esto quiero aprenderlo yo», lo estás usando de referencia. Misma persona delante, dos operaciones distintas.",
+   "es_literal": false,
+   "ancla": "Si al mirar al otro te encoges, te mides y sales perdiendo, estás comparando, y eso te hace daño. Si al mirar al otro te enciendes, tomas nota y piensas \"esto quiero aprenderlo yo\", estás usándolo de referencia",
+   "temas": [
+    "comparación",
+    "aprendizaje"
+   ],
+   "intensidad": 3,
+   "gancho": "Misma persona delante, dos operaciones.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — La trampa de la comparación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tú no eres culpable de lo que te hicieron. Pero eres, a partir de ahora, el único responsable de lo que haces con ello.",
+   "es_literal": true,
+   "ancla": "Tú no eres culpable de lo que te hicieron. Pero eres, a partir de ahora, el único responsable de lo que haces con ello.",
+   "temas": [
+    "heridas",
+    "responsabilidad"
+   ],
+   "intensidad": 5,
+   "gancho": "No culpable. Responsable.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8 — Las heridas sin quedarte en ellas"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La cuestión no es qué te pasó, que fue real: es para qué lo usas hoy. Si tu historia te sirve para entenderte y avanzar, está haciendo su trabajo. Si te sirve sobre todo para justificarte y quedarte quieto, se ha vuelto una jaula con la puerta abierta.",
+   "es_literal": false,
+   "ancla": "Si tu historia te sirve para *entenderte* y avanzar, está haciendo su trabajo. Si tu historia te sirve sobre todo para *justificarte* y quedarte quieto, se ha convertido en una jaula con la puerta abierta",
+   "temas": [
+    "heridas",
+    "excusas"
+   ],
+   "intensidad": 4,
+   "gancho": "Una jaula con la puerta abierta.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — Las heridas sin quedarte en ellas"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La carta al niño que fuiste. Uno: busca un rato tranquilo y, si la tienes, pon delante una foto tuya de pequeño. Dos: háblale como le hablarías a un niño real que estuviera sufriendo lo que tú sufriste. Tres: dile lo que necesitaba oír y no oyó, no una fórmula. Con dos líneas basta para abrir la puerta.",
+   "es_literal": false,
+   "ancla": "Háblale como le hablarías a un niño real que tuvieras delante y que estuviera sufriendo lo que tú sufriste. Dile lo que necesitaba oír y no oyó.",
+   "temas": [
+    "heridas",
+    "reparentalización"
+   ],
+   "intensidad": 4,
+   "gancho": "Escríbele al niño que fuiste.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "audio"
+   ],
+   "capitulo": "Capítulo 8 — Las heridas sin quedarte en ellas"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro lo dice sin adornos: hay heridas que un libro no alcanza. Si al asomarte a tu pasado se remueve algo demasiado grande, esto no sustituye a la ayuda de un buen profesional, y pedirla no es un fracaso.",
+   "es_literal": false,
+   "ancla": "Hay heridas que un libro no alcanza. Si al asomarte a tu pasado se remueve algo demasiado grande —traumas serios, dolor que te desborda, cosas que llevas años evitando por algo—, esto no sustituye a la ayuda de un buen profesional",
+   "temas": [
+    "límites del libro",
+    "ayuda profesional"
+   ],
+   "intensidad": 3,
+   "gancho": "Hay heridas que un libro no alcanza.",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — Las heridas sin quedarte en ellas"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Veinte minutos en el coche del aparcamiento, sin arrancar, machacándose por una reunión que nadie recordará mañana. Y entonces piensa en qué le diría a su mejor amigo si fuera él quien estuviera hundido ahí. Lo tiene clarísimo: nada de lo que se está diciendo a sí mismo.",
+   "es_literal": false,
+   "ancla": "Y por primera vez se hace la pregunta que va a cambiarle la relación consigo mismo: *¿por qué a mi amigo le hablaría así, y a mí me hablo como a un enemigo?*",
+   "temas": [
+    "autocompasión",
+    "diálogo interno"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Por qué a mi amigo no le hablo así?",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — Autocompasión: tratarte como a alguien que amas"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es autoindulgencia ni darte la razón siempre. Es lo que hace un buen padre con un hijo que ha hecho algo mal: sostenerle con cariño y decirle la verdad, las dos cosas a la vez. Trato digno, no trato blando.",
+   "es_literal": false,
+   "ancla": "Un buen padre hace las dos cosas a la vez: le sostiene con cariño *y* le dice la verdad.",
+   "temas": [
+    "autocompasión",
+    "autoexigencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Trato digno, no trato blando.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — Autocompasión: tratarte como a alguien que amas"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un gesto de menos de un minuto para los momentos difíciles. Uno: ponte una mano en el centro del pecho. Dos: dite tres cosas, que esto duele, que a otras personas también les pasa y que puedas ser amable contigo ahora. Tres: pregúntate «¿qué necesito ahora?», y dátelo, aunque sea mínimo.",
+   "es_literal": false,
+   "ancla": "Cuando estés en uno de esos momentos, ponte una mano en el centro del pecho, sobre el corazón, sin más.",
+   "temas": [
+    "autocompasión",
+    "práctica"
+   ],
+   "intensidad": 4,
+   "gancho": "Mano en el pecho y una pregunta: ¿qué necesito?",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 9 — Autocompasión: tratarte como a alguien que amas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Sé amable, porque cada persona que te encuentras libra una dura batalla. Y la persona con la que más dura la libras, y a la que peor tratas, sueles ser tú.",
+   "es_literal": true,
+   "ancla": "Sé amable, porque cada persona que te encuentras libra una dura batalla. Y la persona con la que más dura la libras, y a la que peor tratas, sueles ser tú.",
+   "temas": [
+    "autocompasión",
+    "amabilidad"
+   ],
+   "intensidad": 5,
+   "gancho": "La batalla más dura la libras contigo.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — Autocompasión: tratarte como a alguien que amas"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Y si la dureza contigo ya ha tenido bastantes años para demostrar lo que vale? Hablarte con crueldad no te ha hecho mejor persona en todos estos años. Quizá toca probar con la amabilidad.",
+   "es_literal": false,
+   "ancla": "Hablarte con crueldad no te ha hecho mejor persona en todos estos años. ¿No es hora de probar si la amabilidad lo consigue?",
+   "temas": [
+    "autocompasión",
+    "crítico interior"
+   ],
+   "intensidad": 4,
+   "gancho": "La dureza ya tuvo sus años. ¿Probamos otra cosa?",
+   "formatos": [
+    "pin",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — Autocompasión: tratarte como a alguien que amas"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Nueve y media de un jueves, la primera vez que se sienta en todo el día, un té por fin caliente entre las manos. Suena el teléfono: ¿puedes quedarte con los niños el sábado? Y se oye decir «claro, sin problema», casi antes de decidirlo.",
+   "es_literal": false,
+   "ancla": "Había vuelto a hacerlo. Había vuelto a regalar el único trozo de su semana que era suyo, y ni siquiera había dudado.",
+   "temas": [
+    "límites",
+    "complacencia"
+   ],
+   "intensidad": 4,
+   "gancho": "El sí que sale antes de que decidas.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — Quererte es también protegerte (límites)"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La complacencia crónica no es generosidad. La generosidad brota de la abundancia: doy porque tengo y me apetece dar. La complacencia brota del miedo: doy porque temo lo que pasará si no doy. La primera te llena; la segunda te vacía.",
+   "es_literal": false,
+   "ancla": "la generosidad de verdad brota de la abundancia —doy porque tengo y me apetece dar—, mientras que la complacencia brota del miedo —doy porque temo lo que pasará si no doy—",
+   "temas": [
+    "límites",
+    "complacencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Se parecen por fuera. No son lo mismo.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Quererte es también protegerte (límites)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cada vez que dices que sí a algo que no quieres, le estás diciendo que no a ti.",
+   "es_literal": true,
+   "ancla": "Cada vez que dices que sí a algo que no quieres, le estás diciendo que no a ti.",
+   "temas": [
+    "límites",
+    "autoabandono"
+   ],
+   "intensidad": 4,
+   "gancho": "Cada sí forzado es un no a ti.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Quererte es también protegerte (límites)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuatro pasos para poner un límite sin dejar de ser tú. Uno: pon una pausa entre la pregunta y tu respuesta, «déjame que lo mire y te digo». Dos: consulta tus valores, no la cara del otro. Tres: di un no amable, claro y sin catálogo de excusas. Cuatro: sostén el malestar que venga después sin correr a deshacerlo.",
+   "es_literal": false,
+   "ancla": "Así que gánate segundos. \"Déjame que lo mire y te digo.\" \"Ahora mismo no te sé decir, te contesto luego.\" Esa frase, sencillísima, rompe la cadena.",
+   "temas": [
+    "límites",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Gánate segundos antes de contestar.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Quererte es también protegerte (límites)"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La culpa no siempre es la señal de que has hecho algo mal. A menudo es solo la señal de que estás haciendo algo nuevo: has salido del guion y una alarma antigua se dispara sola. No es una brújula moral, y puedes mirarla sin obedecerla.",
+   "es_literal": false,
+   "ancla": "Cuando llevas toda la vida cediendo, las primeras veces que no cedes tu conciencia protesta, no porque hayas obrado mal, sino porque has salido del guion.",
+   "temas": [
+    "límites",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "A veces la culpa solo dice: esto es nuevo.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Quererte es también protegerte (límites)"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Está defendiendo en una cena el final de una película que le encantó y ve, enfrente, una ceja que se levanta apenas. En mitad de la misma frase da media vuelta: «bueno, tampoco es una obra maestra». No lo convenció una razón; lo dobló un gesto.",
+   "es_literal": false,
+   "ancla": "En medio de la misma frase, Hugo dio media vuelta a lo que estaba diciendo. \"Bueno, tampoco es una obra maestra, tiene sus fallos, el final se puede discutir.\"",
+   "temas": [
+    "aprobación",
+    "criterio"
+   ],
+   "intensidad": 4,
+   "gancho": "No lo convenció una razón: lo dobló un gesto.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Dejar de mendigar aprobación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Quien necesita gustar a todos, acaba sin gustarse a sí mismo, porque se ha ido dejando por el camino, pedazo a pedazo, para caber en cada mirada.",
+   "es_literal": true,
+   "ancla": "Quien necesita gustar a todos, acaba sin gustarse a sí mismo, porque se ha ido dejando por el camino, pedazo a pedazo, para caber en cada mirada.",
+   "temas": [
+    "aprobación",
+    "identidad"
+   ],
+   "intensidad": 5,
+   "gancho": "Caber en cada mirada tiene un precio alto.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — Dejar de mendigar aprobación"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Caer mal a alguien no es un fracaso: es una certeza estadística. No existe una versión de ti que caiga bien a todo el mundo, igual que no existe un plato que le guste a todos los paladares. El agua no cae mal a nadie, y nadie recuerda un vaso de agua.",
+   "es_literal": false,
+   "ancla": "si gustar a todos es imposible, entonces caer mal a alguien no es un fracaso, es una certeza estadística.",
+   "temas": [
+    "aprobación",
+    "criterio"
+   ],
+   "intensidad": 4,
+   "gancho": "El agua no cae mal a nadie. Y nadie la recuerda.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — Dejar de mendigar aprobación"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Revisa tu consejo asesor. Uno: escribe quién tiene hoy voz y voto sobre lo que haces, incluida la gente a la que ya ni ves. Dos: quédate con tres, cuatro, cinco personas que te conocen de verdad y quieren tu bien. Tres: al resto, quítale el asiento; la aprobación difusa de la masa no vale lo que te cuesta.",
+   "es_literal": false,
+   "ancla": "Imagina que tu vida tiene un consejo asesor, un grupo reducido de personas cuya opinión sobre ti tiene voz y voto.",
+   "temas": [
+    "aprobación",
+    "criterio"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Quién tiene voto sobre tu vida?",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — Dejar de mendigar aprobación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuidas con esmero de la planta, del perro, del hijo, del coche. La pregunta incómoda es: ¿por qué tú eres lo único que descuidas?",
+   "es_literal": true,
+   "ancla": "Cuidas con esmero de la planta, del perro, del hijo, del coche. La pregunta incómoda es: ¿por qué tú eres lo único que descuidas?",
+   "temas": [
+    "autocuidado",
+    "amor propio"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Por qué tú eres lo único que descuidas?",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12 — Cuidarte de verdad"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El autocuidado no es un spa ni una vela aromática: eso es la versión decorativa, la que se puede fotografiar. El de verdad es más aburrido y más serio: acostarte a una hora decente aunque quede la cocina sin recoger, pedir por fin esa cita, comer sentada.",
+   "es_literal": false,
+   "ancla": "El autocuidado de verdad es mucho más aburrido y mucho más serio: es acostarte a una hora decente aunque quede la cocina sin recoger. Es pedir por fin esa cita médica. Es comer sentada.",
+   "temas": [
+    "autocuidado",
+    "cuerpo"
+   ],
+   "intensidad": 3,
+   "gancho": "El autocuidado de verdad es bastante aburrido.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12 — Cuidarte de verdad"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Los mínimos innegociables. Uno: elige tres o cuatro cuidados básicos, no quince. Dos: hazlos tan pequeños que puedas cumplirlos incluso en tu peor día, no una hora de ejercicio, sino caminar diez minutos. Tres: decide que son el suelo por debajo del cual no bajas. Cuatro: cuando falles, vuelve sin reproche.",
+   "es_literal": false,
+   "ancla": "*Mínimos*, porque tienen que ser tan pequeños que puedas cumplirlos incluso en tu peor día: no \"hacer una hora de ejercicio\", sino \"salir a caminar diez minutos\".",
+   "temas": [
+    "autocuidado",
+    "hábitos"
+   ],
+   "intensidad": 3,
+   "gancho": "Tan pequeños que los cumplas en tu peor día.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12 — Cuidarte de verdad"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La diferencia no está en cuánto amas. Está en desde dónde. Desde el hueco o desde lo lleno. Desde el «te necesito para ser» o desde el «te elijo estando ya».",
+   "es_literal": true,
+   "ancla": "La diferencia no está en cuánto amas. Está en desde dónde. Desde el hueco o desde lo lleno. Desde el «te necesito para ser» o desde el «te elijo estando ya».",
+   "temas": [
+    "relaciones",
+    "dependencia"
+   ],
+   "intensidad": 5,
+   "gancho": "No es cuánto amas: es desde dónde.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13 — Relaciones desde la plenitud, no desde el hambre"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La idea de que en pareja uno completa al otro suena romántica y hace un daño enorme. Las mejores relaciones no son las de dos mitades que se completan, sino las de dos personas enteras que deciden caminar juntas.",
+   "es_literal": false,
+   "ancla": "Las mejores relaciones no son las de dos mitades que se completan, sino las de dos personas enteras que deciden caminar juntas.",
+   "temas": [
+    "relaciones",
+    "dependencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Se quiere mucho mejor de pie que colgado.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13 — Relaciones desde la plenitud, no desde el hambre"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Una prueba sencilla para revisar un vínculo. Uno: fíjate en cómo te sientes contigo después de estar con esa persona, no durante. Dos: recuerda que el durante despista con la intensidad y la chispa. Tres: si sales encogido, dándole vueltas a algo que dijiste, ahí tienes el dato, sin necesidad de dramas.",
+   "es_literal": false,
+   "ancla": "fíjate en cómo te sientes contigo mismo después de estar con esa persona, no durante.",
+   "temas": [
+    "relaciones",
+    "criterio"
+   ],
+   "intensidad": 3,
+   "gancho": "El después es honesto donde el durante miente.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13 — Relaciones desde la plenitud, no desde el hambre"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No has vuelto al principio. Has vuelto a pasar por el mismo sitio, pero esta vez sabes cómo se llama, cuánto dura y por dónde se sale.",
+   "es_literal": true,
+   "ancla": "No has vuelto al principio. Has vuelto a pasar por el mismo sitio, pero esta vez sabes cómo se llama, cuánto dura y por dónde se sale.",
+   "temas": [
+    "recaídas",
+    "progreso"
+   ],
+   "intensidad": 4,
+   "gancho": "El mismo sitio, a otra altura.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — Cuando recaes: la autoestima no es lineal"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La autoestima sube y baja como la marea. Un día de marea baja no significa que el mar se haya vaciado: el agua sigue ahí, solo se ha retirado un rato. Tu buena relación contigo no se ha evaporado porque hoy no la sientas.",
+   "es_literal": false,
+   "ancla": "Lo que ningún día de marea baja significa es que el mar se haya vaciado. El agua sigue ahí; solo se ha retirado un rato, y volverá.",
+   "temas": [
+    "recaídas",
+    "autoestima"
+   ],
+   "intensidad": 4,
+   "gancho": "Marea baja no es mar vacío.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — Cuando recaes: la autoestima no es lineal"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Prepara el plan en un día tranquilo, no en el bajón. Uno: cuando llegue, ponle nombre, «estoy teniendo un día bajo». Dos: ten escrita una frase que tú te creas, elegida en calma. Tres: baja el listón al suelo, comer algo, ducharte, dormir. Cuatro: deja apuntadas tres cosas concretas que a ti te sirven, porque en el momento tu mente solo sabrá proponer castigos.",
+   "es_literal": false,
+   "ancla": "Decide hoy, ahora que estás bien, qué vas a hacer la próxima vez que caigas. Una lista corta de cosas que a ti, y solo a ti, te alivian de verdad",
+   "temas": [
+    "recaídas",
+    "práctica"
+   ],
+   "intensidad": 4,
+   "gancho": "Tu yo de los días buenos cuida del de los malos.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "audio"
+   ],
+   "capitulo": "Capítulo 14 — Cuando recaes: la autoestima no es lineal"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No eres un borrador de una persona mejor. Eres una persona, entera, ahora. Las grietas no te estropean: te cuentan.",
+   "es_literal": true,
+   "ancla": "No eres un borrador de una persona mejor. Eres una persona, entera, ahora. Las grietas no te estropean: te cuentan.",
+   "temas": [
+    "aceptación",
+    "imperfección"
+   ],
+   "intensidad": 5,
+   "gancho": "Las grietas no te estropean: te cuentan.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15 — Hacer las paces con quien eres"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No se cambia por desprecio: se cambia desde suelo firme. Las cosas de ti que más has despreciado casi nunca cambiaron a fuerza de despreciarlas. El desprecio paraliza y empuja a esconder; la aceptación es el suelo desde el que se salta.",
+   "es_literal": false,
+   "ancla": "las cosas de ti que más has despreciado, ¿han cambiado a fuerza de despreciarlas? Casi nunca. El desprecio paraliza, avergüenza, empuja a esconder, no a mejorar.",
+   "temas": [
+    "aceptación",
+    "cambio"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie salta bien desde arenas movedizas.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Hacer las paces con quien eres"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El inventario amable, en tres pasos. Uno: reparte tus rasgos en dos columnas, lo que vas a cuidar sin látigo y lo que vas a dejar de combatir. Dos: sé honesto al repartir, porque mucho de lo que llevas años en la columna de arreglar pertenece a la de aceptar. Tres: cambia el «a pesar de» por el «con»: no «me quiero a pesar de ser tímido», sino «me quiero, y soy tímido».",
+   "es_literal": false,
+   "ancla": "«Me quiero a pesar de ser tímido» todavía trata la timidez como una tara que hay que perdonarte. Prueba a decir «me quiero, y soy tímido», sin el «a pesar».",
+   "temas": [
+    "aceptación",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Cambia el «a pesar de» por el «con».",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15 — Hacer las paces con quien eres"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No te vas a querer de golpe. Te vas a querer despacio, un gesto cada día, del mismo modo en que se construye todo lo que de verdad importa.",
+   "es_literal": true,
+   "ancla": "No te vas a querer de golpe. Te vas a querer despacio, un gesto cada día, del mismo modo en que se construye todo lo que de verdad importa.",
+   "temas": [
+    "práctica",
+    "kaizen"
+   ],
+   "intensidad": 4,
+   "gancho": "Despacio, un gesto cada día.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — El amor propio como práctica de por vida"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Sé amable contigo también en el proceso de aprender a serlo. Si te caes y te insultas por caerte, sigues en la vieja lógica. Si te caes y te dices «bueno, un tropiezo, vuelvo», ya estás en la nueva.",
+   "es_literal": false,
+   "ancla": "Si te caes y te insultas por caerte, sigues en la vieja lógica. Si te caes y te dices «bueno, un tropiezo, vuelvo», ya estás en la nueva.",
+   "temas": [
+    "práctica",
+    "recaídas"
+   ],
+   "intensidad": 4,
+   "gancho": "No se demuestra los días buenos.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — El amor propio como práctica de por vida"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuatro apoyos para sostener esto en el tiempo. Uno: elige tres o cuatro rituales mínimos, tan pequeños que no puedas fallarlos. Dos: ancla cada uno a algo que ya haces, la frase amable mientras te lavas los dientes, la pregunta «¿qué necesito?» al sentarte a comer. Tres: una vez al mes, revísate con curiosidad y sin nota. Cuatro: ten un kit a mano para los días difíciles.",
+   "es_literal": false,
+   "ancla": "Engancha cada gesto a una rutina que ya tengas: la frase amable mientras te lavas los dientes, la pregunta «¿qué necesito?» cuando te sientas a comer, el repaso del día al apagar la luz.",
+   "temas": [
+    "práctica",
+    "hábitos"
+   ],
+   "intensidad": 3,
+   "gancho": "Ánclalo a algo que ya haces.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — El amor propio como práctica de por vida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No te vas a querer del todo nunca, y está bien. Vas a quererte cada día un poco, y eso, sostenido en el tiempo, es lo más parecido a quererse para siempre.",
+   "es_literal": true,
+   "ancla": "No te vas a querer del todo nunca, y está bien. Vas a quererte cada día un poco, y eso, sostenido en el tiempo, es lo más parecido a quererse para siempre.",
+   "temas": [
+    "amor propio",
+    "práctica"
+   ],
+   "intensidad": 5,
+   "gancho": "Cada día un poco. Eso es todo lo que hay.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "CIERRE — El amor que te debes"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El amor propio no se conquista de una vez: se construye un uno por ciento cada día, con paciencia y sin dureza contigo.",
+   "es_literal": true,
+   "ancla": "El amor propio no se conquista de una vez: se construye un uno por ciento cada día, con paciencia y sin dureza contigo.",
+   "temas": [
+    "kaizen",
+    "amor propio"
+   ],
+   "intensidad": 4,
+   "gancho": "Un uno por ciento al día, sin dureza.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "CIERRE — El amor que te debes"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El amor que te debes no se mendiga fuera: se construye dentro. Vale la pena recordarlo cada vez que te sorprendas con el móvil en la mano esperando que alguien confirme cuánto vales.",
+   "es_literal": false,
+   "ancla": "Recuérdalo cada vez que te sorprendas otra vez con el móvil en la mano esperando que alguien confirme cuánto vales",
+   "temas": [
+    "amor propio",
+    "validación"
+   ],
+   "intensidad": 5,
+   "gancho": "No fuera. Dentro. Siempre dentro.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "CIERRE — El amor que te debes"
+  }
+ ]
+}

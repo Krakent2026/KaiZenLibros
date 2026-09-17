@@ -1,0 +1,1298 @@
+{
+ "serie": "los_mensajeros",
+ "libro": "guru-nanak",
+ "atomos": [
+  {
+   "tipo": "escena",
+   "texto": "Un criado espera en la orilla con la ropa seca del amo. Aparta la mirada un instante hacia el camino. Cuando vuelve a mirar el río, ya no hay nadie dentro.",
+   "es_literal": false,
+   "ancla": "Lo vio adentrarse en el Bein, despacio, sin estremecerse al contacto con el agua helada, como si el frío no fuera con él. Lo vio inclinarse y hundir la cabeza en la corriente.",
+   "temas": [
+    "río",
+    "desaparición",
+    "espera"
+   ],
+   "intensidad": 4,
+   "gancho": "Apartó la mirada un instante. El río estaba vacío.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque Nanak había sido de todos y de nadie: comía con el hindú y comía con el musulmán, y ninguno de los dos había logrado nunca decir con certeza de qué lado estaba.",
+   "es_literal": true,
+   "ancla": "Porque Nanak había sido de todos y de nadie: comía con el hindú y comía con el musulmán, y ninguno de los dos había logrado nunca decir con certeza de qué lado estaba.",
+   "temas": [
+    "pertenencia",
+    "frontera",
+    "convivencia"
+   ],
+   "intensidad": 4,
+   "gancho": "De todos y de nadie: nadie supo nunca de qué lado estaba",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Lo dan por ahogado. En la casa encienden una lámpara de aceite junto a la puerta y la cuidan para que no se apague, porque creen que al alma que se va le hace falta luz para el camino.",
+   "es_literal": false,
+   "ancla": "Encendieron una lámpara de aceite junto a la puerta y la cuidaron para que no se apagara, porque el alma que se va necesita luz para el camino.",
+   "temas": [
+    "duelo",
+    "lámpara",
+    "casa"
+   ],
+   "intensidad": 3,
+   "gancho": "Encendieron una lámpara junto a la puerta y no la dejaron apagarse",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Aquel silencio no era el silencio del que no tiene qué decir. Era el silencio de quien ha visto demasiado y busca las palabras justas, las únicas, las que no traicionen lo que ha visto.",
+   "es_literal": true,
+   "ancla": "Aquel silencio no era el silencio del que no tiene qué decir. Era el silencio de quien ha visto demasiado y busca las palabras justas, las únicas, las que no traicionen lo que ha visto.",
+   "temas": [
+    "silencio",
+    "palabra",
+    "regreso"
+   ],
+   "intensidad": 5,
+   "gancho": "El silencio de quien busca las palabras que no traicionen lo visto",
+   "formatos": [
+    "cita",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Niño, cuídate de las preguntas. Una pregunta de verdad es como una semilla: si la siembras y no la arrancas, un día se te hace árbol y ya no cabes debajo de tu propia casa.",
+   "es_literal": true,
+   "ancla": "Niño, cuídate de las preguntas. Una pregunta de verdad es como una semilla: si la siembras y no la arrancas, un día se te hace árbol y ya no cabes debajo de tu propia casa.",
+   "temas": [
+    "preguntas",
+    "infancia",
+    "camino"
+   ],
+   "intensidad": 5,
+   "gancho": "Una pregunta de verdad es como una semilla",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El niño que hacía preguntas"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un sadhu cubierto de ceniza lleva cuarenta años buscando a Dios por los caminos. Un niño de la aldea le lleva agua fresca y le dice que a él no se le esconde. El viejo deja de sonreír.",
+   "es_literal": false,
+   "ancla": "El sadhu lo miró un largo rato, y luego dejó de sonreír, y algo se le mudó en la cara, como si aquel niño acabara de decirle en dos palabras lo que él llevaba cuarenta años sin encontrar por los caminos.",
+   "temas": [
+    "búsqueda",
+    "infancia",
+    "encuentro"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuarenta años buscando. Un niño se lo dijo en dos palabras.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 1 — El niño que hacía preguntas"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Un niño ve cómo echan a golpes del pozo a un intocable y pregunta a su padre si Dios hizo dos clases de agua, una para los de arriba y otra para los de abajo.",
+   "es_literal": false,
+   "ancla": "Si tienen hambre igual, y sed igual, y se mueren igual. ¿Por qué su agua ensucia y la nuestra no? ¿Es que Dios hizo dos clases de agua, padre, una para los de arriba y otra para los de abajo?",
+   "temas": [
+    "casta",
+    "igualdad",
+    "pozo"
+   ],
+   "intensidad": 5,
+   "gancho": "¿Hizo alguien dos clases de agua, una para arriba y otra para abajo?",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — El niño que hacía preguntas"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay preguntas que enfadan no porque sean insolentes, sino porque nadie se atrevió a hacérselas antes. El padre no se enfada con el niño: se enfada con el hueco que el niño acaba de abrir.",
+   "es_literal": false,
+   "ancla": "Kalu no supo qué responder, y como no supo, se enfadó, que es lo que hacen los hombres cuando un niño les pregunta algo que ellos nunca se atrevieron a preguntarse.",
+   "temas": [
+    "preguntas",
+    "padre",
+    "costumbre"
+   ],
+   "intensidad": 4,
+   "gancho": "Se enfadó porque no supo. Suele pasar en ese orden.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 1 — El niño que hacía preguntas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Quiero un hilo hecho de compasión, para no hacer daño a ningún ser vivo. Hilado con el algodón del contento, para no envidiar lo ajeno. Trenzado con la verdad, para no mentir.",
+   "es_literal": true,
+   "ancla": "Quiero un hilo hecho de compasión, para no hacer daño a ningún ser vivo. Hilado con el algodón del contento, para no envidiar lo ajeno. Trenzado con la verdad, para no mentir. Anudado con la templanza, para no dejarme arrastrar.",
+   "temas": [
+    "rito",
+    "virtud",
+    "casta"
+   ],
+   "intensidad": 5,
+   "gancho": "Un hilo de compasión, de contento, de verdad y de templanza",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — El hilo que no se rompe"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Padre, yo os obedezco en todo lo que es justo. Pero no puedo ponerme sobre el hombro una mentira solo porque sea antigua.",
+   "es_literal": false,
+   "ancla": "—Padre —dijo en voz baja—, yo os obedezco en todo lo que es justo. Pero no puedo ponerme sobre el hombro una mentira solo porque sea antigua.",
+   "temas": [
+    "obediencia",
+    "costumbre",
+    "familia"
+   ],
+   "intensidad": 5,
+   "gancho": "No puedo ponerme una mentira al hombro solo porque sea antigua",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — El hilo que no se rompe"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es un cordón de algodón, que se ensucia, se quema y se rompe: es un hilo que el alma se lleva puesta cuando ya no queda cuerpo que lo sostenga.",
+   "es_literal": false,
+   "ancla": "Ese sí que es un cordón sagrado. Ese no se ensucia por más que se use, no se quema en ningún fuego, no se gasta ni se rompe, y no se pierde con la muerte, sino que el alma se lo lleva puesta.",
+   "temas": [
+    "rito",
+    "símbolo",
+    "alma"
+   ],
+   "intensidad": 4,
+   "gancho": "Un hilo que ningún fuego quema y ningún uso gasta",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "cita"
+   ],
+   "capitulo": "Capítulo 2 — El hilo que no se rompe"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El sacerdote sostiene en alto el cordón, con toda la aldea mirando, y busca en su memoria un versículo con que aplastar a un crío de diez años. No lo encuentra.",
+   "es_literal": false,
+   "ancla": "El brahmán, con el cordón inútil colgando de sus dedos, buscaba en su memoria de sacerdote alguna respuesta, algún versículo, alguna fórmula con que aplastar la insolencia de aquel crío, y no la encontraba",
+   "temas": [
+    "rito",
+    "autoridad",
+    "infancia"
+   ],
+   "intensidad": 4,
+   "gancho": "El hilo colgando de sus dedos, y ninguna respuesta en la memoria",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 2 — El hilo que no se rompe"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No hay mejor trato, padre. No existe negocio que dé más ganancia que alimentar al hambriento. Ese es el único negocio que no se pierde, el que no se roba, el que no se pudre en el almacén.",
+   "es_literal": true,
+   "ancla": "No hay mejor trato, padre. No existe negocio que dé más ganancia que alimentar al hambriento. Ese es el único negocio que no se pierde, el que no se roba, el que no se pudre en el almacén.",
+   "temas": [
+    "hambre",
+    "dar",
+    "negocio"
+   ],
+   "intensidad": 5,
+   "gancho": "El único negocio que no se roba ni se pudre en el almacén",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — El verdadero negocio"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Veinte monedas de plata convertidas en grano, aceite y mantas. Un muchacho enciende el fuego y ve volver la luz a los ojos de unos hombres que llevaban días sin comer.",
+   "es_literal": false,
+   "ancla": "Los vio comer. Los vio revivir, poco a poco, con cada bocado; vio volver la luz a aquellos ojos apagados, vio esbozarse sonrisas en aquellas bocas resecas.",
+   "temas": [
+    "hambre",
+    "dar",
+    "juventud"
+   ],
+   "intensidad": 4,
+   "gancho": "Los vio revivir con cada bocado",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 3 — El verdadero negocio"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando le preguntan qué sintió al darles de comer, no habla de mérito ni de limosna. Dice que allí no había veinte hombres hambrientos, sino uno solo repartido en muchos.",
+   "es_literal": false,
+   "ancla": "Que no había veinte hombres bajo aquellos árboles, ni veintiuno conmigo, sino Uno solo, repartido en muchos, alimentándose a sí mismo por mis manos.",
+   "temas": [
+    "unidad",
+    "hambre",
+    "servicio"
+   ],
+   "intensidad": 4,
+   "gancho": "No eran veinte hombres. Era uno repartido en muchos.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3 — El verdadero negocio"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Repartiendo grano, el administrador llega al trece. En punjabí, trece se dice «tera», que también quiere decir «tuyo». La cuenta se le rompe en las manos y ya no sabe parar.",
+   "es_literal": false,
+   "ancla": "Los pobres, atónitos, veían llenarse sus sacos hasta rebosar; los que ya habían recibido volvían a la cola sin creer su suerte; y Nanak, ausente y feliz, a todos daba",
+   "temas": [
+    "reparto",
+    "palabra",
+    "trabajo"
+   ],
+   "intensidad": 4,
+   "gancho": "Contando grano llegó al trece, y el trece quería decir «tuyo»",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Sultanpur"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Yo solo veo, hermano, que cuando tocas y cantas, no me preguntas de qué credo soy. Y que el que nos escucha allá arriba tampoco parece preguntarlo.",
+   "es_literal": true,
+   "ancla": "Yo solo veo, hermano, que cuando tocas y cantas, no me preguntas de qué credo soy. Y que el que nos escucha allá arriba tampoco parece preguntarlo.",
+   "temas": [
+    "amistad",
+    "música",
+    "credo"
+   ],
+   "intensidad": 5,
+   "gancho": "Cuando cantamos, nadie pregunta de qué credo soy",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 4 — Sultanpur"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El mundo cree que guardando se tiene y dando se pierde. La novela muestra la cuenta al revés: la mano cerrada empobrece y la abierta no se queda nunca vacía.",
+   "es_literal": false,
+   "ancla": "que cuando das sin miedo, la fuente no se seca; que la avaricia empobrece y la mano abierta enriquece",
+   "temas": [
+    "dar",
+    "avaricia",
+    "confianza"
+   ],
+   "intensidad": 4,
+   "gancho": "La avaricia empobrece y la mano abierta enriquece",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — Sultanpur"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El criado espera en la orilla con la muda limpia doblada sobre la roca. Pasa una hora, y otra, y el río sigue liso y verde, sin más señal que el vuelo rasante de las garzas.",
+   "es_literal": false,
+   "ancla": "Pero pasó una hora, y pasó otra, y el sol subió, y la superficie del Bein seguía lisa y verde, sin más señal de un hombre que los círculos perezosos de algún pez y el vuelo rasante de las garzas.",
+   "temas": [
+    "espera",
+    "río",
+    "miedo"
+   ],
+   "intensidad": 4,
+   "gancho": "La muda seguía doblada sobre la roca. El río, liso.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 5 — Tres días bajo el agua"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un cuerpo no desaparece. El río devuelve siempre lo que se lleva, al segundo día, al tercero, río abajo, entre los juncos. Este no ha devuelto nada.",
+   "es_literal": true,
+   "ancla": "Un cuerpo no desaparece. El río devuelve siempre lo que se lleva, al segundo día, al tercero, río abajo, entre los juncos. Este no ha devuelto nada. Este río no se ha llevado a un hombre.",
+   "temas": [
+    "río",
+    "misterio",
+    "oficio"
+   ],
+   "intensidad": 4,
+   "gancho": "El río devuelve siempre lo que se lleva. Este no devolvió nada.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — Tres días bajo el agua"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Él no se ha ahogado. Yo lo conozco. Él no se ha ahogado. El agua no puede con un hombre así.",
+   "es_literal": true,
+   "ancla": "—Él no se ha ahogado. Yo lo conozco. Él no se ha ahogado. El agua no puede con un hombre así.",
+   "temas": [
+    "hermana",
+    "certeza",
+    "duelo"
+   ],
+   "intensidad": 5,
+   "gancho": "Nadie la creía. Ella repetía: yo lo conozco.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — Tres días bajo el agua"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela no afirma qué ocurrió bajo el agua. Dice que la tradición lo cuenta con voz baja, como se habla de lo que la lengua de los hombres no alcanza a decir del todo.",
+   "es_literal": false,
+   "ancla": "De lo que le sucedió bajo las aguas del Bein, en aquellos tres días, la tradición habla con voz baja y con reverencia, como se habla de las cosas que la lengua de los hombres no alcanza a decir del todo.",
+   "temas": [
+    "tradición",
+    "límite",
+    "relato"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que pasó bajo el agua se cuenta en voz baja, y así lo deja",
+   "formatos": [
+    "articulo",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — Tres días bajo el agua"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Por eso digo, y lo repetiré por donde vaya: no hay hindú, no hay musulmán. Hay seres humanos. Y Dios solo pregunta si has sido un verdadero ser humano.",
+   "es_literal": true,
+   "ancla": "Por eso digo, y lo repetiré por donde vaya: no hay hindú, no hay musulmán. Hay seres humanos. Y Dios solo pregunta si has sido un verdadero ser humano.",
+   "temas": [
+    "igualdad",
+    "etiqueta",
+    "humanidad"
+   ],
+   "intensidad": 5,
+   "gancho": "No hay hindú, no hay musulmán. Hay seres humanos.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — Ni hindú ni musulmán"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Mil nombres le damos los hombres con nuestras mil lenguas, y Él es Uno detrás de todos los nombres, como es uno el sol detrás de todos los que lo miran desde ventanas distintas.",
+   "es_literal": false,
+   "ancla": "mil nombres le damos los hombres con nuestras mil lenguas, y Él es Uno detrás de todos los nombres, como es uno el sol detrás de todos los que lo miran desde ventanas distintas. No riñáis por el nombre de la ventana. Mirad el sol.",
+   "temas": [
+    "nombres",
+    "unidad",
+    "disputa"
+   ],
+   "intensidad": 5,
+   "gancho": "No riñáis por el nombre de la ventana. Mirad el sol.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — Ni hindú ni musulmán"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Lo invitan a rezar en la mezquita y se queda de pie mientras todos se postran. Luego explica que el que dirigía la oración tenía la cabeza en una yegua recién parida, a días de camino.",
+   "es_literal": false,
+   "ancla": "Tú, venerable qazí, doblabas el cuerpo hacia La Meca, pero tu mente había salido corriendo hacia Kabul, a ver si tu yegua recién parida no se hacía daño con el potrillo.",
+   "temas": [
+    "oración",
+    "atención",
+    "forma"
+   ],
+   "intensidad": 4,
+   "gancho": "Se doblaban los cuerpos. Las cabezas estaban en otro sitio.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — Ni hindú ni musulmán"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La regla que da no es un dogma: recordar el Nombre, ganarse el pan con las manos y apartar siempre una parte para el que no tiene. Y comer todos en la misma fila.",
+   "es_literal": false,
+   "ancla": "Comed juntos, sin distinción de casta ni de credo; que el rico y el pobre, el brahmán y el intocable, el hindú y el musulmán, se sienten en la misma fila y coman del mismo plato.",
+   "temas": [
+    "igualdad",
+    "trabajo",
+    "compartir"
+   ],
+   "intensidad": 4,
+   "gancho": "Recordar, trabajar, compartir. Y sentarse en la misma fila.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6 — Ni hindú ni musulmán"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es la mano del pobre la que mancha la comida: es el desprecio del que se sienta a comer creyéndose más limpio.",
+   "es_literal": false,
+   "ancla": "No es la mano del pobre la que mancha, hermano. Es el desprecio de tu corazón. Siéntate y come. Ante Dios no hay altos ni bajos; solo hay hambrientos a los que dar de comer.",
+   "temas": [
+    "casta",
+    "pureza",
+    "mesa"
+   ],
+   "intensidad": 5,
+   "gancho": "No mancha la mano del pobre. Mancha el desprecio.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — Ni hindú ni musulmán"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En el Ganges, miles de peregrinos lanzan agua hacia el sol naciente. Un forastero se mete en el río, se vuelve de espaldas y empieza a lanzarla hacia el lado contrario.",
+   "es_literal": false,
+   "ancla": "Se colocó de espaldas al sol. De espaldas al este, de espaldas a todos aquellos miles de peregrinos que ofrecían su agua al oriente.",
+   "temas": [
+    "peregrinación",
+    "rito",
+    "ironía"
+   ],
+   "intensidad": 4,
+   "gancho": "Miles lanzaban el agua al este. Él la lanzó al oeste.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — El agua de Haridwar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Si mi agua es demasiado corta para mis campos cercanos, ¿cómo será la tuya suficiente para tus difuntos lejanos?",
+   "es_literal": true,
+   "ancla": "Si mi agua es demasiado corta para mis campos cercanos, ¿cómo será la tuya suficiente para tus difuntos lejanos?",
+   "temas": [
+    "rito",
+    "razón",
+    "muertos"
+   ],
+   "intensidad": 5,
+   "gancho": "Si el agua no llega a unos campos cercanos, ¿adónde llega?",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — El agua de Haridwar"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El agua no es lo que falla: limpia el barro del cuerpo y para eso es buena. Lo que no lava es la dureza con que uno entra y sale del río.",
+   "es_literal": false,
+   "ancla": "El agua limpia el barro del cuerpo, hermano. Es buena para eso, y bendita sea. Pero la suciedad del alma no la lava el agua.",
+   "temas": [
+    "rito",
+    "interior",
+    "río"
+   ],
+   "intensidad": 4,
+   "gancho": "El agua limpia el barro. La dureza no se moja.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — El agua de Haridwar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No pasa nada por equivocarse de dirección, hermano. Lo malo sería no darse cuenta nunca. El sol sale por el este, tienes razón, y el este es hermoso. Pero Dios sale por todas partes.",
+   "es_literal": true,
+   "ancla": "No pasa nada por equivocarse de dirección, hermano. Lo malo sería no darse cuenta nunca. El sol sale por el este, tienes razón, y el este es hermoso. Pero Dios sale por todas partes.",
+   "temas": [
+    "error",
+    "dirección",
+    "ternura"
+   ],
+   "intensidad": 5,
+   "gancho": "Equivocarse de dirección no es lo grave. No enterarse, sí.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — El agua de Haridwar"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En el patio de un banquete de treinta y seis manjares, un hombre aprieta en una mano el pan seco de un carpintero pobre. Entre los dedos empieza a caer leche sobre las losas.",
+   "es_literal": false,
+   "ancla": "Leche blanca, pura, tibia, que olía a establo limpio y a mañana, y que se derramaba sobre las losas y formaba un charquito claro que reflejaba el cielo.",
+   "temas": [
+    "pan",
+    "riqueza",
+    "prodigio"
+   ],
+   "intensidad": 5,
+   "gancho": "Apretó el pan del pobre y de su mano cayó leche",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 8 — La comida honrada"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es la diferencia entre ser pobre y ser rico: es la diferencia entre el pan ganado con honradez y el pan amasado con la deuda de otros.",
+   "es_literal": false,
+   "ancla": "No es la diferencia entre la pobreza y la riqueza, Malik Bhago. Dios no desprecia la riqueza; hay ricos justos y santos, como hay pobres crueles y avaros. La diferencia es otra. Es la diferencia entre el pan ganado con honradez y el pan amasado con injusticia.",
+   "temas": [
+    "riqueza",
+    "honradez",
+    "justicia"
+   ],
+   "intensidad": 5,
+   "gancho": "No es pobre contra rico. Es honrado contra injusto.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8 — La comida honrada"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No hace falta huir al bosque para encontrar a Dios: se le encuentra aquí, en el mercado, en el granero, en el trato justo, en el pan compartido.",
+   "es_literal": true,
+   "ancla": "No hace falta huir al bosque para encontrar a Dios: se le encuentra aquí, en el mercado, en el granero, en el trato justo, en el pan compartido.",
+   "temas": [
+    "mundo",
+    "trabajo",
+    "justicia"
+   ],
+   "intensidad": 5,
+   "gancho": "No hace falta huir al bosque: está en el trato justo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — La comida honrada"
+  },
+  {
+   "tipo": "cita",
+   "texto": "¿Sabes ya a qué sabe, hermano? Sabe a manos limpias. Y no hay en el mundo azafrán que perfume tanto un pan.",
+   "es_literal": true,
+   "ancla": "¿Sabes ya a qué sabe, hermano? Sabe a manos limpias. Y no hay en el mundo azafrán que perfume tanto un pan.",
+   "temas": [
+    "pan",
+    "trabajo",
+    "ternura"
+   ],
+   "intensidad": 4,
+   "gancho": "Sabe a manos limpias. No hay azafrán que perfume tanto.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — La comida honrada"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El posadero más querido de cinco jornadas a la redonda recibe a los viajeros con miel y agua fresca. Por la mañana barre el patio, enciende la lámpara del templo y espera al siguiente.",
+   "es_literal": false,
+   "ancla": "Y a la mañana siguiente barría el patio, encendía la lámpara del templo, se lavaba las manos en la mezquita, y esperaba, con su sonrisa de hombre santo, a la siguiente víctima.",
+   "temas": [
+    "máscara",
+    "hospitalidad",
+    "mal"
+   ],
+   "intensidad": 5,
+   "gancho": "Encalada por fuera, con la sonrisa puesta, la casa esperaba",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — Sajjan el posadero"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Dios no cuenta cuántos han caído. Dios cuenta el que se levanta.",
+   "es_literal": true,
+   "ancla": "Nanak dice: aun el peor de los hombres, si se vuelve al Señor, será limpio. Aun el pozo de muerte, si se vacía, volverá a dar agua dulce. Dios no cuenta cuántos han caído. Dios cuenta el que se levanta.",
+   "temas": [
+    "caída",
+    "vuelta",
+    "esperanza"
+   ],
+   "intensidad": 5,
+   "gancho": "No cuenta cuántos han caído. Cuenta el que se levanta.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — Sajjan el posadero"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando el juglar pregunta cómo pudo sentarse a la mesa de un asesino, la respuesta no absuelve a nadie: todos tenemos un pozo tapado, y lo único que nos distingue es quién ha empezado a cegar el suyo.",
+   "es_literal": false,
+   "ancla": "Todos lo somos, hermano. Todos tenemos nuestro pozo tapado. La única diferencia entre los hombres es cuántos han empezado a cegar el suyo.",
+   "temas": [
+    "culpa",
+    "honestidad",
+    "cambio"
+   ],
+   "intensidad": 4,
+   "gancho": "Todos tenemos un pozo tapado. La diferencia es quién lo ciega.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — Sajjan el posadero"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En la casa del hombre más rico de la ciudad, con siete banderolas ondeando en el tejado, el forastero saca de entre sus ropas una aguja de coser y le pide que se la guarde.",
+   "es_literal": false,
+   "ancla": "Y metió la mano entre los pliegues de su ropa, y sacó, entre el índice y el pulgar, sujeta con cuidado para que la luz del atardecer la hiciera brillar, una aguja.",
+   "temas": [
+    "riqueza",
+    "aguja",
+    "encargo"
+   ],
+   "intensidad": 4,
+   "gancho": "Le pidió que le guardara una aguja. Para devolvérsela después.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — La aguja de Duni Chand"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Solo una cosa se lleva el hombre al cruzar. Una sola. No el oro que guardó, sino el bien que hizo. No lo que tuvo, sino lo que dio.",
+   "es_literal": true,
+   "ancla": "Solo una cosa se lleva el hombre al cruzar. Una sola. No el oro que guardó, sino el bien que hizo. No lo que tuvo, sino lo que dio.",
+   "temas": [
+    "riqueza",
+    "dar",
+    "muerte"
+   ],
+   "intensidad": 5,
+   "gancho": "No lo que tuvo, sino lo que dio",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — La aguja de Duni Chand"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es rico el que acumula ni pobre el que carece: rico es el que da aunque no tenga, y pobre el que guarda aunque lo tenga todo.",
+   "es_literal": false,
+   "ancla": "Rico es el que da, aunque no tenga; pobre es el que guarda, aunque lo tenga todo. Nanak dice: lo que das, lo tienes para siempre; lo que guardas, lo pierdes al cerrar los ojos.",
+   "temas": [
+    "riqueza",
+    "dar",
+    "pobreza"
+   ],
+   "intensidad": 5,
+   "gancho": "Rico es el que da aunque no tenga",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — La aguja de Duni Chand"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Si nada de lo que acumulas cruza contigo, ¿qué cuenta queda al final? La novela la formula así: no cuántas banderolas plantaste, sino cuántos comieron.",
+   "es_literal": false,
+   "ancla": "Y allá, al otro lado, no te van a preguntar cuántas banderolas plantaste. Te van a preguntar cuántos comieron.",
+   "temas": [
+    "riqueza",
+    "balance",
+    "hambre"
+   ],
+   "intensidad": 5,
+   "gancho": "No cuántas banderolas plantaste: cuántos comieron",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — La aguja de Duni Chand"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un guardián lo despierta a patadas por dormir con los pies apuntando a la Kaaba. Él se incorpora sobre un codo y le pide que se los vuelva hacia donde Dios no esté.",
+   "es_literal": false,
+   "ancla": "toma mis pies con tus manos, y vuélvelos hacia donde Dios no esté. Ponlos apuntando al lugar donde no haya casa de Dios, donde no more el Señor, y allí los dejaré quietos, y no volveré a ofenderte.",
+   "temas": [
+    "la meca",
+    "dirección",
+    "calma"
+   ],
+   "intensidad": 5,
+   "gancho": "Vuélvemelos, dijo, hacia donde Dios no esté",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Los pies hacia La Meca"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Me preguntáis quién es mejor, el hindú o el musulmán. Y yo os respondo: sin buenas obras, ninguno de los dos vale nada.",
+   "es_literal": true,
+   "ancla": "Me preguntáis quién es mejor, el hindú o el musulmán. Y yo os respondo: sin buenas obras, ninguno de los dos vale nada.",
+   "temas": [
+    "obras",
+    "etiqueta",
+    "igualdad"
+   ],
+   "intensidad": 5,
+   "gancho": "Preguntan cuál vale más. Responde que sin obras, ninguno.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — Los pies hacia La Meca"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El prodigio de los pies no se cuenta como hecho probado. La novela lo atribuye a los que guardan la memoria de estas cosas, y deja al lector la distancia entre relato y archivo.",
+   "es_literal": false,
+   "ancla": "Y cuentan los que guardan la memoria de estas cosas que sucedió entonces el prodigio",
+   "temas": [
+    "memoria",
+    "relato",
+    "límite"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuentan los que guardan la memoria. La novela no va más lejos.",
+   "formatos": [
+    "articulo",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Los pies hacia La Meca"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Hemos preguntado por el nombre, y nos ha respondido por la obra. Hemos preguntado por la etiqueta del odre, y nos ha hablado del vino que hay dentro.",
+   "es_literal": true,
+   "ancla": "Hemos preguntado por el nombre, y nos ha respondido por la obra. Hemos preguntado por la etiqueta del odre, y nos ha hablado del vino que hay dentro.",
+   "temas": [
+    "nombre",
+    "obra",
+    "sabiduría"
+   ],
+   "intensidad": 5,
+   "gancho": "Preguntamos por la etiqueta del odre. Habló del vino.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — Los pies hacia La Meca"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Ciudad saqueada, cautivos en fila, molinos de mano bajo el sol. Un anciano con las muñecas rendidas sobre la piedra de moler abre la boca y empieza a cantar.",
+   "es_literal": false,
+   "ancla": "Y allí, sentado en el polvo, con las manos de anciano sobre el mango de la piedra, Nanak empezó a cantar.",
+   "temas": [
+    "guerra",
+    "cautiverio",
+    "canto"
+   ],
+   "intensidad": 5,
+   "gancho": "Atado, moliendo grano bajo el sol, y aun así cantó",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 12 — El grano y el emperador"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Mardana, hermano, toma el rabab. Que aunque nos hayan quitado todo, no nos han quitado la Palabra.",
+   "es_literal": false,
+   "ancla": "Mardana —dijo—, hermano, toma el rabab. Que aunque nos hayan quitado todo, no nos han quitado la Palabra.",
+   "temas": [
+    "música",
+    "amistad",
+    "pérdida"
+   ],
+   "intensidad": 5,
+   "gancho": "Nos lo han quitado todo menos esto: toma el rabab",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 12 — El grano y el emperador"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Ante la matanza, no consuela ni explica: pregunta. ¿Dónde estabas cuando los débiles gritaban? La novela deja la pregunta abierta, sin respuesta que la cierre.",
+   "es_literal": false,
+   "ancla": "¿Dónde estabas, Señor, cuando los débiles gritaban? ¿No temblaste, oh Creador, al ver tanto dolor? Tan grande fue la matanza, tan alto el llanto de la gente, que Tú, ¿no sentiste compasión?",
+   "temas": [
+    "dolor",
+    "fe",
+    "guerra"
+   ],
+   "intensidad": 5,
+   "gancho": "¿Dónde estabas cuando los débiles gritaban?",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — El grano y el emperador"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Y allí no te preguntarán cuántos reinos ganaste, sino cuánta compasión tuviste.",
+   "es_literal": true,
+   "ancla": "El poder es un préstamo, no una herencia. También a ti te lo quitarán un día, y comparecerás, como todos, ante Aquel que no distingue entre el emperador y el mendigo. Y allí no te preguntarán cuántos reinos ganaste, sino cuánta compasión tuviste.",
+   "temas": [
+    "poder",
+    "compasión",
+    "límite"
+   ],
+   "intensidad": 5,
+   "gancho": "No cuántos reinos ganaste: cuánta compasión tuviste",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — El grano y el emperador"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Preguntar no es dudar. Se puede gritarle el dolor a Dios y seguir sin soltarle la mano: el día y la noche caben en el mismo cielo.",
+   "es_literal": false,
+   "ancla": "que se puede llorar a Dios y confiar en Dios a la vez. Que no hay que elegir entre el dolor y la fe. Los dos caben en el mismo corazón, como caben el día y la noche en el mismo cielo.",
+   "temas": [
+    "duda",
+    "fe",
+    "dolor"
+   ],
+   "intensidad": 5,
+   "gancho": "No hay que elegir entre el dolor y la fe",
+   "formatos": [
+    "cita",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12 — El grano y el emperador"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Si buscabais milagros y aspavientos, id a otra parte; aquí el único milagro es el grano que sube de la tierra y el Nombre que sube del corazón.",
+   "es_literal": true,
+   "ancla": "Si buscabais milagros y aspavientos, id a otra parte; aquí el único milagro es el grano que sube de la tierra y el Nombre que sube del corazón.",
+   "temas": [
+    "trabajo",
+    "sencillez",
+    "kartarpur"
+   ],
+   "intensidad": 5,
+   "gancho": "El único milagro: el grano que sube de la tierra",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — La ciudad del Creador"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un brahmán ilustre llega hambriento y le dicen que, si quiere comer, ha de sentarse en el suelo junto a un curtidor de pieles. Duda largo rato. Luego se sienta, y come llorando.",
+   "es_literal": false,
+   "ancla": "Se sentó en el suelo, junto al curtidor de pieles, y le pasaron a los dos el mismo plato de lentejas y el mismo pan cocido en la misma ceniza.",
+   "temas": [
+    "casta",
+    "mesa",
+    "igualdad"
+   ],
+   "intensidad": 5,
+   "gancho": "Para comer allí solo había que sentarse en el suelo, con otro",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 13 — La ciudad del Creador"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La cocina común no era caridad, era escuela. El que un día come junto al intocable ya no puede volver del todo a mirarlo como antes: la costra de siglos se resquebraja por una lenteja.",
+   "es_literal": false,
+   "ancla": "El plato compartido enseñaba, sin sermones, lo que mil sermones no habían logrado: que la hermandad de los hombres no es una idea bonita para los discursos, sino una lenteja concreta que se lleva a la boca sentado en el suelo junto a otro.",
+   "temas": [
+    "compartir",
+    "igualdad",
+    "costumbre"
+   ],
+   "intensidad": 5,
+   "gancho": "La hermandad no era una idea: era una lenteja concreta",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — La ciudad del Creador"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es huir del mundo para salvarse uno solo: es quedarse dentro de él, con un campo que arar y una familia que alimentar, y salvarse con los hermanos.",
+   "es_literal": false,
+   "ancla": "Tú has huido del mundo para salvarte tú solo. Yo me quedo en el mundo para salvarme con mis hermanos.",
+   "temas": [
+    "ascetismo",
+    "mundo",
+    "servicio"
+   ],
+   "intensidad": 5,
+   "gancho": "Huir es fácil. Lo difícil es quedarse y no endurecerse.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — La ciudad del Creador"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un argumento se olvida; una canción se queda en la sangre. Una doctrina divide a los hombres en los que la entienden y los que no; una melodía los une a todos en el mismo estremecimiento.",
+   "es_literal": true,
+   "ancla": "Un argumento se olvida; una canción se queda en la sangre. Una doctrina divide a los hombres en los que la entienden y los que no; una melodía los une a todos en el mismo estremecimiento.",
+   "temas": [
+    "canto",
+    "palabra",
+    "unidad"
+   ],
+   "intensidad": 5,
+   "gancho": "Un argumento se olvida; una canción se queda en la sangre",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 14 — La palabra cantada"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Al músico ya no le responden los dedos y pide que le canten mientras se va. El otro anciano toma su rabab, lo templa y canta hasta que el aliento del amigo se hace silencio.",
+   "es_literal": false,
+   "ancla": "Y Mardana, oyendo la Palabra en la voz de su amigo de toda la vida, y oyéndola sobre las cuerdas de su propio rabab, tañido por la mano del Gurú, cerró los ojos y sonrió",
+   "temas": [
+    "amistad",
+    "muerte",
+    "música"
+   ],
+   "intensidad": 5,
+   "gancho": "Se fue con la música puesta, tocada por su amigo",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 14 — La palabra cantada"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cincuenta años de camino juntos: uno nacido hindú, el otro musulmán, comiendo del mismo plato y cantando al mismo Dios. La novela no lo llama doctrina. Lo llama un himno.",
+   "es_literal": false,
+   "ancla": "Un hindú y un musulmán que caminaron juntos, que comieron del mismo plato, que cantaron al mismo Dios hasta que la muerte los separó. Nuestra amistad, Mardana, ha sido ella misma un himno.",
+   "temas": [
+    "amistad",
+    "convivencia",
+    "vida"
+   ],
+   "intensidad": 5,
+   "gancho": "Su amistad fue, ella sola, el himno más largo que cantaron",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 14 — La palabra cantada"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "El maestro envejece y nadie se atreve a decir en voz alta la pregunta que ocupa la comunidad entera: cuando la lámpara se apague, ¿quién guardará la luz?",
+   "es_literal": false,
+   "ancla": "El Gurú se preparaba para partir. Y con él se abría, terrible y luminosa, la pregunta que ningún corazón de Kartarpur se atrevía a pronunciar en voz alta: cuando la lámpara se apagara, ¿quién guardaría la luz?",
+   "temas": [
+    "sucesión",
+    "vejez",
+    "comunidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuando la lámpara se apague, ¿quién guarda la luz?",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — El elegido"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un charco helado y sucio junto al sendero. El maestro pide que alguien saque del fondo un cuenco caído. Los hijos no se mueven; un recién llegado ya tiene los brazos dentro del agua.",
+   "es_literal": false,
+   "ancla": "Antes de que el eco de la voz del Gurú se hubiera apagado, ya se había arremangado, ya había metido los brazos en el agua helada hasta el codo, ya buscaba en el fondo con los dedos entumecidos, sin una queja, sin un gesto de asco, sin preguntar por qué.",
+   "temas": [
+    "servicio",
+    "prueba",
+    "humildad"
+   ],
+   "intensidad": 5,
+   "gancho": "Nadie se movió. Él ya tenía los brazos en el agua helada.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — El elegido"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay una vanidad que se disfraza de renuncia. El que se enorgullece de su cilicio ha cambiado una atadura por otra más fina, y esta brilla tanto que la confunde con un collar de honor.",
+   "es_literal": false,
+   "ancla": "El asceta que se enorgullece de su cilicio —le dijo un día a un discípulo que le preguntaba por Sri Chand— ha cambiado una atadura por otra más fina.",
+   "temas": [
+    "orgullo",
+    "renuncia",
+    "padre"
+   ],
+   "intensidad": 4,
+   "gancho": "Cambió una atadura por otra más fina. Y esta brillaba.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15 — El elegido"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque la lámpara puede cambiar; la llama, nunca. Es siempre la misma. Es la Palabra que cantamos. Es la Luz del Uno.",
+   "es_literal": true,
+   "ancla": "Porque la lámpara puede cambiar; la llama, nunca. Es siempre la misma. Es la Palabra que cantamos. Es la Luz del Uno.",
+   "temas": [
+    "sucesión",
+    "luz",
+    "continuidad"
+   ],
+   "intensidad": 5,
+   "gancho": "La lámpara puede cambiar; la llama, nunca",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — El elegido"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Flores hindúes a un lado del cuerpo, flores musulmanas al otro, y una noche entera de vela. Al alba, las de los dos bandos siguen igual de frescas.",
+   "es_literal": false,
+   "ancla": "Las flores de ambos lados seguían frescas. Igual de frescas. Los pétalos hindúes estaban tan lozanos, tan turgentes, tan vivos como al ponerlos; y los pétalos musulmanes, exactamente igual.",
+   "temas": [
+    "flores",
+    "disputa",
+    "final"
+   ],
+   "intensidad": 5,
+   "gancho": "Al amanecer, las flores de los dos lados seguían frescas",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — Las flores frescas"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Lo que ocurre bajo la sábana blanca es relato heredado, no acta notarial. La novela lo cuenta como memoria de una comunidad y no pretende cerrarlo como suceso comprobado.",
+   "es_literal": false,
+   "ancla": "El cuerpo del Gurú Nanak había desaparecido. No quedaba sino la sábana, que se plegó vacía sobre sí misma, y las dos filas de flores frescas a uno y otro lado del espacio donde el cuerpo había estado.",
+   "temas": [
+    "memoria",
+    "relato",
+    "final"
+   ],
+   "intensidad": 3,
+   "gancho": "Memoria contada, no acta: así se narra lo que queda bajo la sábana",
+   "formatos": [
+    "articulo",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16 — Las flores frescas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El que canta el Nombre no muere. Cambia de orilla. La ola vuelve al mar, y el mar no pierde nada.",
+   "es_literal": true,
+   "ancla": "El que canta el Nombre no muere. Cambia de orilla. La ola vuelve al mar, y el mar no pierde nada.",
+   "temas": [
+    "muerte",
+    "orilla",
+    "despedida"
+   ],
+   "intensidad": 5,
+   "gancho": "Cambia de orilla. La ola vuelve al mar.",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 16 — Las flores frescas"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El epílogo no coloca a ningún mensajero por encima de otro. Habla de lámparas encendidas en desiertos, montañas, palacios y cuevas, y de la confusión de tomar la lámpara por la luz.",
+   "es_literal": false,
+   "ancla": "Vinieron de pueblos distintos y hablaron idiomas que no se entendían entre sí; encendieron sus lámparas en desiertos y en montañas, en palacios y en cuevas",
+   "temas": [
+    "tradiciones",
+    "luz",
+    "respeto"
+   ],
+   "intensidad": 4,
+   "gancho": "Confundir la lámpara con la luz: esa fue siempre la tragedia",
+   "formatos": [
+    "articulo",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Epílogo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La verdad no es propiedad de nadie. Por eso en el libro caben los cantos de santos hindúes y de místicos musulmanes, de tejedores y de brahmanes, todos en las mismas páginas.",
+   "es_literal": false,
+   "ancla": "Porque la verdad, había enseñado Nanak, no es propiedad de nadie: dondequiera que alguien haya amado de veras al Uno, allí ha brotado la misma Luz.",
+   "temas": [
+    "verdad",
+    "libro",
+    "pluralidad"
+   ],
+   "intensidad": 4,
+   "gancho": "La verdad no es propiedad de nadie",
+   "formatos": [
+    "cita",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Epílogo"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué queda de un hombre cinco siglos después? Una cocina que no cierra nunca y una fila donde nadie pregunta tu nombre, tu dios ni tu casta antes de darte el plato.",
+   "es_literal": false,
+   "ancla": "Cualquiera puede entrar. El rico y el mendigo, el sij y el que no lo es, el hindú, el musulmán, el cristiano, el que no cree en nada, el rey y el paria, todos se sientan juntos en el suelo, en la misma fila, hombro con hombro",
+   "temas": [
+    "herencia",
+    "compartir",
+    "igualdad"
+   ],
+   "intensidad": 5,
+   "gancho": "Una cocina que no cierra y una fila que no pregunta",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Epílogo"
+  }
+ ]
+}

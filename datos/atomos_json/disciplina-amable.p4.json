@@ -1,0 +1,204 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "disciplina-amable",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "El miedo te empuja por la espalda, a la fuerza. El cuidado camina a tu lado, de la mano. Solo uno de los dos, adivina cuál, aguanta el ritmo toda una vida sin quemarse.",
+   "es_literal": true,
+   "ancla": "El miedo te empuja por la espalda, a la fuerza. El cuidado camina a tu lado, de la mano. Solo uno de los dos, adivina cuál, aguanta el ritmo toda una vida sin quemarse.",
+   "temas": ["motivación", "miedo", "cuidado"],
+   "intensidad": 5,
+   "gancho": "Dos combustibles, y uno se funde",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 12 — Motivación desde el cuidado, no desde el miedo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El cambio no fue dejar de hacer deporte: fue cambiarle el motor. Las mismas sesiones, los mismos días, pero sin el estómago encogido de angustia. Y esta vez, para su sorpresa, se quedaron.",
+   "es_literal": false,
+   "ancla": "\"Es rarísimo\", me dijo unas semanas después, con cara de descubrimiento, \"hago casi exactamente lo mismo que antes, las mismas cosas, pero ya no las hago con el estómago encogido de angustia, con esa presión en el pecho.\"",
+   "temas": ["motivación", "cuidado"],
+   "intensidad": 4,
+   "gancho": "Las mismas cosas, otro motor debajo",
+   "formatos": ["reel", "carrusel", "audio"],
+   "capitulo": "Capítulo 12 — Motivación desde el cuidado, no desde el miedo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Escribe tus metas tal como te las dices por dentro. 2) Mira cuáles empiezan por «para no». 3) Tradúcelas a un «para sí»: de «para no engordar» a «para sentirme despejado». 4) Fíjate en que la acción es la misma y el peso, otro.",
+   "es_literal": false,
+   "ancla": "\"Para no engordar\", \"para no fracasar\", \"para no defraudar\", \"para no quedarme atrás\": todas son metas de huida, de miedo, formuladas en negativo, alejándote de algo temido.",
+   "temas": ["motivación", "práctica"],
+   "intensidad": 3,
+   "gancho": "Del «para no» al «para sí»",
+   "formatos": ["carrusel", "hilo", "pin"],
+   "capitulo": "Capítulo 12 — Motivación desde el cuidado, no desde el miedo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Si nunca celebras lo que logras, tu propia cabeza acaba aprendiendo, con toda lógica, que esforzarse no trae nada bueno. Y entonces, coherentemente, deja de querer esforzarse. ¿Para qué?",
+   "es_literal": true,
+   "ancla": "Si nunca celebras lo que logras, tu propia cabeza acaba aprendiendo, con toda lógica, que esforzarse no trae nada bueno. Y entonces, coherentemente, deja de querer esforzarse. ¿Para qué?",
+   "temas": ["celebrar", "constancia"],
+   "intensidad": 4,
+   "gancho": "Si nunca celebras, la cabeza deja de querer",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 13 — Celebrar lo pequeño"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Celebrar los grandes logros es fácil. Lo que casi nadie hace es celebrar el volver: el día en que, tras haber caído ayer, hoy has regresado al camino. Ese es el gesto que sostiene todo lo demás.",
+   "es_literal": false,
+   "ancla": "Celebra especialmente el día en que, tras haber fallado y caído ayer, hoy, a pesar de la culpa y la pereza, has regresado al camino.",
+   "temas": ["celebrar", "recaída"],
+   "intensidad": 4,
+   "gancho": "Celebra el regreso, no solo la meta",
+   "formatos": ["cita", "carrusel", "reel"],
+   "capitulo": "Capítulo 13 — Celebrar lo pequeño"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Esta noche, antes de dormir, coge papel o móvil. 2) Anota una sola cosa que hayas hecho hoy y esté bien; una, no una lista exigente. 3) Que sea minúscula: «salí a andar veinte minutos», «volví al plan después de fallar ayer». 4) Déjala existir un segundo antes de dormirte.",
+   "es_literal": false,
+   "ancla": "esta noche, antes de dormirte, coge un papel o el móvil y anota una sola cosa —solo una, no te pido más, no lo conviertas en una lista exigente— que hayas hecho hoy y que esté bien.",
+   "temas": ["celebrar", "práctica"],
+   "intensidad": 3,
+   "gancho": "Una sola cosa bien, anotada antes de dormir",
+   "formatos": ["carrusel", "pin", "hilo"],
+   "capitulo": "Capítulo 13 — Celebrar lo pequeño"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cada \"debería\" es una vara invisible con la que te mides, secretamente, contra una vida que no es la tuya —una vida ideal, ajena o imaginaria— y con la que, por diseño, siempre sales perdiendo. Es una trampa que no se puede ganar.",
+   "es_literal": true,
+   "ancla": "Cada \"debería\" es una vara invisible con la que te mides, secretamente, contra una vida que no es la tuya —una vida ideal, ajena o imaginaria— y con la que, por diseño, siempre sales perdiendo. Es una trampa que no se puede ganar.",
+   "temas": ["debería", "comparación"],
+   "intensidad": 5,
+   "gancho": "Una vara con la que siempre sales perdiendo",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 14 — Comparación y el \"debería\""
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Cuando te comparas, enfrentas tu proceso con el resultado ya pulido de otro: tu cocina desordenada de esta mañana contra su foto. ¿Con qué estás comparándote ahora mismo, exactamente?",
+   "es_literal": false,
+   "ancla": "cuando te comparas, comparas casi siempre tu *proceso* con el *resultado* ajeno",
+   "temas": ["comparación", "redes"],
+   "intensidad": 4,
+   "gancho": "Tu trastienda contra su escaparate",
+   "formatos": ["cita", "reel", "carrusel"],
+   "capitulo": "Capítulo 14 — Comparación y el \"debería\""
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Caza un «debería» del día y escríbelo tal cual suena. 2) Quítale el «debería» y ponle un «quiero». 3) Si resuena y lo sientes tuyo, tradúcelo a «elijo». 4) Si no resuena, era una vara ajena: suéltalo y déjalo caer.",
+   "es_literal": false,
+   "ancla": "quítale el \"debería\" y ponle un \"quiero\", y observa si resuena",
+   "temas": ["debería", "práctica"],
+   "intensidad": 3,
+   "gancho": "Quítale el «debería», ponle un «quiero»",
+   "formatos": ["carrusel", "hilo", "pin"],
+   "capitulo": "Capítulo 14 — Comparación y el \"debería\""
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo rígido parece más fuerte, más admirable, pero se rompe en seco con el primer golpe fuerte. Lo flexible parece más débil, menos impresionante, pero se dobla, encaja el golpe, y sigue en pie. En la constancia que dura años, gana lo flexible.",
+   "es_literal": true,
+   "ancla": "Lo rígido parece más fuerte, más admirable, pero se rompe en seco con el primer golpe fuerte. Lo flexible parece más débil, menos impresionante, pero se dobla, encaja el golpe, y sigue en pie. En la constancia que dura años, gana lo flexible.",
+   "temas": ["flexibilidad", "rigidez"],
+   "intensidad": 5,
+   "gancho": "En la constancia que dura, gana lo flexible",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 15 — Constancia flexible frente a rigidez"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando llega el vendaval, el roble que no se dobla se parte por el tronco. El junco cede hasta tocar el suelo y, pasada la tormenta, se yergue otra vez. En la constancia conviene ser de junco, no de hierro.",
+   "es_literal": false,
+   "ancla": "Cuando llega el vendaval, la gran tormenta, el roble rígido y orgulloso, el que no se dobla porque se cree demasiado fuerte para eso, se parte por el tronco y cae.",
+   "temas": ["flexibilidad", "fortaleza"],
+   "intensidad": 4,
+   "gancho": "No seas de hierro: sé de junco",
+   "formatos": ["cita", "carrusel", "reel"],
+   "capitulo": "Capítulo 15 — Constancia flexible frente a rigidez"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Coge un plan que lleve dentro «todos los días», «sin excepción» o «a tal hora exacta». 2) Cambia el «todos los días» por «cuatro de siete». 3) Cambia la hora fija por «cuando pueda encajarlo». 4) Déjale sitio para sobrevivir a una gripe o a una semana imposible.",
+   "es_literal": false,
+   "ancla": "Convierte el \"todos los días\" en \"casi todos\" o en un realista \"cuatro de siete\". Convierte el \"a las siete en punto o nada\" en \"por la mañana, cuando pueda encajarlo\".",
+   "temas": ["flexibilidad", "planes", "práctica"],
+   "intensidad": 4,
+   "gancho": "Dale al plan aire para respirar",
+   "formatos": ["carrusel", "hilo", "pin"],
+   "capitulo": "Capítulo 15 — Constancia flexible frente a rigidez"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Solemos hacer los planes desde el domingo motivado, y el que tiene que ejecutarlos es el martes agotado. Un buen plan es el que tu peor versión puede cumplir en un mal día; los días buenos harás más, de propina.",
+   "es_literal": false,
+   "ancla": "Pregúntate al hacer un plan: \"¿podrá cumplir esto mi peor versión, la de un martes horrible?\"",
+   "temas": ["planes", "flexibilidad"],
+   "intensidad": 4,
+   "gancho": "Planea para el martes malo, no para el domingo",
+   "formatos": ["cita", "carrusel", "hilo"],
+   "capitulo": "Capítulo 15 — Constancia flexible frente a rigidez"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La motivación te trae, gratis y con entusiasmo, hasta la puerta. Pero la amabilidad contigo mismo es lo único que te hace cruzar esa puerta cada día, un día tras otro, también —y sobre todo— los muchos días grises en que no te apetece nada y nadie te mira.",
+   "es_literal": true,
+   "ancla": "La motivación te trae, gratis y con entusiasmo, hasta la puerta. Pero la amabilidad contigo mismo es lo único que te hace cruzar esa puerta cada día, un día tras otro, también —y sobre todo— los muchos días grises en que no te apetece nada y nadie te mira.",
+   "temas": ["motivación", "largo plazo"],
+   "intensidad": 5,
+   "gancho": "La motivación trae; la amabilidad cruza",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 16 — Sostener el cambio a largo plazo con amabilidad"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "A los sesenta y uno cambió la etiqueta de toda una vida. No se puso «soy una persona disciplinada», que le sonaba imposible, sino algo más humilde y más listo: soy alguien que se trata bien y que, por eso, siempre vuelve.",
+   "es_literal": false,
+   "ancla": "Adoptó otra distinta, más humilde y más lista: \"Soy alguien que se trata bien y que, precisamente por eso, siempre vuelve.\"",
+   "temas": ["identidad", "largo plazo"],
+   "intensidad": 5,
+   "gancho": "De «soy un desastre» a «soy alguien que vuelve»",
+   "formatos": ["cita", "carrusel", "reel"],
+   "capitulo": "Capítulo 16 — Sostener el cambio a largo plazo con amabilidad"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no propone rendir igual todo el año. Habrá épocas duras en que apenas puedas con el mínimo, o ni con eso, y en esas la constancia amable consiste solo en no abandonarte y en mantener el hilo.",
+   "es_literal": false,
+   "ancla": "Las malas épocas también son la vida, y en ellas la constancia amable no consiste en rendir igual que en las buenas —sería imposible y cruel—, sino en no abandonarte",
+   "temas": ["largo plazo", "expectativas"],
+   "intensidad": 4,
+   "gancho": "Los años tienen inviernos",
+   "formatos": ["cita", "articulo", "carrusel"],
+   "capitulo": "Capítulo 16 — Sostener el cambio a largo plazo con amabilidad"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No te vuelves constante castigándote por caer, sino tratándote lo bastante bien como para volver. Cae las veces que hagan falta, sin drama, y vuelve, siempre, con amabilidad, una vez más.",
+   "es_literal": true,
+   "ancla": "No te vuelves constante castigándote por caer, sino tratándote lo bastante bien como para volver. Cae las veces que hagan falta, sin drama, y vuelve, siempre, con amabilidad, una vez más.",
+   "temas": ["constancia", "amabilidad"],
+   "intensidad": 5,
+   "gancho": "Cae sin drama y vuelve, una vez más",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "CIERRE — Volver una vez más"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Estas páginas acompañan, pero no sustituyen a un profesional. Si lo que cargas por dentro te supera, el libro dice que pedir ayuda no es rendirse: lo llama la forma más amable, más sabia y más valiente de constancia que existe.",
+   "es_literal": false,
+   "ancla": "pedir ayuda profesional no es en absoluto lo contrario de lo que enseña este libro, es su expresión más alta, la forma más amable, más sabia y más valiente de constancia que existe",
+   "temas": ["límites", "ayuda"],
+   "intensidad": 4,
+   "gancho": "Acompaña, no sustituye a un profesional",
+   "formatos": ["cita", "articulo", "carrusel"],
+   "capitulo": "CIERRE — Volver una vez más"
+  }
+ ]
+}

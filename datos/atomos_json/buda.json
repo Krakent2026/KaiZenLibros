@@ -1,0 +1,1304 @@
+{
+ "serie": "los_mensajeros",
+ "libro": "buda",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "Aunque la carne se me seque sobre los huesos y no quede de mí más que el hueso y el harapo, no moveré este cuerpo de aquí hasta haber visto lo que vine a ver.",
+   "es_literal": true,
+   "ancla": "—No me levantaré —dijo—. Aunque la carne se me seque sobre los huesos y no quede de mí más que el hueso y el harapo, no moveré este cuerpo de aquí hasta haber visto lo que vine a ver. Que se pudra esta forma si es preciso. No me levantaré.",
+   "temas": [
+    "decisión",
+    "miedo",
+    "límite"
+   ],
+   "intensidad": 5,
+   "gancho": "Un voto dicho a solas, de noche, sin nadie que lo oyera",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Mara, que tiene mil rostros y todos son el propio miedo de uno.",
+   "es_literal": true,
+   "ancla": "Eran los ejércitos de Mara, el que habita en el borde de toda mente que se acerca a la verdad; Mara, el que susurra que no vale la pena, que ya es tarde, que más vale un poco de sueño y de olvido; Mara, que tiene mil rostros y todos son el propio miedo de uno.",
+   "temas": [
+    "miedo",
+    "duda"
+   ],
+   "intensidad": 4,
+   "gancho": "La novela le pone nombre a la voz que dice que no vale la pena",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una voz en la oscuridad le exige una prueba: nadie lo ha visto, nadie sabrá. Él no discute. Saca la mano derecha del regazo y, muy despacio, toca la tierra.",
+   "es_literal": false,
+   "ancla": "Muy despacio, con la lentitud de quien ha aprendido que no hace falta prisa, sacó la mano derecha del regazo. La extendió sobre la rodilla huesuda. Y la bajó, y con las yemas de los dedos tocó la tierra.",
+   "temas": [
+    "duda",
+    "soledad",
+    "gesto"
+   ],
+   "intensidad": 4,
+   "gancho": "Le piden una prueba. Responde bajando la mano hasta el suelo.",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cerró los ojos, aquietó la respiración hasta que fue apenas un hilo, y esperó a que amaneciera dentro de él.",
+   "es_literal": true,
+   "ancla": "Cerró los ojos, aquietó la respiración hasta que fue apenas un hilo, y esperó a que amaneciera dentro de él.",
+   "temas": [
+    "espera",
+    "silencio"
+   ],
+   "intensidad": 4,
+   "gancho": "El amanecer que esperaba no era el del cielo",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un asceta viejísimo baja de las montañas para ver al recién nacido. Lo toma en brazos, lo mira largamente y, delante de toda la corte, se echa a llorar.",
+   "es_literal": false,
+   "ancla": "Rodaron las lágrimas por los surcos de su cara y cayeron sobre los pañales del príncipe, y en la sala se hizo un silencio de miedo.",
+   "temas": [
+    "vejez",
+    "ternura",
+    "presagio"
+   ],
+   "intensidad": 4,
+   "gancho": "El viejo que llora sosteniendo a un niño, y no es por el niño",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — El sueño de la reina"
+  },
+  {
+   "tipo": "cita",
+   "texto": "He tenido en mis brazos al que despertará al mundo, y no oiré ni una sola de sus palabras.",
+   "es_literal": true,
+   "ancla": "Habré muerto y renacido en algún mundo lejano cuando él abra la boca para decir la verdad, y no estaré entre los que escuchen. Por eso lloro. He tenido en mis brazos al que despertará al mundo, y no oiré ni una sola de sus palabras.",
+   "temas": [
+    "vejez",
+    "tiempo",
+    "pérdida"
+   ],
+   "intensidad": 5,
+   "gancho": "Llorar por llegar demasiado pronto a algo que no verás",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — El sueño de la reina"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Al rey le anuncian dos futuros posibles para su hijo. Escucha los dos y se queda solo con el que le conviene. Sobre esa mitad construirá una vida entera.",
+   "es_literal": false,
+   "ancla": "Había oído, otra vez, las dos mitades de una misma profecía. Y otra vez, como el hombre que era, escogió quedarse solo con la primera y temer la segunda.",
+   "temas": [
+    "padres",
+    "negación",
+    "miedo"
+   ],
+   "intensidad": 3,
+   "gancho": "Oír las dos mitades de algo y quedarse solo con una",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 1 — El sueño de la reina"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No comprendía —¿cómo iba a comprenderlo?— que la luz que uno enciende para no ver la oscuridad es también la que, cuando por fin se apaga, deja los ojos más ciegos.",
+   "es_literal": true,
+   "ancla": "No comprendía —¿cómo iba a comprenderlo?— que la luz que uno enciende para no ver la oscuridad es también la que, cuando por fin se apaga, deja los ojos más ciegos.",
+   "temas": [
+    "protección",
+    "ceguera",
+    "padres"
+   ],
+   "intensidad": 5,
+   "gancho": "Proteger a alguien de la oscuridad puede dejarlo más ciego",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El sueño de la reina"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Antes de que el príncipe abra los ojos, unos jardineros invisibles recorren el jardín arrancando el pétalo pardo y la hoja que amarillea. Cada mañana amanece un mundo que aún no ha empezado a morir.",
+   "es_literal": false,
+   "ancla": "Cada mañana, antes de que Siddhartha abriera los ojos, manos invisibles recorrían los caminos arrancando el pétalo pardo, cortando la rosa que empezaba a rendirse, retirando la hoja que amarilleaba, barriendo del suelo cuanto hubiera caído.",
+   "temas": [
+    "infancia",
+    "control",
+    "apariencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Un jardín donde ninguna flor tiene permiso para marchitarse",
+   "formatos": [
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — El muro de flores"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Nadie le mintió con palabras. Le mintieron con el silencio, con el orden, con la belleza.",
+   "es_literal": true,
+   "ancla": "Nadie le mintió con palabras. Le mintieron con el silencio, con el orden, con la belleza. Le construyeron una luz artificial tan pareja y tan constante que bajo ella no se veía ninguna sombra, y donde no hay sombra tampoco se sabe qué es la luz.",
+   "temas": [
+    "mentira",
+    "silencio",
+    "familia"
+   ],
+   "intensidad": 5,
+   "gancho": "Hay mentiras que no usan palabras",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — El muro de flores"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Los lazos de la carne y del cariño son las cadenas más suaves y las más fuertes.",
+   "es_literal": true,
+   "ancla": "Faltaba una mujer. Un príncipe casado, con hijos, con una casa propia dentro de la casa del padre, ya no huye. Los lazos de la carne y del cariño son las cadenas más suaves y las más fuertes.",
+   "temas": [
+    "amor",
+    "ataduras",
+    "familia"
+   ],
+   "intensidad": 4,
+   "gancho": "Las cadenas más suaves también son las más fuertes",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — El muro de flores"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela cuenta las hazañas del príncipe y en la misma frase avisa de que en las casas de los reyes las historias crecen solas. Recrea una vida; no certifica los prodigios que la rodean.",
+   "es_literal": false,
+   "ancla": "Fueran o no ciertas estas cosas —y en las casas de los reyes crecen las historias como la hiedra—, lo que quedó fue esto: que no había arte ni deporte ni saber en que el príncipe no aventajara a todos",
+   "temas": [
+    "leyenda",
+    "ficción documental"
+   ],
+   "intensidad": 2,
+   "gancho": "El propio relato avisa de cuánto crecen las historias de palacio",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — El muro de flores"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Le ocurre a todos. A todos los que viven bastante. A los pobres y a los reyes, a los feos y a los hermosos. El que no muere joven, envejece. Es la ley.",
+   "es_literal": true,
+   "ancla": "—No, señor —dijo Channa, y la voz le pesaba—. Le ocurre a todos. A todos los que viven bastante. A los pobres y a los reyes, a los feos y a los hermosos. El que no muere joven, envejece. Es la ley. También a mí me llegará, si vivo.",
+   "temas": [
+    "vejez",
+    "igualdad",
+    "verdad"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que un auriga responde cuando su señor le pregunta de frente",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — Las cuatro puertas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Y comprendió que la felicidad construida sobre no ver no es felicidad, sino un sueño del que, tarde o temprano, todo hombre despierta llorando.",
+   "es_literal": true,
+   "ancla": "Y comprendió que la felicidad construida sobre no ver no es felicidad, sino un sueño del que, tarde o temprano, todo hombre despierta llorando.",
+   "temas": [
+    "felicidad",
+    "negación",
+    "despertar"
+   ],
+   "intensidad": 5,
+   "gancho": "Una felicidad hecha de no mirar sigue siendo un sueño",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — Las cuatro puertas"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No era la alegría fácil de quien no sabe. Era la paz de quien sabe y, aun así, está en paz.",
+   "es_literal": true,
+   "ancla": "No era la alegría fácil de quien no sabe. Era la paz de quien sabe y, aun así, está en paz. Pasó cerca del carro, sereno entre los que lloraban, ajeno al humo de la pira como una llama que no teme al viento",
+   "temas": [
+    "serenidad",
+    "conciencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos calmas que se parecen y no son la misma",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — Las cuatro puertas"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cómo se puede reír, danzar y hacer planes sabiendo que la vejez, la enfermedad y la pira esperan al final de cada vida?",
+   "es_literal": false,
+   "ancla": "—Channa —dijo, y su voz era ahora extrañamente serena, la serenidad de quien ha tocado fondo—. ¿Cómo pueden los hombres reír, danzar, buscar placeres, tejer planes, amar como si fueran a amar siempre",
+   "temas": [
+    "muerte",
+    "sentido",
+    "pregunta"
+   ],
+   "intensidad": 5,
+   "gancho": "La pregunta que el príncipe hace en voz alta y nadie sabe contestar",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — Las cuatro puertas"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Acabada la fiesta, el príncipe cruza el salón donde las bailarinas se han dormido de cualquier manera, y las ve por primera vez sin la luz que las adornaba: bocas abiertas, afeites corridos, ronquidos.",
+   "es_literal": false,
+   "ancla": "La muchacha que había cantado con voz de miel yacía con la boca abierta, la mandíbula caída, un hilo de saliva brillándole en la comisura, y de aquella boca salía un ronquido ronco, casi animal, un estertor que subía y bajaba.",
+   "temas": [
+    "desencanto",
+    "cuerpo",
+    "noche"
+   ],
+   "intensidad": 4,
+   "gancho": "La fiesta de anoche, vista a las cuatro de la madrugada",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — La huida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La belleza no era una mentira, era algo peor: era una verdad breve, una verdad de una sola noche, condenada de antemano.",
+   "es_literal": true,
+   "ancla": "La belleza no era una mentira, era algo peor: era una verdad breve, una verdad de una sola noche, condenada de antemano. Aquellas muchachas envejecerían.",
+   "temas": [
+    "belleza",
+    "tiempo"
+   ],
+   "intensidad": 5,
+   "gancho": "La belleza no miente; es que dura poco",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — La huida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Con cada cosa que amamos, el mundo nos ata un poco más fuerte a la rueda. Cuanto más tenemos, más hay que perder. Y no hay amor que la muerte no despedace.",
+   "es_literal": true,
+   "ancla": "Pero era verdad. Con cada cosa que amamos, el mundo nos ata un poco más fuerte a la rueda. Cuanto más tenemos, más hay que perder. Y no hay amor que la muerte no despedace.",
+   "temas": [
+    "amor",
+    "pérdida",
+    "apego"
+   ],
+   "intensidad": 5,
+   "gancho": "Cuanto más tenemos, más hay que perder",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — La huida"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Antes de marcharse quiere coger en brazos a su hijo, pero la mano de la madre le tapa la cara al niño y moverla sería despertarla. Se queda en el umbral y no lo toca.",
+   "es_literal": false,
+   "ancla": "Así que no tocó al niño. Se quedó quieto en el umbral, mirando aquel bulto pequeño bajo la mano de la madre, aquella forma que era su hijo y que no llegaría a ver, y algo en su pecho se rompió sin ruido, limpiamente, como se rompe el hielo fino bajo el peso de un pájaro.",
+   "temas": [
+    "paternidad",
+    "despedida",
+    "ternura"
+   ],
+   "intensidad": 5,
+   "gancho": "Se va sin tocar a su hijo, porque tocarlo sería quedarse",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 4 — La huida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Diles que no he huido por desamor, ni por soberbia, ni por locura, sino porque hay una pregunta que debo responder y que no se puede responder desde un trono.",
+   "es_literal": true,
+   "ancla": "Devuelve al rey mi espada y mis joyas. Diles que no me busquen. Diles que no he huido por desamor, ni por soberbia, ni por locura, sino porque hay una pregunta que debo responder y que no se puede responder desde un trono.",
+   "temas": [
+    "marcharse",
+    "pregunta",
+    "familia"
+   ],
+   "intensidad": 4,
+   "gancho": "El recado que deja para su padre al cruzar el río",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — La huida"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Lo más duro del primer año no fue el frío al raso ni los pies llagados: fue plantarse en la puerta de un desconocido, con el cuenco tendido y los ojos bajos, y esperar.",
+   "es_literal": false,
+   "ancla": "Aprendió a pedir. Fue lo más difícil de todo, más que el frío de las noches al raso o los pies llagados de caminar sobre piedras: plantarse a la puerta de un desconocido, en silencio, con el cuenco tendido y los ojos bajos, y esperar",
+   "temas": [
+    "hambre",
+    "humildad",
+    "despojamiento"
+   ],
+   "intensidad": 4,
+   "gancho": "Aprender a pedir resultó más difícil que aprender a pasar hambre",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — Los maestros"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Aquel maravilloso silencio era una hermosa habitación cerrada dentro de la cárcel, con las paredes tapizadas de seda, pero seguía siendo una habitación dentro de la cárcel, y él no había venido a decorar la celda, sino a encontrar la puerta.",
+   "es_literal": true,
+   "ancla": "Aquel maravilloso silencio era una hermosa habitación cerrada dentro de la cárcel, con las paredes tapizadas de seda, pero seguía siendo una habitación dentro de la cárcel, y él no había venido a decorar la celda, sino a encontrar la puerta.",
+   "temas": [
+    "calma",
+    "búsqueda",
+    "insuficiencia"
+   ],
+   "intensidad": 5,
+   "gancho": "No había venido a decorar la celda, sino a encontrar la puerta",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — Los maestros"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Le ofrecen dirigir la comunidad: el trono de la vida espiritual, igual que antes le habían ofrecido el del mundo. Dice que no, porque la calma que ha aprendido se le acaba cada vez que abre los ojos.",
+   "es_literal": false,
+   "ancla": "Era la cima de aquel camino. Le ofrecían el trono de la vida espiritual, del mismo modo que en Kapilavastu le habían ofrecido el trono del mundo. Le ofrecían el fin de la búsqueda, el descanso, el respeto, un lugar.",
+   "temas": [
+    "renuncia",
+    "honestidad",
+    "maestros"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos veces le ofrecen un trono y dos veces dice que no",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5 — Los maestros"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Yo no busco un lugar donde descansar del dolor unas horas. Busco el fin del dolor. Y esto no es el fin. Debo seguir buscando.",
+   "es_literal": true,
+   "ancla": "Al volver, todo está como estaba. Yo no busco un lugar donde descansar del dolor unas horas. Busco el fin del dolor. Y esto no es el fin. Debo seguir buscando.",
+   "temas": [
+    "búsqueda",
+    "tregua",
+    "verdad"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que le dice al mejor maestro de su tiempo antes de marcharse",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — Los maestros"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Seis años de ayuno lo dejan tan consumido que, al llevarse la mano al vientre, los dedos no encuentran vientre: palpan directamente el espinazo, nudo a nudo.",
+   "es_literal": false,
+   "ancla": "Llegó a estar tan flaco que, cuando se llevaba la mano al vientre buscando la piel de la barriga, sus dedos no encontraban vientre alguno, sino que, a través de la pared hundida del abdomen, palpaban directamente la espina dorsal",
+   "temas": [
+    "ayuno",
+    "cuerpo",
+    "extremo"
+   ],
+   "intensidad": 5,
+   "gancho": "Tocarse el espinazo desde delante, a través del vientre",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6 — El bosque de los huesos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El dolor no abría la conciencia; la nublaba, la ensordecía. El hambre no serenaba la mente; la enloquecía de puro vértigo, la llenaba de fantasmas y de mareos.",
+   "es_literal": true,
+   "ancla": "El dolor no abría la conciencia; la nublaba, la ensordecía. El hambre no serenaba la mente; la enloquecía de puro vértigo, la llenaba de fantasmas y de mareos.",
+   "temas": [
+    "ayuno",
+    "lucidez",
+    "error"
+   ],
+   "intensidad": 4,
+   "gancho": "Seis años castigando el cuerpo para descubrir que no aclaraba nada",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — El bosque de los huesos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Si sigo por este camino, voy a morir. Pronto. Y si muero aquí, no habré encontrado nada. Habré perdido la vida entera sin resolver la pregunta.",
+   "es_literal": true,
+   "ancla": "Siddhartha pensó por vez primera, con toda claridad, sin poder ya apartarlo, un pensamiento que hasta entonces había rechazado como una tentación: «Si sigo por este camino, voy a morir. Pronto. Y si muero aquí, no habré encontrado nada. Habré perdido la vida entera sin resolver la pregunta.",
+   "temas": [
+    "duda",
+    "muerte",
+    "giro"
+   ],
+   "intensidad": 5,
+   "gancho": "El pensamiento que llevaba seis años rechazando como una tentación",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — El bosque de los huesos"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Era un callejón sin salida, tan cerrado como el del palacio, solo que al otro extremo. Dos extremos, y los dos falsos.",
+   "es_literal": true,
+   "ancla": "Llevaba a la muerte, y a nada más allá de la muerte. Era un callejón sin salida, tan cerrado como el del palacio, solo que al otro extremo. Dos extremos, y los dos falsos.",
+   "temas": [
+    "extremos",
+    "palacio",
+    "ascetismo"
+   ],
+   "intensidad": 4,
+   "gancho": "El palacio y el bosque resultaron ser el mismo callejón",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6 — El bosque de los huesos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Si tenso demasiado la cuerda, se rompe y no suena. Si la dejo demasiado floja, cuelga muerta y tampoco suena. Solo cuando doy con el punto justo, ni tirante ni caída, la cuerda canta.",
+   "es_literal": true,
+   "ancla": "Un músico de la corte de su padre, un viejo que templaba una vina de cuerdas, le había dicho un día, mientras el niño lo miraba afinar: «Mira, señor. Si tenso demasiado la cuerda, se rompe y no suena. Si la dejo demasiado floja, cuelga muerta y tampoco suena. Solo cuando doy con el punto justo, ni tirante ni caída, la cuerda canta.»",
+   "temas": [
+    "medida",
+    "infancia",
+    "música"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que un viejo músico le dijo de niño y entendió veinte años tarde",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — El cuenco de leche"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una muchacha de la aldea se arrodilla junto al río y le ofrece un cuenco de arroz con leche creyendo que es el espíritu del árbol. Él no la corrige: alarga las dos manos y lo recibe.",
+   "es_literal": false,
+   "ancla": "Y no vio en aquella ofrenda una tentación, ni una debilidad, ni una traición a nada. Vio lo que era: alimento ofrecido con amor por un ser humano a otro ser humano. Vio la vida tendiéndole la mano.",
+   "temas": [
+    "hambre",
+    "bondad",
+    "encuentro"
+   ],
+   "intensidad": 5,
+   "gancho": "Un cuenco de arroz con leche cambia la dirección de una vida",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 7 — El cuenco de leche"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El asceta huye del placer con el mismo miedo con que el rey huye del dolor.",
+   "es_literal": true,
+   "ancla": "El asceta huye del placer con el mismo miedo con que el rey huye del dolor. El uno se llena y el otro se vacía, pero los dos siguen atados a lo mismo, los dos siguen girando en torno al cuerpo y a sus apetitos, como dos perros que se muerden la cola.",
+   "temas": [
+    "extremos",
+    "miedo",
+    "cuerpo"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos huidas opuestas que resultan ser la misma huida",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — El cuenco de leche"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Los cinco compañeros que lo habían venerado seis años lo ven lavarse y comer, recogen sus esteras y se van sin despedirse. Él los mira alejarse y no los llama.",
+   "es_literal": false,
+   "ancla": "Y los cinco recogieron sus escasas pertenencias, sus cuencos, sus bastones, sus esteras de hierba, y sin acercarse a despedirse, sin dirigirle una palabra, dieron media vuelta y echaron a andar hacia el norte",
+   "temas": [
+    "soledad",
+    "malentendido",
+    "amistad"
+   ],
+   "intensidad": 4,
+   "gancho": "Le dan la espalda justo el día en que empieza a acertar",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — El cuenco de leche"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Antes de subir a la colina deja flotar boca arriba el cuenco de oro vacío y lo ve girar río abajo hasta que un remolino se lo traga. Irá al árbol con las manos limpias.",
+   "es_literal": false,
+   "ancla": "él tomó el cuenco de oro vacío, ya sin uso, y lo dejó flotar boca arriba sobre la corriente, viéndolo alejarse río abajo, girando lentamente, hasta que un remolino se lo tragó. No conservaría nada. Ni siquiera un cuenco. Iría al árbol con las manos limpias.",
+   "temas": [
+    "desprendimiento",
+    "río",
+    "decisión"
+   ],
+   "intensidad": 4,
+   "gancho": "Suelta lo último que le quedaba y lo mira alejarse por el agua",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — El árbol"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Así son las cosas verdaderamente grandes: se sostienen, a menudo, sobre gestos pequeños de gente sencilla, sobre el arroz de una muchacha y la hierba de un labriego.",
+   "es_literal": true,
+   "ancla": "Y el segador siguió su camino, sin sospechar —él tampoco— que acababa de tener parte, con un puñado de hierba, en la mayor de las historias. Así son las cosas verdaderamente grandes: se sostienen, a menudo, sobre gestos pequeños de gente sencilla, sobre el arroz de una muchacha y la hierba de un labriego.",
+   "temas": [
+    "gestos pequeños",
+    "gente sencilla"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos desconocidos sostienen esta historia: un cuenco y un puñado de hierba",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — El árbol"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Para sentarse no elige las sedas del palacio ni las piedras del asceta. Extiende un puñado de hierba fresca sobre la tierra firme. La medida justa empieza por detalles así de pequeños.",
+   "es_literal": false,
+   "ancla": "No necesitaba más. Ni cojines, ni pieles, ni las sedas de su antiguo lecho de príncipe, ni tampoco el suelo desnudo y pedregoso de sus años de asceta. Un puñado de hierba tierna sobre la tierra firme: el Camino Medio hasta en esto.",
+   "temas": [
+    "medida",
+    "sencillez"
+   ],
+   "intensidad": 3,
+   "gancho": "Ni seda ni piedra: un puñado de hierba",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — El árbol"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El hombre que se sienta bajo el árbol no pide nada a nadie: solo quiere ver por sí mismo. La novela recrea esa búsqueda desde dentro y no se pronuncia sobre lo que ninguna tradición cree.",
+   "es_literal": false,
+   "ancla": "Solo pedía ver. Ver por sí mismo, con su sola mente desnuda, la raíz del sufrimiento y el modo de arrancarla. Y sentía, aquella noche, que la respuesta ya no estaba lejos.",
+   "temas": [
+    "ficción documental",
+    "búsqueda"
+   ],
+   "intensidad": 2,
+   "gancho": "Una novela que cuenta una búsqueda sin arbitrar entre creencias",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — El árbol"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es un demonio con tridente: es la voz de todo lo que en nosotros no quiere soltar.",
+   "es_literal": true,
+   "ancla": "Su reino es el nacer y el morir, la rueda que gira y gira arrastrando a los seres, y él la mueve, y de ella vive, y de cada uno que sube y baja en ella se alimenta como el labrador de su campo. No es un demonio con tridente: es la voz de todo lo que en nosotros no quiere soltar.",
+   "temas": [
+    "mara",
+    "deseo",
+    "interior"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que se le opone esa noche no viene de fuera",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — La noche de Mara"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Así tienta lo que de veras tienta; el mal que se disfraza de mal no engaña a nadie, pero el que se disfraza de bien puede desviar a un santo.",
+   "es_literal": true,
+   "ancla": "No lo tentaba con lo vil, sino con lo noble: con el deber, con la piedad filial, con la compasión, con la razón misma. Así tienta lo que de veras tienta; el mal que se disfraza de mal no engaña a nadie, pero el que se disfraza de bien puede desviar a un santo.",
+   "temas": [
+    "tentación",
+    "deber",
+    "duda"
+   ],
+   "intensidad": 5,
+   "gancho": "La tentación más difícil llega disfrazada de deber",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — La noche de Mara"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El que no lucha contra el fuego no se quema: lo deja arder hasta que no queda leña.",
+   "es_literal": true,
+   "ancla": "y todas las sombras necesitan, para tener cuerpo, una mano que las agarre, y él había abierto las dos manos. El que no lucha contra el fuego no se quema: lo deja arder hasta que no queda leña.",
+   "temas": [
+    "miedo",
+    "no resistir",
+    "calma"
+   ],
+   "intensidad": 4,
+   "gancho": "Dejar arder lo que sube, en vez de pelearse con ello",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — La noche de Mara"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El miedo dice «huye», y se le ve venir; pero el deseo dice «ven, esto es hermoso», y tiene razón, y por eso vence.",
+   "es_literal": true,
+   "ancla": "Ésa es la astucia insondable del deseo: nunca ofrece la muerte, siempre ofrece la vida, y por eso los hombres lo siguen alegremente hasta la muerte. El miedo dice «huye», y se le ve venir; pero el deseo dice «ven, esto es hermoso», y tiene razón, y por eso vence.",
+   "temas": [
+    "deseo",
+    "miedo"
+   ],
+   "intensidad": 5,
+   "gancho": "Al miedo se le ve venir. Al deseo, no.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — La noche de Mara"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Quién es tu testigo? Es la última pregunta que le lanzan esa noche, y la que más duele: la de estar solo y no poder demostrar que tienes derecho a lo que buscas.",
+   "es_literal": false,
+   "ancla": "Dime, pues, Siddhartha, hijo de Suddhodana, mendigo entre los mendigos: ¿quién es tu testigo? ¿Quién habla por ti? ¿Quién?",
+   "temas": [
+    "duda",
+    "soledad",
+    "legitimidad"
+   ],
+   "intensidad": 5,
+   "gancho": "La pregunta que deja sin defensa a quien ya lo ha dejado todo",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — La noche de Mara"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En la primera vigilia se ve a sí mismo en otras vidas: rey y esclavo, ladrón y mercader, la que pare doce hijos y los entierra, el guerrero y el hombre al que aquel guerrero atravesó sin mirarle la cara.",
+   "es_literal": false,
+   "ancla": "Había sido guerrero cubierto de gloria, y había sido, en otra vida, el hombre humilde a quien aquel guerrero atravesó con su lanza sin mirarle la cara.",
+   "temas": [
+    "memoria",
+    "identidad",
+    "vidas"
+   ],
+   "intensidad": 4,
+   "gancho": "Haber sido el cazador y la presa, mil veces cada cosa",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 10 — Las tres vigilias"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El sufrimiento del mundo no venía, pues, de fuera. Nadie lo enviaba. Nadie lo merecía como castigo.",
+   "es_literal": true,
+   "ancla": "El sufrimiento del mundo no venía, pues, de fuera. Nadie lo enviaba. Nadie lo merecía como castigo. Manaba, limpio y terrible y continuo, de la sed misma de los seres, como el agua mana de una fuente.",
+   "temas": [
+    "sufrimiento",
+    "culpa",
+    "raíz"
+   ],
+   "intensidad": 5,
+   "gancho": "Nadie lo envía y nadie lo merece",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — Las tres vigilias"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La novela compara ese instante con una casa a oscuras desde hace tantos años que sus habitantes han olvidado que existe la luz, tropiezan con los muebles y creen que la vida es eso. Alguien, a tientas, encuentra la lámpara.",
+   "es_literal": false,
+   "ancla": "como cuando en una casa que ha estado a oscuras durante años, durante tantos años que sus moradores ya han olvidado que existe la luz y tropiezan y se hieren en los muebles creyendo que así es la vida, alguien, por fin, a tientas, encuentra la lámpara.",
+   "temas": [
+    "comprensión",
+    "costumbre",
+    "luz"
+   ],
+   "intensidad": 4,
+   "gancho": "Tropezar tanto tiempo con los muebles que uno cree que la vida es eso",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — Las tres vigilias"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Las noches verdaderas, las de veras, no se acaban de golpe: se acaban por una rendija.",
+   "es_literal": true,
+   "ancla": "No se acabó de golpe. Las noches verdaderas, las de veras, no se acaban de golpe: se acaban por una rendija. Allá, sobre las copas oscuras de la selva del oriente, en la línea exacta donde el cielo se junta con la tierra, la negrura empezó, casi sin que se notara, a adelgazarse",
+   "temas": [
+    "noche",
+    "amanecer",
+    "paciencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Las noches largas no terminan de golpe: terminan por una rendija",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Las tres vigilias"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Las últimas estrellas se apagan y queda una sola encendida sobre el filo del mundo. El hombre sentado bajo la higuera alza despacio los ojos y la mira.",
+   "es_literal": false,
+   "ancla": "Siddhartha alzó los ojos. Los mismos ojos que seis años y varias vidas atrás habían visto por primera vez la enfermedad, y la vejez, y la muerte, y no habían sabido ya volver a cerrarse a ellas ni a fingir que no existían.",
+   "temas": [
+    "amanecer",
+    "mirada",
+    "silencio"
+   ],
+   "intensidad": 5,
+   "gancho": "Los mismos ojos que un día vieron a un viejo, a un enfermo y a un muerto",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — Las tres vigilias"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cómo mostrar la puerta de salida a quienes ni siquiera creen estar encerrados?",
+   "es_literal": true,
+   "ancla": "giran clavados en la rueda y llaman a la rueda felicidad, y a los pocos giros de placer que arranca a la vuelta los llaman su tesoro. ¿Cómo mostrar la puerta de salida a quienes ni siquiera creen estar encerrados?",
+   "temas": [
+    "enseñar",
+    "duda",
+    "compasión"
+   ],
+   "intensidad": 5,
+   "gancho": "La duda que casi le hace callar para siempre",
+   "formatos": [
+    "hilo",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — La rueda puesta en marcha"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Los cinco juran no levantarse cuando llegue el que los decepcionó. Lo ven acercarse y, sin decidirlo, se van poniendo de pie: uno le toma el cuenco, otro le tiende una estera, otro va a buscar agua.",
+   "es_literal": false,
+   "ancla": "El firme propósito se les había caído a los cinco de las manos sin que se dieran cuenta, sin ruido, como se cae al suelo una piedra que uno llevaba apretada en el puño y de pronto ya no hace ninguna falta seguir cargando.",
+   "temas": [
+    "reencuentro",
+    "rencor",
+    "cambio"
+   ],
+   "intensidad": 4,
+   "gancho": "Juraron no moverse. Se levantaron sin darse cuenta.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — La rueda puesta en marcha"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Es un camino trazado para pies humanos. Yo lo anduve, y era hombre como vosotros. Vosotros podéis andarlo.",
+   "es_literal": true,
+   "ancla": "No es un camino para unos pocos elegidos por nadie, ni para dioses, ni para privilegiados. Es un camino trazado para pies humanos. Yo lo anduve, y era hombre como vosotros. Vosotros podéis andarlo.",
+   "temas": [
+    "camino",
+    "igualdad",
+    "enseñanza"
+   ],
+   "intensidad": 4,
+   "gancho": "Un camino trazado para pies humanos",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — La rueda puesta en marcha"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Lo que uno de los cinco comprende aquella tarde cabe en una línea: que cuanto empieza acaba, que cuanto se junta se separa, y que por eso no hay dónde agarrarse de veras.",
+   "es_literal": false,
+   "ancla": "Eso vio Kondañña, y en verlo se le mudó la vida. Vio que cuanto empieza, acaba; que cuanto se junta, tarde o temprano se separa; que cuanto sube, ha de bajar; y que por lo tanto no hay en ningún sitio dónde agarrarse de veras",
+   "temas": [
+    "comprender",
+    "soltar",
+    "discípulo"
+   ],
+   "intensidad": 4,
+   "gancho": "Le bastó una tarde sentado en el suelo entre unos ciervos",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — La rueda puesta en marcha"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Al saber que su hijo pide limosna por las calles de su propia ciudad, el viejo rey no espera el carro ni el manto nuevo: sale de palacio con las sandalias mal puestas a buscarlo como quien busca a un niño perdido.",
+   "es_literal": false,
+   "ancla": "Sin esperar el carro, sin esperar el manto nuevo, el viejo rey bajó las escaleras de dos en dos, cruzó los patios, salió por la puerta de palacio con las sandalias mal puestas, y fue a buscar a su hijo por las calles como quien busca a un niño perdido.",
+   "temas": [
+    "padres",
+    "orgullo",
+    "regreso"
+   ],
+   "intensidad": 4,
+   "gancho": "Un rey corriendo por sus calles detrás de un hijo con un cuenco",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12 — El regreso a casa"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Siete años sin joyas, con el pelo corto y una sola comida al día, ella lo ve entrar. No corre. Lo mira un instante largo, se deja caer hacia delante y le abraza los pies polvorientos.",
+   "es_literal": false,
+   "ancla": "Lo miró un instante largo. Y luego, antes de que él pudiera decir nada, se dejó caer hacia delante y le abrazó los pies, y apretó la frente contra el empeine de aquellos pies descalzos y polvorientos que se habían ido una noche y que volvían siete años después, y lloró.",
+   "temas": [
+    "espera",
+    "amor",
+    "reencuentro"
+   ],
+   "intensidad": 5,
+   "gancho": "Ella no lo esperó: lo acompañó, por dentro, durante siete años",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12 — El regreso a casa"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un padre que ya perdió al hijo y ahora pierde también al nieto no grita ni acusa. Pide una sola cosa: que ningún menor entre en la comunidad sin permiso de sus padres. De ese dolor nace la primera regla.",
+   "es_literal": false,
+   "ancla": "Solo te pido esto, hijo: que de aquí en adelante ningún hijo entre en tu comunidad sin el consentimiento de sus padres. No le hagas a otro padre lo que me has hecho a mí. Deja que el dolor que yo llevo no lo lleve otro sin saberlo.",
+   "temas": [
+    "padres",
+    "duelo",
+    "reglas"
+   ],
+   "intensidad": 4,
+   "gancho": "La primera norma de la comunidad nace del dolor de un anciano",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12 — El regreso a casa"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una madre recorre la ciudad entera, despeinada y descalza, con su hijo muerto en brazos, pidiendo en cada puerta una medicina que nadie tiene.",
+   "es_literal": false,
+   "ancla": "Y así fue por toda la ciudad, despeinada, descalza, con el hijo muerto en brazos, mientras el sol subía y bajaba, y la gente se apartaba a su paso y bajaba la voz.",
+   "temas": [
+    "duelo",
+    "negación",
+    "madre"
+   ],
+   "intensidad": 5,
+   "gancho": "Nadie se atreve a decirle lo que ya sabe todo el barrio",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — La semilla de mostaza"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La tarea que le encargan parece fácil: traer mostaza de una casa donde no haya muerto nadie. De puerta en puerta va recogiendo, en lugar de semillas, historias de pérdida, y las penas de todos hacen algo raro con la suya.",
+   "es_literal": false,
+   "ancla": "Iba recogiendo, en vez de semillas, penas; y las penas de todos, sumadas, empezaron a hacer con la suya algo extraño: la volvían menos sola.",
+   "temas": [
+    "duelo",
+    "compañía",
+    "comprender"
+   ],
+   "intensidad": 5,
+   "gancho": "Sale a buscar semillas y vuelve con algo que no cabía en el cuenco",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13 — La semilla de mostaza"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No te he curado del dolor, Gotami. Te he mostrado que el dolor tiene una orilla.",
+   "es_literal": true,
+   "ancla": "Pero el que ha visto, como tú, que todo lo que se compone se descompone, ese puede por fin dejar de luchar contra el río y aprender a nadar en él. No te he curado del dolor, Gotami. Te he mostrado que el dolor tiene una orilla.",
+   "temas": [
+    "duelo",
+    "consuelo",
+    "límite"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que le dice a una madre que acaba de enterrar a su hijo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — La semilla de mostaza"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El que daña a los seres corre aunque esté parado, porque su corazón no reposa. El que ha dejado de dañar reposa aunque camine.",
+   "es_literal": true,
+   "ancla": "Eres tú el que no se detiene: corres, corres sin descanso, de crueldad en crueldad, de muerte en muerte, sin freno, sin descanso, sin refugio. El que daña a los seres corre aunque esté parado, porque su corazón no reposa. El que ha dejado de dañar reposa aunque camine.",
+   "temas": [
+    "violencia",
+    "calma",
+    "detenerse"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que le responde a un bandido que le grita que se detenga",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — El asesino y el primo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Lo que desarma al bandido del collar de dedos no es una espada ni un argumento: es que alguien, sabiendo exactamente quién es, lo mire sin miedo y sin asco, como se mira a un hombre.",
+   "es_literal": false,
+   "ancla": "Fue aquello: que alguien lo mirara sin miedo. Que alguien, sabiendo lo que era, sabiendo el collar que llevaba al cuello y los cien nombres que había apagado, lo mirara todavía como a un hombre capaz de detenerse.",
+   "temas": [
+    "mirada",
+    "culpa",
+    "cambio"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo derriba que alguien lo mire sin apartar los ojos",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — El asesino y el primo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Dos hombres cerca del mismo maestro: el que llevaba cien muertes colgadas del cuello cambió de vida; el primo de sangre noble, que no mató a nadie con su mano, se perdió. No los separaban las obras, sino que uno se detuvo y el otro no quiso.",
+   "es_literal": false,
+   "ancla": "El asesino de cien hombres, que llevaba la muerte colgada del cuello, se salvó; y el primo de sangre noble, que no había derramado sangre con su mano pero la llevaba envenenada de envidia en el pecho, se perdió.",
+   "temas": [
+    "envidia",
+    "arrepentimiento",
+    "cambio"
+   ],
+   "intensidad": 4,
+   "gancho": "Las dos caras del corazón humano, tan cerca que se tocan",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 14 — El asesino y el primo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Sé, Ananda, una lámpara para ti mismo. Sé tu propio refugio. No busques refugio en ningún otro.",
+   "es_literal": true,
+   "ancla": "—Sé, Ananda, una lámpara para ti mismo. Sé tu propio refugio. No busques refugio en ningún otro. Que el Dharma sea tu lámpara, que el Dharma sea tu refugio. No busquéis otro amparo fuera de vosotros.",
+   "temas": [
+    "herencia",
+    "autonomía",
+    "despedida"
+   ],
+   "intensidad": 5,
+   "gancho": "Le piden que nombre un sucesor y contesta esto",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15 — Sed una lámpara"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Agonizando al borde del camino, antes de pensar en su propio cuerpo dicta un recado: que nadie culpe al herrero que le dio de comer.",
+   "es_literal": false,
+   "ancla": "Y en aquel trance, con la voz quebrada pero firme, el Buda pensó en el herrero. Antes que en su propio cuerpo, pensó en el hombre que le había dado de comer y que, cuando corriera la voz, podría cargar toda su vida con una culpa que no le correspondía.",
+   "temas": [
+    "compasión",
+    "culpa",
+    "final"
+   ],
+   "intensidad": 5,
+   "gancho": "Su primer cuidado al morir es la conciencia de un herrero",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15 — Sed una lámpara"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Años atrás lo habían visto encender una lamparita antes del amanecer para que un monje enfermo no despertara a oscuras. Quien despierta de noche no sabe que el sol va a salir, y una llama pequeña, ahí y entonces, vale más que todo el sol que aún no ha venido.",
+   "es_literal": false,
+   "ancla": "Porque el que despierta en la oscuridad no sabe que el sol va a salir, Ananda. Y una llama pequeña, aquí y ahora, vale más para él que todo el sol que aún no ha venido",
+   "temas": [
+    "cuidado",
+    "presente",
+    "detalle"
+   ],
+   "intensidad": 4,
+   "gancho": "Encender una lamparita cuando el sol está a punto de salir",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Sed una lámpara"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Le caen flores encima fuera de estación y suena música en el aire. Dice que no es así como se le honra: honra más el que camina el sendero que el que lo adorna.",
+   "es_literal": false,
+   "ancla": "Pero no es así, Ananda, como se honra de veras al Buda. El monje o la monja, el laico o la laica que vive de acuerdo con el Dharma, que camina rectamente por el sendero: ese me honra con la más alta de las honras.",
+   "temas": [
+    "honor",
+    "práctica",
+    "final"
+   ],
+   "intensidad": 4,
+   "gancho": "Rechaza las flores y pide algo más incómodo",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — Entre los árboles gemelos"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué preguntarías si te dijeran que es la última vez que puedes preguntar? Lo pide dos veces a la asamblea, y nadie abre la boca.",
+   "es_literal": false,
+   "ancla": "Si alguno de vosotros tiene alguna duda sobre el Buda, sobre el Dharma, sobre el Sangha, sobre el camino o el modo de andarlo, preguntad ahora, monjes.",
+   "temas": [
+    "silencio",
+    "despedida",
+    "preguntas"
+   ],
+   "intensidad": 4,
+   "gancho": "Pide preguntas dos veces y el bosque entero calla",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — Entre los árboles gemelos"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Entre dos árboles cubiertos de flores fuera de estación, una lámpara se apaga: no porque alguien la sople, sino porque ya no queda nada que arda.",
+   "es_literal": false,
+   "ancla": "Como una lámpara cuyo aceite se ha consumido hasta la última gota se apaga, no porque alguien la sople, sino porque ya no queda nada que arda: así se extinguió.",
+   "temas": [
+    "muerte",
+    "calma",
+    "final"
+   ],
+   "intensidad": 5,
+   "gancho": "No la sopla nadie: sencillamente ya no queda nada que arda",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — Entre los árboles gemelos"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El epílogo subraya lo que el libro no hace: no pide creer nada. Recoge a un hombre que invitaba a comprobar por uno mismo, y deja al lector decidir si le sirve o lo deja.",
+   "es_literal": false,
+   "ancla": "Dijo: mirad por vosotros mismos, comprobadlo en vuestra propia experiencia, y si os sirve, andadlo; y si no, dejadlo. Dejó un camino, nada más y nada menos que un camino, un sendero que cualquiera —rey o barrendero, hombre o mujer, sabio o iletrado— podía recorrer con sus propios pies",
+   "temas": [
+    "ficción documental",
+    "lectura"
+   ],
+   "intensidad": 2,
+   "gancho": "Un libro que no pide creer nada y lo dice en su última página",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Epílogo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El epílogo reconoce que otros mensajeros trajeron fuego antes y después, en otras tierras y otras lenguas, y que los muros los levantaron luego los hombres. Ninguna tradición queda por encima de otra.",
+   "es_literal": false,
+   "ancla": "Han hablado desde montañas y desde desiertos, junto a ríos y en ciudades, con túnicas de azafrán o con mantos de lana, en sánscrito o en arameo o en lenguas que aún no se han pronunciado; y por más que los hombres se hayan peleado luego por sus nombres, levantando muros donde ellos abrieron caminos",
+   "temas": [
+    "mensajeros",
+    "serie",
+    "respeto"
+   ],
+   "intensidad": 3,
+   "gancho": "Distintas lámparas, una misma luz: así cierra el libro",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Epílogo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La imagen con que se cierra el libro es una vela que enciende a otra: la primera no mengua al repartirse, y la segunda no recibe una llama más pequeña, sino la misma entera.",
+   "es_literal": false,
+   "ancla": "Millones de lámparas se prendieron de aquella lámpara que se apagó entre los árboles gemelos, y ninguna le quitó nada, porque la luz es lo único que crece al repartirse.",
+   "temas": [
+    "transmisión",
+    "herencia",
+    "luz"
+   ],
+   "intensidad": 4,
+   "gancho": "La única cosa que crece cuando se reparte",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "cita"
+   ],
+   "capitulo": "Epílogo"
+  }
+ ]
+}

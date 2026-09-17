@@ -1,0 +1,193 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "disciplina-amable",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "Un buen contenido con mal tono sigue siendo látigo. Cuida la música tanto como la letra.",
+   "es_literal": true,
+   "ancla": "No se trata solo de cambiar el guion del capataz por otro guion; se trata de cambiar la música, el tono con que te hablas. Un buen contenido con mal tono sigue siendo látigo.",
+   "temas": ["voz amable", "tono"],
+   "intensidad": 4,
+   "gancho": "Cuida la música tanto como la letra",
+   "formatos": ["cita", "pin", "reel"],
+   "capitulo": "Capítulo 7 — Trátate como tratarías a un amigo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El descanso no es lo contrario de la constancia, ni su enemigo, ni una traición a tus metas. Es, muy al contrario, una de las cosas que la hacen posible. Sin descanso no hay constancia que dure; solo hay colapso aplazado.",
+   "es_literal": true,
+   "ancla": "El descanso no es lo contrario de la constancia, ni su enemigo, ni una traición a tus metas. Es, muy al contrario, una de las cosas que la hacen posible. Sin descanso no hay constancia que dure; solo hay colapso aplazado.",
+   "temas": ["descanso", "constancia"],
+   "intensidad": 5,
+   "gancho": "Sin descanso solo hay colapso aplazado",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 8 — Descansar sin culpa"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un plan de entrenamiento serio marca los días de descanso con la misma tinta que los días duros, porque el músculo no crece durante el esfuerzo, sino durante la recuperación posterior. Con la constancia pasa lo mismo.",
+   "es_literal": false,
+   "ancla": "el músculo no crece durante el esfuerzo, sino durante la recuperación posterior",
+   "temas": ["descanso", "planes"],
+   "intensidad": 3,
+   "gancho": "El descanso está dentro del plan, no fuera",
+   "formatos": ["cita", "carrusel", "articulo"],
+   "capitulo": "Capítulo 8 — Descansar sin culpa"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Pereza y recuperación no son lo mismo. La pereza te deja peor: más embotado y más culpable. La recuperación te deja mejor: con más claridad y más ganas de volver a lo tuyo. El mismo sofá, dos cosas distintas.",
+   "es_literal": false,
+   "ancla": "La **pereza** —ese descanso que en el fondo no querías o no necesitabas, ese quedarte tirado por evitación o por inercia— te deja habitualmente *peor* que antes",
+   "temas": ["descanso", "pereza"],
+   "intensidad": 3,
+   "gancho": "El mismo sofá, dos cosas distintas",
+   "formatos": ["cita", "carrusel", "hilo"],
+   "capitulo": "Capítulo 8 — Descansar sin culpa"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Sábado por la tarde, sofá, manta y una novela. A los cinco minutos llega la lista: la plancha, el correo, el polvo de la estantería. Esa tarde, en vez de levantarse de un salto, se dijo: lo veo todo, y me quedo aquí igualmente. Fueron cuarenta minutos y el mundo no se cayó.",
+   "es_literal": false,
+   "ancla": "Solo miró alrededor —la plancha en la silla, el móvil apagado boca abajo, la casa en su desorden normal— y se dijo, casi en voz alta: \"Lo veo todo. Y me quedo aquí igualmente. La plancha esperará; yo también he esperado bastante.\"",
+   "temas": ["descanso", "culpa"],
+   "intensidad": 4,
+   "gancho": "A veces el paso más grande es no levantarte",
+   "formatos": ["reel", "carrusel", "audio"],
+   "capitulo": "Capítulo 8 — Descansar sin culpa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Es mejor un hábito pequeño que sí haces cada día que un hábito enorme que abandonas cada semana. Lo pequeño y sostenido le gana a lo grande y abandonado.",
+   "es_literal": true,
+   "ancla": "Es mejor un hábito pequeño que sí haces cada día que un hábito enorme que abandonas cada semana. Lo pequeño y sostenido le gana a lo grande y abandonado.",
+   "temas": ["mínimo amable", "hábitos"],
+   "intensidad": 4,
+   "gancho": "Lo pequeño sostenido gana a lo grande abandonado",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 9 — Bajar el listón para poder sostenerlo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Quería meditar treinta minutos diarios. Duró cuatro días. Le propusieron dos minutos y se rió: «eso no sirve para nada, es ridículo». Llevó esos dos minutos medio año casi sin fallar, porque dos minutos siempre se encuentran, hasta en el peor día.",
+   "es_literal": false,
+   "ancla": "\"¿Dos minutos? Pero si eso no sirve absolutamente para nada, es ridículo, es una tontería, no vale la pena ni empezar.\"",
+   "temas": ["mínimo amable", "meditación"],
+   "intensidad": 4,
+   "gancho": "«¿Dos minutos? Eso no sirve para nada»",
+   "formatos": ["reel", "carrusel", "audio"],
+   "capitulo": "Capítulo 9 — Bajar el listón para poder sostenerlo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El mínimo amable no está ahí para que progreses: para eso está tu objetivo normal. Está para que no llegues a cero. En cuanto lo inflas, deja de cumplir su función y vuelve a ser un objetivo que fallarás los días malos.",
+   "es_literal": false,
+   "ancla": "El mínimo amable debe seguir siendo ridículamente pequeño *siempre*, aunque los días buenos hagas mucho más. Su función no es que progreses —para eso está tu objetivo normal—; su función es que nunca llegues a cero.",
+   "temas": ["mínimo amable", "expectativas"],
+   "intensidad": 3,
+   "gancho": "El mínimo amable no sirve para progresar",
+   "formatos": ["cita", "carrusel", "articulo"],
+   "capitulo": "Capítulo 9 — Bajar el listón para poder sostenerlo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Busca un anclaje fijo de tu día: el café, los dientes, la ducha. 2) Cuelga de él tu mínimo amable. 3) Dilo en forma de fórmula: «después de encender la cafetera, hago mis diez respiraciones». 4) Deja que el hábito viejo haga de percha del nuevo.",
+   "es_literal": false,
+   "ancla": "\"Después de encender la cafetera por la mañana, hago mis diez respiraciones.\" \"Cuando me lavo los dientes por la noche, escribo mi frase del diario.\"",
+   "temas": ["mínimo amable", "hábitos", "práctica"],
+   "intensidad": 3,
+   "gancho": "Cuelga el hábito nuevo de uno viejo",
+   "formatos": ["carrusel", "hilo", "reel"],
+   "capitulo": "Capítulo 9 — Bajar el listón para poder sostenerlo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Recaer no es fracasar. Fracasar de verdad sería no volver nunca más. Y volver, siempre, en cualquier momento, está en tu mano. La recaída es un evento; el fracaso es una decisión.",
+   "es_literal": true,
+   "ancla": "Recaer no es fracasar. Fracasar de verdad sería no volver nunca más. Y volver, siempre, en cualquier momento, está en tu mano. La recaída es un evento; el fracaso es una decisión.",
+   "temas": ["recaída", "constancia"],
+   "intensidad": 5,
+   "gancho": "La recaída es un evento; el fracaso, una decisión",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 10 — Recaer sin drama y volver"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "La medida que de verdad cuenta no es cuántas veces caes, sino esta: ¿cuánto tardas en volver después de caer? ¿Dos semanas, una, tres días, un solo día?",
+   "es_literal": false,
+   "ancla": "La verdadera medida, la única que cuenta a largo plazo, es esta: **cuánto tardas en volver después de caer.**",
+   "temas": ["recaída", "constancia"],
+   "intensidad": 4,
+   "gancho": "Mide cuánto tardas en volver",
+   "formatos": ["cita", "reel", "hilo"],
+   "capitulo": "Capítulo 10 — Recaer sin drama y volver"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Escribe tu plan de recaída antes de necesitarlo, en tres líneas: 1) qué te dirás cuando pase; 2) el compromiso de no alargarlo a dos días seguidos; 3) cuál será tu primer paso concreto de vuelta. Guárdalo donde puedas encontrarlo rápido.",
+   "es_literal": false,
+   "ancla": "Un buen plan de recaída tiene tres partes sencillas. Primera: qué te vas a decir cuando pase, la frase amable preparada",
+   "temas": ["recaída", "práctica"],
+   "intensidad": 4,
+   "gancho": "El extintor se cuelga antes del incendio",
+   "formatos": ["carrusel", "pin", "hilo"],
+   "capitulo": "Capítulo 10 — Recaer sin drama y volver"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El que se rinde deja de caminar. El que suelta descansa un momento y sigue caminando. Aflojar la mano un día no es abrirla del todo: soltar lo de hoy conservando el compromiso de mañana.",
+   "es_literal": false,
+   "ancla": "Rendirse es abandonar el camino, tirar la toalla, dejar de intentarlo, con la intención de no volver. Soltar es distinto: es dejar caer, sin drama, un día concreto, una tensión concreta, una exigencia concreta, sin abandonar el rumbo de fondo.",
+   "temas": ["recaída", "flexibilidad"],
+   "intensidad": 4,
+   "gancho": "Soltar un día no es rendirse",
+   "formatos": ["cita", "carrusel", "hilo"],
+   "capitulo": "Capítulo 10 — Recaer sin drama y volver"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No necesitas callar al crítico, que es imposible. Necesitas que deje de ser la única voz que sabes hablarte. Que tenga compañía. Que ya no gobierne solo.",
+   "es_literal": true,
+   "ancla": "No necesitas callar al crítico, que es imposible. Necesitas que deje de ser la única voz que sabes hablarte. Que tenga compañía. Que ya no gobierne solo.",
+   "temas": ["voz amable", "crítico interior"],
+   "intensidad": 5,
+   "gancho": "No callarlo: darle compañía",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 11 — La voz amable"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es el sargento que desprecia al recluta ni el padre que consiente por comodidad. La voz amable es una tercera cosa: el entrenador que cree en ti, firme y cálido en la misma frase.",
+   "es_literal": false,
+   "ancla": "La voz amable es una tercera cosa, distinta de las otras dos: es **firme y cálida a la vez, en la misma frase**, como un buen entrenador, un buen maestro o un buen amigo que te conoce.",
+   "temas": ["voz amable"],
+   "intensidad": 4,
+   "gancho": "Firmeza sin dureza, cariño sin blandura",
+   "formatos": ["cita", "carrusel", "hilo"],
+   "capitulo": "Capítulo 11 — La voz amable"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Apunta tres frases típicas de tu capataz, las que reconoces al instante. 2) Al lado escribe su traducción amable. 3) Cambia el juicio sobre tu persona por una observación sobre la situación concreta. 4) Añade siempre un camino hacia adelante.",
+   "es_literal": false,
+   "ancla": "\"No sirves para esto\" se traduce por: \"Todavía no se me da bien esto —y *todavía* es una palabra clave, importantísima—: estoy en pleno aprendizaje.\"",
+   "temas": ["voz amable", "práctica"],
+   "intensidad": 4,
+   "gancho": "Del insulto que paraliza a la brújula que orienta",
+   "formatos": ["carrusel", "hilo", "pin"],
+   "capitulo": "Capítulo 11 — La voz amable"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro avisa de que al principio la voz amable suena impostada y poco creíble, como un idioma extranjero recién aprendido. No dice que salga sola: dice que hay que fabricarla a mano durante muchos días.",
+   "es_literal": false,
+   "ancla": "Es completamente normal que suene forzada, impostada, falsa, poco creíble las primeras veces, igual que suena raro y mecánico un idioma extranjero recién aprendido en tu propia boca.",
+   "temas": ["voz amable", "expectativas"],
+   "intensidad": 3,
+   "gancho": "Al principio suena impostada. Es normal.",
+   "formatos": ["cita", "articulo", "carrusel"],
+   "capitulo": "Capítulo 11 — La voz amable"
+  }
+ ]
+}

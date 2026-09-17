@@ -1,0 +1,204 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "apaga-la-alarma",
+ "atomos": [
+  {
+   "tipo": "escena",
+   "texto": "Es de noche, no pasa nada, y aun así los hombros están a la altura de las orejas y la mandíbula apretada. No hay peligro: el cuerpo no se ha enterado.",
+   "es_literal": false,
+   "ancla": "ahí estás, boca arriba, con los hombros a la altura de las orejas, la mandíbula apretada como si fueras a morder algo y el pecho un poco tomado, como si acabaras de correr. No hay peligro. Tu cuerpo no se ha enterado.",
+   "temas": ["alerta", "cuerpo", "noche"],
+   "intensidad": 4,
+   "gancho": "La puerta está cerrada. El cuerpo no se ha enterado.",
+   "formatos": ["carrusel", "reel", "pin"],
+   "capitulo": "Introducción — El cuerpo que no se apaga"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Todas esas escenas tienen algo en común. No son un problema de que pienses mal. Son un cuerpo que se ha quedado en guardia.",
+   "es_literal": true,
+   "ancla": "Todas esas escenas tienen algo en común. No son un problema de que pienses mal. Son un cuerpo que se ha quedado en guardia.",
+   "temas": ["alerta", "cuerpo"],
+   "intensidad": 4,
+   "gancho": "No es que pienses mal. Es un cuerpo que se quedó en guardia.",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Introducción — El cuerpo que no se apaga"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro dice de sí mismo lo que es: un libro. No terapia, y no un sustituto de ella. Si hay crisis que desbordan, lo que toca es alguien que acompañe de cerca.",
+   "es_literal": false,
+   "ancla": "No es terapia, y no la sustituye. Es un libro. Un buen compañero, espero, pero un libro. Si vives con ataques de pánico, con una ansiedad que te bloquea la vida, con crisis intensas que te desbordan, lo que necesitas —además de esto, o antes que esto— es a un profesional que te acompañe de cerca.",
+   "temas": ["límites", "honestidad"],
+   "intensidad": 3,
+   "gancho": "Un libro es un compañero. No es una consulta.",
+   "formatos": ["cita", "articulo", "hilo"],
+   "capitulo": "Introducción — El cuerpo que no se apaga"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La calma no se piensa: se le enseña al cuerpo.",
+   "es_literal": true,
+   "ancla": "Una vez más —y quédate con esto, que es el corazón de todo el libro—: **La calma no se piensa: se le enseña al cuerpo.** Y una de las mejores maestras que tiene tu cuerpo es la presencia de otro cuerpo en paz.",
+   "temas": ["calma", "cuerpo"],
+   "intensidad": 5,
+   "gancho": "La frase que atraviesa el libro entero.",
+   "formatos": ["cita", "pin", "reel"],
+   "capitulo": "Introducción — El cuerpo que no se apaga"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Normalizamos la tensión hasta que dejamos de notarla. Y lo que no se nota, no se puede soltar.",
+   "es_literal": true,
+   "ancla": "Normalizamos la tensión hasta que dejamos de notarla. Y lo que no se nota, no se puede soltar.",
+   "temas": ["tensión", "atención"],
+   "intensidad": 4,
+   "gancho": "Lo que no se nota, no se puede soltar.",
+   "formatos": ["cita", "pin"],
+   "capitulo": "Capítulo 1 — El cuerpo que vive en guardia"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Vivir en guardia no es un defecto de carácter: es una adaptación que se volvió costumbre. Y las costumbres del cuerpo, por arraigadas que estén, se pueden cambiar despacio.",
+   "es_literal": false,
+   "ancla": "La guardia no es un defecto de carácter. Es una adaptación que se ha vuelto costumbre. Y las costumbres del cuerpo, por muy arraigadas que estén, se pueden cambiar. Despacio, pero se pueden.",
+   "temas": ["guardia", "costumbre"],
+   "intensidad": 4,
+   "gancho": "No es carácter. Es costumbre del cuerpo.",
+   "formatos": ["carrusel", "cita", "hilo"],
+   "capitulo": "Capítulo 1 — El cuerpo que vive en guardia"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El objetivo no es vivir siempre en la marcha lenta. Es recuperar el cambio: acelerar cuando toca y frenar cuando ya no hace falta correr.",
+   "es_literal": false,
+   "ancla": "El objetivo es que recuperes la capacidad de *cambiar*: de acelerar cuando toca y, sobre todo, de frenar cuando ya no hace falta correr. Un cuerpo sano no es uno que esté siempre tranquilo. Es uno que sabe volver a la calma después de haberse activado.",
+   "temas": ["sistema nervioso", "flexibilidad"],
+   "intensidad": 3,
+   "gancho": "Un cuerpo sano no es el que nunca se activa. Es el que sabe volver.",
+   "formatos": ["carrusel", "articulo", "hilo"],
+   "capitulo": "Capítulo 1 — El cuerpo que vive en guardia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal de calma del capítulo 1: localizar una zona tensa, no forzarla, tomar aire y dejar que se afloje al soltarlo despacio por la boca. Dos o tres veces.",
+   "es_literal": false,
+   "ancla": "localiza en tu cuerpo una zona tensa —la mandíbula, los hombros, la que sea—. No la fuerces. Toma aire con calma y, al soltarlo despacio y por la boca, deja que esa zona se afloje, como si la dejaras caer un poco. Repítelo dos o tres veces.",
+   "temas": ["práctica", "tensión", "exhalación"],
+   "intensidad": 3,
+   "gancho": "Aflojar, al exhalar, lo que llevabas apretando sin saberlo.",
+   "formatos": ["carrusel", "reel", "pin"],
+   "capitulo": "Capítulo 1 — El cuerpo que vive en guardia"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En el pasillo cinco de un supermercado, entre dos marcas de tomate frito, el aire deja de llegar y el corazón se dispara. No pasaba nada. El cuerpo reaccionó como ante un peligro mortal.",
+   "es_literal": false,
+   "ancla": "Estaba mirando dos marcas de tomate frito, decidiendo cuál llevar, cuando de pronto sintió que el aire no le llegaba. El pecho se le cerró, el corazón se le disparó como si acabara de subir cuatro pisos corriendo, las piernas se le pusieron flojas",
+   "temas": ["alarma", "pánico", "cuerpo"],
+   "intensidad": 5,
+   "gancho": "La alarma entera, a todo volumen, delante de dos botes de tomate.",
+   "formatos": ["carrusel", "reel", "hilo"],
+   "capitulo": "Capítulo 2 — Lucha, huida o congelación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tu cuerpo no se equivoca de reacción: se equivoca de época. Reacciona a la oficina como si fuera la selva.",
+   "es_literal": true,
+   "ancla": "Tu cuerpo no se equivoca de reacción: se equivoca de época. Reacciona a la oficina como si fuera la selva.",
+   "temas": ["amenaza", "evolución"],
+   "intensidad": 4,
+   "gancho": "No se equivoca de reacción. Se equivoca de época.",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 2 — Lucha, huida o congelación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No eliges que salte la alarma. Solo eliges qué haces después de que suene.",
+   "es_literal": true,
+   "ancla": "No eliges que salte la alarma. Solo eliges qué haces después de que suene. Y por eso no tiene ningún sentido enfadarte contigo mismo por sentirla, igual que no tendría sentido enfadarte con el parpadeo cuando algo se te acerca al ojo.",
+   "temas": ["culpa", "alarma"],
+   "intensidad": 4,
+   "gancho": "No eliges que salte. Eliges qué haces después.",
+   "formatos": ["cita", "pin"],
+   "capitulo": "Capítulo 2 — Lucha, huida o congelación"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Quedarse bloqueado no es debilidad. La congelación es el tercer programa de supervivencia, tan antiguo como luchar y huir, y muchos lo cargan como una culpa durante años.",
+   "es_literal": false,
+   "ancla": "No es debilidad. Es un tercer programa de supervivencia, tan antiguo y tan válido como los otros dos. El cuerpo, cuando calcula que ni luchar ni huir van a servir, echa el freno de mano y se queda quieto.",
+   "temas": ["congelación", "culpa"],
+   "intensidad": 4,
+   "gancho": "Quedarte en blanco no fue cobardía. Fue un programa antiguo.",
+   "formatos": ["carrusel", "hilo", "articulo"],
+   "capitulo": "Capítulo 2 — Lucha, huida o congelación"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 2: cuando salte la alarma, en vez de pelearte con ella, ponle nombre en voz baja. «Estoy en huida.» «Esto es mi modo lucha.» Nombrarlo abre un pequeño espacio entre tú y la reacción.",
+   "es_literal": false,
+   "ancla": "la próxima vez que salte la alarma, en lugar de pelearte con ella, ponle nombre en voz baja. \"Estoy en huida.\" \"Esto es mi modo lucha.\" \"Me he congelado.\" Nombrarlo, sin más, crea un pequeño espacio entre tú y la reacción",
+   "temas": ["práctica", "nombrar", "alarma"],
+   "intensidad": 3,
+   "gancho": "Nombrar el modo en que entraste. Nada más, hoy.",
+   "formatos": ["carrusel", "reel", "hilo"],
+   "capitulo": "Capítulo 2 — Lucha, huida o congelación"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Cuando la alarma sube, ¿en qué modo entras tú: el que empuja hacia fuera, el que quiere salir de ahí, o el que tira del freno de mano?",
+   "es_literal": false,
+   "ancla": "Cada persona tiende a entrar más en uno de los tres modos. No es una regla fija —depende del día y de la situación—, pero solemos tener una puerta preferida. Reconocer cuál es la tuya te da una ventaja enorme",
+   "temas": ["autoconocimiento", "alarma"],
+   "intensidad": 3,
+   "gancho": "Lucha, huida o congelación: ¿cuál es tu puerta preferida?",
+   "formatos": ["carrusel", "hilo", "reel"],
+   "capitulo": "Capítulo 2 — Lucha, huida o congelación"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No tienes que calmar la mente: tienes que avisar al cuerpo de que ya pasó.",
+   "es_literal": true,
+   "ancla": "No tienes que calmar la mente: tienes que avisar al cuerpo de que ya pasó.",
+   "temas": ["cuerpo", "mente"],
+   "intensidad": 5,
+   "gancho": "Avisar al cuerpo de que ya pasó.",
+   "formatos": ["cita", "pin", "reel"],
+   "capitulo": "Capítulo 3 — No es la mente, es el cuerpo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "«Cálmate» no falla por estar mal dicho: falla porque va dirigido a quien en ese momento no lleva el volante. Es gritar instrucciones en un idioma que el otro no habla.",
+   "es_literal": false,
+   "ancla": "Es como gritarle instrucciones en un idioma a alguien que no lo habla: puedes repetirlo más alto, más despacio, con más razón, y seguirá sin entenderte. El cuerpo activado no entiende el idioma de las palabras. Entiende otro.",
+   "temas": ["cálmate", "idioma del cuerpo"],
+   "intensidad": 4,
+   "gancho": "No es que la orden esté mal. Es que nadie la escucha ahí dentro.",
+   "formatos": ["carrusel", "cita", "hilo"],
+   "capitulo": "Capítulo 3 — No es la mente, es el cuerpo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando la alarma sube, no busques la frase perfecta. Busca la exhalación larga. Al cuerpo no se le convence: se le acompaña.",
+   "es_literal": true,
+   "ancla": "Cuando la alarma sube, no busques la frase perfecta. Busca la exhalación larga. Al cuerpo no se le convence: se le acompaña.",
+   "temas": ["exhalación", "acompañar"],
+   "intensidad": 5,
+   "gancho": "Al cuerpo no se le convence: se le acompaña.",
+   "formatos": ["cita", "pin", "reel"],
+   "capitulo": "Capítulo 3 — No es la mente, es el cuerpo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La señal del capítulo 3: ante un pico de alarma, una sola exhalación larga. Aire con normalidad, salida despacio por la boca, claramente más larga que la entrada, sin prisa por la siguiente.",
+   "es_literal": false,
+   "ancla": "haz una sola cosa: una exhalación larga. Toma aire con normalidad y suéltalo despacio por la boca, dejando que la salida dure claramente más que la entrada, sin ninguna prisa por la siguiente. Una exhalación en vez de un argumento.",
+   "temas": ["práctica", "exhalación"],
+   "intensidad": 4,
+   "gancho": "Una exhalación en vez de un argumento.",
+   "formatos": ["carrusel", "reel", "pin"],
+   "capitulo": "Capítulo 3 — No es la mente, es el cuerpo"
+  }
+ ]
+}

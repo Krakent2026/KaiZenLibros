@@ -1,0 +1,1310 @@
+{
+ "serie": "los_mensajeros",
+ "libro": "confucio",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "¿De qué sirve la virtud si el mundo la deja morir de hambre en un camino?",
+   "es_literal": true,
+   "ancla": "Porque en aquella pregunta de Zilu, dicha con lágrimas de rabia, estaba también la de todos: la pregunta que llevaban clavada desde hacía años y que ninguno se había atrevido a formular en voz alta. ¿De qué sirve la virtud si el mundo la deja morir de hambre en un camino?",
+   "temas": [
+    "virtud",
+    "hambre",
+    "duda"
+   ],
+   "intensidad": 5,
+   "gancho": "La pregunta que llevaban años sin atreverse a decir en voz alta",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Séptimo día sin comer en un descampado entre dos reinos. Los más jóvenes ya no se levantan y la fiebre ha prendido en dos o tres. Y en medio de aquella miseria, con la espalda muy recta sobre una estera endurecida por la humedad, un anciano tañe una cítara.",
+   "es_literal": false,
+   "ancla": "Y en medio de aquella miseria, sentado con la espalda muy recta sobre una estera que la humedad había endurecido, un anciano tañía una cítara.",
+   "temas": [
+    "hambre",
+    "música",
+    "serenidad"
+   ],
+   "intensidad": 5,
+   "gancho": "Siete días sin comer, y el maestro seguía tocando",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿También el hombre recto ha de pasar hambre? ¿También él puede acabar tirado en un barrizal, entre dos reinos que no lo quieren? La novela abre esa pregunta en la primera página y tarda una vida entera en responderla.",
+   "es_literal": false,
+   "ancla": "—Dígame una cosa, Maestro. Dígame solo una cosa. ¿También el hombre noble ha de pasar hambre así? ¿También el junzi, el hombre recto, ha de morir tirado en un barrizal entre dos reinos que no lo quieren?",
+   "temas": [
+    "rectitud",
+    "hambre",
+    "pregunta"
+   ],
+   "intensidad": 5,
+   "gancho": "¿También el hombre recto ha de pasar hambre así?",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Esta es una novela, no una biografía. El gesto de sus dedos sobre las cuerdas, el frío de aquella tarde, lo que pensó antes de hablar: nada de eso lo registra fuente alguna. Es ficción histórica de base documental.",
+   "es_literal": false,
+   "ancla": "Era Kong Qiu, a quien los suyos llamaban simplemente el Maestro. Tenía más de sesenta años y había recorrido medio mundo predicando un orden que ningún príncipe quería. Y ahora, entre Chen y Cai, tocaba la cítara.",
+   "temas": [
+    "ficción documental",
+    "fuentes"
+   ],
+   "intensidad": 2,
+   "gancho": "Lo que las fuentes no registran, la novela lo recrea y lo dice",
+   "formatos": [
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Los otros niños jugaban a soldados y a mercaderes. Él disponía en el suelo de tierra unas vasijas pequeñas que había modelado con barro y secado al sol, y se inclinaba ante ellas hasta casi rozar el suelo con la frente. No jugaba: oficiaba.",
+   "es_literal": false,
+   "ancla": "Los otros niños, cuando jugaban, se hacían soldados y guerreaban con cañas por espadas, o imitaban a los mercaderes, o a los carreteros, o a los cazadores. Qiu, en cambio, jugaba a los ritos.",
+   "temas": [
+    "infancia",
+    "ritos",
+    "vocación"
+   ],
+   "intensidad": 4,
+   "gancho": "Los otros jugaban a soldados. Él jugaba a los ritos.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El niño de los ritos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "He puesto los vasos. Este es para el vino. Este, para el grano. Y ahora hay que inclinarse tres veces, y luego ofrecer, y luego volver a inclinarse. Si se hace mal, no sirve.",
+   "es_literal": true,
+   "ancla": "—El sacrificio, madre —respondió—. He puesto los vasos. Este es para el vino. Este, para el grano. Y ahora hay que inclinarse tres veces, y luego ofrecer, y luego volver a inclinarse. Si se hace mal, no sirve.",
+   "temas": [
+    "infancia",
+    "ritos",
+    "exigencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Un niño explicando a su madre cómo se ofrece el vino",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El niño de los ritos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "que la pobreza no es deshonra, pero que la bajeza sí lo es; que se puede ser pobre y noble, o rico y vil, y que lo que hace a un hombre no es lo que tiene, sino cómo se conduce",
+   "es_literal": true,
+   "ancla": "Pero la madre enseñó al niño desde muy pequeño una cosa que él no olvidaría jamás: que la pobreza no es deshonra, pero que la bajeza sí lo es; que se puede ser pobre y noble, o rico y vil, y que lo que hace a un hombre no es lo que tiene, sino cómo se conduce.",
+   "temas": [
+    "madre",
+    "pobreza",
+    "dignidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que su madre le enseñó antes que ningún libro",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El niño de los ritos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Este niño tuyo, mujer, no es como los demás. Este niño pregunta lo que preguntan los hombres, no lo que preguntan los niños.",
+   "es_literal": true,
+   "ancla": "Y el anciano le dijo, moviendo la cabeza: «Este niño tuyo, mujer, no es como los demás. Este niño pregunta lo que preguntan los hombres, no lo que preguntan los niños.»",
+   "temas": [
+    "infancia",
+    "curiosidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que un viejo gruñón vio en el crío que se sentó a sus pies",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El niño de los ritos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Fui una vez guardián de graneros —decía—, y lo único que me propuse fue que las cuentas fueran correctas.",
+   "es_literal": true,
+   "ancla": "—Fui una vez guardián de graneros —decía—, y lo único que me propuse fue que las cuentas fueran correctas.",
+   "temas": [
+    "trabajo",
+    "humildad",
+    "rigor"
+   ],
+   "intensidad": 3,
+   "gancho": "Su resumen de aquellos años: que las cuentas fueran correctas",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — Aprender sin cansarse"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Nadie esperaba gran cosa del muchacho que anotaba entradas y salidas de un granero ajeno. Él midió cada medida. La novela deja ver ahí una idea entera: hacer bien lo pequeño y hacer bien lo grande son la misma virtud, y solo cambia el tamaño del granero.",
+   "es_literal": false,
+   "ancla": "Y hacer bien una tarea pequeña, comprendería más tarde, es la misma virtud que hacer bien una tarea grande: la única diferencia es el tamaño del granero.",
+   "temas": [
+    "trabajo",
+    "virtud",
+    "oficio"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo único que cambia es el tamaño del granero",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2 — Aprender sin cansarse"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No soy de los que saben al nacer —dijo una vez—; soy de los que aman lo de antaño y con diligencia lo buscan.",
+   "es_literal": true,
+   "ancla": "Decía que no había nacido sabio, que no había nada de milagroso en él; que era solo un hombre que amaba lo antiguo y que lo buscaba sin descanso. «No soy de los que saben al nacer —dijo una vez—; soy de los que aman lo de antaño y con diligencia lo buscan.»",
+   "temas": [
+    "aprender",
+    "humildad"
+   ],
+   "intensidad": 4,
+   "gancho": "Su propia versión de sí mismo: no un sabio, un buscador",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — Aprender sin cansarse"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Muerta su madre, quiso enterrarla junto al padre. Pero era tan niño cuando el padre murió que no sabía dónde estaba la tumba. Tuvo que ir preguntando a los viejos de la aldea, uno a uno, hasta dar con el sitio.",
+   "es_literal": false,
+   "ancla": "Quiso Qiu enterrar a su madre junto a su padre, para que descansaran los dos juntos, como era debido. Pero él era tan niño cuando murió Shuliang He que no sabía con certeza dónde estaba la tumba del padre.",
+   "temas": [
+    "duelo",
+    "orfandad",
+    "padres"
+   ],
+   "intensidad": 4,
+   "gancho": "Huérfano del todo, buscando una tumba que no recordaba",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — Aprender sin cansarse"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El que me traiga un manojo de carne seca —decía—, por pequeño que sea, no se quedará sin mi enseñanza.",
+   "es_literal": true,
+   "ancla": "—El que me traiga un manojo de carne seca —decía—, por pequeño que sea, no se quedará sin mi enseñanza.",
+   "temas": [
+    "escuela",
+    "acceso",
+    "pobreza"
+   ],
+   "intensidad": 4,
+   "gancho": "El precio de entrar en su escuela: un manojo de carne seca",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — La escuela bajo el árbol"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Junzi no era, en su origen, el bueno: era el hijo de señor. Él le dio la vuelta a la palabra. No el noble de sangre: el noble de conducta, el que cumple su palabra y es exigente consigo mismo. Un hijo de campesinos podía serlo; un hijo de duques podía no serlo nunca.",
+   "es_literal": false,
+   "ancla": "Para él, junzi ya no significaba el noble de sangre, sino el noble de virtud. El hombre verdaderamente noble, enseñaba, no es el que ha nacido en un palacio, sino el que se conduce con rectitud, el que cultiva el ren y practica el li, el que es fiel a su palabra, generoso con los débiles, exigente consigo mismo e indulgente con los demás.",
+   "temas": [
+    "junzi",
+    "nobleza",
+    "clase"
+   ],
+   "intensidad": 4,
+   "gancho": "No el noble de sangre: el noble de conducta",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — La escuela bajo el árbol"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Si le muestro a un hombre una esquina de algo y no es capaz de devolverme las otras tres, no insisto.",
+   "es_literal": true,
+   "ancla": "—Si le muestro a un hombre una esquina de algo y no es capaz de devolverme las otras tres, no insisto.",
+   "temas": [
+    "enseñar",
+    "exigencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Él mostraba una esquina. Las otras tres eran cosa tuya.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — La escuela bajo el árbol"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Saber que se sabe lo que se sabe, y saber que no se sabe lo que no se sabe: eso es saber.",
+   "es_literal": true,
+   "ancla": "Otras veces se lo decía a sí mismo con una humildad que a los alumnos les llegaba al alma: «Saber que se sabe lo que se sabe, y saber que no se sabe lo que no se sabe: eso es saber.»",
+   "temas": [
+    "saber",
+    "límites",
+    "honradez"
+   ],
+   "intensidad": 4,
+   "gancho": "El peor error no es ignorar: es creer que sabes",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — La escuela bajo el árbol"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Zilu, que se sabía el más fuerte de todos, preguntó con cierta chulería a quién se llevaría de general. Esperaba oír su nombre. Oyó que no al que pretende luchar con un tigre a mano limpia, sino al que teme la empresa antes de acometerla.",
+   "es_literal": false,
+   "ancla": "—No me llevaría al que pretende luchar con un tigre a mano limpia, ni al que quiere cruzar un río a nado sin barca y muere sin arrepentirse. Ese no me sirve. Me llevaría al que teme la empresa antes de acometerla, y la prepara con cuidado, y así la lleva a buen fin.",
+   "temas": [
+    "valor",
+    "prudencia",
+    "zilu"
+   ],
+   "intensidad": 4,
+   "gancho": "Preguntó a quién elegiría de general. No era él.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — La escuela bajo el árbol"
+  },
+  {
+   "tipo": "cita",
+   "texto": "saber lo que dicen los rollos y saber lo que los rollos callan son dos ciencias distintas",
+   "es_literal": true,
+   "ancla": "Pero hay un hombre en la capital de Zhou que ha custodiado esos archivos toda su vida, que ha visto pasar por sus manos el espíritu mismo de los antiguos como el agua pasa por el cauce. Se llama Lao Tsé. Voy a preguntarle no lo que sé, sino lo que ignoro que ignoro.",
+   "temas": [
+    "aprender",
+    "viaje",
+    "archivos"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que dicen los rollos y lo que los rollos callan",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — El dragón"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Hoy he visto a Lao Tsé. Y os digo que ese hombre es un dragón. No he podido apresarlo. No sé cómo asirlo. Me deja las manos vacías y el corazón lleno.",
+   "es_literal": true,
+   "ancla": "Hoy he visto a Lao Tsé. Y os digo que ese hombre es un dragón. No he podido apresarlo. No sé cómo asirlo. Me deja las manos vacías y el corazón lleno.",
+   "temas": [
+    "encuentro",
+    "asombro",
+    "lao tsé"
+   ],
+   "intensidad": 5,
+   "gancho": "Me deja las manos vacías y el corazón lleno",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — El dragón"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No el agua que cede y rodea y acaba desgastando la roca: el surco que el labrador abre en la tierra dura, porque sin surco no hay mijo. Dos hombres miraron la misma verdad desde direcciones opuestas, se reconocieron y se separaron sin desprecio.",
+   "es_literal": false,
+   "ancla": "Hay un tiempo para ceder como el agua y un tiempo para abrir el surco. El sabio de la montaña ha elegido el agua. Yo elijo el surco.",
+   "temas": [
+    "camino",
+    "elección",
+    "retirarse"
+   ],
+   "intensidad": 4,
+   "gancho": "Uno eligió el agua. El otro, el surco.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — El dragón"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Fue a escuchar a un anciano y lo que oyó fue un reproche a su propio orgullo, dicho a la cara. No se defendió: lo agradeció. Los aduladores lo habrían dejado igual de ciego; aquel reflejo incómodo lo dejaba más limpio.",
+   "es_literal": false,
+   "ancla": "Los aduladores me habrían cubierto de elogios y me habrían dejado igual de ciego. Él me ha puesto un espejo delante, y aunque el reflejo me incomode, me hace más limpio.",
+   "temas": [
+    "crítica",
+    "orgullo",
+    "amistad"
+   ],
+   "intensidad": 4,
+   "gancho": "Recibió a la cara lo que ningún adulador le habría dicho",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — El dragón"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Confesaba que en sueños se le aparecía a veces el duque de Zhou, el regente que pudo quedarse el trono y lo devolvió intacto. Y cuando pasaba mucho tiempo sin soñar con él, se entristecía, como si aquella ausencia midiera sus fuerzas.",
+   "es_literal": false,
+   "ancla": "En sueños, confesaba el Maestro, se le aparecía a veces el duque de Zhou; y cuando pasaba mucho tiempo sin soñar con él, se entristecía, como si aquella ausencia fuera una señal de que las fuerzas lo abandonaban.",
+   "temas": [
+    "sueños",
+    "vejez",
+    "modelo"
+   ],
+   "intensidad": 3,
+   "gancho": "Medía sus fuerzas por los sueños que ya no tenía",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — El reino de Lu"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Llegó la noticia de que en el patio de una casa que no era la del rey habían danzado ochenta bailarines, en ocho filas de ocho. En aquel rostro siempre medido se encendió una cólera fría.",
+   "es_literal": false,
+   "ancla": "Un día se produjo el suceso que, más que ningún otro, encendió la indignación del Maestro y quedó grabado en la memoria de sus discípulos. Llegó la noticia de que en el patio ancestral de la casa de los Ji, el jefe de la familia había hecho danzar a ochenta bailarines dispuestos en ocho filas de ocho.",
+   "temas": [
+    "ritos",
+    "usurpación",
+    "límites"
+   ],
+   "intensidad": 4,
+   "gancho": "Ocho filas de ocho. En el patio de su casa.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — El reino de Lu"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El que usurpa el rito del rey en su patio, mañana usurpará su trono en el reino. La danza no es solo danza.",
+   "es_literal": true,
+   "ancla": "—Si esto se tolera —dijo Confucio, y su voz, aunque baja, cortaba como el filo de un bronce—, ¿qué no se tolerará? Si un hombre es capaz de esto, ¿de qué no será capaz? El que usurpa el rito del rey en su patio, mañana usurpará su trono en el reino.",
+   "temas": [
+    "poder",
+    "límites",
+    "ritos"
+   ],
+   "intensidad": 4,
+   "gancho": "La danza no era solo danza",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — El reino de Lu"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Si vos mismo no fuerais codicioso —respondió—, no robarían aunque les pagarais por robar.",
+   "es_literal": true,
+   "ancla": "—Si vos mismo no fuerais codicioso —respondió—, no robarían aunque les pagarais por robar.",
+   "temas": [
+    "gobierno",
+    "ejemplo",
+    "codicia"
+   ],
+   "intensidad": 5,
+   "gancho": "Fue a preguntar por los ladrones del camino",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — El reino de Lu"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Es impropio de un sabio alegrarse el día en que por fin le dan poder? A él se le notó en la cara, y se lo reprocharon. Respondió con otra pregunta: si el lugar alto sirve para hacer el bien a los de abajo, ¿qué hay de malo en alegrarse?",
+   "es_literal": false,
+   "ancla": "Confucio mismo no se dejó embriagar. El día en que asumió el cargo, según contaron algunos, se le vio en el rostro una satisfacción que no ocultó, y hubo quien se lo reprochó como impropio de un sabio. Él respondió, con una sonrisa:",
+   "temas": [
+    "poder",
+    "alegría",
+    "servicio"
+   ],
+   "intensidad": 3,
+   "gancho": "Le reprocharon que se le notara la alegría",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6 — El poder por fin"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Primero el pan, luego la escuela. Un pueblo hambriento no escucha lecciones de virtud; y un pueblo harto pero ignorante es un peligro para sí mismo.",
+   "es_literal": true,
+   "ancla": "—Instruirlos —dijo el Maestro—. Primero el pan, luego la escuela. Un pueblo hambriento no escucha lecciones de virtud; y un pueblo harto pero ignorante es un peligro para sí mismo. Dadle primero de comer, después enseñadle a vivir. Ese es el orden, y quien lo invierte fracasa por los dos lados.",
+   "temas": [
+    "gobierno",
+    "pan",
+    "enseñanza"
+   ],
+   "intensidad": 4,
+   "gancho": "Primero el pan. Luego la escuela.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — El poder por fin"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En la entrevista de la frontera propusieron música para celebrar la amistad de los dos reinos. Lo que irrumpió fue una turba con plumas, pieles y alaridos, y lanzas mal escondidas bajo la ropa. El ministro de Lu no llevaba arma: subió los peldaños y se puso delante de su duque.",
+   "es_literal": false,
+   "ancla": "Era una turba de hombres disfrazados de bárbaros de las tribus lejanas, con plumas y pieles, dando alaridos, y traían en las manos, mal escondidas bajo las ropas, lanzas, espadas, alabardas y escudos.",
+   "temas": [
+    "trampa",
+    "valor",
+    "rito"
+   ],
+   "intensidad": 5,
+   "gancho": "Una danza con las lanzas escondidas bajo la ropa",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — El poder por fin"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un reino puede ser diez veces más fuerte que otro en carros y en soldados, y hallarse, sin embargo, desnudo, si ha quebrantado la ley que sostiene el trato entre los hombres.",
+   "es_literal": true,
+   "ancla": "—No he sido yo, Zilu. Ha sido el rito. Yo solo he recordado a Qi lo que Qi fingía haber olvidado. Un reino puede ser diez veces más fuerte que otro en carros y en soldados, y hallarse, sin embargo, desnudo, si ha quebrantado la ley que sostiene el trato entre los hombres.",
+   "temas": [
+    "rito",
+    "fuerza",
+    "justicia"
+   ],
+   "intensidad": 4,
+   "gancho": "Ganó tierras sin desenvainar una sola espada",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — El poder por fin"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No se hace la guerra contra la virtud: se hace contra un ejército. Por eso los consejeros del reino vecino no atacaron. Buscaron algo más lento y más eficaz: apartar al hombre recto de quien lo escuchaba.",
+   "es_literal": false,
+   "ancla": "—Se hace la guerra contra un ejército, no contra la virtud. Si atacamos a un reino que gobierna con rectitud, seremos nosotros los bárbaros, y hasta nuestros propios soldados dudarán. No. A un hombre recto no se le derrota con la fuerza. Se le derrota apartándolo de quien lo escucha.",
+   "temas": [
+    "enemigos",
+    "poder",
+    "estrategia"
+   ],
+   "intensidad": 5,
+   "gancho": "Cómo se derrota a un hombre recto, según sus enemigos",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — Las bailarinas de Qi"
+  },
+  {
+   "tipo": "escena",
+   "texto": "De noche, con las lámparas bajas, los consejeros de Qi discutían cómo apartar a un ministro de su duque. El más viejo bebió despacio antes de responder. Su respuesta cayó en la sala como una piedra en un pozo: regalarle al duque algo que le gustara más que la virtud.",
+   "es_literal": false,
+   "ancla": "El viejo bebió despacio, y su respuesta cayó en la sala como una piedra en un pozo.",
+   "temas": [
+    "intriga",
+    "debilidad",
+    "regalo"
+   ],
+   "intensidad": 4,
+   "gancho": "Ochenta bailarinas y ciento veinte caballos",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — Las bailarinas de Qi"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No juzgues a las muchachas —dijo Confucio en voz baja—. Ellas no eligieron nacer hermosas ni ser enviadas como flechas. Son el arma, no el arquero.",
+   "es_literal": true,
+   "ancla": "—No juzgues a las muchachas —dijo Confucio en voz baja—. Ellas no eligieron nacer hermosas ni ser enviadas como flechas. Son el arma, no el arquero.",
+   "temas": [
+    "juicio",
+    "compasión",
+    "culpa"
+   ],
+   "intensidad": 5,
+   "gancho": "Son el arma, no el arquero",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — Las bailarinas de Qi"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Cumplido el gran sacrificio, había que repartir la carne consagrada entre los ministros. No se repartió. Nadie le llevó su porción; y él, que había dedicado la vida a leer el lenguaje callado de los ritos, lo entendió todo en aquel silencio.",
+   "es_literal": false,
+   "ancla": "La carne se quedó en palacio, olvidada como se olvida lo que ya no importa, o quizá retenida a propósito, porque un duque entregado al placer no quiere en su mesa la mirada de un ministro recto.",
+   "temas": [
+    "desprecio",
+    "ritos",
+    "renuncia"
+   ],
+   "intensidad": 5,
+   "gancho": "No era descuido: era el final de algo",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — Las bailarinas de Qi"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Desde el collado se veía Lu por última vez. Caminó despacio a propósito, se demoró, cantó una canción antigua de despedida para que se oyera lejos. Bastaba un mensajero. Esperó mientras el sol subía y la sombra del carro se acortaba a sus pies.",
+   "es_literal": false,
+   "ancla": "Esperó mientras el sol subía. Esperó mientras la sombra del carro se acortaba a sus pies. Miró el camino, largo y vacío, que bajaba serpenteando hacia la capital. Aguzó el oído por si oía cascos, por si oía una voz.",
+   "temas": [
+    "despedida",
+    "espera",
+    "exilio"
+   ],
+   "intensidad": 5,
+   "gancho": "Caminaba despacio para darle tiempo a arrepentirse",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 7 — Las bailarinas de Qi"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Una pieza de jade hermosa: ¿guardarla escondida en un cofre o buscarle un buen precio y venderla? Detrás de la pregunta del discípulo había otra: ¿hasta dónde puede rebajarse un hombre para que lo empleen?",
+   "es_literal": false,
+   "ancla": "—Maestro —dijo con cuidado—, supongamos que aquí hubiera una pieza de jade hermosa. ¿La guardaríais en un cofre escondida, o buscaríais un buen precio y la venderíais?",
+   "temas": [
+    "valía",
+    "espera",
+    "dignidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Espero al comprador que sepa lo que compra",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — El camino sin reino"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Le pagaban la renta, lo sentaban a la mesa, lo escuchaban con la cabeza inclinada. No le daban ni una aldea, ni un oficio, ni una decisión. Lo tenían como quien tiene un jarrón precioso en un estante: para adornarse con él, no para usarlo.",
+   "es_literal": false,
+   "ancla": "Lo tenía como quien tiene un jarrón precioso en un estante: para adornarse con él, para que los visitantes admiraran que en la corte de Wei residía el gran sabio de Lu. No para usarlo.",
+   "temas": [
+    "admiración",
+    "poder",
+    "uso"
+   ],
+   "intensidad": 4,
+   "gancho": "Un ministro adornado no es un ministro",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8 — El camino sin reino"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No he visto todavía a nadie que ame la virtud como ama la belleza.",
+   "es_literal": true,
+   "ancla": "Confucio no dijo nada mientras duró el paseo. Saludó con la cabeza a quienes lo miraban, digno como siempre. Pero por la noche, en la casa que les habían dado, se le oyó suspirar, y luego pronunciar, más para el Cielo que para los hombres, unas palabras que Zigong recogió y no olvidó:",
+   "temas": [
+    "deseo",
+    "virtud",
+    "desengaño"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo dijo la noche del paseo en carro que lo humilló",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — El camino sin reino"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Yo no soy tan bueno como para no sentir el hambre. Pero soy bastante necio como para creerle. Y creerle me basta.",
+   "es_literal": true,
+   "ancla": "—Tengo hambre —respondió Yan Hui—. Pero el Maestro dice que un hombre bueno puede vivir con un cuenco de arroz y un cazo de agua, en un callejón miserable, donde otros no soportarían la tristeza, y no perder por eso su alegría. Yo no soy tan bueno como para no sentir el hambre. Pero soy bastante necio como para creerle. Y creerle me basta.",
+   "temas": [
+    "fe",
+    "hambre",
+    "discípulo"
+   ],
+   "intensidad": 5,
+   "gancho": "Un discípulo hambriento explica por qué sonríe",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — El camino sin reino"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Hay quien muere sentado en un trono, gordo y ciego, y su muerte no vale nada. Y hay quien muere en un camino, con las sandalias rotas y el estómago vacío, buscando un bien para todos los hombres, y su muerte vale más que cien reinados.",
+   "es_literal": true,
+   "ancla": "—Entonces habremos muerto buscando —respondió Confucio—. Y no es la peor manera de morir. Hay quien muere sentado en un trono, gordo y ciego, y su muerte no vale nada.",
+   "temas": [
+    "muerte",
+    "sentido",
+    "camino"
+   ],
+   "intensidad": 5,
+   "gancho": "No preguntes si llegaremos. Pregunta si vale la pena caminar.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — El camino sin reino"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Les cerraron las puertas de la ciudad en las narices y durmieron bajo la muralla, oyendo desde dentro las risas de los guardias. Él miró las estrellas y le dijo a su discípulo que son las mismas dentro y fuera de la muralla.",
+   "es_literal": false,
+   "ancla": "Zilu apretaba los dientes. Pero Confucio, envuelto en su manto raído, miraba las estrellas sobre la muralla ajena y decía:",
+   "temas": [
+    "rechazo",
+    "serenidad",
+    "reconocimiento"
+   ],
+   "intensidad": 4,
+   "gancho": "Durmieron fuera de la muralla, oyendo reírse a los guardias",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — Como un perro sin casa"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un hombre lo vio entrar en la aldea, palideció y echó a correr gritando que había vuelto el bandido que años atrás los asoló. Se parecían. En un instante la aldea entera salió con azadas, horcas y palos, ciega de miedo y de venganza.",
+   "es_literal": false,
+   "ancla": "En un instante, la aldea entera se levantó en armas. Hombres con azadas, con horcas, con palos, con alguna espada vieja, salieron de sus casas ciegos de miedo y de venganza.",
+   "temas": [
+    "confusión",
+    "turba",
+    "peligro"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo tomaron por el criminal que les había arrasado el pueblo",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — Como un perro sin casa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Estando vos vivo, Maestro, ¿cómo me atrevería yo a morir?",
+   "es_literal": true,
+   "ancla": "Confucio se quedó mirándolo, y en medio del peligro, en medio del cerco, algo se le ensanchó en el pecho. Aquella noche, con la turba rondando el patio, reunió a sus discípulos y les habló con una serenidad que no era de este mundo:",
+   "temas": [
+    "lealtad",
+    "cerco",
+    "yan hui"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo dio por muerto. El discípulo reapareció y contestó esto.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — Como un perro sin casa"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un guardián de la puerta lo había descrito como un hombre con el aire de un perro que ha perdido su casa. Zigong dudó si repetírselo. Cuando lo hizo, el Maestro no se hirió: se echó a reír con una risa franca que le llenó los ojos.",
+   "es_literal": false,
+   "ancla": "Rió de veras, con una risa franca, limpia, que le nació del pecho y le llenó los ojos, la risa de un hombre que ha visto de pronto algo tan verdadero que no puede sino celebrarlo. Los discípulos, que se habían acercado, se quedaron pasmados.",
+   "temas": [
+    "humillación",
+    "humor",
+    "desamparo"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo compararon con un perro callejero. Se echó a reír.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — Como un perro sin casa"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Le preguntaron si no le pesaba haber dado la vida por un bien que nadie quería. Dijo que sí le pesaba, y que aun así cada mañana volvía al camino: el fruto no era asunto suyo. A él le tocaba sembrar.",
+   "es_literal": false,
+   "ancla": "—Porque el fruto no es asunto mío. A mí me toca sembrar. Que la semilla germine hoy, o dentro de cien años, o dentro de mil, o que germine en un reino o en el corazón de un solo hombre que me escuche junto a un fuego, eso lo dispone el Cielo, no yo.",
+   "temas": [
+    "siembra",
+    "paciencia",
+    "fruto"
+   ],
+   "intensidad": 4,
+   "gancho": "Aro aunque no vea la mies",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — Como un perro sin casa"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Cinco días de lluvia y barro, los cuerpos vencidos, el círculo de picas borroso al fondo. Y sobre todo aquello, sereno, obstinado, casi insolente, el sonido de una cítara bajo una tienda que goteaba.",
+   "es_literal": false,
+   "ancla": "Se había sentado bajo el resguardo de una tienda que goteaba, con la espalda recta como siempre, con la túnica ceñida como si fuera a recibir a un príncipe, y tañía la cítara y cantaba las odas antiguas.",
+   "temas": [
+    "cerco",
+    "hambre",
+    "música"
+   ],
+   "intensidad": 5,
+   "gancho": "Cantaba como quien mantiene encendida una lámpara a oscuras",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 10 — El cerco de Chen y Cai"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No es no caer nunca en la pobreza. Es no dejar que la pobreza te robe a ti mismo.",
+   "es_literal": true,
+   "ancla": "El noble pasa las mismas estrecheces, siente el mismo dolor, y aun así se mantiene. No se desborda. No hace cualquier cosa. Sigue siendo, en la miseria, lo que era en la abundancia. Eso, Zilu, y solo eso, es ser un junzi. No es no caer nunca en la pobreza. Es no dejar que la pobreza te robe a ti mismo.",
+   "temas": [
+    "pobreza",
+    "junzi",
+    "carácter"
+   ],
+   "intensidad": 5,
+   "gancho": "La diferencia no está en pasar estrecheces, sino en cómo se pasan",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — El cerco de Chen y Cai"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El discípulo más práctico le propuso rebajar un poco el Camino, hacerlo más a la medida de los hombres tal como son, para que por fin alguien lo aceptara. No un camino más llevadero: el camino entero. Rebajado, respondió, ya no sería un camino, sino un atajo hacia el favor de los príncipes.",
+   "es_literal": false,
+   "ancla": "Pero un Camino rebajado ya no es el Camino; es solo un atajo hacia el favor de los príncipes. Tú, que eres capaz y hábil, no te fijas en cultivar el Camino, sino en que te lo compren. Tu meta, Zigong, es demasiado baja.",
+   "temas": [
+    "integridad",
+    "atajo",
+    "aceptación"
+   ],
+   "intensidad": 4,
+   "gancho": "Le propusieron bajar el listón para que se lo compraran",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — El cerco de Chen y Cai"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La vergüenza es del mundo, Maestro, no del Camino.",
+   "es_literal": true,
+   "ancla": "Pero si lo hemos cultivado con todas nuestras fuerzas, tan bien como sabemos, y aun así los que gobiernan no lo emplean, entonces la vergüenza es de ellos, de los príncipes que no saben usar a los hombres de bien. La vergüenza es del mundo, Maestro, no del Camino.",
+   "temas": [
+    "rechazo",
+    "fidelidad",
+    "yan hui"
+   ],
+   "intensidad": 5,
+   "gancho": "Un muchacho medio muerto de hambre le devolvió la fe",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — El cerco de Chen y Cai"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Cuando por fin llegó el grano y le acercaron el primer cuenco de arroz caliente, Yan Hui no lo llevó a su boca. Lo llevó a los labios de un compañero más débil. El Maestro lo vio y no dijo nada.",
+   "es_literal": false,
+   "ancla": "Yan Hui, cuando le acercaron el primer cuenco de arroz caliente, no lo llevó primero a su boca. Lo llevó a los labios de un compañero más débil que él.",
+   "temas": [
+    "generosidad",
+    "hambre",
+    "ren"
+   ],
+   "intensidad": 5,
+   "gancho": "Siete días sin comer, y no se llevó el primer cuenco a la boca",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — El cerco de Chen y Cai"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El duque que lo alojaba dejó de preguntarle cómo ordenar un reino y le preguntó cómo disponer un ejército en batalla. Él respondió que de sacrificios y ritos algo sabía, y de armas y tropas nada. Al día siguiente mandó preparar los carros.",
+   "es_literal": false,
+   "ancla": "Un día, en lugar de preguntarle cómo ordenar un reino, le preguntó cómo disponer un ejército en batalla. Confucio lo miró y respondió:",
+   "temas": [
+    "guerra",
+    "renuncia",
+    "coherencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Le preguntaron cómo formar un ejército. Se marchó.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Los reyes que no escuchan"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Enseñaba al aire libre, bajo la copa de un gran árbol junto al camino. Un ministro receloso mandó talarlo. El árbol cayó con estruendo y una nube de hojas y polvo, y los discípulos creyeron llegada su última hora. Él se puso en pie sin prisa y se sacudió la túnica.",
+   "es_literal": false,
+   "ancla": "Los hombres vinieron con hachas y derribaron el gran árbol, que cayó con estruendo levantando una nube de hojas y polvo, y hubo un momento de pánico entre los discípulos, que creyeron llegada su última hora.",
+   "temas": [
+    "amenaza",
+    "miedo",
+    "calma"
+   ],
+   "intensidad": 5,
+   "gancho": "Talaron el árbol bajo el que enseñaba",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Los reyes que no escuchan"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Dirán de mí, cuando ya no esté, que fui aquel que sabía que no se podía, y que sin embargo lo intentó.",
+   "es_literal": true,
+   "ancla": "Y aquella tarde, mirando el río que corría, casi para sí mismo, con una media sonrisa que era mitad broma y mitad juramento, murmuró la frase que ya entonces empezaba a rondarle por dentro y que resumía, mejor que ninguna otra, el sentido de su vida entera:",
+   "temas": [
+    "perseverancia",
+    "fracaso",
+    "legado"
+   ],
+   "intensidad": 5,
+   "gancho": "Un labriego se lo dijo como insulto. Él lo tomó como nombre.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — Los reyes que no escuchan"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un discípulo le preguntó si volvían a servir. Él tardó en responder; fuera, un viento delgado hacía temblar la llama. Volvemos para casa, dijo al fin. Que es distinto.",
+   "es_literal": false,
+   "ancla": "El Maestro tardó en responder. Fuera, un viento delgado hacía temblar la llama.",
+   "temas": [
+    "regreso",
+    "vejez",
+    "casa"
+   ],
+   "intensidad": 4,
+   "gancho": "Le preguntaron si volvían a servir",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12 — El regreso a Lu"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Catorce años caminando, ofreciendo el Camino a un príncipe tras otro, y ninguno lo tomó. ¿No duele volver con las manos vacías? Lo que la novela deja caer es otra cosa: haber ofrecido menos por miedo al rechazo habría sido el fracaso de verdad.",
+   "es_literal": false,
+   "ancla": "—Maestro, catorce años hemos caminado. Habéis ofrecido vuestro Camino a un príncipe tras otro, y ninguno lo ha tomado. ¿No os duele volver con las manos vacías?",
+   "temas": [
+    "fracaso",
+    "fidelidad",
+    "regreso"
+   ],
+   "intensidad": 4,
+   "gancho": "Catorce años de caminos y ningún reino ganado",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12 — El regreso a Lu"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Volvió a su tierra y le dieron honores sin poder. Aquella noche, mirándose las manos viejas a la luz de una lámpara, entendió que ya no aspiraba a mandar sobre hombres, sino sobre el corazón de unos pocos que quisieran aprender.",
+   "es_literal": false,
+   "ancla": "—Mi reino no será de poder —dijo en voz baja, a la lámpara, a nadie—. Será de discípulos y de libros.",
+   "temas": [
+    "poder",
+    "enseñanza",
+    "vejez"
+   ],
+   "intensidad": 4,
+   "gancho": "Un reino de poder muere con el rey",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12 — El regreso a Lu"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Otros, en la pobreza, se amargan o se avergüenzan. Lo de Yan Hui no era resignación: era alegría. Un cuenco de arroz, una calabaza de agua, un callejón miserable, y la risa intacta en los ojos.",
+   "es_literal": false,
+   "ancla": "Yan Hui vivía en una casa que era poco más que cuatro paredes desnudas, con el techo que dejaba pasar la lluvia, y aquella pobreza, que a cualquier otro le habría agriado el alma, no le había robado a él la alegría.",
+   "temas": [
+    "pobreza",
+    "alegría",
+    "yan hui"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que veía en el más pobre de sus discípulos",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — La muerte de Yan Hui"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Le llevaron la noticia mientras trabajaba entre sus rollos. Se quedó un instante inmóvil, con el pincel detenido en el aire sobre una tablilla. Y luego le subió a la garganta un grito que no era de anciano ni de sabio ni de maestro.",
+   "es_literal": false,
+   "ancla": "Se dice que se quedó un instante inmóvil, como si no hubiera oído, con el pincel detenido en el aire sobre una tablilla.",
+   "temas": [
+    "duelo",
+    "pérdida",
+    "grito"
+   ],
+   "intensidad": 5,
+   "gancho": "El pincel se quedó detenido en el aire",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — La muerte de Yan Hui"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Hubo Yan Hui. Él amaba el aprender. Nunca volcaba su ira sobre otro, nunca caía dos veces en la misma falta. Por desgracia, su vida fue corta, y ha muerto. Ahora no hay ninguno. No conozco a ninguno que ame el aprender.",
+   "es_literal": true,
+   "ancla": "Muchos años después, ya muy viejo, cuando el duque Ai o los ministros le preguntaban a quién de sus discípulos amaba el aprender, el Maestro respondía siempre lo mismo, y siempre se le apagaba la voz al decirlo:",
+   "temas": [
+    "duelo",
+    "aprender",
+    "ausencia"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo decía con veinte discípulos ilustres alrededor",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — La muerte de Yan Hui"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Había enseñado toda la vida que el hombre noble llora, pero no se destroza. Un discípulo se lo recordó aquel día. Él levantó la cara mojada y preguntó por quién iba a deshacerse, si no era por aquel. Las formas están al servicio del corazón, y no al revés.",
+   "es_literal": false,
+   "ancla": "que las formas están al servicio del corazón, y no al revés; que hay un dolor tan verdadero que ninguna ceremonia puede ni debe contenerlo",
+   "temas": [
+    "duelo",
+    "formas",
+    "amor"
+   ],
+   "intensidad": 5,
+   "gancho": "El guardián de las formas, deshecho delante de todos",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 13 — La muerte de Yan Hui"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El hombre noble —dijo, con la voz ahogada de sangre, mientras las lanzas volvían a caer sobre él— no muere con el gorro caído. Muere con el gorro puesto.",
+   "es_literal": true,
+   "ancla": "Se detuvo. Bajó por un instante la espada. Y con dedos temblorosos y rojos se ajustó el gorro, se lo recompuso sobre la cabeza y se anudó de nuevo la cinta rota, con cuidado, como el Maestro le había enseñado tantos años atrás que debía ir vestido un hombre de bien: pulcro, digno, en su sitio, aun ante el rey, aun ante la muerte.",
+   "temas": [
+    "dignidad",
+    "muerte",
+    "zilu"
+   ],
+   "intensidad": 5,
+   "gancho": "Herido de muerte, se paró a atarse la cinta del gorro",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — La muerte de Zilu"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Le sirvieron a la mesa un guiso de carne picada en salmuera y apartó la vista con horror. Mandó que se lo llevaran y que no volvieran a ponérselo delante jamás. Ni siquiera podía ya comer en paz.",
+   "es_literal": false,
+   "ancla": "Se dice que en aquellos días, al ir a servirle a la mesa cierto guiso encurtido, de carne picada en salmuera, el Maestro apartó la vista con horror y mandó que se lo llevaran, y que no volvieran a ponérselo jamás delante.",
+   "temas": [
+    "duelo",
+    "cuerpo",
+    "memoria"
+   ],
+   "intensidad": 5,
+   "gancho": "Un plato que no volvió a permitir en su mesa",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — La muerte de Zilu"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Había enterrado a su hijo, al discípulo más puro y al más leal. Una tarde murmuró que nadie lo conocía. Y añadió que no se quejaba contra el Cielo ni culpaba a los hombres: estudiaba lo de abajo y alcanzaba lo de arriba.",
+   "es_literal": false,
+   "ancla": "—Nadie me conoce —murmuró una tarde, más para sí que para Zigong, que velaba a su lado.",
+   "temas": [
+    "soledad",
+    "vejez",
+    "aceptación"
+   ],
+   "intensidad": 5,
+   "gancho": "Sobrevivió a casi todos los que amaba",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — La muerte de Zilu"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El fénix no viene —dijo una mañana, casi para sí, mientras Zigong le acercaba el brasero—. No emerge el signo del río. Se acabó lo mío.",
+   "es_literal": true,
+   "ancla": "Zigong se detuvo con las manos suspendidas sobre las brasas. Conocía aquella queja, la había oído madurar en el Maestro como madura un fruto amargo.",
+   "temas": [
+    "desánimo",
+    "señales",
+    "final"
+   ],
+   "intensidad": 5,
+   "gancho": "El Cielo callaba, y él ya no esperaba señales",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — El fénix no viene"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La historia del guardián de frontera y la campana de madera llega a la novela como llegan las historias antiguas: contada por otros, sin manera de comprobarla. Y las conversaciones de estos capítulos son recreación, no acta.",
+   "es_literal": false,
+   "ancla": "Zigong no repitió la vieja historia de la campana en voz alta ante el Maestro. Le pareció que este, en su desánimo de aquellos días, no querría oírla, o la oiría como se oye un halago fuera de lugar.",
+   "temas": [
+    "ficción documental",
+    "fuentes",
+    "memoria"
+   ],
+   "intensidad": 2,
+   "gancho": "Diálogos recreados: la novela no los presenta como documento",
+   "formatos": [
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 15 — El fénix no viene"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Y si lo que se le pedía no era lo que él creyó toda su vida? Quería reparar un reino. Quizá bastaba con enseñar a cuatro hombres a reparar su propio corazón, y que esos cuatro enseñaran a otros cuatro.",
+   "es_literal": false,
+   "ancla": "Yo quería reparar un reino. Puede que el Cielo sólo quisiera que enseñara a cuatro hombres a reparar su propio corazón, y que esos cuatro enseñaran a otros cuatro, y así hasta que el mundo, sin que ningún rey lo ordenara, cambiara desde abajo, como cambia un campo cuando por fin llueve.",
+   "temas": [
+    "vocación",
+    "duda",
+    "siembra"
+   ],
+   "intensidad": 4,
+   "gancho": "Uno no ve el bosque que planta",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15 — El fénix no viene"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una mañana muy temprano, con el rocío aún sin levantarse de las losas, el discípulo llegó y no lo encontró en la sala. Lo vio junto a la puerta, apoyado en un bastón, paseando bajo los primeros rayos. Iba a llamarlo cuando lo oyó cantar.",
+   "es_literal": false,
+   "ancla": "Lo buscó por el patio y lo vio junto a la puerta, muy despacio, apoyado en un bastón, paseando con paso vacilante bajo los primeros rayos. Iba a llamarlo cuando lo oyó cantar.",
+   "temas": [
+    "final",
+    "canto",
+    "aceptación"
+   ],
+   "intensidad": 5,
+   "gancho": "El canto que su discípulo no le había oído nunca",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 16 — El monte Tai se derrumba"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Lo que pensó en su última mañana no lo registra ninguna fuente. La novela lo recrea y no finge otra cosa. Lo único que sostiene el relato es que se fue creyéndose un hombre sin obra.",
+   "es_literal": false,
+   "ancla": "Murió sin agonía, como se apaga una lámpara a la que se le acaba el aceite: primero la llama tiembla, luego se recoge, luego ya sólo hay una hebra de humo subiendo recta en el aire quieto.",
+   "temas": [
+    "ficción documental",
+    "muerte",
+    "fuentes"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que ninguna fuente registra de aquella última mañana",
+   "formatos": [
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16 — El monte Tai se derrumba"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Los reinos que lo despreciaron cayeron uno tras otro y se los tragó el olvido. Sus palabras siguieron viajando de siglo en siglo. Hay dos maneras de durar en el tiempo, dice la novela: por la fuerza, que se gasta, y por otra cosa que no.",
+   "es_literal": false,
+   "ancla": "Porque hay dos maneras de durar en el tiempo: por la fuerza, y esa se gasta; y por la verdad, y esa no se gasta nunca.",
+   "temas": [
+    "tiempo",
+    "olvido",
+    "legado"
+   ],
+   "intensidad": 4,
+   "gancho": "Perdió mientras vivió. Ganó cuando ya no podía verlo.",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "articulo"
+   ],
+   "capitulo": "Epílogo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El epílogo nombra a otros maestros de otros siglos y otras tierras sin ordenarlos por importancia. Ninguna tradición queda por encima de otra: el libro se limita a señalar que dijeron cosas hermanas y a dejar ahí la observación.",
+   "es_literal": false,
+   "ancla": "Y quien sepa mirar de lejos, por encima de las lenguas y de los siglos, reconocerá que aquel maestro del país de Lu no estuvo solo en su oficio.",
+   "temas": [
+    "serie",
+    "respeto",
+    "tradiciones"
+   ],
+   "intensidad": 2,
+   "gancho": "Distintos heraldos, una misma campana",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Epílogo"
+  }
+ ]
+}

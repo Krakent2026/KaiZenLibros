@@ -1,0 +1,1332 @@
+{
+ "serie": "los_mensajeros",
+ "libro": "krishna",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "No fue un gesto dramático. Fue peor: fue un gesto involuntario, el gesto de una mano que ha dejado de creer en lo que sostenía.",
+   "es_literal": true,
+   "ancla": "No fue un gesto dramático. Fue peor: fue un gesto involuntario, el gesto de una mano que ha dejado de creer en lo que sostenía.",
+   "temas": [
+    "duda",
+    "deber",
+    "miedo"
+   ],
+   "intensidad": 4,
+   "gancho": "El arco no se le cayó: se le soltó la creencia.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "—No puedo —dijo, y su voz sonó pequeña bajo el estruendo de las caracolas—. No voy a luchar.",
+   "es_literal": true,
+   "ancla": "—No puedo —dijo, y su voz sonó pequeña bajo el estruendo de las caracolas—. No voy a luchar.",
+   "temas": [
+    "miedo",
+    "duda",
+    "guerra"
+   ],
+   "intensidad": 5,
+   "gancho": "Dos ejércitos esperando, y el mejor arquero baja el arco.",
+   "formatos": [
+    "cita",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Arjuna pide que lleven el carro al centro del campo para ver bien a quienes va a combatir. Mira la primera fila del otro ejército y no encuentra enemigos: encuentra abuelos, maestros, primos con los que compartió el pan.",
+   "es_literal": false,
+   "ancla": "Y en la primera fila del ejército enemigo no había visto enemigos.",
+   "temas": [
+    "familia",
+    "guerra",
+    "duda"
+   ],
+   "intensidad": 5,
+   "gancho": "Pidió mirar de cerca al enemigo. Fue su peor idea.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo dijo como quien confiesa una traición sabiendo que es la única lealtad que le queda.",
+   "es_literal": true,
+   "ancla": "Lo dijo sin mirar a su auriga. Lo dijo a la llanura, al polvo, a los estandartes. Lo dijo como quien confiesa una traición sabiendo que es la única lealtad que le queda.",
+   "temas": [
+    "lealtad",
+    "duda"
+   ],
+   "intensidad": 4,
+   "gancho": "Hay negativas que son la última forma de lealtad.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El miedo, en los hombres pequeños, se convierte enseguida en crueldad, porque la crueldad es la forma que tiene el miedo de sentirse fuerte.",
+   "es_literal": true,
+   "ancla": "El miedo, en los hombres pequeños, se convierte enseguida en crueldad, porque la crueldad es la forma que tiene el miedo de sentirse fuerte.",
+   "temas": [
+    "miedo",
+    "poder",
+    "crueldad"
+   ],
+   "intensidad": 5,
+   "gancho": "Por qué el miedo acaba pareciéndose tanto a la crueldad.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — La voz en la prisión"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Kamsa envaina la espada y suelta a su hermana, y todos creen que ha perdonado. No ha perdonado: ha aplazado. El miedo casi nunca suelta, solo cambia la fecha.",
+   "es_literal": false,
+   "ancla": "Soltó a su hermana. Envainó la espada. Pero no perdonó: aplazó.",
+   "temas": [
+    "miedo",
+    "poder",
+    "perdon"
+   ],
+   "intensidad": 4,
+   "gancho": "No perdonó. Aplazó.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — La voz en la prisión"
+  },
+  {
+   "tipo": "cita",
+   "texto": "un hombre honrado a veces queda atrapado en su propia honradez como en una jaula",
+   "es_literal": true,
+   "ancla": "Vasudeva, cumpliendo su terrible palabra —porque un hombre honrado a veces queda atrapado en su propia honradez como en una jaula—, le entregó el niño con las manos temblando.",
+   "temas": [
+    "honor",
+    "promesa",
+    "padres"
+   ],
+   "intensidad": 5,
+   "gancho": "Cuando cumplir tu palabra es lo peor que puedes hacer.",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — La voz en la prisión"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela cuenta el cruce del río con dos versiones a la vez: lo que pudo ocurrir y lo que la devoción de los siglos bordó encima. No decide por el lector cuál es cuál.",
+   "es_literal": false,
+   "ancla": "Cuál de estas cosas ocurrió de verdad, y cuál nació después en la boca agradecida de los pastores, nadie podría ya separarlo.",
+   "temas": [
+    "ficcion documental",
+    "fuentes",
+    "leyenda"
+   ],
+   "intensidad": 2,
+   "gancho": "El relato no separa el hecho de la leyenda: los pone juntos.",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — La voz en la prisión"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un padre sale de una celda con una cesta de mimbre sobre la cabeza y un recién nacido dentro. Cruza entre guardias dormidos y echa a andar hacia un río crecido por el monzón.",
+   "es_literal": false,
+   "ancla": "Lo esencial es esto: tomó al recién nacido, lo envolvió en una tela, lo colocó dentro de una cesta de mimbre, se levantó la cesta hasta la cabeza y salió de la celda con el niño sobre la coronilla",
+   "temas": [
+    "huida",
+    "padres",
+    "noche"
+   ],
+   "intensidad": 4,
+   "gancho": "Una cesta, un río crecido y toda la noche por delante.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — La voz en la prisión"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Todo tu miedo no ha servido de nada. Nunca sirve de nada.",
+   "es_literal": true,
+   "ancla": "Vive. Crece. Y vendrá a por ti a su hora. Todo tu miedo no ha servido de nada. Nunca sirve de nada.",
+   "temas": [
+    "miedo",
+    "poder"
+   ],
+   "intensidad": 5,
+   "gancho": "Ocho años de guardias y cadenas para llegar a esto.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — La voz en la prisión"
+  },
+  {
+   "tipo": "cita",
+   "texto": "—Se te queda mirando —dijeron las viejas a Yashoda— como si te conociera de antes.",
+   "es_literal": true,
+   "ancla": "—Se te queda mirando —dijeron las viejas a Yashoda— como si te conociera de antes.",
+   "temas": [
+    "infancia",
+    "madre",
+    "misterio"
+   ],
+   "intensidad": 3,
+   "gancho": "Las viejas de la aldea lo notaron antes que nadie.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — El niño de Gokula"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Yashoda pilla a su hijo comiendo tierra y le manda abrir la boca. Se inclina sobre él esperando ver barro y una lengua rosada.",
+   "es_literal": false,
+   "ancla": "Se inclinó sobre la boquita abierta de su hijo esperando ver una lengua rosada y quizá restos de barro. Y vio el cielo.",
+   "temas": [
+    "madre",
+    "asombro",
+    "infancia"
+   ],
+   "intensidad": 5,
+   "gancho": "Le abrió la boca para reñirlo. No encontró tierra.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — El niño de Gokula"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Los niños no llevan el universo en la boca. Los niños llevan barro, y mantequilla, y risas.",
+   "es_literal": true,
+   "ancla": "Debía de haberlo soñado. Los niños no llevan el universo en la boca. Los niños llevan barro, y mantequilla, y risas.",
+   "temas": [
+    "madre",
+    "duda",
+    "asombro"
+   ],
+   "intensidad": 4,
+   "gancho": "Cómo se convence una madre de que no vio lo que vio.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — El niño de Gokula"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Y cada uno, en su casa, sentía que la flauta lo llamaba a él, solo a él, por su nombre secreto, y no sabía adónde lo llamaba, ni se atrevía a seguir la llamada",
+   "es_literal": true,
+   "ancla": "Y cada uno, en su casa, sentía que la flauta lo llamaba a él, solo a él, por su nombre secreto, y no sabía adónde lo llamaba, ni se atrevía a seguir la llamada, y volvía a sus quehaceres con una espina dulce clavada en alguna parte del pecho.",
+   "temas": [
+    "llamada",
+    "musica",
+    "deseo"
+   ],
+   "intensidad": 4,
+   "gancho": "Una flauta que llama a cada uno por un nombre que nadie le dijo.",
+   "formatos": [
+    "cita",
+    "audio",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — El niño de Gokula"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Una madre mira dormir a un hijo que no acaba de caberle en las manos y no se atreve a decir en voz alta lo que se pregunta: ¿quién es de verdad el niño al que estoy criando?",
+   "es_literal": false,
+   "ancla": "se preguntaba, sin atreverse a decirlo ni siquiera en voz baja: ¿quién eres tú de verdad, hijo mío? ¿A quién estoy criando?",
+   "temas": [
+    "madre",
+    "identidad",
+    "misterio"
+   ],
+   "intensidad": 4,
+   "gancho": "La pregunta que una madre no se atreve a hacerse en voz alta.",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — El niño de Gokula"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La muerte más segura es la que llega sonriendo, disfrazada de cuidado, disfrazada de amor.",
+   "es_literal": true,
+   "ancla": "Kamsa había aprendido, en sus años de miedo, que la muerte no necesita hacer ruido. La muerte más segura es la que llega sonriendo, disfrazada de cuidado, disfrazada de amor.",
+   "temas": [
+    "engaño",
+    "miedo",
+    "cuidado"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que llega sonriendo también puede venir a hacer daño.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — Sombras sobre Vrindavan"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "En la aldea, cada peligro que el niño esquiva hace crecer dos cosas a la vez. El amor y el miedo salen del mismo tallo cuando lo que tienes delante no cabe en lo que conoces.",
+   "es_literal": false,
+   "ancla": "Y en Gokula, con cada peligro sorteado, con cada muerte burlada, iban creciendo a la par dos cosas que suelen ir juntas en el corazón de los hombres: el amor y el miedo.",
+   "temas": [
+    "amor",
+    "miedo",
+    "comunidad"
+   ],
+   "intensidad": 3,
+   "gancho": "El amor y el miedo crecen juntos ante lo que no se entiende.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — Sombras sobre Vrindavan"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El miedo guardado se hace veneno. No hay bicho más peligroso que el que huye.",
+   "es_literal": true,
+   "ancla": "Recordadlo. El miedo guardado se hace veneno. No hay bicho más peligroso que el que huye.",
+   "temas": [
+    "miedo",
+    "veneno",
+    "huida"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que un viejo pastor enseña junto al fuego sobre el miedo.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — La serpiente del río"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un amor que no puede negarse todavía no es del todo amor: es sed. El tuyo puede negarse, y no se niega.",
+   "es_literal": true,
+   "ancla": "Un amor que no puede negarse todavía no es del todo amor: es sed. El tuyo puede negarse, y no se niega.",
+   "temas": [
+    "amor",
+    "libertad",
+    "deseo"
+   ],
+   "intensidad": 5,
+   "gancho": "La diferencia entre querer y no poder evitarlo.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — La flauta y la danza"
+  },
+  {
+   "tipo": "cita",
+   "texto": "la flauta no sonaba en el bambú. Sonaba dentro de vosotras. Yo solo puse el bambú en el camino del viento que ya soplaba en tu pecho.",
+   "es_literal": true,
+   "ancla": "la flauta no sonaba en el bambú. Sonaba dentro de vosotras. Yo solo puse el bambú en el camino del viento que ya soplaba en tu pecho.",
+   "temas": [
+    "anhelo",
+    "musica",
+    "despedida"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que sonaba no era la caña.",
+   "formatos": [
+    "cita",
+    "audio",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6 — La flauta y la danza"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "En la ronda bajo la luna nadie tiene celos: cada una lo tiene entero. La novela usa esa noche para mostrar un amor que no se divide al repartirse, como una lámpara que enciende otras sin apagarse.",
+   "es_literal": false,
+   "ancla": "No había celos en aquella ronda, porque el amor que allí se daba no se dividía al repartirse, sino que se multiplicaba, como se multiplica la luz de una lámpara al encender otras sin apagarse ella.",
+   "temas": [
+    "amor",
+    "celos",
+    "comunidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Una lámpara que enciende otras no se apaga por ello.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — La flauta y la danza"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Radha le pide una sola cosa para el día de la marcha: que no toque la flauta. No quiere correr detrás de una barca. Quiere quedarse de pie en la orilla y verlo irse.",
+   "es_literal": false,
+   "ancla": "Quiero quedarme aquí, de pie, quieta, digna, y verte marchar. Prométeme que no tocarás la flauta ese día.",
+   "temas": [
+    "despedida",
+    "dignidad",
+    "amor"
+   ],
+   "intensidad": 5,
+   "gancho": "Le pidió que no tocara el día de marcharse. Por dignidad.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 6 — La flauta y la danza"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Antes de partir, quiere dejarle una última canción junto al río. Se lleva la caña a los labios y sopla. Solo sale aire: la flauta se ha quedado muda en sus manos.",
+   "es_literal": false,
+   "ancla": "Y no salió nada. Solo aire. Solo el sonido hueco del bambú y del aliento, un soplo vacío, como si el instrumento se hubiera quedado sin alma de pronto",
+   "temas": [
+    "despedida",
+    "musica",
+    "perdida"
+   ],
+   "intensidad": 5,
+   "gancho": "Quiso tocar una última vez. La flauta no sonó.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — La llamada de Mathura"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Eres mío. Te parí en el corazón aunque no te pariera en el vientre, y eso también es parir, ¿o no lo es?",
+   "es_literal": true,
+   "ancla": "Eres mío. Te parí en el corazón aunque no te pariera en el vientre, y eso también es parir, ¿o no lo es?",
+   "temas": [
+    "madre",
+    "crianza",
+    "despedida"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que dice una madre que crio a un hijo que no parió.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — La llamada de Mathura"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Vive por mí, padre. Sé tú Vrindavan mientras yo no esté. Ese es tu combate, y es más difícil que el mío.",
+   "es_literal": true,
+   "ancla": "Vive por mí, padre. Sé tú Vrindavan mientras yo no esté. Ese es tu combate, y es más difícil que el mío.",
+   "temas": [
+    "padre",
+    "quedarse",
+    "deber"
+   ],
+   "intensidad": 4,
+   "gancho": "Al que se queda le toca la parte difícil.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — La llamada de Mathura"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es que él elija la música que toca. Es que algo lo toca a él. Se describe como la caña por la que pasa una canción que viene de otra parte.",
+   "es_literal": false,
+   "ancla": "Yo toco, pero no soy yo quien elige la canción. La canción viene de otra parte y yo solo soy el bambú por donde pasa.",
+   "temas": [
+    "identidad",
+    "destino",
+    "duda"
+   ],
+   "intensidad": 4,
+   "gancho": "No elige la canción. Es la caña por donde pasa.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — La llamada de Mathura"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Cuando el que amas se marcha y ya no puedes cobrarle la respuesta, queda la pregunta más desnuda: ¿qué he tenido yo entre los brazos todas estas noches?",
+   "es_literal": false,
+   "ancla": "¿Un dios que baja a jugar a ser hombre y que un día se cansará del juego y subirá otra vez a su cielo, dejándonos aquí abajo mordiendo el recuerdo? ¿Qué he tenido yo entre los brazos todas estas noches?",
+   "temas": [
+    "amor",
+    "identidad",
+    "despedida"
+   ],
+   "intensidad": 5,
+   "gancho": "La pregunta que solo se hace cuando ya no sirve de nada.",
+   "formatos": [
+    "hilo",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — La llamada de Mathura"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Dos hermanos recién llegados del campo apoyan las manos a ambos lados del gran arco de piedra de la ciudad y empujan. La plaza entera oye crujir siglos de piedra.",
+   "es_literal": false,
+   "ancla": "Y entonces el gran arco ritual de Kamsa se venció, se partió por la clave con un estampido, y cayó, bloque sobre bloque, con un estruendo que retumbó contra las murallas de toda la ciudad",
+   "temas": [
+    "poder",
+    "ciudad",
+    "umbral"
+   ],
+   "intensidad": 4,
+   "gancho": "Dos pastores entran en la ciudad y tiran abajo su arco.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — La muerte del tirano"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No, no os arrodilléis ante mí. Nunca. Sois mi padre y mi madre. Soy yo quien debe arrodillarse.",
+   "es_literal": true,
+   "ancla": "—No —dijo con voz ronca, quebrada—. No, no os arrodilléis ante mí. Nunca. Sois mi padre y mi madre. Soy yo quien debe arrodillarse.",
+   "temas": [
+    "padres",
+    "reencuentro",
+    "humildad"
+   ],
+   "intensidad": 5,
+   "gancho": "Toda una ciudad se arrodilla. Él se arrodilla ante dos ancianos.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — La muerte del tirano"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Me robaron cada uno de tus días, uno a uno, y me dejaron solo esta hora. Otra mujer tuvo todo lo que era mío.",
+   "es_literal": true,
+   "ancla": "Toda entera me la robaron. Me robaron cada uno de tus días, uno a uno, y me dejaron solo esta hora. Otra mujer tuvo todo lo que era mío.",
+   "temas": [
+    "madre",
+    "duelo",
+    "reencuentro"
+   ],
+   "intensidad": 5,
+   "gancho": "Una madre recupera al hijo y descubre lo que le falta.",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — La muerte del tirano"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Un rey anciano lo mira sin entender: los hombres matan reyes para ser reyes, y este ha matado al rey para no serlo. Gana una corona en una tarde y la coloca en otra cabeza.",
+   "es_literal": false,
+   "ancla": "¿Qué hombre gana un reino con sus manos, en una tarde, y luego lo regala? Los hombres matan reyes para ser reyes. Tú matas al rey para no serlo.",
+   "temas": [
+    "poder",
+    "corona",
+    "renuncia"
+   ],
+   "intensidad": 5,
+   "gancho": "Matar al rey para no serlo.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — La muerte del tirano"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Yo no he venido a ser rey de Mathura. No quiero su corona ni la quise nunca. He venido solo a devolverle a este pueblo su rey verdadero y su paz.",
+   "es_literal": true,
+   "ancla": "Yo no he venido a ser rey de Mathura. No quiero su corona ni la quise nunca. He venido solo a devolverle a este pueblo su rey verdadero y su paz.",
+   "temas": [
+    "poder",
+    "renuncia",
+    "justicia"
+   ],
+   "intensidad": 4,
+   "gancho": "Tenía la corona en la mano y se la puso a otro.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — La muerte del tirano"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Prefiero mil veces un pueblo vivo que me llame cobarde a un pueblo muerto que me llame héroe sobre sus tumbas.",
+   "es_literal": true,
+   "ancla": "Prefiero mil veces un pueblo vivo que me llame cobarde a un pueblo muerto que me llame héroe sobre sus tumbas.",
+   "temas": [
+    "honor",
+    "guerra",
+    "pueblo"
+   ],
+   "intensidad": 5,
+   "gancho": "Prefiere que lo llamen cobarde a enterrar a su gente.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — La ciudad en el mar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Diecisiete asedios ganados y una ciudad que se apaga. La novela muestra una derrota que no aparece en los partes: se puede ganar cada batalla y perder, poco a poco, aquello que la batalla debía proteger.",
+   "es_literal": false,
+   "ancla": "Le estamos ganando la guerra y perdiendo el pueblo. Vencemos cada batalla y perdemos, poco a poco, todo lo que la batalla debía proteger. ¿De qué sirve una muralla invicta si dentro solo quedan viudas?",
+   "temas": [
+    "guerra",
+    "desgaste",
+    "liderazgo"
+   ],
+   "intensidad": 5,
+   "gancho": "Ganar todas las batallas y perder de todos modos.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — La ciudad en el mar"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Gente de río que nunca ha salido de sus orillas corona una loma pelada y ve por primera vez algo sin otra orilla. Unos caen de rodillas; los niños bajan corriendo a mojarse los pies.",
+   "es_literal": false,
+   "ancla": "Ante ellos, abajo, hasta el confín mismo del mundo, se extendía el océano.",
+   "temas": [
+    "exodo",
+    "asombro",
+    "principio"
+   ],
+   "intensidad": 4,
+   "gancho": "Gente de río viendo el mar por primera vez.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — La ciudad en el mar"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela no resuelve quién es su protagonista. Deja la duda abierta dentro del propio personaje, que carga con algo sin nombre al que hospeda sin llegar a conocerlo.",
+   "es_literal": false,
+   "ancla": "Nadie lo sabía. Ni siquiera, en el fondo más hondo de sí mismo, lo sabía él, que llevaba dentro aquel algo sin nombre como se lleva un huésped al que se hospeda largamente pero jamás se llega a conocer",
+   "temas": [
+    "identidad",
+    "ficcion documental",
+    "misterio"
+   ],
+   "intensidad": 3,
+   "gancho": "Ni el personaje sabe responder quién es. El libro tampoco.",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — La ciudad en el mar"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un brahmán viejo llega descalzo y llagado tras once días de camino y se postra en el mármol. El señor de la ciudad baja del asiento, lo levanta y le lava los pies él mismo antes de preguntarle nada.",
+   "es_literal": false,
+   "ancla": "Mandó traer agua y le lavó los pies llagados sin dejar que ningún sirviente lo hiciera. Lo sentó a su lado, en su propio asiento, y le dio de beber, y le preguntó por su viaje, por su sed, por sus rodillas cansadas, antes de preguntarle nada más.",
+   "temas": [
+    "hospitalidad",
+    "humildad",
+    "mensajero"
+   ],
+   "intensidad": 4,
+   "gancho": "Primero le lavó los pies. La carta podía esperar.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — El rapto de Rukmini"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Una nodriza avisa a la muchacha que pregunta demasiado por ese hombre: quien lo mira una vez ya no mira igual lo demás, y eso no siempre es una suerte.",
+   "es_literal": false,
+   "ancla": "Creo que quien lo mira una vez ya no puede mirar del mismo modo lo demás. Y eso, mi oro, no siempre es una bendición.",
+   "temas": [
+    "deseo",
+    "aviso",
+    "amor"
+   ],
+   "intensidad": 4,
+   "gancho": "Ver algo así estropea para siempre el resto del paisaje.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — El rapto de Rukmini"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un rey no puede permitirse tocar la flauta, Rukmini. La flauta llama, y quien la oye lo deja todo y viene, deja la casa, deja el miedo, deja el nombre.",
+   "es_literal": true,
+   "ancla": "Un rey no puede permitirse tocar la flauta, Rukmini. La flauta llama, y quien la oye lo deja todo y viene, deja la casa, deja el miedo, deja el nombre.",
+   "temas": [
+    "poder",
+    "musica",
+    "renuncia"
+   ],
+   "intensidad": 5,
+   "gancho": "Por qué el que gobierna deja de tocar.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — El rapto de Rukmini"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El hermano que quiso venderla está en el polvo, trasquilado, con la hoja en la garganta. Ella baja del carro y se arroja a los pies del que iba a matarlo.",
+   "es_literal": false,
+   "ancla": "No lo mates. No lo dejes muerto en el suelo el día en que tú y yo empezamos. Te lo ruego. No manches con su sangre nuestra primera mañana.",
+   "temas": [
+    "perdon",
+    "hermanos",
+    "principio"
+   ],
+   "intensidad": 5,
+   "gancho": "Pide por el hermano que la vendió. No por él: por el día.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 10 — El rapto de Rukmini"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un amigo pide por fin la verdad entera. La respuesta es que decirla ahora cambiaría el modo de mirarse: donde había palmadas empezaría a haber distancia. Hay verdades que cobran su precio en cercanía.",
+   "es_literal": false,
+   "ancla": "si te la dijera entera, ahora, en este momento, no la creerías. Y si por algún prodigio la creyeras, ya no podrías volver a mirarme como me miras ahora, como se mira a un amigo, a un igual, a uno con quien te ríes en el agua.",
+   "temas": [
+    "amistad",
+    "verdad",
+    "identidad"
+   ],
+   "intensidad": 5,
+   "gancho": "Algunas verdades se pagan perdiendo la cercanía.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 11 — Los primos del bosque"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La casa no se pierde por el vicio del tramposo, sino por la virtud del justo: un código que prohíbe rechazar un desafío lo sienta a una mesa con los dados cargados.",
+   "es_literal": false,
+   "ancla": "Y fue. Y se sentó. Y su virtud, aquel día, hizo más daño que todos los vicios de Duryodhana juntos.",
+   "temas": [
+    "honor",
+    "virtud",
+    "ruina"
+   ],
+   "intensidad": 5,
+   "gancho": "Aquel día su virtud hizo más daño que ningún vicio.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Los primos del bosque"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Arrastrada ante la corte, no grita: pregunta. Si su marido ya se había perdido a sí mismo, ¿con qué la apostó? Y si aún se poseía, ¿con qué derecho juega un hombre a su mujer?",
+   "es_literal": false,
+   "ancla": "¿se perdió a sí mismo antes o después de apostarme a mí? Porque si se perdió primero, entonces cuando me jugó ya no se poseía ni a sí mismo, y un hombre que no se posee no puede apostar nada",
+   "temas": [
+    "dignidad",
+    "ley",
+    "mujeres"
+   ],
+   "intensidad": 5,
+   "gancho": "Una sola pregunta deja mudos a todos los sabios de la corte.",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — Los primos del bosque"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Cinco maridos famosos por su fuerza miran el suelo. Los ancianos callan. Ella suelta el cabello del que la han arrastrado, alza las manos y llama a gritos al único que no está allí.",
+   "es_literal": false,
+   "ancla": "Draupadi, sola entre lobos, abandonada por los cinco héroes que eran sus maridos, burlada por sus enemigos, sin una sola mano de hombre en toda la tierra que se alzara a defenderla",
+   "temas": [
+    "soledad",
+    "dignidad",
+    "auxilio"
+   ],
+   "intensidad": 5,
+   "gancho": "Nadie se levantó. Ninguno de los que debían.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Los primos del bosque"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando todo lo demás falla, cuando los maridos callan y los sabios enmudecen y los dioses parecen dormir, yo soy el que acude.",
+   "es_literal": true,
+   "ancla": "Cuando todo lo demás falla, cuando los maridos callan y los sabios enmudecen y los dioses parecen dormir, yo soy el que acude.",
+   "temas": [
+    "auxilio",
+    "amistad",
+    "promesa"
+   ],
+   "intensidad": 5,
+   "gancho": "La única respuesta que da cuando le preguntan qué es.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — Los primos del bosque"
+  },
+  {
+   "tipo": "cita",
+   "texto": "el que quiere la guerra sin haber suplicado antes la paz es un asesino, aunque tenga razón",
+   "es_literal": true,
+   "ancla": "Iré a pedir la paz porque hay que pedirla, y porque el que quiere la guerra sin haber suplicado antes la paz es un asesino, aunque tenga razón.",
+   "temas": [
+    "paz",
+    "guerra",
+    "razon"
+   ],
+   "intensidad": 5,
+   "gancho": "Tener razón no basta para ir a la guerra.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — El mensajero de la paz"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Va a una corte donde sabe que no lo escucharán. La novela define ahí la esperanza: no una semilla que se planta esperando cosecha, sino una tarea que se hace porque hay que hacerla.",
+   "es_literal": false,
+   "ancla": "no es una semilla que se planta esperando la cosecha. Es una tarea que se hace porque hay que hacerla.",
+   "temas": [
+    "esperanza",
+    "deber",
+    "paz"
+   ],
+   "intensidad": 4,
+   "gancho": "La esperanza como tarea, no como pronóstico.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 12 — El mensajero de la paz"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No va a reclamar lo que se les debe: va a pedir lo que evita el incendio. Justicia y paz no son la misma cosa, aunque a veces caminen del brazo.",
+   "es_literal": false,
+   "ancla": "Pero yo no voy a pedir justicia. Voy a pedir paz. No son la misma cosa, Bhima, aunque a veces caminen del brazo.",
+   "temas": [
+    "paz",
+    "justicia",
+    "guerra"
+   ],
+   "intensidad": 4,
+   "gancho": "Pedir justicia y pedir paz no son lo mismo.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — El mensajero de la paz"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Le ofrecen elegir: un ejército invencible o un hombre solo que promete no empuñar ningún arma. Arjuna se arrodilla y pide al hombre desarmado.",
+   "es_literal": false,
+   "ancla": "No quiero tus ejércitos. Te quiero a ti, desarmado, a mi lado. Prefiero perder contigo que vencer sin ti.",
+   "temas": [
+    "amistad",
+    "eleccion",
+    "guerra"
+   ],
+   "intensidad": 5,
+   "gancho": "Podía elegir el ejército. Eligió al que no iba a luchar.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 12 — El mensajero de la paz"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Dos hermanos van a matarse sin saber que lo son, y los pocos que lo saben callan. La novela deja ahí una idea incómoda: hay verdades que, dichas antes de tiempo, no salvan a nadie, solo adelantan el dolor.",
+   "es_literal": false,
+   "ancla": "Krishna lo sabía todo, y guardaba también él aquel secreto, porque hay verdades que, dichas antes de tiempo, no salvan: solo adelantan el dolor.",
+   "temas": [
+    "secreto",
+    "verdad",
+    "familia"
+   ],
+   "intensidad": 5,
+   "gancho": "Hay verdades que dichas antes de tiempo no salvan.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — El campo de Kurukshetra"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La víspera, el campamento huele a polvo, a estiércol, a aceite de armadura y a sándalo de los que se ungen por si es su último amanecer. Debajo de todo hay otro olor que nadie nombra.",
+   "es_literal": false,
+   "ancla": "Y bajo todos esos olores, agazapado, uno que nadie nombraba pero todos reconocían: el olor agrio del miedo, que sube de la piel de los hombres cuando saben que van a morir y no saben cuándo.",
+   "temas": [
+    "miedo",
+    "guerra",
+    "vispera"
+   ],
+   "intensidad": 5,
+   "gancho": "A qué huele un campamento la noche antes.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 13 — El campo de Kurukshetra"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Si esto es el deber, no quiero el deber. Si esto es la victoria, no la quiero.",
+   "es_literal": true,
+   "ancla": "Mejor mendigar el pan por los caminos que comer un banquete amasado con la sangre de mi propia gente. Si esto es el deber, no quiero el deber. Si esto es la victoria, no la quiero.",
+   "temas": [
+    "deber",
+    "duda",
+    "guerra"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo dice el mejor arquero del mundo, sentado en su carro.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13 — El campo de Kurukshetra"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El auriga no conduce hacia el enemigo ni hacia los suyos. Lleva el carro al hueco del medio, al único sitio desde donde su amigo podrá ver de cerca lo que está a punto de hacer.",
+   "es_literal": false,
+   "ancla": "sino hacia el vacío del medio, hacia la tierra de nadie, para que un hombre pudiera mirar bien a quienes iba a matar antes de matarlos",
+   "temas": [
+    "acompañar",
+    "mirada",
+    "decision"
+   ],
+   "intensidad": 5,
+   "gancho": "A veces acompañar es llevar a alguien donde pueda mirar.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "cita"
+   ],
+   "capitulo": "Capítulo 13 — El campo de Kurukshetra"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tienes derecho a la acción; nunca a sus frutos. Que el fruto de tus actos no sea nunca tu móvil. Actúa; pero no reclames el fruto de tus actos.",
+   "es_literal": true,
+   "ancla": "Tienes derecho a la acción; nunca a sus frutos. Que el fruto de tus actos no sea nunca tu móvil. Actúa; pero no reclames el fruto de tus actos.",
+   "temas": [
+    "accion",
+    "desapego",
+    "deber"
+   ],
+   "intensidad": 5,
+   "gancho": "La frase que el auriga repite despacio, en mitad del campo.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — El canto del Señor"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Como un hombre se despoja de las ropas gastadas y viste otras nuevas, así el que habita dentro deja los cuerpos consumidos y toma otros.",
+   "es_literal": true,
+   "ancla": "Como un hombre se despoja de las ropas gastadas y viste otras nuevas, así el que habita dentro deja los cuerpos consumidos y toma otros.",
+   "temas": [
+    "muerte",
+    "cuerpo",
+    "consuelo"
+   ],
+   "intensidad": 4,
+   "gancho": "La imagen con la que le explica la muerte a un hombre aterrado.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — El canto del Señor"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El guerrero cree que su negativa nace de la compasión. Le responden que no: que es el miedo, disfrazado de bondad para poder pasar sin ser reconocido.",
+   "es_literal": false,
+   "ancla": "Huir de este campo con el disfraz de la piedad no es virtud, Arjuna. Es tu miedo, que se ha puesto la máscara de la bondad para engañarte.",
+   "temas": [
+    "miedo",
+    "autoengaño",
+    "deber"
+   ],
+   "intensidad": 5,
+   "gancho": "El miedo aprende a disfrazarse de bondad para que lo dejes pasar.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — El canto del Señor"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Dos amigos de toda la vida, un carro detenido entre dos ejércitos, y por fin la pregunta que uno llevaba dentro desde niño: ¿quién eres tú de verdad?",
+   "es_literal": false,
+   "ancla": "¿quién eres tú de verdad, Krishna? Porque tus palabras no son palabras de hombre, y sin embargo tienes las manos de un hombre, y las tuve entre las mías esta mañana.",
+   "temas": [
+    "amistad",
+    "identidad",
+    "asombro"
+   ],
+   "intensidad": 5,
+   "gancho": "Tenía sus manos entre las suyas esa misma mañana.",
+   "formatos": [
+    "hilo",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — El canto del Señor"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Ha pedido ver y le han dado a ver. Ahora, temblando, con las manos juntas, solo sabe suplicar que vuelva a ser el de antes: el que llevaba las riendas de su carro.",
+   "es_literal": false,
+   "ancla": "Vuelve, te lo ruego. Vuelve a tu forma amable. Vuelve a ser el que llevaba las riendas de mi carro, el de la corona y la maza, el de piel oscura, el de la sonrisa.",
+   "temas": [
+    "asombro",
+    "amistad",
+    "limite"
+   ],
+   "intensidad": 5,
+   "gancho": "Pidió verlo entero. Después suplicó que volviera a ser su amigo.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 14 — El canto del Señor"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El dharma no es un camino limpio, Arjuna. Es el camino que hay que andar cuando todos los caminos están sucios de sangre y hay que escoger el que derrame menos.",
+   "es_literal": true,
+   "ancla": "El dharma no es un camino limpio, Arjuna. Es el camino que hay que andar cuando todos los caminos están sucios de sangre y hay que escoger el que derrame menos.",
+   "temas": [
+    "deber",
+    "guerra",
+    "decision"
+   ],
+   "intensidad": 5,
+   "gancho": "Ninguna de las salidas estaba limpia. Había que elegir igual.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — Dieciocho días"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El patriarca cae y no llega al suelo: las flechas son tantas que lo sostienen en el aire, a un codo de la tierra. Los dos ejércitos se detienen a mirarlo.",
+   "es_literal": false,
+   "ancla": "Las flechas eran tantas y tan tupidas que lo sostuvieron, clavadas de parte a parte, y el anciano quedó suspendido en el aire sobre un lecho de astas, a un codo del suelo, sin tocarlo.",
+   "temas": [
+    "guerra",
+    "vejez",
+    "despedida"
+   ],
+   "intensidad": 5,
+   "gancho": "Cayó, y las flechas no lo dejaron llegar al suelo.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15 — Dieciocho días"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Calla durante dieciocho días un secreto que habría cambiado todo. Cuando por fin lo dice, añade algo incómodo: el que sabe no sufre menos, sufre más, solo que no puede detenerse.",
+   "es_literal": false,
+   "ancla": "Cargué con ese silencio dieciocho días. No creas que el que sabe sufre menos. Sufre más. Sólo que no puede detenerse.",
+   "temas": [
+    "secreto",
+    "responsabilidad",
+    "dolor"
+   ],
+   "intensidad": 5,
+   "gancho": "El que sabe no sufre menos. Solo no puede pararse.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Dieciocho días"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No hay fiesta al final de los dieciocho días. Se corona a un rey sobre un reino de viudas, y la victoria es tan grande que ya no se distingue de una derrota.",
+   "es_literal": false,
+   "ancla": "Casi toda una generación de jóvenes yacía en Kurukshetra. Habían muerto los mejores de ambos bandos, y los peores, y los que no eran ni una cosa ni otra. La victoria era tan grande que no se distinguía de una derrota.",
+   "temas": [
+    "guerra",
+    "victoria",
+    "duelo"
+   ],
+   "intensidad": 5,
+   "gancho": "Ganaron. No hubo fiesta.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Dieciocho días"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Una madre con los ojos vendados y cien hijos enterrados hace la pregunta que la novela no esquiva: si de verdad podías impedirlo, ¿por qué lo dejaste correr?",
+   "es_literal": false,
+   "ancla": "Tú podías haberlo impedido. Todo esto. Tú, que lo puedes todo.",
+   "temas": [
+    "duelo",
+    "responsabilidad",
+    "madres"
+   ],
+   "intensidad": 5,
+   "gancho": "La acusación que nadie más se atrevió a hacerle.",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15 — Dieciocho días"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El clan no se pierde por una derrota ni por un enemigo. Se pierde por exceso de fortuna: nadie los prueba, se creen invencibles porque descienden de invencibles, y esa creencia sin prueba es la más peligrosa.",
+   "es_literal": false,
+   "ancla": "Se echaron a perder como se echa a perder todo lo que triunfa demasiado y no vuelve a ser probado: por exceso de fortuna.",
+   "temas": [
+    "exito",
+    "decadencia",
+    "herencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que arruina a un pueblo no siempre viene de fuera.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 16 — El crepúsculo de Dwarka"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Se tiende bajo un árbol, cruza una pierna y deja el pie al aire, con la planta descubierta. Es el único punto por donde puede entrarle la muerte, y no lo esconde.",
+   "es_literal": false,
+   "ancla": "Y no escondió el pie. Al contrario: lo dejó al aire, ofrecido, como quien deja abierta la única puerta de su casa para que entre por fin el huésped esperado.",
+   "temas": [
+    "muerte",
+    "aceptacion",
+    "final"
+   ],
+   "intensidad": 5,
+   "gancho": "Dejó abierta la única puerta por la que podían entrar.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — El crepúsculo de Dwarka"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Nadie que preguntó lo entendió del todo, y todos los que amaron lo supieron sin preguntar.",
+   "es_literal": true,
+   "ancla": "No preguntes más quién soy. Nadie que preguntó lo entendió del todo, y todos los que amaron lo supieron sin preguntar. Amar es la única respuesta.",
+   "temas": [
+    "identidad",
+    "amor",
+    "final"
+   ],
+   "intensidad": 5,
+   "gancho": "Su última respuesta a la pregunta que lo persiguió toda la vida.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — El crepúsculo de Dwarka"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No hay trono, ni ciudad, ni gente alrededor. Muere como un hombre cualquiera: solo, en un bosque, por la flecha torpe de un cazador pobre que no sabía a quién disparaba.",
+   "es_literal": false,
+   "ancla": "Murió como un hombre. Solo, en un bosque, herido en el talón por la flecha de un pobre, sin nadie que le sostuviera la cabeza, exactamente como había dicho Gandhari",
+   "temas": [
+    "muerte",
+    "humildad",
+    "final"
+   ],
+   "intensidad": 5,
+   "gancho": "El final no ocurre en un palacio. Ocurre en un bosque.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — El crepúsculo de Dwarka"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El epílogo pone las dos lecturas una junto a otra, la del devoto y la del escéptico, y no arbitra entre ellas. El lector se queda con las dos en la mano.",
+   "es_literal": false,
+   "ancla": "Los devotos dirán que era Dios, que descendió a la tierra tomando forma humana, y que todo cuanto sufrió lo sufrió por juego, o por amor, o por enseñarnos, pero sin dejar jamás de ser lo que era.",
+   "temas": [
+    "ficcion documental",
+    "lectura",
+    "fuentes"
+   ],
+   "intensidad": 3,
+   "gancho": "Dos lecturas posibles, y el libro no elige por ti.",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Epílogo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela abre su epílogo admitiendo lo que no puede probar: que esto ocurrió hace muchísimo tiempo, o no ocurrió nunca, o lo más probable, ocurre siempre dentro de cada uno.",
+   "es_literal": false,
+   "ancla": "Todo esto ocurrió hace muchísimo tiempo, o no ocurrió nunca, o —lo más probable— ocurre siempre, una y otra vez, dentro de cada uno de nosotros.",
+   "temas": [
+    "ficcion documental",
+    "tiempo",
+    "lectura"
+   ],
+   "intensidad": 3,
+   "gancho": "Empieza el epílogo admitiendo lo que no sabe.",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Epílogo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El cierre coloca a este mensajero entre otros: hombres con otros nombres y otros rostros que en otras tierras dijeron, a su manera, algo parecido. Ni el primero ni el último.",
+   "es_literal": false,
+   "ancla": "Pero eran, en el fondo, el mismo mensajero volviendo una y otra vez a la puerta del mundo, llamando con los nudillos, recordándonos lo que no debíamos haber olvidado. El de piel oscura fue uno de ellos. No el primero. No el último.",
+   "temas": [
+    "mensajeros",
+    "serie",
+    "tradiciones"
+   ],
+   "intensidad": 4,
+   "gancho": "Uno de ellos. No el primero. No el último.",
+   "formatos": [
+    "hilo",
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Epílogo"
+  }
+ ]
+}

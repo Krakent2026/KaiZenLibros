@@ -1,0 +1,193 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "disciplina-amable",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "No te vuelves constante a base de castigarte cuando caes, sino de tratarte lo bastante bien como para volver a levantarte una vez más.",
+   "es_literal": true,
+   "ancla": "No te vuelves constante a base de castigarte cuando caes, sino de tratarte lo bastante bien como para volver a levantarte una vez más.",
+   "temas": ["constancia", "autocastigo", "amabilidad"],
+   "intensidad": 5,
+   "gancho": "La tesis del libro entero, en una frase",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "INTRODUCCIÓN — El látigo que creías que te hacía avanzar"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es que abandones a pesar de tu dureza. El libro sostiene lo contrario: abandonas por ella. El látigo agota, y el agotamiento es lo que te hace parar.",
+   "es_literal": false,
+   "ancla": "el látigo es lo que te agota, y el agotamiento es lo que te hace abandonar. No abandonas *a pesar* de tu dureza. Abandonas *por* ella.",
+   "temas": ["autoexigencia", "abandono"],
+   "intensidad": 4,
+   "gancho": "No abandonas a pesar de tu dureza",
+   "formatos": ["cita", "reel", "carrusel"],
+   "capitulo": "INTRODUCCIÓN — El látigo que creías que te hacía avanzar"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Llevas años de planes durísimos, propósitos feroces y reproches internos cada vez que fallas. Si la dureza contigo funcionara, con toda la que te has aplicado ya, ¿dónde estarías?",
+   "es_literal": false,
+   "ancla": "Llevas años apretando. Años de planes durísimos, de propósitos de Año Nuevo feroces, de reproches internos cada vez que fallas, de sargento gritándote dentro.",
+   "temas": ["autoexigencia", "constancia"],
+   "intensidad": 4,
+   "gancho": "Llevas años apretando. ¿Qué tal ha ido?",
+   "formatos": ["cita", "hilo", "reel"],
+   "capitulo": "INTRODUCCIÓN — El látigo que creías que te hacía avanzar"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no ofrece dejar de caer ni volverse perfecto. Propone otra vara para mirarse: si te machacas un poco menos al fallar, si vuelves un poco antes, si descansas con algo menos de culpa.",
+   "es_literal": false,
+   "ancla": "No evalúes si esto funciona por si te has vuelto perfecto o por si ya no caes nunca; con esa vara, todo te parecerá poco y volverás al látigo.",
+   "temas": ["expectativas", "progreso"],
+   "intensidad": 3,
+   "gancho": "Lo que el libro no promete: dejar de caer",
+   "formatos": ["cita", "carrusel", "articulo"],
+   "capitulo": "INTRODUCCIÓN — El látigo que creías que te hacía avanzar"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Domingo por la noche. Sobre la mesa de la cocina, el cuaderno donde el lunes se escribió el plan perfecto, ahora tachado. Y una voz que ya está diseñando el de mañana, esta vez aún más estricto.",
+   "es_literal": false,
+   "ancla": "Es domingo por la noche. Marta tiene delante, sobre la mesa de la cocina, el cuaderno donde el lunes pasado, llena de fe, escribió su plan perfecto.",
+   "temas": ["planes", "todo o nada"],
+   "intensidad": 3,
+   "gancho": "El cuaderno tachado del domingo por la noche",
+   "formatos": ["reel", "carrusel", "audio"],
+   "capitulo": "INTRODUCCIÓN — El látigo que creías que te hacía avanzar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Antes de cambiar el trato que te das, conviene entender por qué te tratas así. Un hábito que se comprende se cambia mejor que uno que solo se combate a ciegas.",
+   "es_literal": false,
+   "ancla": "un hábito que se comprende se cambia mucho mejor que uno que solo se combate a ciegas",
+   "temas": ["hábitos", "autoconocimiento"],
+   "intensidad": 3,
+   "gancho": "Comprender el hábito antes de pelearte con él",
+   "formatos": ["cita", "carrusel", "articulo"],
+   "capitulo": "PARTE I — POR QUÉ EL LÁTIGO NO FUNCIONA"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El capataz no te empuja a avanzar. Te agota tanto que, al final, acabas parando. Y luego te culpa por haber parado, cerrando el círculo.",
+   "es_literal": true,
+   "ancla": "El capataz no te empuja a avanzar. Te agota tanto que, al final, acabas parando. Y luego te culpa por haber parado, cerrando el círculo.",
+   "temas": ["crítico interior", "agotamiento"],
+   "intensidad": 4,
+   "gancho": "El círculo perfecto del crítico interior",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 1 — El látigo interior"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La mayor astucia del crítico interior es hablar en primera persona. No dice «el capataz opina que eres un desastre»: dice «soy un desastre», para que no distingas dónde acabas tú y dónde empieza él.",
+   "es_literal": false,
+   "ancla": "Y, sobre todo, se hace pasar por ti. Esta es su mayor astucia. No dice \"el capataz opina que eres un desastre\"; dice, en primera persona, \"soy un desastre\"",
+   "temas": ["crítico interior", "identidad"],
+   "intensidad": 4,
+   "gancho": "Habla en tu voz para que no lo cuestiones",
+   "formatos": ["cita", "carrusel", "hilo"],
+   "capitulo": "Capítulo 1 — El látigo interior"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Ir conduciendo con alguien en el asiento de al lado que, a cada curva, te dice que conduces fatal y que vas a chocar. Al final el problema no es la conducción: es que con ese copiloto tiembla el pie.",
+   "es_literal": false,
+   "ancla": "Es como ir conduciendo con alguien en el asiento de al lado que, a cada semáforo, a cada curva, me dice que conduzco fatal, que voy a chocar, que soy un peligro.",
+   "temas": ["crítico interior", "tensión"],
+   "intensidad": 4,
+   "gancho": "El copiloto que te dice que conduces fatal",
+   "formatos": ["reel", "carrusel", "audio"],
+   "capitulo": "Capítulo 1 — El látigo interior"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Durante un día: 1) escucha a la voz crítica sin obedecerla; 2) cuando aparezca, ponle nombre por dentro, con calma y casi con humor: «ahí está el capataz otra vez»; 3) no discutas con ella, que pelearse es darle importancia; 4) sigue con lo tuyo.",
+   "es_literal": false,
+   "ancla": "Cada vez que aparezca su voz —\"eres un desastre\", \"no puedes con esto\", \"otra vez igual\", \"los demás pueden y tú no\"—, ponle nombre por dentro, con calma, casi con humor: \"Ahí está el capataz otra vez.\"",
+   "temas": ["crítico interior", "práctica"],
+   "intensidad": 3,
+   "gancho": "Nombrarla abre un milímetro de distancia",
+   "formatos": ["carrusel", "reel", "hilo"],
+   "capitulo": "Capítulo 1 — El látigo interior"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Te exiges así porque, un día lejano, exigirte fue la manera que encontraste de sentirte a salvo. El traje que te salvó entonces es el que hoy te aprieta el pecho y no te deja respirar.",
+   "es_literal": true,
+   "ancla": "Te exiges así porque, un día lejano, exigirte fue la manera que encontraste de sentirte a salvo. El traje que te salvó entonces es el que hoy te aprieta el pecho y no te deja respirar.",
+   "temas": ["autoexigencia", "origen"],
+   "intensidad": 5,
+   "gancho": "El traje que te salvó es el que hoy te aprieta",
+   "formatos": ["cita", "pin", "carrusel"],
+   "capitulo": "Capítulo 2 — De dónde viene tu autoexigencia"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una niña de nueve años llega corriendo a casa con nueve sobresalientes y un notable. La primera reacción que oye, por encima de las gafas, es: «¿Y este notable? ¿Qué ha pasado aquí?». Sin gritos y sin castigo, ahí nació su capataz.",
+   "es_literal": false,
+   "ancla": "Llevaba a casa un boletín de notas con nueve sobresalientes y un notable. Nueve sobresalientes, casi un pleno. Recuerda la ilusión con que lo enseñó, corriendo, y recuerda la primera reacción de su padre, mirando el papel por encima de las gafas: \"¿Y este notable? ¿Qué ha pasado aquí?\".",
+   "temas": ["autoexigencia", "infancia"],
+   "intensidad": 4,
+   "gancho": "Nueve sobresalientes y un notable",
+   "formatos": ["reel", "carrusel", "audio"],
+   "capitulo": "Capítulo 2 — De dónde viene tu autoexigencia"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es tu culpa: nadie elige su capataz, y machacarte por tenerlo sería usar el látigo contra el látigo. Sí es tu responsabilidad: hoy eres el único que tiene acceso a esa voz. Las dos verdades a la vez, sin soltar ninguna.",
+   "es_literal": false,
+   "ancla": "La primera: **no es tu culpa.** No elegiste que te instalaran el capataz. Eras un niño, o una niña, haciendo lo mejor que podía con lo que había",
+   "temas": ["responsabilidad", "culpa"],
+   "intensidad": 4,
+   "gancho": "No es tu culpa. Sí es tu responsabilidad.",
+   "formatos": ["cita", "carrusel", "hilo"],
+   "capitulo": "Capítulo 2 — De dónde viene tu autoexigencia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Elige una exigencia concreta que te machaque a menudo. 2) Pregúntate, con curiosidad y no con angustia: ¿de quién es en el fondo esta voz? 3) ¿A quién se la escuchaste por primera vez? 4) ¿Qué edad tenías tú entonces?",
+   "es_literal": false,
+   "ancla": "Y hazte una pregunta con curiosidad, no con angustia, casi como un detective amable de tu propia historia: *¿De quién es, en el fondo, esta voz? ¿A quién se la escuché por primera vez? ¿Qué edad tenía yo?*",
+   "temas": ["autoexigencia", "práctica"],
+   "intensidad": 3,
+   "gancho": "¿De quién es, en el fondo, esa voz?",
+   "formatos": ["carrusel", "hilo", "reel"],
+   "capitulo": "Capítulo 2 — De dónde viene tu autoexigencia"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El látigo no te está salvando del abandono. El látigo es tu abandono, solo que disfrazado de esfuerzo para que no lo reconozcas.",
+   "es_literal": true,
+   "ancla": "El látigo no te está salvando del abandono. El látigo *es* tu abandono, solo que disfrazado de esfuerzo para que no lo reconozcas.",
+   "temas": ["autocastigo", "abandono"],
+   "intensidad": 5,
+   "gancho": "El látigo disfrazado de esfuerzo",
+   "formatos": ["cita", "pin", "reel"],
+   "capitulo": "Capítulo 3 — El mito de \"si no me exijo, me abandono\""
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La autoindulgencia dice «déjalo, ya lo harás mañana» y te libra del esfuerzo. La autocompasión dice «esto duele, y precisamente por eso voy a tratarte bien, para que puedas seguir» y te sostiene dentro del esfuerzo.",
+   "es_literal": false,
+   "ancla": "La **autoindulgencia** dice: \"No pasa nada, no lo hagas, quédate en el sofá, ponte otra serie, ya lo harás mañana, total qué más da.\"",
+   "temas": ["autocompasión", "esfuerzo"],
+   "intensidad": 4,
+   "gancho": "No es lo mismo soltarse que sostenerse",
+   "formatos": ["cita", "carrusel", "hilo"],
+   "capitulo": "Capítulo 3 — El mito de \"si no me exijo, me abandono\""
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un deportista tiene una mala competición. El entrenador indulgente lo manda a casa y lo pierde. El cruel lo humilla y acaba quemándolo. El compasivo le dice que descanse y que mañana lo trabajan sin dramas. Solo uno de los tres sigue teniendo atleta dentro de diez años.",
+   "es_literal": false,
+   "ancla": "Imagina a tres entrenadores distintos con un mismo deportista que ha tenido un mal día, una mala competición.",
+   "temas": ["autocompasión", "exigencia"],
+   "intensidad": 4,
+   "gancho": "Tres entrenadores, un mal día, tres finales",
+   "formatos": ["carrusel", "reel", "hilo"],
+   "capitulo": "Capítulo 3 — El mito de \"si no me exijo, me abandono\""
+  }
+ ]
+}

@@ -1,0 +1,1253 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "presencia",
+ "atomos": [
+  {
+   "tipo": "dato_honesto",
+   "texto": "Aquí no hay iluminación. Hay algo más modesto: empezar a habitar los ratos que ya estás viviendo de todos modos.",
+   "es_literal": false,
+   "ancla": "No promete iluminación. Promete algo más modesto y, si me apuras, más valioso: que empieces a habitar los ratos que ya estás viviendo de todos modos.",
+   "temas": [
+    "presencia",
+    "expectativas"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo que este libro se niega a prometer",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Introducción — El único lugar donde ocurre tu vida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La presencia no es no distraerse nunca. La presencia es darte cuenta de que te has ido y volver, con suavidad, sin bronca.",
+   "es_literal": true,
+   "ancla": "La presencia no es no distraerse nunca. La presencia es darte cuenta de que te has ido y volver, con suavidad, sin bronca. Volver. Esa es toda la práctica.",
+   "temas": [
+    "presencia",
+    "distracción",
+    "amabilidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Distraerte no es el fallo; el regreso es la práctica",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — El único lugar donde ocurre tu vida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Esa es la paradoja: no nos falta vida. Nos falta estar en ella.",
+   "es_literal": true,
+   "ancla": "Esa es la paradoja: no nos falta vida. Nos falta estar en ella.",
+   "temas": [
+    "presencia",
+    "tiempo"
+   ],
+   "intensidad": 4,
+   "gancho": "No nos falta vida",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Introducción — El único lugar donde ocurre tu vida"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Meses esperando unas vacaciones. Por fin la playa, el mar delante, nada urgente que hacer. Y la cabeza repasando si cerraste bien la casa, o adelantando el domingo en que habrá que volver.",
+   "es_literal": false,
+   "ancla": "Has viajado cientos de kilómetros para llegar a un sitio y, una vez allí, no estás. Tu cuerpo llegó; tú no.",
+   "temas": [
+    "ausencia",
+    "vacaciones"
+   ],
+   "intensidad": 4,
+   "gancho": "Tu cuerpo llegó a la playa; tú no",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — El único lugar donde ocurre tu vida"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un domingo por la noche intenta recordar su semana. Pasaron cosas, muchas. Pero al buscar un momento concreto que revivir, solo encuentra una pared lisa.",
+   "es_literal": false,
+   "ancla": "Una semana entera de su única vida, y era como pasar la mano por una pared lisa. Había ocurrido. Pero no la recordaba porque, en el fondo, no había estado.",
+   "temas": [
+    "memoria",
+    "ausencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Una semana entera y ni un momento que revivir",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — El único lugar donde ocurre tu vida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque la memoria no guarda lo que pasa delante de tus ojos; guarda lo que atraviesa tu atención.",
+   "es_literal": true,
+   "ancla": "Porque la memoria no guarda lo que pasa delante de tus ojos; guarda lo que atraviesa tu atención.",
+   "temas": [
+    "memoria",
+    "atención"
+   ],
+   "intensidad": 4,
+   "gancho": "Qué guarda de verdad la memoria",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El único lugar donde ocurre tu vida"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Llenar las horas no es lo mismo que habitarlas: se puede tener una vida rebosante de actividad y vacía de presencia.",
+   "es_literal": false,
+   "ancla": "Pero llenar las horas no es lo mismo que habitarlas. Se puede tener una vida rebosante de actividad y vacía de presencia, como una casa llena de muebles en la que no vive nadie.",
+   "temas": [
+    "prisa",
+    "ausencia",
+    "presencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Una casa llena de muebles en la que no vive nadie",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El único lugar donde ocurre tu vida"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Hoy, una sola vez: 1) párate en mitad de lo que estés haciendo; 2) pregúntate, sin reñirte, «¿dónde está mi mente ahora mismo?»; 3) mira dónde estaba. En cuanto lo veas, ya habrás vuelto.",
+   "es_literal": false,
+   "ancla": "hoy, una sola vez, párate en mitad de lo que estés haciendo y pregúntate, sin reñirte: «¿dónde está mi mente ahora mismo?». Solo mira dónde estaba. Y, en cuanto lo veas, ya habrás vuelto.",
+   "temas": [
+    "práctica",
+    "atención"
+   ],
+   "intensidad": 3,
+   "gancho": "El chequeo de un segundo",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El único lugar donde ocurre tu vida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La mente se va. Es lo que hace. Pelearte con eso es como enfadarte con el mar por tener olas.",
+   "es_literal": true,
+   "ancla": "Le pasa a todo el mundo. Le pasaba a los monjes que llevan cincuenta años meditando; ellos mismos lo cuentan, con humor, como quien habla de un viejo conocido. La mente se va. Es lo que hace. Pelearte con eso es como enfadarte con el mar por tener olas.",
+   "temas": [
+    "mente errante",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "Enfadarse con el mar por tener olas",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — La mente errante"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No sufres por lo que te pasa la mitad de las veces; sufres por lo que tu mente te cuenta que va a pasar.",
+   "es_literal": true,
+   "ancla": "No sufres por lo que te pasa la mitad de las veces; sufres por lo que tu mente te cuenta que va a pasar.",
+   "temas": [
+    "mente errante",
+    "futuro"
+   ],
+   "intensidad": 4,
+   "gancho": "La mitad del malestar es importado",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — La mente errante"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es lo mismo tener un pensamiento que estar dentro de un pensamiento. En el primero hay medio paso atrás desde el que lo ves llegar; en el segundo, te arrastra a donde quiere.",
+   "es_literal": false,
+   "ancla": "Hay una diferencia enorme, aunque parezca sutil, entre *tener* un pensamiento y *estar dentro* de un pensamiento. Cuando tienes un pensamiento y lo sabes, hay un poco de distancia: aparece la idea del lunes, la ves llegar, sabes que es una idea, y puedes decidir si la sigues o la dejas pasar.",
+   "temas": [
+    "pensamiento",
+    "distancia"
+   ],
+   "intensidad": 4,
+   "gancho": "Tener un pensamiento o estar dentro de él",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — La mente errante"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Hoy, caza tres veces tu mente vagando. Solo tres. Cuando la pilles lejos —en el futuro, en el pasado, en el móvil—, di para ti «me he ido» y vuelve con suavidad a lo que estabas haciendo. Sin reñirte.",
+   "es_literal": false,
+   "ancla": "hoy, propónte cazar tres veces tu mente vagando. Solo tres. Cuando la pilles lejos —en el futuro, en el pasado, en el móvil—, di para ti «me he ido», y vuelve con suavidad a lo que estabas haciendo.",
+   "temas": [
+    "práctica",
+    "mente errante"
+   ],
+   "intensidad": 3,
+   "gancho": "Cázala, sonríe y vuelve. Tres veces",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — La mente errante"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Aparece por casualidad una foto de los hijos pequeños en la playa, riéndose. Y llega la punzada: no recuerda aquel día. Cuando ocurrió, no estaba del todo allí.",
+   "es_literal": false,
+   "ancla": "No estaba en su memoria. Y no estaba porque, cuando ocurrió, ella no había estado del todo allí.",
+   "temas": [
+    "memoria",
+    "familia",
+    "ausencia"
+   ],
+   "intensidad": 5,
+   "gancho": "La foto de un día que no recordaba",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — El coste de no estar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Vivir ausente es perderse la vida dos veces: una mientras pasa, porque no la habitas, y otra después, porque no la recuerdas.",
+   "es_literal": true,
+   "ancla": "Vivir ausente es perderse la vida dos veces: una mientras pasa, porque no la habitas, y otra después, porque no la recuerdas. Vivir presente es lo contrario: la vives cuando ocurre, y te la llevas para siempre.",
+   "temas": [
+    "ausencia",
+    "memoria"
+   ],
+   "intensidad": 5,
+   "gancho": "Perderse la vida dos veces",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — El coste de no estar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No se trata de que la vida sea corta; se trata de que estamos ausentes de casi toda ella. La ausencia es lo que la vuelve corta.",
+   "es_literal": true,
+   "ancla": "No se trata de que la vida sea corta; se trata de que estamos ausentes de casi toda ella. La ausencia es lo que la vuelve corta.",
+   "temas": [
+    "tiempo",
+    "ausencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que vuelve corta una vida",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — El coste de no estar"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cuál es el rato que te pierdes cada día? ¿El desayuno engullido mirando noticias? ¿El trayecto hecho sin ver nada? ¿La ducha resuelta pensando en todo menos en el agua?",
+   "es_literal": false,
+   "ancla": "¿El desayuno, engullido mientras miras noticias? ¿El trayecto al trabajo, hecho sin ver nada, ya metido en la jornada? ¿El rato con tu pareja al final del día, cada uno con su pantalla? ¿La ducha, ese refugio que resuelves pensando en todo menos en el agua?",
+   "temas": [
+    "rutina",
+    "atención"
+   ],
+   "intensidad": 3,
+   "gancho": "El rato que devuelves sin abrir",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — El coste de no estar"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Estar presente no consiste en apagar los pensamientos; consiste en darte cuenta de dónde estás mientras piensas.",
+   "es_literal": false,
+   "ancla": "No fallaba ella. Fallaba el objetivo. Estar presente no consiste en apagar los pensamientos; consiste en darte cuenta de dónde estás mientras piensas.",
+   "temas": [
+    "presencia",
+    "malentendidos"
+   ],
+   "intensidad": 4,
+   "gancho": "No fallabas tú; fallaba el objetivo",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — Presencia no es misticismo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Estar aquí no es un logro espiritual. Es lo más natural del mundo. Lo raro es lo otro: pasarte la vida en cualquier sitio menos en el que estás.",
+   "es_literal": true,
+   "ancla": "Estar aquí no es un logro espiritual. Es lo más natural del mundo. Lo raro es lo otro: pasarte la vida en cualquier sitio menos en el que estás.",
+   "temas": [
+    "presencia",
+    "misticismo"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo raro no es estar aquí",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — Presencia no es misticismo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "No hay que sacar tiempo para esto. Ocurre dentro de la vida que ya tienes: mientras te duchas, mientras esperas el ascensor, mientras te tomas el primer café.",
+   "es_literal": false,
+   "ancla": "Ocurre *dentro* de tu vida, en las cosas que ya haces de todos modos: mientras te duchas, mientras esperas el ascensor, mientras le pones los zapatos a tu hijo, mientras te tomas el primer café. No hay que sacar tiempo. Hay que habitar el tiempo que ya estás gastando.",
+   "temas": [
+    "cotidiano",
+    "tiempo"
+   ],
+   "intensidad": 3,
+   "gancho": "No hay que sacar tiempo; hay que habitarlo",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 4 — Presencia no es misticismo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige una acción corriente que hoy harías en automático —fregar un plato, ponerte los zapatos, beber un vaso de agua— y quédate en ella un minuto entero, con los cinco sentidos. Cuando la mente se escape, y se escapará, vuelve sin reñirte.",
+   "es_literal": false,
+   "ancla": "elige una acción corriente que hagas hoy en automático —fregar un plato, ponerte los zapatos, beber un vaso de agua— y quédate en ella un minuto entero, con los cinco sentidos, sin hacer nada más.",
+   "temas": [
+    "práctica",
+    "cotidiano"
+   ],
+   "intensidad": 3,
+   "gancho": "Un minuto en algo corriente",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — Presencia no es misticismo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El «cuando» es un ladrón educado. No te roba el reloj ni la cartera. Te roba los días, de uno en uno, y encima le das las gracias por prometerte que mañana será mejor.",
+   "es_literal": true,
+   "ancla": "El «cuando» es un ladrón educado. No te roba el reloj ni la cartera. Te roba los días, de uno en uno, y encima le das las gracias por prometerte que mañana será mejor.",
+   "temas": [
+    "futuro",
+    "vida aplazada"
+   ],
+   "intensidad": 5,
+   "gancho": "El «cuando» es un ladrón educado",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — El futuro: la ansiedad y el \"cuando…\""
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Preocuparse no es prepararse. Preparar es hacer algo concreto ahora —un plan, una llamada, un paso— y luego soltar. Preocuparse es sufrir por adelantado un futuro imaginario.",
+   "es_literal": false,
+   "ancla": "Preocuparse no es prepararse. Preparar es hacer algo concreto ahora —un plan, una llamada, un paso— y luego soltar. Preocuparse es sufrir por adelantado un futuro imaginario, pagando hoy, con intereses, por un mal que probablemente nunca llegará a la ventanilla.",
+   "temas": [
+    "futuro",
+    "preocupación"
+   ],
+   "intensidad": 4,
+   "gancho": "Preocuparse no es prepararse",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — El futuro: la ansiedad y el \"cuando…\""
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cuántas veces al día te descubres pensando «cuando termine esto», «cuando llegue el finde»? ¿Cuánta parte de tu jornada la pasas esperando a que empiece otra cosa?",
+   "es_literal": false,
+   "ancla": "¿cuántas veces al día te descubres pensando \"cuando termine esto\", \"cuando llegue el finde\", \"cuando pase esta semana\"? ¿Cuánta parte de tu jornada la pasas, en realidad, esperando a que empiece otra cosa?",
+   "temas": [
+    "futuro",
+    "espera"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Cuánto del día lo pasas esperando?",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — El futuro: la ansiedad y el \"cuando…\""
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando te pilles pensando «cuando consiga X, entonces estaré bien», para en seco y completa en voz baja «ahora mismo tengo…», nombrando tres cosas concretas que ya están delante de ti. No hace falta que sean grandes; basta con que sean reales.",
+   "es_literal": false,
+   "ancla": "para en seco y completa en voz baja la frase \"ahora mismo tengo…\", nombrando tres cosas concretas que ya están aquí, delante de ti, en este instante. No hace falta que sean grandes. Basta con que sean reales y sean ahora.",
+   "temas": [
+    "práctica",
+    "futuro"
+   ],
+   "intensidad": 3,
+   "gancho": "Del «cuando…» al «ahora mismo tengo…»",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — El futuro: la ansiedad y el \"cuando…\""
+  },
+  {
+   "tipo": "cita",
+   "texto": "El pasado no es un lugar. Es un cuadro que repintas cada vez que lo miras, y que cada vez se parece menos a lo que de verdad hubo.",
+   "es_literal": true,
+   "ancla": "El pasado no es un lugar. Es un cuadro que repintas cada vez que lo miras, y que cada vez se parece menos a lo que de verdad hubo.",
+   "temas": [
+    "pasado",
+    "nostalgia",
+    "memoria"
+   ],
+   "intensidad": 4,
+   "gancho": "El pasado es un cuadro que repintas",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — El pasado: la rumia y la nostalgia"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Visitar el pasado es traer algo de él al presente para enriquecerlo. Mudarte a él es abandonar el presente para irte a vivir a un ayer que ya no puede darte nada.",
+   "es_literal": false,
+   "ancla": "Visitar es traer algo del pasado al presente para enriquecerlo. Mudarte es abandonar el presente para irte a vivir a un ayer que ya no puede darte nada, porque ya no está.",
+   "temas": [
+    "pasado",
+    "nostalgia"
+   ],
+   "intensidad": 4,
+   "gancho": "Visitar el pasado o mudarte a él",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 6 — El pasado: la rumia y la nostalgia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando te descubras dentro de un bucle del pasado, reconócelo con calma —«otra vez estoy allí»— y hazte tres preguntas: ¿qué veo ahora mismo?, ¿qué oigo?, ¿qué siento en el cuerpo? Responde a las tres con algo concreto.",
+   "es_literal": false,
+   "ancla": "reconócelo con calma (\"otra vez estoy allí\") y hazte tres preguntas: ¿qué veo ahora mismo?, ¿qué oigo?, ¿qué siento en el cuerpo? Responde a las tres con algo concreto y real.",
+   "temas": [
+    "práctica",
+    "rumia",
+    "sentidos"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres preguntas para cortar el bucle",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6 — El pasado: la rumia y la nostalgia"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No es que te falte voluntad. Es que al otro lado hay una máquina diseñada para vencerla.",
+   "es_literal": true,
+   "ancla": "No es que te falte voluntad. Es que al otro lado hay una máquina diseñada para vencerla.",
+   "temas": [
+    "pantallas",
+    "atención",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "El partido está trucado",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — Las pantallas y la dispersión"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Coges el teléfono para mirar «una cosa rápida». Al volver a la superficie ha pasado una hora. Y lo inquietante no es haberla perdido: es no poder decir en qué.",
+   "es_literal": false,
+   "ancla": "Y lo inquietante no era haberla perdido. Lo inquietante era que no podía decir en qué. Si le hubieras preguntado qué había hecho en esos sesenta minutos, no habría sabido contestarte.",
+   "temas": [
+    "pantallas",
+    "tiempo"
+   ],
+   "intensidad": 4,
+   "gancho": "«¿Dónde se me ha ido el rato?»",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — Las pantallas y la dispersión"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Antes de coger el teléfono, una pregunta que vale más que cualquier regla: «¿voy a usarlo, o voy a que me use?». La misma pantalla, dos relaciones opuestas.",
+   "es_literal": false,
+   "ancla": "Hay una pregunta que vale más que cualquier regla, y que puedes hacerte antes de coger el teléfono: \"¿voy a usarlo, o voy a que me use?\".",
+   "temas": [
+    "pantallas",
+    "decisión"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Vas a usarlo o vas a que te use?",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — Las pantallas y la dispersión"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "No hace falta un muro; basta con un escalón. Deja el móvil en otra habitación mientras comes, saca de la pantalla de inicio lo que más te atrapa y silencia las notificaciones que no son urgentes.",
+   "es_literal": false,
+   "ancla": "Deja el móvil en otra habitación mientras comes. No apagado, no escondido para siempre; simplemente lejos, de modo que cogerlo implique levantarte. Ese pequeño esfuerzo, muchas veces, basta para que no lo cojas.",
+   "temas": [
+    "práctica",
+    "pantallas",
+    "fricción"
+   ],
+   "intensidad": 3,
+   "gancho": "No hace falta un muro; basta un escalón",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — Las pantallas y la dispersión"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No te falta tiempo para vivir. Te falta detenerte el tiempo suficiente para estar en lo que vives.",
+   "es_literal": true,
+   "ancla": "No te falta tiempo para vivir. Te falta detenerte el tiempo suficiente para estar en lo que vives.",
+   "temas": [
+    "prisa",
+    "tiempo"
+   ],
+   "intensidad": 4,
+   "gancho": "No te falta tiempo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — La multitarea y la prisa"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Tener prisa y ir rápido no son lo mismo. Ir rápido es una velocidad que se elige y se suelta; tener prisa es una tensión interior que te saca del momento aunque las manos vayan a ritmo normal.",
+   "es_literal": false,
+   "ancla": "Ir rápido es una velocidad; se elige cuando hace falta y luego se suelta. Tener prisa es un estado interior, una tensión, una sensación de que vas tarde a todo aunque no vayas tarde a nada.",
+   "temas": [
+    "prisa",
+    "ritmo"
+   ],
+   "intensidad": 4,
+   "gancho": "Ir rápido no es tener prisa",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8 — La multitarea y la prisa"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige hoy una sola tarea, cuanto más pequeña mejor, y hazla entera de principio a fin sin cambiar a otra cosa en medio. Cuando la mente quiera saltar a la siguiente, tráela de vuelta con suavidad. Termínala.",
+   "es_literal": false,
+   "ancla": "hoy elige una sola tarea —una cualquiera, cuanto más pequeña mejor— y hazla entera, de principio a fin, sin cambiar a otra cosa en medio. Sin mirar el móvil, sin abrir otra pestaña, sin adelantarte a lo que viene después.",
+   "temas": [
+    "práctica",
+    "monotarea"
+   ],
+   "intensidad": 3,
+   "gancho": "Una cosa, entera, de principio a fin",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — La multitarea y la prisa"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La mente vive en el tiempo. El cuerpo vive en el ahora. Por eso, para volver, no hay que pensar: hay que sentir.",
+   "es_literal": true,
+   "ancla": "La mente vive en el tiempo. El cuerpo vive en el ahora. Por eso, para volver, no hay que pensar: hay que sentir.",
+   "temas": [
+    "cuerpo",
+    "ancla",
+    "sentidos"
+   ],
+   "intensidad": 4,
+   "gancho": "Para volver no hay que pensar",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — El cuerpo como ancla"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Tu cuerpo no sabe ir al futuro ni volver al pasado. No conoce más tiempo ni más lugar que este. Por eso, en el instante en que lo sientes, estás aquí.",
+   "es_literal": false,
+   "ancla": "Tu cuerpo no sabe ir al futuro. No sabe volver al pasado. No conoce más tiempo ni más lugar que este preciso instante, este preciso sitio.",
+   "temas": [
+    "cuerpo",
+    "presencia"
+   ],
+   "intensidad": 4,
+   "gancho": "El cuerpo nunca se fue",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 9 — El cuerpo como ancla"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Al principio casi nadie se acuerda de usar las anclas cuando más falta hacen. Te acuerdas después, con la mañana ya perdida. Eso no es un fracaso: acordarse tarde también cuenta.",
+   "es_literal": false,
+   "ancla": "Al principio, casi nadie se acuerda de usar las anclas cuando más falta hacen. Te acuerdas después, cuando ya has pasado la mañana disperso o la reunión con la cabeza en otro lado. Eso es completamente normal, y no es un fracaso: es la primera fase de cualquier hábito de atención.",
+   "temas": [
+    "hábito",
+    "expectativas"
+   ],
+   "intensidad": 3,
+   "gancho": "Acordarse tarde también cuenta",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — El cuerpo como ancla"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Sin cambiar de sitio ni de postura, tres respiraciones: en la primera, nota el aire entrar y salir sin forzarlo; en la segunda, el peso del cuerpo y los pies en el suelo; en la tercera, los sonidos que había alrededor sin que los oyeras.",
+   "es_literal": false,
+   "ancla": "ahora mismo, sin cambiar de sitio ni de postura, haz tres respiraciones sintiendo el cuerpo. En la primera, nota el aire entrar y salir, sin forzarlo. En la segunda, siente el peso de tu cuerpo donde estés apoyado, y los pies en el suelo. En la tercera, escucha los sonidos que hay a tu alrededor, los que estaban ahí sin que los oyeras.",
+   "temas": [
+    "práctica",
+    "cuerpo",
+    "respiración"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres respiraciones y ya has vuelto",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 9 — El cuerpo como ancla"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No se trata de hacer más cosas, sino de estar de verdad en la que haces.",
+   "es_literal": true,
+   "ancla": "No se trata de hacer más cosas, sino de estar de verdad en la que haces.",
+   "temas": [
+    "monotarea",
+    "presencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Una cosa cada vez",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — Una cosa cada vez"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Dividimos el día en lo que hay que aguantar y lo que se disfruta. Pero lo primero ocupa la mayor parte de las horas de una vida: decidir no estar ahí es ausentarse de casi toda tu existencia.",
+   "es_literal": false,
+   "ancla": "El problema aritmético es demoledor: la primera categoría ocupa la mayor parte de las horas de una vida. Si decides no estar en todo lo que \"hay que aguantar\", estás decidiendo, sin saberlo, ausentarte de casi toda tu existencia.",
+   "temas": [
+    "cotidiano",
+    "monotarea"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que «hay que aguantar» es casi toda la vida",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 10 — Una cosa cada vez"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige una tarea rutinaria de hoy —fregar, ducharte, doblar la ropa, caminar hasta un sitio— y decide que, mientras dure, solo harás eso. Sin móvil, sin planificar lo siguiente, sin prisa por acabar.",
+   "es_literal": false,
+   "ancla": "elige una tarea rutinaria de hoy —fregar, ducharte, doblar la ropa, caminar hasta un sitio— y decide que, mientras dure, solo harás eso. Sin móvil, sin planificar lo siguiente, sin prisa por acabar.",
+   "temas": [
+    "práctica",
+    "monotarea"
+   ],
+   "intensidad": 3,
+   "gancho": "Tu descanso de hoy: una tarea entera",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — Una cosa cada vez"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No te falta suerte; te falta detenerte a notar la que ya tienes.",
+   "es_literal": true,
+   "ancla": "No te falta suerte; te falta detenerte a notar la que ya tienes.",
+   "temas": [
+    "saborear",
+    "atención"
+   ],
+   "intensidad": 4,
+   "gancho": "No te falta suerte",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — Saborear"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Todo lo que se repite se va volviendo invisible. Y como casi todo lo bueno de una vida es cotidiano y se repite, acabamos rodeados de cosas buenas que ya no sentimos.",
+   "es_literal": false,
+   "ancla": "Todo lo que se repite se va volviendo invisible. Y como casi todo lo bueno de una vida es cotidiano y se repite, acabamos viviendo rodeados de cosas buenas que ya no sentimos. Están ahí. Pero es como si no estuvieran, porque hemos dejado de estar nosotros.",
+   "temas": [
+    "habituación",
+    "saborear"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo bueno, de tanto repetirse, se vuelve invisible",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — Saborear"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "A un problema le damos vueltas durante horas, sin que se nos escape un detalle. Un placer se nos va en tres sorbos distraídos. Repartimos fatal la atención.",
+   "es_literal": false,
+   "ancla": "Porque fíjate en la injusticia: a un problema le damos vueltas durante horas, lo saboreamos hasta el último detalle, no se nos escapa nada. Y en cambio un placer se nos va en tres sorbos distraídos. Repartimos fatal la atención.",
+   "temas": [
+    "saborear",
+    "atención"
+   ],
+   "intensidad": 4,
+   "gancho": "Repartimos fatal la atención",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Saborear"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Saborear son tres gestos: detenerte medio segundo cuando aparece algo bueno, sentirlo con el cuerpo en vez de solo pensarlo, y dejarlo durar tres segundos más de los que durarías. Detener, sentir, alargar.",
+   "es_literal": false,
+   "ancla": "Y el tercero es dejarlo durar un poco más de lo habitual, resistir el tirón de ir ya a lo siguiente, quedarte tres segundos más de los que te quedarías. Detener, sentir, alargar.",
+   "temas": [
+    "práctica",
+    "saborear"
+   ],
+   "intensidad": 3,
+   "gancho": "Detener, sentir, alargar",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — Saborear"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La atención es la forma más pura de generosidad: darle a alguien tu presencia entera es darle lo único que no vuelve.",
+   "es_literal": true,
+   "ancla": "La atención es la forma más pura de generosidad: darle a alguien tu presencia entera es darle lo único que no vuelve.",
+   "temas": [
+    "vínculos",
+    "escucha"
+   ],
+   "intensidad": 5,
+   "gancho": "La forma menos cursi del cariño",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — Presencia con los demás"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Alguien te está contando algo con toda el alma. Tú asientes con el móvil en la mano. Y entonces se calla y dice: «da igual, luego te lo cuento». Las dos personas saben que no habrá un luego.",
+   "es_literal": false,
+   "ancla": "Y lo más triste es que muchas veces ni nos damos cuenta, hasta que un día alguien nos dice \"da igual, luego te lo cuento\" y entendemos, de golpe, cuánto tiempo llevábamos ausentes en primera fila.",
+   "temas": [
+    "vínculos",
+    "escucha",
+    "pantallas"
+   ],
+   "intensidad": 5,
+   "gancho": "«Luego te lo cuento» significa otra cosa",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — Presencia con los demás"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Escuchar no es callarse mientras el otro habla. La mayoría de las veces estamos preparando la respuesta, y eso no es escuchar: es esperar el turno con educación.",
+   "es_literal": false,
+   "ancla": "Creemos que escuchar es callarnos mientras el otro habla. No lo es. La mayoría de las veces, mientras el otro habla, nosotros no estamos escuchando: estamos preparando la respuesta.",
+   "temas": [
+    "escucha",
+    "vínculos"
+   ],
+   "intensidad": 4,
+   "gancho": "Esperar el turno con educación",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — Presencia con los demás"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "En la próxima conversación con alguien que te importe: deja el móvil fuera de la vista, boca abajo o en otra habitación. Mira a los ojos. No prepares tu respuesta mientras el otro habla; deja que termine.",
+   "es_literal": false,
+   "ancla": "en la próxima conversación que tengas con alguien que te importe, deja el móvil fuera de la vista —boca abajo, en otra habitación— y escucha de verdad. Mira a los ojos. No prepares tu respuesta mientras el otro habla; deja que termine.",
+   "temas": [
+    "práctica",
+    "escucha",
+    "vínculos"
+   ],
+   "intensidad": 4,
+   "gancho": "El móvil boca abajo, en otra habitación",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12 — Presencia con los demás"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que resistes, persiste. Lo que miras de frente, empieza a moverse.",
+   "es_literal": true,
+   "ancla": "Lo que resistes, persiste. Lo que miras de frente, empieza a moverse.",
+   "temas": [
+    "emociones",
+    "evitación"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que resistes, persiste",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — Presencia en lo difícil"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "No te voy a vender que sea agradable. Estar con lo difícil no lo es; por eso lo evitamos. A veces la tristeza sostenida solo se convierte en tristeza soportada, y ya eso es un mundo de diferencia.",
+   "es_literal": false,
+   "ancla": "No te voy a vender que sea agradable. Estar con lo difícil no es agradable; por eso lo evitamos. Sería deshonesto prometerte que si te quedas con tu tristeza treinta segundos, la tristeza se convierte en paz.",
+   "temas": [
+    "emociones",
+    "expectativas"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que este capítulo se niega a prometer",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — Presencia en lo difícil"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La próxima vez que notes el impulso de tapar algo incómodo, para. Antes de huir, quédate treinta segundos: busca dónde lo sientes en el cuerpo, pon ahí la atención y respira despacio, sin arreglarlo. Luego haz lo que quieras.",
+   "es_literal": false,
+   "ancla": "Antes de huir, quédate treinta segundos con ella. Busca dónde la sientes en el cuerpo, pon ahí la atención (y, si te apetece, la mano) y respira despacio, sin arreglarla. Solo acompáñala treinta segundos.",
+   "temas": [
+    "práctica",
+    "emociones",
+    "cuerpo"
+   ],
+   "intensidad": 4,
+   "gancho": "Treinta segundos antes de escapar",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 13 — Presencia en lo difícil"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No amas menos una rosa por saber que se marchitará. La amas más, y por eso la miras mejor.",
+   "es_literal": true,
+   "ancla": "No amas menos una rosa por saber que se marchitará. La amas más, y por eso la miras mejor.",
+   "temas": [
+    "impermanencia",
+    "presencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Por qué se mira mejor lo que se acaba",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — El tiempo y la impermanencia"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No es que el tiempo pase deprisa. Es que casi nunca estamos dentro de él cuando pasa.",
+   "es_literal": true,
+   "ancla": "No es que el tiempo pase deprisa. Es que casi nunca estamos dentro de él cuando pasa.",
+   "temas": [
+    "tiempo",
+    "ausencia"
+   ],
+   "intensidad": 4,
+   "gancho": "El tiempo no corre; nosotros no estamos",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — El tiempo y la impermanencia"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El «todavía queda mucho» es el gran anestésico de la presencia: nos convence de que este momento es uno de una serie inagotable, y por eso lo tratamos con descuido, como se trata lo que sobra.",
+   "es_literal": false,
+   "ancla": "El \"todavía queda mucho\" es el gran anestésico de la presencia. Nos convence de que el momento que tenemos delante es uno de una serie inagotable, y por eso lo tratamos con descuido, como se trata lo que sobra.",
+   "temas": [
+    "impermanencia",
+    "descuido"
+   ],
+   "intensidad": 4,
+   "gancho": "El gran anestésico de la presencia",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — El tiempo y la impermanencia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige hoy un momento cotidiano que sueles hacer en automático —acostar a alguien, un café con tu pareja, un paseo— y vívelo recordándote, sin dramatismo, una sola cosa: esto no se repetirá exactamente igual nunca más.",
+   "es_literal": false,
+   "ancla": "elige hoy un momento cotidiano que sueles hacer en automático —acostar a alguien, un café con tu pareja, una llamada a tus padres, un paseo con el perro— y vívelo recordándote, sin dramatismo, una sola cosa: *esto no se repetirá exactamente igual nunca más.*",
+   "temas": [
+    "práctica",
+    "impermanencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Esto no se repetirá exactamente igual",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — El tiempo y la impermanencia"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No se trata de no caerte. Se trata de levantarte una vez más de las que te caes.",
+   "es_literal": true,
+   "ancla": "No se trata de no caerte. Se trata de levantarte una vez más de las que te caes.",
+   "temas": [
+    "perfeccionismo",
+    "constancia"
+   ],
+   "intensidad": 4,
+   "gancho": "Una vez más de las que te caes",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15 — Presencia no es perfección"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La mente se va mil veces. Tú solo tienes que traerla mil veces y una.",
+   "es_literal": true,
+   "ancla": "La mente se va mil veces. Tú solo tienes que traerla mil veces y una.",
+   "temas": [
+    "mente errante",
+    "regreso"
+   ],
+   "intensidad": 4,
+   "gancho": "Mil veces y una",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — Presencia no es perfección"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El instante en que te das cuenta de que te habías ido es, ya, un instante de presencia. Solemos castigarnos justo por el gesto que habría que celebrar.",
+   "es_literal": false,
+   "ancla": "El momento en que te das cuenta de que no estabas presente es, paradójicamente, el momento más presente de todos, porque es el momento en que la conciencia vuelve a encenderse.",
+   "temas": [
+    "regreso",
+    "autocrítica"
+   ],
+   "intensidad": 4,
+   "gancho": "Darte cuenta ya es estar aquí",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15 — Presencia no es perfección"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Hoy, cada vez que te pilles distraído, vuelve sin reñirte. Nada de «otra vez, qué desastre»: una nota mental amable, casi con una sonrisa, «me he ido; vuelvo», y regresas. Cuenta los regresos, no las fugas.",
+   "es_literal": false,
+   "ancla": "En su lugar, una nota mental amable, casi con una sonrisa: \"me he ido; vuelvo\", y regresas a lo que estabas haciendo. Trata cada distracción no como un fallo, sino como la señal de que puedes practicar el gesto de volver. Cuentas los regresos, no las fugas.",
+   "temas": [
+    "práctica",
+    "amabilidad",
+    "regreso"
+   ],
+   "intensidad": 3,
+   "gancho": "Cuenta los regresos, no las fugas",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15 — Presencia no es perfección"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Esto no te va a dar más vida. Seguirás teniendo los mismos días, las mismas veinticuatro horas y los mismos ratos tontos. No añade horas al reloj ni años al calendario.",
+   "es_literal": false,
+   "ancla": "No te va a dar más vida. Que quede claro, para no engañarte: seguirás teniendo los mismos días, las mismas veinticuatro horas, las mismas obligaciones y los mismos ratos tontos. La presencia no añade horas al reloj ni años al calendario.",
+   "temas": [
+    "expectativas",
+    "tiempo"
+   ],
+   "intensidad": 4,
+   "gancho": "No más vida, sino más viva",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16 — Una vida presente"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No vivirás más momentos por estar presente. Vivirás de verdad los que ya tienes. Y resulta que era eso, y solo eso, lo que llamábamos vivir.",
+   "es_literal": true,
+   "ancla": "No vivirás más momentos por estar presente. Vivirás de verdad los que ya tienes. Y resulta que era eso, y solo eso, lo que llamábamos vivir.",
+   "temas": [
+    "presencia",
+    "vida"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que llamábamos vivir",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — Una vida presente"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Engancha un regreso a algo que ya haces: tres respiraciones al cruzar el umbral de casa, sentir los pies en el suelo antes de contestar el teléfono, el primer sorbo de café saboreado entero antes de coger el móvil.",
+   "es_literal": false,
+   "ancla": "Cada vez que cruzas el umbral de tu casa, tres respiraciones. Cada vez que suena el teléfono, un instante para sentir los pies en el suelo antes de contestar. El primer sorbo de café de la mañana, saboreado de verdad, entero, antes de coger el móvil.",
+   "temas": [
+    "práctica",
+    "hábito",
+    "recordatorios"
+   ],
+   "intensidad": 3,
+   "gancho": "Anclas repartidas como boyas en el mar",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — Una vida presente"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La vida solo sucede aquí y ahora; en ningún otro lugar te está esperando.",
+   "es_literal": true,
+   "ancla": "La vida solo sucede aquí y ahora; en ningún otro lugar te está esperando.",
+   "temas": [
+    "presencia",
+    "vida"
+   ],
+   "intensidad": 5,
+   "gancho": "La frase, una última vez",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "CIERRE — Aquí, por fin"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Ninguno añadió nada a su vida. No consiguieron más tiempo, ni más momentos, ni más calma comprada. Solo dejaron de perderse los momentos que ya tenían.",
+   "es_literal": false,
+   "ancla": "Ninguno añadió nada a su vida. No consiguieron más tiempo, ni más momentos, ni más calma comprada. Lo único que hicieron fue dejar de perderse los momentos que ya tenían.",
+   "temas": [
+    "presencia",
+    "cotidiano"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie añadió nada a su vida",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "CIERRE — Aquí, por fin"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Antes de cerrar el libro, levanta la vista. Mira lo que tengas delante —la ventana, la luz, tus manos, la persona al lado— como si no lo hubieras visto nunca.",
+   "es_literal": false,
+   "ancla": "Mira lo que tengas delante ahora mismo —la ventana, la luz, tus manos, la persona al lado, el simple hecho de estar respirando— como si no lo hubieras visto nunca.",
+   "temas": [
+    "presencia",
+    "cotidiano"
+   ],
+   "intensidad": 4,
+   "gancho": "Levanta la vista antes de cerrar",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "CIERRE — Aquí, por fin"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando te descubras metido en la cabeza y no en el mundo: para y nombra en silencio cinco cosas que ves, cuatro que oyes, tres que tocas, dos que hueles, una que saboreas. Despacio, una a una.",
+   "es_literal": false,
+   "ancla": "para y nombra en silencio cinco cosas que ves, cuatro que oyes, tres que tocas, dos que hueles, una que saboreas. Ve despacio, una a una, mirándolas de verdad al nombrarlas.",
+   "temas": [
+    "práctica",
+    "sentidos",
+    "ancla"
+   ],
+   "intensidad": 3,
+   "gancho": "Cinco, cuatro, tres, dos, una",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "ANEXO 2 — Anclas rápidas al presente"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Dite en silencio, con calma, qué estás haciendo justo ahora: «estoy lavando los platos», «estoy caminando a casa», «estoy escuchando a esta persona». Nombrar lo que ocurre te devuelve a ello.",
+   "es_literal": false,
+   "ancla": "Dite a ti mismo, en silencio y con calma, qué estás haciendo justo ahora: \"estoy lavando los platos\", \"estoy caminando a casa\", \"estoy escuchando a esta persona\". Nombrar lo que ocurre te devuelve a ello",
+   "temas": [
+    "práctica",
+    "ancla"
+   ],
+   "intensidad": 3,
+   "gancho": "Simple hasta parecer tonto",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "ANEXO 2 — Anclas rápidas al presente"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cuándo se notan los efectos? No hay fecha de llegada, porque no hay adónde llegar. Mejor pregunta: ¿hoy he estado aquí un poco más que ayer?",
+   "es_literal": false,
+   "ancla": "No preguntes cuándo llegarás; no hay adónde llegar. Pregúntate, mejor, si hoy has estado aquí un poco más que ayer.",
+   "temas": [
+    "expectativas",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "¿Hoy has estado aquí un poco más que ayer?",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "ANEXO 3 — Preguntas frecuentes"
+  }
+ ]
+}

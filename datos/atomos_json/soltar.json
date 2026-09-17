@@ -1,0 +1,1218 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "soltar",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "Es la diferencia exacta entre sostener un pájaro en la palma abierta —donde está a salvo, tranquilo, y puede quedarse o irse— y apretarlo dentro del puño para que no se escape. En el puño no lo tienes más seguro. En el puño lo ahogas.",
+   "es_literal": true,
+   "ancla": "Soltar es dejar de aferrarse. Es la diferencia exacta entre sostener un pájaro en la palma abierta —donde está a salvo, tranquilo, y puede quedarse o irse— y apretarlo dentro del puño para que no se escape. En el puño no lo tienes más seguro. En el puño lo ahogas.",
+   "temas": [
+    "soltar",
+    "apego"
+   ],
+   "intensidad": 4,
+   "gancho": "En el puño no lo tienes más seguro. En el puño lo ahogas.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — Con las manos llenas"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Nos sentamos encima de la maleta, empujamos, tiramos de la cremallera hasta que duelen los dedos. Y no se nos ocurre lo único que resolvería el problema de raíz: sacar cosas.",
+   "es_literal": false,
+   "ancla": "Y en ningún momento —esto es lo asombroso— se le ocurre lo único que resolvería el problema de raíz: sacar cosas. Quitar peso. Aceptar, sencillamente, que no cabe todo.",
+   "temas": [
+    "peso",
+    "carga"
+   ],
+   "intensidad": 3,
+   "gancho": "La maleta no cierra. Y a nadie se le ocurre sacar cosas.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Introducción — Con las manos llenas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Te falta el aire porque llevas demasiado encima. Y la mayor parte de ese peso no te lo puso nadie: te lo pusiste tú, y sigues sujetándolo tú, aunque hace tiempo que dejó de servirte.",
+   "es_literal": true,
+   "ancla": "muchas veces no te falta el aire porque la vida sea especialmente dura contigo. Te falta el aire porque llevas demasiado encima. Y la mayor parte de ese peso no te lo puso nadie: te lo pusiste tú, y sigues sujetándolo tú, aunque hace tiempo que dejó de servirte.",
+   "temas": [
+    "cansancio",
+    "peso"
+   ],
+   "intensidad": 4,
+   "gancho": "No te falta el aire por la vida. Te falta porque llevas de más.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Introducción — Con las manos llenas"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro no es terapia y no pretende serlo. Si lo que atraviesas es un duelo reciente o un sufrimiento que no te deja funcionar, pedir ayuda profesional no es un fracaso: también es una forma de soltar.",
+   "es_literal": false,
+   "ancla": "Este libro no es terapia, y no pretende serlo. Es un compañero práctico, sereno, para el arte cotidiano de soltar aquello que ya no eres.",
+   "temas": [
+    "límites",
+    "honestidad"
+   ],
+   "intensidad": 2,
+   "gancho": "No es terapia. Y pedir ayuda a un profesional también es soltar.",
+   "formatos": [
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Introducción — Con las manos llenas"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un puño apretado durante medio minuto: al principio es casi cómodo, luego empieza el temblor, luego la mano entera pide que la abras. Hay quien vive así, por dentro, con casi todo.",
+   "es_literal": false,
+   "ancla": "Cierra el puño ahora mismo, la mano que tengas libre. Con fuerza. Aprieta todo lo que puedas y mantenlo así mientras cuentas despacio hasta treinta.",
+   "temas": [
+    "cuerpo",
+    "apego"
+   ],
+   "intensidad": 4,
+   "gancho": "Aprieta el puño medio minuto. Así vive mucha gente con casi todo.",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — La mano cerrada"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Sostener es cuidar sin ahogar. Es estar presente, atento, disponible, sin la tensión del miedo. Apretar, en cambio, es querer controlar por miedo a perder.",
+   "es_literal": true,
+   "ancla": "Sostener es cuidar sin ahogar. Es estar presente, atento, disponible, sin la tensión del miedo. Apretar, en cambio, es querer controlar por miedo a perder. Es la tensión constante del que vive convencido de que, si afloja un segundo, lo pierde todo.",
+   "temas": [
+    "sostener",
+    "miedo"
+   ],
+   "intensidad": 4,
+   "gancho": "Sostener es cuidar sin ahogar. Apretar es controlar por miedo.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — La mano cerrada"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es lo mismo valorar que aferrarse. Valorar es apreciar lo que hay mientras lo hay, con la mano abierta. Aferrarse es apretar por miedo, y ese miedo te quita el presente que temes perder.",
+   "es_literal": false,
+   "ancla": "Valorar es apreciar lo que hay mientras lo hay, con gratitud, con la mano abierta, sabiendo que es un regalo temporal. Aferrarse es apretar por miedo, y ese miedo hace dos cosas terribles a la vez: te roba el disfrute del presente, porque no puedes gozar de lo que temes perder",
+   "temas": [
+    "apego",
+    "gratitud"
+   ],
+   "intensidad": 3,
+   "gancho": "Valorar no es aferrarse. Una te da el presente; la otra te lo quita.",
+   "formatos": [
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 1 — La mano cerrada"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El afloja, en tres tiempos y diez segundos. Uno: date cuenta de que estás apretando —mandíbula, hombros, estómago—. Dos: suelta el aire despacio y afloja el cuerpo. Tres: pregunta «¿esto depende de mí?» y elige aflojar en lugar de seguir en automático.",
+   "es_literal": false,
+   "ancla": "Primero, date cuenta. Este es el paso que cuesta y el que más importa: notar que estás apretando. La señal suele ser física antes que mental: la mandíbula tensa, los hombros subidos hacia las orejas, el ceño fruncido, el estómago cerrado, la respiración corta y alta.",
+   "temas": [
+    "practica",
+    "cuerpo"
+   ],
+   "intensidad": 3,
+   "gancho": "Date cuenta, respira, pregunta. Diez segundos, en cualquier sitio.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — La mano cerrada"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El que sostiene con el puño cerrado cree que tiene más. En realidad tiene menos: no tiene, es tenido por lo que agarra.",
+   "es_literal": true,
+   "ancla": "El que sostiene con el puño cerrado cree que tiene más. En realidad tiene menos: no tiene, es tenido por lo que agarra.",
+   "temas": [
+    "control",
+    "apego"
+   ],
+   "intensidad": 4,
+   "gancho": "No tiene: es tenido por lo que agarra.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — La mano cerrada"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Meter la mano en el río y cerrar el puño para atrapar el agua. Al abrirlo, ni una gota. Con la mano abierta y quieta, en cambio, se siente el río entero mientras pasa.",
+   "es_literal": false,
+   "ancla": "Mete la mano en la corriente e intenta agarrar el agua. Cierra el puño rápido, con decisión, para atraparla antes de que se escape. Ahora abre la mano y mira: no hay nada. Ni una gota que sea tuya. Cuanto más rápido y más fuerte apretaste, menos te quedó.",
+   "temas": [
+    "impermanencia",
+    "soltar"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuanto más fuerte aprietas el agua, menos te queda en la mano.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 2 — La impermanencia como maestra"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Una tarde con alguien que quieres es preciosa porque es única e irrepetible, porque nunca volverá idéntica. Un hijo pequeño es un milagro precisamente porque dejará de ser pequeño, y rápido. La juventud vale porque se marchita. La flor vale porque cae.",
+   "es_literal": true,
+   "ancla": "Una tarde con alguien que quieres es preciosa porque es única e irrepetible, porque nunca volverá idéntica. Un hijo pequeño es un milagro precisamente porque dejará de ser pequeño, y rápido. La juventud vale porque se marchita. La flor vale porque cae.",
+   "temas": [
+    "impermanencia",
+    "presencia"
+   ],
+   "intensidad": 5,
+   "gancho": "La juventud vale porque se marchita. La flor vale porque cae.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — La impermanencia como maestra"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Ninguna emoción es permanente. Dentro de ella lo parece, y esa es su trampa. Pero si miras tu propia historia, todas las anteriores pasaron, sin excepción.",
+   "es_literal": false,
+   "ancla": "Ninguna emoción, por intensa que sea, es permanente. Se sienten permanentes cuando estás dentro de ellas —esa es su trampa—, pero si miras tu propia historia, verás que todas las anteriores, sin excepción, pasaron.",
+   "temas": [
+    "emociones",
+    "impermanencia"
+   ],
+   "intensidad": 3,
+   "gancho": "Dentro de la emoción parece eterna. Ninguna lo ha sido nunca.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — La impermanencia como maestra"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige algo cotidiano que hoy termina: una conversación, una comida, la luz de la tarde. Despídete por dentro, un segundo, con un «gracias, esto ha estado bien». Y déjalo ir sin intentar retenerlo ni prolongarlo.",
+   "es_literal": false,
+   "ancla": "elige algo cotidiano que hoy termina —una conversación, una comida, la luz de la tarde, un día de trabajo, un rato con alguien— y despídete de ello conscientemente. Solo un segundo de gratitud por dentro: \"gracias, esto ha estado bien\", y déjalo ir sin intentar retenerlo ni prolongarlo.",
+   "temas": [
+    "practica",
+    "despedida"
+   ],
+   "intensidad": 3,
+   "gancho": "Despedir no es perder: es honrar lo que fue, un segundo por dentro.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 2 — La impermanencia como maestra"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Nunca es una sola cosa la que nos ata: son tres cuerdas trenzadas —miedo, control e identidad—, y hasta que no las separas y las miras una a una, no puedes cortar ninguna.",
+   "es_literal": false,
+   "ancla": "Porque nunca es una sola cosa la que nos ata: son tres cuerdas trenzadas entre sí, y hasta que no las separas y las miras una a una, no puedes cortar ninguna.",
+   "temas": [
+    "miedo",
+    "control",
+    "identidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Miedo, control e identidad. Tres cuerdas trenzadas, no una.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — Miedo, control e identidad: las tres cuerdas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "a las personas controladoras se las suele juzgar como soberbias o desconfiadas, cuando por dentro casi siempre son personas asustadas.",
+   "es_literal": true,
+   "ancla": "Y esto es importantísimo entenderlo, tanto en los demás como en uno mismo, porque a las personas controladoras se las suele juzgar como soberbias o desconfiadas, cuando por dentro casi siempre son personas asustadas.",
+   "temas": [
+    "control",
+    "miedo"
+   ],
+   "intensidad": 4,
+   "gancho": "Se las juzga soberbias. Por dentro casi siempre están asustadas.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — Miedo, control e identidad: las tres cuerdas"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Piensa en algo concreto que te cueste soltar y hazte tres preguntas: si lo soltara, ¿qué es lo peor que temo?; ¿estoy sujetando algo que en realidad no puedo sujetar?; ¿sentiría que dejo de ser quien soy? La que más resuene es tu cuerda.",
+   "es_literal": false,
+   "ancla": "Piensa primero en algo concreto que te cueste soltar. Puede ser lo que sea: un control que no cedes, un rencor que no sueltas, un objeto que no tiras, una relación que no dejas, un rol que no abandonas. Tenlo en mente. Ahora, las tres preguntas.",
+   "temas": [
+    "practica",
+    "identidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres preguntas para saber qué te ata: miedo, control o identidad.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — Miedo, control e identidad: las tres cuerdas"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué es lo que de verdad te cuesta soltar: la cosa, o el «yo» que va pegado a ella?",
+   "es_literal": false,
+   "ancla": "No es la cosa en sí lo que nos aterra perder: es el \"yo\" que va pegado a ella, el \"yo\" que no sabríamos ser sin ella.",
+   "temas": [
+    "identidad",
+    "apego"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Sueltas la cosa, o el «yo» que va pegado a ella?",
+   "formatos": [
+    "cita",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — Miedo, control e identidad: las tres cuerdas"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "No forzar no es no hacer. El buen agricultor no tira de las plantas para que crezcan más rápido: crea las condiciones y deja que crezcan a su ritmo. Eso también es actuar, y de la manera más eficaz.",
+   "es_literal": false,
+   "ancla": "Un buen agricultor no tira de las plantas hacia arriba para que crezcan más rápido —las mataría—; crea pacientemente las condiciones y deja que crezcan a su ritmo.",
+   "temas": [
+    "wu wei",
+    "esfuerzo"
+   ],
+   "intensidad": 3,
+   "gancho": "No forzar no es cruzarse de brazos. Es dejar de tirar de las plantas.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 4 — Soltar no es rendirse"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuatro señales para saber si sueltas o te rindes. ¿La energía se redirige o se apaga? ¿Sueltas solo lo que no depende de ti, o también tu parte? ¿Cómo te quedas después: más ligero o más pequeño? ¿Hay aceptación, o hay desesperanza?",
+   "es_literal": false,
+   "ancla": "Tercera señal: el sentimiento posterior. Rendirse deja un poso de derrota, de resignación amarga, a veces de vergüenza. Soltar deja alivio, paz, a veces incluso una energía nueva. El cuerpo no miente: escucha cómo te quedas después.",
+   "temas": [
+    "practica",
+    "rendirse"
+   ],
+   "intensidad": 3,
+   "gancho": "Si te quedas más pequeño, era rendición. Si más ligero, era soltar.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Soltar no es rendirse"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El propio libro admite la trampa: «soltar» puede usarse como coartada para huir de lo difícil. A veces «lo he soltado» es solo una forma elegante de decir «me he rendido y no quiero admitirlo».",
+   "es_literal": false,
+   "ancla": "Es verdad que \"soltar\" puede usarse como coartada para huir de lo difícil, para dejar las cosas a medias, para no comprometerse. \"Lo he soltado\" puede ser, a veces, una forma elegante de decir \"me he rendido y no quiero admitirlo\".",
+   "temas": [
+    "honestidad",
+    "huida"
+   ],
+   "intensidad": 4,
+   "gancho": "«Lo he soltado» a veces significa otra cosa. El libro lo dice.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — Soltar no es rendirse"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Rendirse es dejar de remar y hundirse. Soltar es dejar de remar contra la corriente y usarla para avanzar. Una te ahoga; la otra te lleva.",
+   "es_literal": true,
+   "ancla": "Rendirse es dejar de remar y hundirse. Soltar es dejar de remar contra la corriente y usarla para avanzar. Una te ahoga; la otra te lleva.",
+   "temas": [
+    "rendirse",
+    "soltar"
+   ],
+   "intensidad": 4,
+   "gancho": "Una te ahoga; la otra te lleva.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 4 — Soltar no es rendirse"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La libertad, la de verdad, empieza el día que trazas esa línea con honestidad brutal y decides, como decisión de vida, poner tu energía solo en tu lado.",
+   "es_literal": true,
+   "ancla": "La libertad, la de verdad, empieza el día que trazas esa línea con honestidad brutal y decides, como decisión de vida, poner tu energía solo en tu lado. No porque el otro lado no importe, sino porque en el otro lado no puedes hacer nada más que sufrir",
+   "temas": [
+    "control",
+    "libertad"
+   ],
+   "intensidad": 4,
+   "gancho": "Traza la línea y pon tu energía solo en tu lado.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — La dicotomía del control"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Buena parte de lo que llamamos ansiedad es un intento de controlar el futuro con la mente: control mental aplicado a lo incontrolable. Por eso agota tanto y no resuelve nada: intenta sujetar el humo.",
+   "es_literal": false,
+   "ancla": "Merece la pena entender un vínculo que pocas veces se nombra pero que, una vez lo ves, te cambia la relación con la ansiedad: gran parte de lo que llamamos ansiedad es, en el fondo, un intento de controlar el futuro con la mente.",
+   "temas": [
+    "control",
+    "futuro"
+   ],
+   "intensidad": 4,
+   "gancho": "Control mental aplicado a lo incontrolable. Por eso agota tanto.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — La dicotomía del control"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Coge la preocupación que te agobia y pártela en dos columnas: «depende de mí» y «no depende de mí». Elige una acción concreta de la izquierda y hazla hoy. Lo de la derecha, suéltalo, aunque tengas que volver a soltarlo mañana.",
+   "es_literal": false,
+   "ancla": "Coge un papel, o hazlo mentalmente si no tienes dónde escribir. Traza una línea vertical en medio. A la izquierda, escribe \"depende de mí\". A la derecha, \"no depende de mí\". Ahora toma la preocupación que te agobia y desármala en piezas, colocando cada pieza en su columna.",
+   "temas": [
+    "practica",
+    "control"
+   ],
+   "intensidad": 3,
+   "gancho": "Un papel, dos columnas: lo que depende de ti y lo que no.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — La dicotomía del control"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No puedes controlar el mar. Puedes aprender a navegarlo. Suelta el timón del viento y agarra con firmeza el de tu propio barco.",
+   "es_literal": true,
+   "ancla": "No puedes controlar el mar. Puedes aprender a navegarlo. Suelta el timón del viento y agarra con firmeza el de tu propio barco.",
+   "temas": [
+    "control",
+    "responsabilidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Suelta el timón del viento. Agarra el de tu propio barco.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — La dicotomía del control"
+  },
+  {
+   "tipo": "cita",
+   "texto": "\"Debería\" no describe lo que ocurre: exige que ocurra otra cosa. Es una orden que le das a un universo que no te obedece.",
+   "es_literal": true,
+   "ancla": "Fíjate en la violencia silenciosa que esconde esa palabra tan común. \"Debería\" no describe lo que ocurre: exige que ocurra otra cosa. Es una orden que le das a un universo que no te obedece.",
+   "temas": [
+    "expectativas",
+    "realidad"
+   ],
+   "intensidad": 4,
+   "gancho": "«Debería» es una orden a un universo que no te obedece.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — El tirano del \"debería\": soltar las expectativas"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es dejar de desear: es cambiar la exigencia por la preferencia. «Esto tiene que salir bien» es un puño cerrado contra un futuro que no controlas. «Me encantaría que saliera bien, y veremos qué pasa» es una mano abierta.",
+   "es_literal": false,
+   "ancla": "La preferencia deja sitio a la vida; la exigencia lo cierra. Si prefieres —pero no exiges— que algo salga de cierta manera, cuando sale distinto puedes adaptarte con agilidad, encontrar lo bueno de lo que hay, reírte incluso, seguir adelante.",
+   "temas": [
+    "expectativas",
+    "flexibilidad"
+   ],
+   "intensidad": 3,
+   "gancho": "La preferencia deja sitio a la vida. La exigencia lo cierra.",
+   "formatos": [
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 6 — El tirano del \"debería\": soltar las expectativas"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando sientas una punzada de irritación o decepción, busca el «debería» que hay debajo. Nómbralo. Cuestiónalo: ¿de verdad debería ser así, o solo me gustaría? Y reescríbelo: «es de otra manera, y desde lo que hay actúo».",
+   "es_literal": false,
+   "ancla": "Una vez cazado el \"debería\", hazle tres cosas. Primero, nómbralo: \"ah, aquí hay un debería: creo que esto debería ser distinto\". Solo con verlo ya pierde fuerza, porque deja de operar en la oscuridad.",
+   "temas": [
+    "practica",
+    "expectativas"
+   ],
+   "intensidad": 3,
+   "gancho": "Caza el «debería» que hay debajo de la irritación y reescríbelo.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — El tirano del \"debería\": soltar las expectativas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Suelta el calendario ideal. Tu vida no llega tarde a ninguna parte: llega a su hora, que es la única que hay.",
+   "es_literal": true,
+   "ancla": "Las comparaciones con una versión ideal de ti mismo, o con dónde están otros, son una fuente inagotable de sufrimiento, y casi siempre injustas, porque comparas tu interior —que conoces con todas sus dificultades— con el exterior de los demás, que solo ves por fuera. Suelta el calendario ideal. Tu vida no llega tarde a ninguna parte: llega a su hora, que es la única que hay.",
+   "temas": [
+    "comparación",
+    "expectativas"
+   ],
+   "intensidad": 5,
+   "gancho": "Tu vida no llega tarde a ninguna parte. Llega a su hora.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — El tirano del \"debería\": soltar las expectativas"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Sembrar unas semillas y desenterrarlas cada mañana para comprobar si ya germinan. Mirarlas, preocuparse, volver a enterrarlas. Y al día siguiente, otra vez. Así tratamos casi todo lo que nos importa.",
+   "es_literal": false,
+   "ancla": "Imagina a alguien que siembra unas semillas en su huerto y, movido por la ansiedad de que crezcan, las desentierra cada mañana para comprobar si ya han empezado a germinar. Mira la semilla, no ve cambios, se preocupa, la vuelve a enterrar",
+   "temas": [
+    "resultado",
+    "control"
+   ],
+   "intensidad": 4,
+   "gancho": "Desenterrar la semilla cada mañana para ver si ya está creciendo.",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 7 — Soltar el resultado: confiar en el proceso"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El deportista que solo piensa en ganar, que carga cada jugada con el peso de la victoria, se tensa y juega peor. El músico obsesionado con impresionar toca rígido, sin alma, y no impresiona.",
+   "es_literal": true,
+   "ancla": "El deportista que solo piensa en ganar, que carga cada jugada con el peso de la victoria, se tensa y juega peor. El músico obsesionado con impresionar toca rígido, sin alma, y no impresiona. El que quiere caer bien a toda costa, desde la necesidad desesperada, suele caer peor, porque se le nota el hambre de aprobación y eso ahuyenta.",
+   "temas": [
+    "resultado",
+    "presión"
+   ],
+   "intensidad": 4,
+   "gancho": "El apego al resultado sabotea justo el resultado que ansías.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — Soltar el resultado: confiar en el proceso"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Identifica el punto de entrega de lo que te importa: la hoja entregada, la solicitud enviada, la conversación dicha. Vuélcate entero hasta ahí. Y al cruzarlo, hazlo consciente: «ya está, mi parte está hecha, lo suelto».",
+   "es_literal": false,
+   "ancla": "¿Dónde está el punto de entrega en cada cosa? En un examen, es el momento en que entregas la hoja. En una candidatura, cuando envías la solicitud. En una conversación difícil, cuando has dicho lo que tenías que decir. En una declaración de amor, cuando la has hecho. En un proyecto, cuando lo presentas.",
+   "temas": [
+    "practica",
+    "resultado"
+   ],
+   "intensidad": 3,
+   "gancho": "Antes del punto de entrega, todo. Después, ya no es asunto tuyo.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — Soltar el resultado: confiar en el proceso"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Haz tu parte con todo el corazón, y suelta el resto. La cosecha no está en tus manos; la siembra, sí. Ocúpate de sembrar bien y deja crecer.",
+   "es_literal": true,
+   "ancla": "Haz tu parte con todo el corazón, y suelta el resto. La cosecha no está en tus manos; la siembra, sí. Ocúpate de sembrar bien y deja crecer.",
+   "temas": [
+    "resultado",
+    "esfuerzo"
+   ],
+   "intensidad": 4,
+   "gancho": "La cosecha no está en tus manos. La siembra, sí.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — Soltar el resultado: confiar en el proceso"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La vida no está en la meta, está en el camino: no en el día de la boda, sino en los miles de días de la relación; no en el título colgado en la pared, sino en los años de aprender.",
+   "es_literal": false,
+   "ancla": "La vida no está en la meta; está en el camino. No está en el día de la boda, sino en los miles de días de la relación. No está en el título colgado en la pared, sino en los años de aprender.",
+   "temas": [
+    "proceso",
+    "presencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Quien vive solo para las metas se pierde casi toda su vida.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — Soltar el resultado: confiar en el proceso"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando te aferras a la seguridad, a la certeza, te estás aferrando con todas tus fuerzas a algo que no existe, que nunca ha existido, y por eso el esfuerzo es infinito y la paz que buscas no llega jamás: estás intentando agarrar niebla.",
+   "es_literal": true,
+   "ancla": "Cuando te aferras a la seguridad, a la certeza, te estás aferrando con todas tus fuerzas a algo que no existe, que nunca ha existido, y por eso el esfuerzo es infinito y la paz que buscas no llega jamás: estás intentando agarrar niebla.",
+   "temas": [
+    "certeza",
+    "incertidumbre"
+   ],
+   "intensidad": 4,
+   "gancho": "Aferrarse a la certeza es intentar agarrar niebla.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — Soltar la certeza y el miedo al cambio"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El cambio no es el enemigo: la rigidez sí. En la tormenta, el roble que se niega a doblarse se parte por el tronco. El junco se inclina, deja pasar el viento por encima y se yergue entero cuando amaina.",
+   "es_literal": false,
+   "ancla": "En cambio el árbol flexible, el junco, el bambú, la caña fina que parecía tan débil, se dobla ante el viento, se inclina humildemente hasta casi tocar el suelo, deja pasar la fuerza de la tormenta por encima de sí",
+   "temas": [
+    "cambio",
+    "flexibilidad"
+   ],
+   "intensidad": 3,
+   "gancho": "El roble se parte. El junco se dobla y sigue en pie.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8 — Soltar la certeza y el miedo al cambio"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando la incertidumbre te paralice, no te exijas ver el camino entero. Pregúntate solo: «¿cuál es el siguiente paso pequeño que sí puedo dar?». Y dalo. Desde ahí se ve el siguiente.",
+   "es_literal": false,
+   "ancla": "En lugar de exigirte ver todo el camino antes de moverte —que es imposible y por eso te quedas quieto—, pregúntate solo: \"¿cuál es el siguiente paso pequeño que sí puedo dar?\". Y dalo.",
+   "temas": [
+    "practica",
+    "incertidumbre"
+   ],
+   "intensidad": 3,
+   "gancho": "No hace falta ver el camino entero. Solo el siguiente paso.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — Soltar la certeza y el miedo al cambio"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Amor fati no es alegrarse del dolor ni resignarse. Es entender que, cuando algo ya ha ocurrido y no se puede cambiar, pelearse con ello solo añade sufrimiento sin cambiar nada.",
+   "es_literal": false,
+   "ancla": "Significa otra cosa: que, una vez algo ha ocurrido y ya no se puede cambiar, pelearse con ello —desear que no hubiera pasado, resistirse, amargarse— solo añade sufrimiento sin cambiar nada.",
+   "temas": [
+    "aceptación",
+    "amor fati"
+   ],
+   "intensidad": 3,
+   "gancho": "Pelearse con lo que ya pasó añade sufrimiento y no cambia nada.",
+   "formatos": [
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 8 — Soltar la certeza y el miedo al cambio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La rumiación es muy astuta y se disfraza de cosas nobles: se disfraza de \"estar procesando lo que pasó\", de \"no dejar que se salga con la suya\", de \"aprender la lección para que no vuelva a pasarme\".",
+   "es_literal": true,
+   "ancla": "La rumiación es muy astuta y se disfraza de cosas nobles: se disfraza de \"estar procesando lo que pasó\", de \"no dejar que se salga con la suya\", de \"aprender la lección para que no vuelva a pasarme\". Pero en realidad no procesa nada, no resuelve nada, no protege de nada.",
+   "temas": [
+    "rumiación",
+    "pasado"
+   ],
+   "intensidad": 4,
+   "gancho": "La rumiación se disfraza de «estar procesando lo que pasó».",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — Soltar el pasado y los agravios"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El que te hizo daño hace años no te lo está haciendo hoy. Al revivirlo, eres tú quien se lo hace de nuevo cada día, en su nombre y gratis, cuando él ni siquiera se acuerda.",
+   "es_literal": false,
+   "ancla": "El que te hizo daño hace años ya no te lo está haciendo hoy; eres tú quien, al recordarlo con toda su carga, te lo haces de nuevo cada día, en su nombre, gratis, cuando él ni siquiera se acuerda.",
+   "temas": [
+    "rencor",
+    "presente"
+   ],
+   "intensidad": 5,
+   "gancho": "Dejar de ser, a la vez, la víctima y el verdugo de la misma herida.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — Soltar el pasado y los agravios"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Reconoce el carrusel: das vueltas a lo mismo sin llegar a ningún sitio nuevo. Córtalo con una frase —«esto ya pasó, no está pasando ahora»— y un gesto físico. Y redirige la atención a algo del presente, porque si dejas un vacío la mente vuelve al bucle.",
+   "es_literal": false,
+   "ancla": "Segundo, corta con una frase y un gesto. En cuanto reconozcas la rumiación, córtala con una frase clara —\"esto ya pasó, no está pasando ahora\", \"esto no me lleva a ningún sitio\"— acompañada, si puedes, de un pequeño gesto físico que marque el corte: mover el cuerpo, cambiar de habitación, lavarte la cara, respirar hondo tres veces.",
+   "temas": [
+    "practica",
+    "rumiación"
+   ],
+   "intensidad": 3,
+   "gancho": "Reconoce el carrusel, córtalo con una frase y un gesto, y redirige.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — Soltar el pasado y los agravios"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no promete que la rumiación se corte a la primera ni para siempre. Volverá, muchas veces al día al principio. El trabajo es cortarla cada vez, con suavidad, sin frustrarse porque haya vuelto.",
+   "es_literal": false,
+   "ancla": "No esperes cortar la rumiación a la primera ni para siempre. Volverá, muchas veces al día al principio. El trabajo es cortarla cada vez, con suavidad, sin frustrarte porque haya vuelto.",
+   "temas": [
+    "honestidad",
+    "rumiación"
+   ],
+   "intensidad": 3,
+   "gancho": "Volverá muchas veces al día. Cortarla cada vez es todo el trabajo.",
+   "formatos": [
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — Soltar el pasado y los agravios"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Perdonar no es decir que estuvo bien, ni excusarlo, ni olvidar, ni volver a confiar. Es soltar la deuda emocional que llevabas apuntada: ocurre enteramente dentro de ti y no necesita al otro para nada.",
+   "es_literal": false,
+   "ancla": "Perdonar es un acto que ocurre enteramente dentro de ti, y que no necesita al otro para nada. Es soltar la deuda emocional que llevas apuntada. Es dejar de reclamar, mental y constantemente, para siempre, un pasado que no va a cambiar por más que lo reclames.",
+   "temas": [
+    "perdón",
+    "rencor"
+   ],
+   "intensidad": 4,
+   "gancho": "Perdonar no absuelve al otro. Baja la mano que llevabas tendida.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — El perdón como acto de soltar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El rencor es así de profundamente injusto en su funcionamiento: casi siempre castiga al que lo siente, no al que lo provocó. El veneno lo bebes tú.",
+   "es_literal": true,
+   "ancla": "El único que se envenenaba, día tras día, año tras año, era Marcos. El rencor es así de profundamente injusto en su funcionamiento: casi siempre castiga al que lo siente, no al que lo provocó. El veneno lo bebes tú.",
+   "temas": [
+    "rencor",
+    "perdón"
+   ],
+   "intensidad": 5,
+   "gancho": "El rencor casi siempre castiga al que lo siente. El veneno lo bebes tú.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — El perdón como acto de soltar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Escribe una carta que no vas a enviar a la persona con la que cargas un agravio antiguo —o a ti mismo, si el agravio es contigo—. Dilo todo, sin censura. Termina con: «esto te lo suelto, no por ti, sino por mí». Luego guárdala en un cajón o rómpela.",
+   "es_literal": false,
+   "ancla": "escribe (sin enviarla, esto es importante) una carta breve a alguien con quien cargas un agravio antiguo; o, si el agravio más pesado es contigo mismo, escríbetela a ti. Di en ella todo lo que necesites decir, sin censura, sin quedarte nada dentro.",
+   "temas": [
+    "practica",
+    "perdón"
+   ],
+   "intensidad": 4,
+   "gancho": "Una carta que no se envía. El destinatario, en el fondo, eres tú.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — El perdón como acto de soltar"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Perdonar y volver a confiar son dos cosas distintas, y puedes hacer la primera sin la segunda. Perdonas por tu paz; no confías por tu prudencia. Ambas son sabias y no se contradicen.",
+   "es_literal": false,
+   "ancla": "Puedes perdonar a alguien completamente —soltar todo el rencor, desearle lo mejor, quedar en paz por dentro— y a la vez no volver a confiar en él, no volver a ponerte en sus manos, mantener las distancias sensatas. Perdonas por tu paz; no confías por tu prudencia.",
+   "temas": [
+    "perdón",
+    "confianza"
+   ],
+   "intensidad": 4,
+   "gancho": "Perdonar no te obliga a ser ingenuo.",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — El perdón como acto de soltar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "En ambos casos he cometido el mismo error fatal: he puesto las llaves de mi paz interior en el bolsillo de otra persona, y ahora dependo de que me las devuelva.",
+   "es_literal": true,
+   "ancla": "Si necesito que me aprueben, quedo automáticamente en manos de cada opinión ajena, de cada gesto, de cada silencio interpretable. Si necesito tener razón, quedo en manos de cada discusión, incapaz de dejar pasar ninguna. En ambos casos he cometido el mismo error fatal: he puesto las llaves de mi paz interior en el bolsillo de otra persona",
+   "temas": [
+    "aprobación",
+    "razón"
+   ],
+   "intensidad": 4,
+   "gancho": "Las llaves de tu paz, en el bolsillo de otra persona.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 11 — Soltar la aprobación y la necesidad de tener razón"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un mensaje de tres líneas reescrito cuatro veces para asegurarse de que suena bien, de que no molesta a nadie, de que caerá simpático. Y luego una noche entera dándole vueltas a una cara rara.",
+   "es_literal": false,
+   "ancla": "¿Cuántas veces has reescrito un mensaje de tres líneas antes de atreverte a enviarlo, para asegurarte de que suena bien, de que no molesta a nadie, de que caerá simpático?",
+   "temas": [
+    "aprobación",
+    "cotidiano"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres líneas. Cuatro versiones. Y sigue sin parecerte bien.",
+   "formatos": [
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — Soltar la aprobación y la necesidad de tener razón"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Elige a propósito una conversación de poca importancia y decide de antemano que en esa no vas a tener la última palabra. Deja que el otro cierre. Muérdete las ganas de replicar. Y observa lo que pasa: casi siempre, nada.",
+   "es_literal": false,
+   "ancla": "Elige, a propósito, una conversación de baja importancia y decide de antemano que en esa no vas a tener la última palabra, pase lo que pase. Deja que el otro cierre. Muérdete las ganas de replicar. Y observa: casi siempre descubres que no pasa nada malo, que el mundo sigue, que respiras mejor.",
+   "temas": [
+    "practica",
+    "razón"
+   ],
+   "intensidad": 3,
+   "gancho": "Renuncia a propósito a la última palabra en una conversación tonta.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Soltar la aprobación y la necesidad de tener razón"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es lo mismo importarte los demás que necesitar su aprobación. Puedes cuidar, escuchar y ser amable sin necesitar el visto bueno de nadie para sentirte válido; de hecho, a menudo se estorban.",
+   "es_literal": false,
+   "ancla": "Puedes cuidar mucho a las personas, ser considerado, empático, amable —importarte de verdad los demás— y a la vez no necesitar su aprobación para sentirte válido.",
+   "temas": [
+    "aprobación",
+    "vínculos"
+   ],
+   "intensidad": 3,
+   "gancho": "Importarte la gente no es lo mismo que necesitar su aprobación.",
+   "formatos": [
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 11 — Soltar la aprobación y la necesidad de tener razón"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La necesidad de aprobación ni siquiera consigue lo que busca: al que se pliega a todo por gustar se le nota la necesidad, y la necesidad ahuyenta. Se admira y se quiere al que se sostiene.",
+   "es_literal": false,
+   "ancla": "Y lo tercero, lo más paradójico: la necesidad de aprobación no consigue ni siquiera lo que busca. La gente no admira ni quiere de verdad al que se pliega a todo por gustar; admira y quiere al que es auténtico, al que se sostiene, al que tiene criterio propio.",
+   "temas": [
+    "aprobación",
+    "autenticidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Se le nota la necesidad. Y la necesidad ahuyenta.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — Soltar la aprobación y la necesidad de tener razón"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Muchas veces lo que hay que soltar no es a la persona, sino la expectativa que le has puesto encima. El dolor no viene de quien es, sino de la distancia entre quien es y quien necesitábamos que fuera.",
+   "es_literal": false,
+   "ancla": "La mayor parte del dolor en las relaciones largas y significativas no viene, si lo miras de cerca, de la persona en sí: viene de la distancia entre quien esa persona realmente es y quién necesitamos desesperadamente que fuera.",
+   "temas": [
+    "relaciones",
+    "expectativas"
+   ],
+   "intensidad": 4,
+   "gancho": "A veces no sueltas a la persona. Sueltas lo que le pedías de más.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — Los que vienen para un tramo: soltar relaciones que ya no encajan"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Algunas personas vienen para toda la vida y otras solo para un tramo. Agradece el tramo. No conviertas una despedida en una condena.",
+   "es_literal": true,
+   "ancla": "Algunas personas vienen para toda la vida y otras solo para un tramo. Agradece el tramo. No conviertas una despedida en una condena.",
+   "temas": [
+    "relaciones",
+    "gratitud"
+   ],
+   "intensidad": 4,
+   "gancho": "Agradece el tramo. No conviertas una despedida en una condena.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 12 — Los que vienen para un tramo: soltar relaciones que ya no encajan"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Ante una relación que te pesa, escribe tres respuestas: qué espero de esta persona que no me está dando; si es razonable esperarlo de quien es ahora, con su historia y sus límites; y si puedo aceptarla como es y disfrutar de lo que sí me da.",
+   "es_literal": false,
+   "ancla": "¿Qué espero de esta persona que no me está dando? Sé concreto: ¿espero más disponibilidad, más reconocimiento, más cariño, que cambie de forma de ser, que sea como era antes? ¿Es razonable esperar eso de quien es, tal como es ahora, con su historia y sus límites?",
+   "temas": [
+    "practica",
+    "relaciones"
+   ],
+   "intensidad": 3,
+   "gancho": "Antes de soltar a alguien, revisa qué le estás pidiendo de más.",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — Los que vienen para un tramo: soltar relaciones que ya no encajan"
+  },
+  {
+   "tipo": "cita",
+   "texto": "la identidad es algo que llevas puesto, no algo que eres en tu esencia. Los papeles que representamos son ropa, no piel. Se ponen y se quitan; no son el cuerpo.",
+   "es_literal": true,
+   "ancla": "la identidad es algo que llevas puesto, no algo que eres en tu esencia. Los papeles que representamos son ropa, no piel. Se ponen y se quitan; no son el cuerpo.",
+   "temas": [
+    "identidad",
+    "roles"
+   ],
+   "intensidad": 4,
+   "gancho": "Los papeles que representamos son ropa, no piel.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — Soltar las identidades caducadas"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Revisa las etiquetas con las que te defines y cambia el «soy» por el «he hecho»: no «soy el fuerte de la familia», sino «he hecho a menudo de fuerte en mi familia». Luego quítalas todas, una a una, y mira qué queda debajo.",
+   "es_literal": false,
+   "ancla": "La práctica consiste en revisar las etiquetas con las que te defines y reformularlas así: no \"soy el fuerte de la familia\", sino \"he hecho a menudo de fuerte en mi familia\"; no \"soy la responsable\", sino \"he asumido muchas responsabilidades\".",
+   "temas": [
+    "practica",
+    "identidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Cambia «soy ingeniero» por «ejercí de ingeniero» y mira qué se afloja.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13 — Soltar las identidades caducadas"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Si quitaras una a una todas tus etiquetas —profesión, roles familiares, rasgos, logros—, ¿quién crees que quedaría debajo?",
+   "es_literal": false,
+   "ancla": "Haz la lista de tus etiquetas —tu profesión, tus roles familiares, tus rasgos, tus logros— e imagina, como ejercicio, que las quitas todas una a una. ¿Qué queda? No queda un vacío, aunque al principio lo parezca.",
+   "temas": [
+    "identidad",
+    "pregunta"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Quién queda cuando quitas todas las etiquetas?",
+   "formatos": [
+    "cita",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — Soltar las identidades caducadas"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cada objeto que guardamos \"por si acaso\", cada cosa que ya no usamos ni usaremos pero que somos incapaces de soltar, es en el fondo un pequeño puño cerrado hecho materia, un miedo solidificado y guardado en un cajón.",
+   "es_literal": true,
+   "ancla": "Cada objeto que guardamos \"por si acaso\", cada cosa que ya no usamos ni usaremos pero que somos incapaces de soltar, es en el fondo un pequeño puño cerrado hecho materia, un miedo solidificado y guardado en un cajón.",
+   "temas": [
+    "objetos",
+    "miedo"
+   ],
+   "intensidad": 4,
+   "gancho": "Un puño cerrado hecho materia, guardado en un cajón.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — La casa como espejo: soltar lo material y el exceso"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Muchos objetos no guardan una función: guardan un «yo» antiguo. La ropa de una talla que fue no te devuelve aquel cuerpo; solo te cobra, cada mañana al abrir el armario, un pequeño impuesto de tristeza.",
+   "es_literal": false,
+   "ancla": "Guardar la ropa de una talla que fue no te devuelve aquel cuerpo; solo te recuerda, cada mañana al abrir el armario, que ya no lo tienes, y te cobra un pequeño impuesto de tristeza.",
+   "temas": [
+    "objetos",
+    "identidad"
+   ],
+   "intensidad": 4,
+   "gancho": "No guardas el jersey. Guardas a quien eras cuando te lo ponías.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — La casa como espejo: soltar lo material y el exceso"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "No ordenes la casa: ordena un cajón. Vacíalo entero y pregunta de cada cosa: ¿lo uso?, ¿lo necesito de verdad?, ¿me aporta algo? Lo dudoso, a una caja aparte, cerrada y con fecha. Y lo que sueltes, que circule: regala, dona, vende.",
+   "es_literal": false,
+   "ancla": "Tercero, la caja de la duda. Para lo que no sabes si soltar, ten una caja aparte. Mete ahí lo dudoso, ciérrala, ponle fecha, y guárdala unos meses. Si al cabo de ese tiempo no has abierto la caja ni has echado de menos nada de lo que hay dentro —y casi nunca lo echarás—, ya tienes tu respuesta",
+   "temas": [
+    "practica",
+    "objetos"
+   ],
+   "intensidad": 3,
+   "gancho": "Un cajón, tres preguntas y una caja de la duda con fecha.",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — La casa como espejo: soltar lo material y el exceso"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Hay una culpa que avisa y empuja a reparar, y otra que solo muerde. Seguir cargando la segunda es como dejar sonando la alarma de incendios después de haber apagado el fuego: ya no informa de nada, solo hace ruido.",
+   "es_literal": false,
+   "ancla": "Seguir cargándola después de haber reparado es como seguir sonando la alarma de incendios después de haber apagado el fuego: ya no informa de nada, solo hace ruido y agota.",
+   "temas": [
+    "culpa",
+    "autoexigencia"
+   ],
+   "intensidad": 4,
+   "gancho": "La alarma sigue sonando cuando el fuego ya se apagó.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15 — Soltar la culpa y la autoexigencia"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando te sorprendas machacándote, para y pregunta: «¿le hablaría así a un buen amigo?». Primero detecta la voz del juez; luego tradúcela a la voz del amigo: la misma verdad, dicha con la mano en el hombro.",
+   "es_literal": false,
+   "ancla": "Cuando te descubras diciéndote cosas duras —\"soy un desastre\", \"no sirvo para nada\", \"otra vez la he fastidiado\", \"cómo he podido ser tan tonto\"—, para un momento e imagina que un buen amigo, alguien a quien quieres de verdad, viene a contarte que ha cometido exactamente el mismo error que tú te estás reprochando.",
+   "temas": [
+    "practica",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Le hablarías así a un buen amigo? Pues tradúcelo.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Soltar la culpa y la autoexigencia"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El error ya te costó una vez. Cobrártelo cada día no repara nada; solo te arruina el presente. Suelta al juez. Quédate con la lección, y tira el castigo.",
+   "es_literal": true,
+   "ancla": "El error ya te costó una vez. Cobrártelo cada día no repara nada; solo te arruina el presente. Suelta al juez. Quédate con la lección, y tira el castigo.",
+   "temas": [
+    "culpa",
+    "autoexigencia"
+   ],
+   "intensidad": 5,
+   "gancho": "Quédate con la lección, y tira el castigo.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 15 — Soltar la culpa y la autoexigencia"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No se trata de no tener nada: se trata de no ser tenido por nada. Puedes tener casa, trabajo, gente a la que quieres y planes grandes. La diferencia está solo en cómo lo sostienes.",
+   "es_literal": false,
+   "ancla": "Soltar, el soltar de verdad, es algo mucho más sutil, más valiente y muchísimo más libre: es no ser tenido por nada. Puedes tener una casa que ames, un trabajo que te importe de verdad, personas a las que quieras con toda tu alma, sueños grandes, planes, proyectos ilusionantes.",
+   "temas": [
+    "libertad",
+    "apego"
+   ],
+   "intensidad": 4,
+   "gancho": "No es no tener nada. Es que nada te tenga a ti.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — Manos abiertas: el arte de sostener sin agarrar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un pájaro posado en la palma abierta no se cae: se queda, porque está a gusto, porque puede irse y por eso no necesita huir. Un vaso de agua en la mano abierta y relajada no se cae: se sostiene sin esfuerzo.",
+   "es_literal": true,
+   "ancla": "Un pájaro posado en la palma abierta no se cae: se queda, porque está a gusto, porque puede irse y por eso no necesita huir. Un vaso de agua en la mano abierta y relajada no se cae: se sostiene sin esfuerzo.",
+   "temas": [
+    "mano abierta",
+    "vínculos"
+   ],
+   "intensidad": 5,
+   "gancho": "Se queda porque puede irse. Por eso no necesita huir.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — Manos abiertas: el arte de sostener sin agarrar"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Varias veces al día, abre las manos de verdad: palmas hacia arriba, dedos extendidos, relaja. Y recuérdate lo que significa el gesto: no estoy apretando, estoy sosteniendo; no estoy agarrando, estoy disponible.",
+   "es_literal": false,
+   "ancla": "Varias veces al día, en momentos de tensión o simplemente como recordatorio, abre las manos. Gira las palmas hacia arriba, extiende los dedos, relaja. Y mientras lo haces, recuérdate lo que ese gesto significa: no estoy apretando, estoy sosteniendo; no estoy agarrando, estoy disponible",
+   "temas": [
+    "practica",
+    "cuerpo"
+   ],
+   "intensidad": 3,
+   "gancho": "Palmas arriba, dedos sueltos. El cuerpo recuerda lo que la mente olvida.",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 16 — Manos abiertas: el arte de sostener sin agarrar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Soltar no es perder algo: es abrir la mano para poder volver a sostener la vida.",
+   "es_literal": true,
+   "ancla": "Soltar no es perder algo: es abrir la mano para poder volver a sostener la vida.",
+   "temas": [
+    "soltar",
+    "frase madre"
+   ],
+   "intensidad": 5,
+   "gancho": "Abrir la mano para poder volver a sostener la vida.",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Cierre — Vivir con las manos abiertas"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El trabajo no es no cerrar nunca la mano: eso es imposible. Es volver a abrirla cada vez que se cierra. Un uno por ciento cada día, una apertura cada vez.",
+   "es_literal": false,
+   "ancla": "Ese volver a abrir la mano cada vez que se cierra —y no el imposible no cerrarla nunca— es todo el trabajo, es la práctica entera. Un uno por ciento cada día, una apertura cada vez.",
+   "temas": [
+    "constancia",
+    "practica"
+   ],
+   "intensidad": 4,
+   "gancho": "No es no cerrar la mano nunca. Es volver a abrirla cada vez.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Cierre — Vivir con las manos abiertas"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro dice que no hay transformación milagrosa, y que prometerla sería traicionar todo lo que defiende. Lo que cambia es más discreto: el cansancio de fondo, la relación con lo que no controlas, la presencia.",
+   "es_literal": false,
+   "ancla": "No quiero venderte una transformación milagrosa, porque no la hay, y prometerla sería traicionar todo lo que este libro defiende.",
+   "temas": [
+    "honestidad",
+    "expectativas"
+   ],
+   "intensidad": 3,
+   "gancho": "No hay transformación milagrosa. Lo dice el propio libro.",
+   "formatos": [
+    "cita",
+    "articulo"
+   ],
+   "capitulo": "Cierre — Vivir con las manos abiertas"
+  }
+ ]
+}

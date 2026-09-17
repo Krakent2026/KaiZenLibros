@@ -1,0 +1,1265 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "el-arte-de-conocerte",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "El autoconocimiento es, sencillamente, el trabajo paciente de bajarte del mapa y caminar el territorio.",
+   "es_literal": true,
+   "ancla": "El autoconocimiento es, sencillamente, el trabajo paciente de bajarte del mapa y caminar el territorio. De mirar por ti mismo, con tus propios ojos, quién eres de verdad: qué valoras, qué sientes, qué te mueve, qué te frena, qué patrones repites sin darte cuenta.",
+   "temas": [
+    "autoconocimiento",
+    "mapa y territorio"
+   ],
+   "intensidad": 4,
+   "gancho": "El mapa lo dibujaron otros. El territorio se camina.",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — El mapa y el territorio"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Es de noche. Has terminado el día, has cumplido, has sonreído cuando tocaba sonreír. Y en la oscuridad, con el techo por delante, aparece una pregunta que no pediste y que no sabes de dónde viene.",
+   "es_literal": false,
+   "ancla": "Es de noche. Has terminado el día. Has hecho lo que tenías que hacer, has respondido correos, has cumplido, has sonreído cuando tocaba sonreír.",
+   "temas": [
+    "piloto automático",
+    "sospecha"
+   ],
+   "intensidad": 3,
+   "gancho": "La pregunta que aparece cuando por fin se apaga la luz",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Introducción — El mapa y el territorio"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no esconde que esto remueve. Dice que a ratos será incómodo y que, si aflora un dolor demasiado grande para sostenerlo solo, conviene buscar acompañamiento profesional: es una linterna, no un sustituto.",
+   "es_literal": false,
+   "ancla": "Y si en algún momento aflora un dolor demasiado grande para sostenerlo solo, no seas un héroe. Buscar el acompañamiento de un buen profesional no es rendirse; es cuidarse. Este libro es una linterna para tu propio interior, no un sustituto de la ayuda que a veces todos necesitamos.",
+   "temas": [
+    "límites del libro",
+    "acompañamiento"
+   ],
+   "intensidad": 3,
+   "gancho": "Una linterna para el interior, no un sustituto de la ayuda",
+   "formatos": [
+    "cita",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Introducción — El mapa y el territorio"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El cuarto precio de no conocerte no es la mala vida. Es la vida correcta: la que funciona, la que no da problemas, y por debajo la sospecha de que podría haber sido más tuya.",
+   "es_literal": false,
+   "ancla": "Y hay un cuarto precio, más difícil de ver porque no duele: **la vida a medias**. No la mala vida, ojo. La vida correcta, la que funciona, la que no da problemas.",
+   "temas": [
+    "vida a medias",
+    "coste"
+   ],
+   "intensidad": 4,
+   "gancho": "Hay un precio que no duele, y por eso casi nadie lo ve",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Introducción — El mapa y el territorio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No puedes dar forma a un barro que no conoces. Ni al del cuenco, ni al tuyo.",
+   "es_literal": true,
+   "ancla": "No puedes dar forma a un barro que no conoces. Ni al del cuenco, ni al tuyo.",
+   "temas": [
+    "autoconocimiento",
+    "alfarero"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo primero del oficio no es la pieza: es el barro",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — El primer paso: por qué conocerte lo cambia todo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Conocerte no es hacer la lista de tus defectos y flagelarte con ella. Un espejo no juzga lo que refleja; solo lo muestra. Ese es el tono.",
+   "es_literal": false,
+   "ancla": "No es autojuicio. Conocerte no significa hacer una lista de tus defectos y flagelarte con ella. Un espejo no juzga lo que refleja; solo lo muestra. Ese es exactamente el tono que buscamos.",
+   "temas": [
+    "autojuicio",
+    "tono"
+   ],
+   "intensidad": 3,
+   "gancho": "Un espejo no juzga lo que refleja",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El primer paso: por qué conocerte lo cambia todo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Estar contigo no es lo mismo que mirarte. Se pueden vivir cincuenta años dentro de una casa sin haber abierto nunca la puerta del sótano.",
+   "es_literal": false,
+   "ancla": "El problema es que estar contigo no es lo mismo que mirarte. Puedes vivir cincuenta años dentro de una casa sin haber abierto nunca la puerta del sótano.",
+   "temas": [
+    "ya me conozco",
+    "puntos ciegos"
+   ],
+   "intensidad": 4,
+   "gancho": "Llevas contigo toda la vida y aun así hay puertas sin abrir",
+   "formatos": [
+    "cita",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El primer paso: por qué conocerte lo cambia todo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "El inventario de las tres sorpresas: repasa la última semana. ¿Qué reacción tuya te extrañó? ¿Qué te ilusionó más de lo «debido» o te molestó más de lo «que tocaba»? ¿Qué haces a menudo que contradice cómo te describirías? Anota tres, sin explicarlas ni juzgarlas.",
+   "es_literal": false,
+   "ancla": "Coge tu diario. Vas a buscar tres cosas sobre ti mismo que te sorprendan, tres cosas que no encajen del todo con la idea que tienes de quién eres. Para encontrarlas, revisa la última semana y pregúntate:",
+   "temas": [
+    "diario",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres sorpresas de la última semana, apuntadas sin explicarlas",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 1 — El primer paso: por qué conocerte lo cambia todo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El problema no es tener máscara. El problema es olvidarse de que uno la lleva puesta. Es confundir la careta con la cara.",
+   "es_literal": true,
+   "ancla": "El problema no es tener máscara. El problema es olvidarse de que uno la lleva puesta. Es confundir la careta con la cara. Es cuando la persona se traga a la persona.",
+   "temas": [
+    "máscara",
+    "identidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Confundir la careta con la cara",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — El yo que crees ser: identidad personal vs. identidad social"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Y yo, ¿quién soy cuando no tengo que ser nadie para nadie?",
+   "es_literal": true,
+   "ancla": "Mucha gente huye de esos momentos llenándolos de pantallas, de planes, de ruido, precisamente porque el silencio les enfrenta con una pregunta que no saben responder: *y yo, ¿quién soy cuando no tengo que ser nadie para nadie?*",
+   "temas": [
+    "identidad social",
+    "roles"
+   ],
+   "intensidad": 4,
+   "gancho": "La pregunta que asoma los domingos por la tarde",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "cita"
+   ],
+   "capitulo": "Capítulo 2 — El yo que crees ser: identidad personal vs. identidad social"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es lo mismo «yo soy» que «me dijeron que soy». En cuanto pones la segunda etiqueta delante de tus certezas, se aflojan: dejan de ser hierro y pasan a ser barro.",
+   "es_literal": false,
+   "ancla": "Cuando empiezas a poner esa etiqueta —«me dijeron»— delante de tus supuestas verdades, ocurre algo asombroso: se aflojan. Dejan de ser hierro y pasan a ser barro. Y el barro, como sabe el alfarero, se puede volver a moldear.",
+   "temas": [
+    "etiquetas",
+    "identidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Dejan de ser hierro y pasan a ser barro",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — El yo que crees ser: identidad personal vs. identidad social"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Las etiquetas que más aprietan suelen llegar como elogio. «Eres la fuerte», «contigo siempre se puede contar»: suenan a regalo y funcionan como cárceles cómodas.",
+   "es_literal": false,
+   "ancla": "Suenan a regalo, pero son cárceles cómodas. Porque cuando tu identidad entera se construye sobre ser el responsable, el que aguanta, el que no falla, no te puedes permitir un día de debilidad, un no, un error, sin sentir que traicionas quién eres.",
+   "temas": [
+    "etiquetas",
+    "elogio"
+   ],
+   "intensidad": 4,
+   "gancho": "La etiqueta más cariñosa puede ser la que más te encoge",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — El yo que crees ser: identidad personal vs. identidad social"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Dos columnas en el diario: «Yo soy» a la izquierda, «Me dijeron que soy» a la derecha. Escribe rápido cinco frases que te definan y colócalas donde sientas que van. Las que te hagan dudar, márcalas con un interrogante y déjalas en el centro.",
+   "es_literal": false,
+   "ancla": "Ahora escribe rápido, sin pensar demasiado, cinco frases que te definan. Colócalas en la columna que sientas que les corresponde. Si dudas de en cuál va una, ese es exactamente el material más valioso: márcala con un interrogante y déjala en el centro.",
+   "temas": [
+    "identidad",
+    "diario"
+   ],
+   "intensidad": 3,
+   "gancho": "Las dudas señalan las etiquetas que llevas años sin revisar",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — El yo que crees ser: identidad personal vs. identidad social"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Una meta es un destino: «comprar una casa», «ascender», «correr una maratón». Se alcanza y se acaba. Un valor es una dirección: «la honestidad», «el cuidado de los míos», «la libertad», «la creatividad». No se alcanza nunca del todo; se vive, o no se vive, en cada acto.",
+   "es_literal": true,
+   "ancla": "Una meta es un destino: «comprar una casa», «ascender», «correr una maratón». Se alcanza y se acaba. Un valor es una dirección: «la honestidad», «el cuidado de los míos», «la libertad», «la creatividad». No se alcanza nunca del todo; se vive, o no se vive, en cada acto.",
+   "temas": [
+    "valores",
+    "metas"
+   ],
+   "intensidad": 4,
+   "gancho": "La meta se alcanza. El valor se vive o no se vive.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — Tu brújula: los valores"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Cuál de mis valores reales llevo más tiempo traicionando o aparcando? ¿Y cuál sería el paso más pequeño posible, ridículamente pequeño, para honrarlo esta semana?",
+   "es_literal": true,
+   "ancla": "¿Cuál de mis valores reales llevo más tiempo traicionando o aparcando? ¿Y cuál sería el paso más pequeño posible, ridículamente pequeño, para honrarlo esta semana?",
+   "temas": [
+    "valores",
+    "diario"
+   ],
+   "intensidad": 4,
+   "gancho": "El paso ridículamente pequeño también cuenta",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — Tu brújula: los valores"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Un valor auténtico te atrae; un mandato heredado te empuja. Y no es lo mismo caminar hacia algo que huir de un castigo.",
+   "es_literal": false,
+   "ancla": "Un valor auténtico te da energía; un mandato disfrazado de valor te da presión y culpa. Presta atención a esa diferencia de textura: lo que de verdad valoras te atrae; lo que te impusieron te empuja. Y no es lo mismo caminar hacia algo que huir de un castigo.",
+   "temas": [
+    "valores",
+    "mandatos heredados"
+   ],
+   "intensidad": 4,
+   "gancho": "Diferencia de textura: uno atrae, el otro empuja",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — Tu brújula: los valores"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para descubrir tus valores reales no te preguntes: obsérvate. Mira dónde va tu tiempo cuando nadie te obliga, en qué gastas el dinero sin pensarlo y qué te da energía y qué te la quita. Ahí, en tus actos, está el sistema de verdad.",
+   "es_literal": false,
+   "ancla": "Si quieres saber qué valoras, no te preguntes. Obsérvate. Mira dónde va tu tiempo cuando nadie te obliga. Mira en qué gastas el dinero sin pensarlo. Mira qué te da energía y qué te la quita.",
+   "temas": [
+    "valores",
+    "método"
+   ],
+   "intensidad": 4,
+   "gancho": "Tu calendario lleva un registro implacable de lo que priorizas",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — Tu brújula: los valores"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El barro no te ha traicionado, muchacho. Te ha traicionado lo que crees sobre ti.",
+   "es_literal": true,
+   "ancla": "El barro no te ha traicionado, muchacho. Te ha traicionado lo que crees sobre ti.",
+   "temas": [
+    "creencias",
+    "alfarero"
+   ],
+   "intensidad": 4,
+   "gancho": "No te traicionó el barro",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — Las gafas invisibles: las creencias"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "No ves tus creencias: ves el mundo a través de ellas. Son gafas que llevas puestas desde hace tanto que confundes el cristal con la realidad.",
+   "es_literal": false,
+   "ancla": "Y lo decisivo es esto: no ves tus creencias. Ves el mundo *a través* de ellas. Son como unas gafas que llevas puestas desde hace tanto tiempo que has olvidado que las tienes, y por eso confundes el cristal con la realidad.",
+   "temas": [
+    "creencias",
+    "percepción"
+   ],
+   "intensidad": 4,
+   "gancho": "Crees que ves el mundo tal como es",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — Las gafas invisibles: las creencias"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Aquí no valen las frases positivas delante del espejo. Las creencias profundas no se cambian con palabras: se cambian con experiencias, y el reencuadre tiene que aterrizar en una acción, aunque sea minúscula.",
+   "es_literal": false,
+   "ancla": "Las creencias profundas no se cambian con palabras: se cambian con experiencias. La única prueba que tu mente acepta de verdad es la de los hechos. Por eso el reencuadre tiene que aterrizar en acción, aunque sea minúscula.",
+   "temas": [
+    "creencias",
+    "reencuadre"
+   ],
+   "intensidad": 4,
+   "gancho": "Un solo hecho que contradice tu creencia vale más que mil frases",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Las gafas invisibles: las creencias"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cazar una creencia en acción: la próxima vez que algo pequeño te dé un pinchazo desproporcionado, párate y pregúntate qué te estás diciendo y qué tendría que ser verdad para reaccionar así. Escríbelo en una frase corta que empiece por «Yo creo que…».",
+   "es_literal": false,
+   "ancla": "La próxima vez que sientas un pinchazo desproporcionado —de vergüenza, de rabia, de miedo, de desánimo— ante algo pequeño, detente y pregúntate: *¿Qué me estoy diciendo a mí mismo justo ahora? ¿Qué tendría que ser verdad para que yo reaccione así?*",
+   "temas": [
+    "creencias",
+    "método"
+   ],
+   "intensidad": 3,
+   "gancho": "Debajo de la reacción desmedida está la creencia",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Las gafas invisibles: las creencias"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No puedes cambiar lo que no te atreves a mirar.",
+   "es_literal": true,
+   "ancla": "Ahora vamos a entrar en las habitaciones que rara vez se abren. No para desordenarlo todo, sino para encender la luz y ver qué hay. Porque, como te repetiré a lo largo de estas páginas, **«No puedes cambiar lo que no te atreves a mirar.»**",
+   "temas": [
+    "mirar",
+    "frase paraguas"
+   ],
+   "intensidad": 5,
+   "gancho": "La frase que sostiene el libro entero",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Parte II — El territorio interior: emociones, sombra y mente"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Una emoción no te pide que actúes según ella. Te pide que la escuches.",
+   "es_literal": true,
+   "ancla": "Una emoción no te pide que actúes según ella. Te pide que la escuches.",
+   "temas": [
+    "emociones",
+    "escucha"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que te pide de verdad una emoción",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — El lenguaje de tus emociones"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es «tengo que quitarme esta ira». Es «¿qué me está diciendo esta ira sobre lo que necesito?». La emoción deja de ser un problema y pasa a ser una carta que aún no has abierto.",
+   "es_literal": false,
+   "ancla": "Fíjate en el cambio de mirada. No es «tengo que quitarme esta ira». Es «¿qué me está diciendo esta ira sobre lo que necesito?». La emoción deja de ser un problema a eliminar y se convierte en una carta que aún no has abierto.",
+   "temas": [
+    "emociones",
+    "ira"
+   ],
+   "intensidad": 4,
+   "gancho": "Una carta que aún no has abierto",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — El lenguaje de tus emociones"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La cabeza sabe mentir; el cuerpo, mucho menos. Cuando dudes de lo que sientes, baja la atención del pensamiento a la sensación: la respuesta suele estar esperando en algún músculo tenso.",
+   "es_literal": false,
+   "ancla": "La cabeza sabe mentir; el cuerpo, mucho menos. Puedes convencerte de que una situación «no te afecta» mientras tu estómago se cierra y tu respiración se acorta. Puedes decirte que estás tranquilo mientras aprietas los puños sin darte cuenta.",
+   "temas": [
+    "cuerpo",
+    "emociones"
+   ],
+   "intensidad": 4,
+   "gancho": "El cuerpo va por delante de la conciencia",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — El lenguaje de tus emociones"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Leer una emoción de principio a fin: para y respira alargando la exhalación, localízala en el cuerpo, ponle el nombre más preciso que puedas, pregúntale qué necesidad señala, distingue superficie de fondo y solo entonces decide.",
+   "es_literal": false,
+   "ancla": "**Para y respira.** Antes de nada, tres respiraciones lentas, alargando la exhalación. No es para «quitarte» la emoción, sino para no tomar decisiones dentro de la ola. Bajas el volumen del cuerpo para poder pensar.",
+   "temas": [
+    "emociones",
+    "método"
+   ],
+   "intensidad": 3,
+   "gancho": "No se toman decisiones dentro de la ola",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — El lenguaje de tus emociones"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo que te enciende del otro casi siempre lleva tu nombre escrito en pequeñito.",
+   "es_literal": true,
+   "ancla": "Lo que te enciende del otro casi siempre lleva tu nombre escrito en pequeñito.",
+   "temas": [
+    "sombra",
+    "proyección"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que te enciende del otro",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — Tu sombra: lo que no quieres ver"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La sombra no es lo malo de ti. No es tu maldad guardada: es, simplemente, lo no reconocido. A veces esconde envidia o agresividad; muchas otras, tu ambición, tu ternura, tu fuerza.",
+   "es_literal": false,
+   "ancla": "Aquí conviene deshacer un malentendido: **la sombra no es lo malo de ti**. No es tu maldad guardada. Es, simplemente, lo *no reconocido*. A veces esconde cosas que juzgas feas —la envidia, la agresividad, el egoísmo—. Pero muchas otras veces esconde cosas hermosas que no te permitiste: tu ambición, tu deseo de destacar, tu ternura, tu fuerza.",
+   "temas": [
+    "sombra",
+    "sombra dorada"
+   ],
+   "intensidad": 4,
+   "gancho": "No es tu maldad guardada: es lo que no has reconocido",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — Tu sombra: lo que no quieres ver"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Y si esto que veo en él lo llevo yo dentro, escondido?",
+   "es_literal": true,
+   "ancla": "La próxima vez que alguien te irrite de forma desmedida, en lugar de rumiar sobre lo insoportable que es, gira la cámara ciento ochenta grados y hazte la pregunta valiente: «¿Y si esto que veo en él lo llevo yo dentro, escondido?»",
+   "temas": [
+    "sombra",
+    "proyección"
+   ],
+   "intensidad": 4,
+   "gancho": "Girar la cámara ciento ochenta grados",
+   "formatos": [
+    "cita",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — Tu sombra: lo que no quieres ver"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Y con la sombra la regla es tajante: solo lo que se reconoce se puede integrar; lo que se niega, gobierna.",
+   "es_literal": true,
+   "ancla": "Quien recupera su rabia recupera también su capacidad de decir basta. Quien recupera su ambición recupera también su empuje. Y con la sombra la regla es tajante: solo lo que se reconoce se puede integrar; lo que se niega, gobierna.",
+   "temas": [
+    "sombra",
+    "integración"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que se niega, gobierna",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — Tu sombra: lo que no quieres ver"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Escribe tres personas que te hayan irritado de verdad últimamente y, al lado de cada una, el rasgo exacto que te molesta, en una o dos palabras. Luego mira la lista entera: ¿cuál de esos rasgos temes tener tú, o cuál te habría gustado permitirte?",
+   "es_literal": false,
+   "ancla": "Escribe el nombre de tres personas que últimamente te hayan irritado de verdad. Al lado de cada una, anota *el rasgo exacto* que te molesta, en una palabra o dos.",
+   "temas": [
+    "sombra",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "No busques la respuesta perfecta: busca la que dé un pellizco",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 6 — Tu sombra: lo que no quieres ver"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Tu peor patrón fue, alguna vez, tu mejor solución disponible. Ya no lo es.",
+   "es_literal": true,
+   "ancla": "Tu peor patrón fue, alguna vez, tu mejor solución disponible. Ya no lo es.",
+   "temas": [
+    "patrones",
+    "hábitos"
+   ],
+   "intensidad": 5,
+   "gancho": "Empezó siendo una solución. Ahora ya no lo es.",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — Patrones y hábitos: el yo automático"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un hábito automático no miente: hace lo que de verdad te importa, no lo que dices que te importa. Por eso mirar cómo empleas tus horas es una forma honesta de leerte.",
+   "es_literal": false,
+   "ancla": "Porque un hábito automático no miente: hace lo que de verdad te importa, no lo que dices que te importa.",
+   "temas": [
+    "hábitos",
+    "valores"
+   ],
+   "intensidad": 4,
+   "gancho": "Un hábito automático no sabe mentir",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — Patrones y hábitos: el yo automático"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Desmontar un bucle: identifica la señal que lo dispara, la rutina que ejecutas y la recompensa que obtienes. Conserva la señal y la recompensa; cambia solo la conducta del medio.",
+   "es_literal": false,
+   "ancla": "La clave práctica es esta: **la señal y la recompensa suelen quedarse; lo que puedes cambiar es la rutina del medio**.",
+   "temas": [
+    "hábitos",
+    "método"
+   ],
+   "intensidad": 3,
+   "gancho": "Misma señal, misma recompensa, otra conducta",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — Patrones y hábitos: el yo automático"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El curso que dejaste en el tercer módulo. La rutina de ejercicio que duró tres semanas. El plan de escritura que se apagó justo cuando empezaba a ir bien. Cada vez una excusa distinta y creíble; debajo, siempre la misma forma exacta.",
+   "es_literal": false,
+   "ancla": "El curso que dejaste en el tercer módulo, la rutina de ejercicio que duró tres semanas, el plan de escritura que se apagó justo cuando empezaba a ir bien. Cada vez con una excusa distinta y creíble —mucho trabajo, un imprevisto, cansancio—, pero con la misma forma exacta debajo.",
+   "temas": [
+    "patrones",
+    "abandono"
+   ],
+   "intensidad": 4,
+   "gancho": "Un estribillo que se repite tan puntual que parece destino",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 7 — Patrones y hábitos: el yo automático"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No necesitas más información sobre ti. Necesitas el silencio suficiente para oír la que ya llevas dentro.",
+   "es_literal": true,
+   "ancla": "No necesitas más información sobre ti. Necesitas el silencio suficiente para oír la que ya llevas dentro.",
+   "temas": [
+    "silencio",
+    "intuición"
+   ],
+   "intensidad": 4,
+   "gancho": "El silencio no te da respuestas nuevas: te deja oír las que ya tenías",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — La mente que no calla: silencio y reflexión"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Rumiar no es reflexionar. La reflexión avanza; la rumia gira. Una termina en «ya veo, la próxima vez haré esto»; la otra no termina nunca, solo se interrumpe por agotamiento.",
+   "es_literal": false,
+   "ancla": "La reflexión avanza; la rumia gira. La reflexión termina en un «ya veo, la próxima vez haré esto»; la rumia no termina nunca, solo se interrumpe por agotamiento.",
+   "temas": [
+    "rumia",
+    "reflexión"
+   ],
+   "intensidad": 4,
+   "gancho": "La noria gira. El camino avanza.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — La mente que no calla: silencio y reflexión"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El silencio incomoda porque retira la anestesia. Mientras hay ruido, pantallas y agenda llena, hay coartada perfecta para no quedarse a solas con lo que llevamos aplazando.",
+   "es_literal": false,
+   "ancla": "La agenda llena, la distracción constante y el estar «siempre ocupados» no son solo fruto de la vida moderna: muchas veces son estrategias, más o menos inconscientes, para no quedarnos nunca a solas con nosotros mismos. El ruido es un anestésico. Y el silencio retira la anestesia.",
+   "temas": [
+    "silencio",
+    "ruido"
+   ],
+   "intensidad": 4,
+   "gancho": "El ruido es un anestésico",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 8 — La mente que no calla: silencio y reflexión"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Tres minutos de silencio con temporizador: sin móvil, sin música, sin objetivo. Ancla la atención en la respiración y, cada vez que la mente se vaya, vuelve sin regañarte. Al sonar el aviso, pregúntate «¿qué he notado?» antes de levantarte.",
+   "es_literal": false,
+   "ancla": "**Cuando la mente se vaya —y se irá—, vuelve sin reñirte.** Aparecerá la lista de la compra, la discusión, el correo. Es normal, es lo que hace la mente. En cuanto te des cuenta, vuelve suavemente a la respiración. *Ese* regreso, repetido, es toda la práctica. No estás fallando cuando te distraes; estás practicando cada vez que vuelves.",
+   "temas": [
+    "silencio",
+    "práctica"
+   ],
+   "intensidad": 3,
+   "gancho": "No estás fallando cuando te distraes: practicas cada vez que vuelves",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 8 — La mente que no calla: silencio y reflexión"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La autocrítica severa no motiva: paraliza.",
+   "es_literal": true,
+   "ancla": "Es una de las creencias más extendidas y más falsas del crecimiento personal. La idea de que el látigo nos hace avanzar. En realidad, suele ocurrir lo contrario. La autocrítica severa no motiva: paraliza.",
+   "temas": [
+    "autocrítica",
+    "autocompasión"
+   ],
+   "intensidad": 4,
+   "gancho": "El látigo no hace avanzar: encoge",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — Autocompasión: dejar de ser tu peor enemigo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El autoconocimiento observa: «he reaccionado con miedo en esa reunión». La autocrítica juzga y sentencia: «soy un cobarde, no valgo para esto». La primera te informa; la segunda te condena.",
+   "es_literal": true,
+   "ancla": "El autoconocimiento observa: «he reaccionado con miedo en esa reunión». La autocrítica juzga y sentencia: «soy un cobarde, no valgo para esto». La primera te informa; la segunda te condena.",
+   "temas": [
+    "autocrítica",
+    "autoconocimiento"
+   ],
+   "intensidad": 4,
+   "gancho": "El dato es útil. El veredicto sobre tu valía, no.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — Autocompasión: dejar de ser tu peor enemigo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "La prueba del amigo: cuando te sorprendas machacándote, párate y pregúntate si le hablarías así a alguien a quien quieres que estuviera pasando por esto. Si la respuesta es no, reformula y dite lo que le dirías a esa persona.",
+   "es_literal": false,
+   "ancla": "Cuando te sorprendas machacándote, párate y pregúntate: *«¿Le hablaría así a alguien a quien quiero, que estuviera pasando por esto?»* Si la respuesta es no —y casi siempre lo es—, tienes la prueba de que no estás siendo lúcido, sino cruel.",
+   "temas": [
+    "autocompasión",
+    "método"
+   ],
+   "intensidad": 3,
+   "gancho": "Si no se lo dirías a alguien que quieres, no es lucidez",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — Autocompasión: dejar de ser tu peor enemigo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La palabra «todavía» convierte una sentencia definitiva en una etapa de un proceso. «Nunca seré capaz» se vuelve «todavía no lo consigo; estoy en ello».",
+   "es_literal": false,
+   "ancla": "La palabra *todavía* es una de las más terapéuticas del idioma. Convierte una sentencia definitiva en una etapa de un proceso.",
+   "temas": [
+    "lenguaje interno",
+    "autocompasión"
+   ],
+   "intensidad": 4,
+   "gancho": "Una palabra que convierte la sentencia en etapa",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — Autocompasión: dejar de ser tu peor enemigo"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Resignarse es «esto es así, no hay nada que hacer, me hundo». Aceptar es «esto es así ahora mismo, y dejo de gastar energía en negarlo para gastarla en decidir qué hago a partir de aquí».",
+   "es_literal": false,
+   "ancla": "Resignarse es decir: «esto es así, no hay nada que hacer, me hundo». Es pasivo, es derrotista, y va acompañado de amargura. Aceptar es algo muy distinto.",
+   "temas": [
+    "aceptación",
+    "resignación"
+   ],
+   "intensidad": 4,
+   "gancho": "Aceptar no es rendirse. Es dejar de negar.",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — Aceptación radical: partir de lo que hay"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La resignación te clava en el suelo. La aceptación te da un punto de apoyo.",
+   "es_literal": true,
+   "ancla": "La diferencia es enorme. La resignación te clava en el suelo. La aceptación te da un punto de apoyo. Fíjate: no puedes moverte de un sitio en el que no reconoces estar. El primer requisito para ir a alguna parte es admitir dónde estás.",
+   "temas": [
+    "aceptación",
+    "movimiento"
+   ],
+   "intensidad": 4,
+   "gancho": "No puedes moverte de un sitio en el que no reconoces estar",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 10 — Aceptación radical: partir de lo que hay"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La primera flecha es el hecho: duele y no está en tu mano. La segunda la disparas tú, con cada «esto no debería haber pasado». Aceptar es bajar el arco.",
+   "es_literal": false,
+   "ancla": "La aceptación radical no impide la primera flecha —eso no está en tu mano—. Lo que hace es dejar de disparar la segunda. Aceptar es bajar el arco. Sigues sintiendo la herida original, pero dejas de reabrirla tú mismo con cada protesta.",
+   "temas": [
+    "aceptación",
+    "segunda flecha"
+   ],
+   "intensidad": 4,
+   "gancho": "Dejas de reabrir la herida con cada protesta",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Aceptación radical: partir de lo que hay"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Escribe el hecho desnudo, sin protesta: «Esto es lo que hay: …». Deja que la emoción esté. Suelta el «debería». Y completa la segunda mitad: «…y aun así, ¿cuál es mi siguiente paso posible?», aunque sea minúsculo.",
+   "es_literal": false,
+   "ancla": "**Paso 4. Pronuncia el «y aun así».** Una vez has mirado el hecho de frente y has dejado sentir lo que había que sentir, formula la segunda mitad. «Esto es lo que hay, y aun así, ¿cuál es mi siguiente paso posible?» Aunque sea un paso minúsculo. La aceptación no te deja tirado en el suelo; te levanta al plano de la acción.",
+   "temas": [
+    "aceptación",
+    "método"
+   ],
+   "intensidad": 4,
+   "gancho": "Una frase de bolsillo: «esto es lo que hay… y aun así»",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — Aceptación radical: partir de lo que hay"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Sales de una cena con viejas amistades sintiéndote pequeño, tonto, inseguro. Con otra persona, los mismos temas de conversación te dejan más vivo, más tú. Mismos temas. Distinto espejo.",
+   "es_literal": false,
+   "ancla": "En cambio, recordó, cuando quedaba con otra amiga concreta salía siempre con una extraña sensación de estar más viva, más ella. Mismos temas de conversación, misma Marta. Distinto espejo.",
+   "temas": [
+    "relaciones",
+    "entornos"
+   ],
+   "intensidad": 4,
+   "gancho": "Fíjate no en lo que te dicen, sino en cómo te dejan",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 11 — El espejo de los demás: entorno y relaciones"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay personas ante las que se te tensan los hombros solo con ver su nombre en la pantalla, y otras ante las que respiras más hondo. Cuando dudes de si un vínculo te expande o te encoge, no preguntes a tus argumentos: pregunta a tu estómago.",
+   "es_literal": false,
+   "ancla": "Ese lenguaje corporal es una brújula honestísima, mucho más fiable que tus explicaciones racionales sobre por qué «deberías» sentirte bien con alguien. Cuando dudes de si un vínculo te expande o te encoge, no preguntes a tus argumentos. Pregunta a tu estómago.",
+   "temas": [
+    "relaciones",
+    "cuerpo"
+   ],
+   "intensidad": 4,
+   "gancho": "No preguntes a tus argumentos. Pregunta a tu estómago.",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — El espejo de los demás: entorno y relaciones"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Auditoría del círculo: apunta las diez o doce personas más presentes en tu vida y, ante cada nombre, responde con el estómago y no con la teoría. ¿Salgo energizado o agotado? ¿Puedo ser yo sin miedo a su juicio? ¿Se respetan mis límites? No decidas nada aún: solo mira.",
+   "es_literal": false,
+   "ancla": "**Paso 2. Ante cada nombre, hazte las preguntas clave.** Estas son las que de verdad importan; respóndelas con el estómago, no con la teoría:",
+   "temas": [
+    "relaciones",
+    "método"
+   ],
+   "intensidad": 3,
+   "gancho": "Una auditoría incómoda que no obliga a decidir nada",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — El espejo de los demás: entorno y relaciones"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿En tu presencia, la gente se hace más grande o más pequeña? Porque tú también eres el espejo de alguien.",
+   "es_literal": false,
+   "ancla": "Así que la auditoría tiene una segunda cara, y conviene mirarla de frente: ¿en tu presencia, la gente se hace más grande o más pequeña? ¿Celebras los logros de los tuyos o los recibes con una punzada de envidia mal disimulada?",
+   "temas": [
+    "relaciones",
+    "responsabilidad"
+   ],
+   "intensidad": 4,
+   "gancho": "La auditoría tiene una segunda cara, y mira hacia ti",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — El espejo de los demás: entorno y relaciones"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La ausencia de límites no produce santos; produce mártires amargados.",
+   "es_literal": true,
+   "ancla": "El que dice que sí a todo termina resentido con la gente a la que complace. Termina agotado. Termina, muchas veces, estallando por una nimiedad después de meses tragando cosas grandes, porque el vaso rebosó. La ausencia de límites no produce santos; produce mártires amargados.",
+   "temas": [
+    "límites",
+    "resentimiento"
+   ],
+   "intensidad": 5,
+   "gancho": "No produce santos: produce mártires amargados",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — Dónde acabas tú: límites y autenticidad"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando no comunicas un límite, condenas a los demás a cruzarlo sin saberlo. Luego les guardas rencor por haber pisado una frontera cuyo mapa nunca les diste.",
+   "es_literal": false,
+   "ancla": "Cuando no comunicas tus límites, condenas a los demás a cruzarlos sin saberlo. La gente no es adivina. Si nunca dices que algo te molesta, no pueden respetar una frontera que les has ocultado.",
+   "temas": [
+    "límites",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Le ahorras al otro el papel de villano involuntario",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — Dónde acabas tú: límites y autenticidad"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro avisa de que al poner tu primer límite sentirás culpa. No «quizá»: seguro. Y de que esa culpa no mide tu maldad, sino tu falta de costumbre.",
+   "es_literal": false,
+   "ancla": "Si llevas décadas diciendo que sí a todo, tu sistema de alarma está calibrado para dispararse en cuanto te priorizas mínimamente. No distingue entre «he hecho algo dañino» y «he hecho algo nuevo». La culpa que sientes al poner tu primer límite no mide tu maldad; mide tu falta de costumbre.",
+   "temas": [
+    "límites",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "La culpa que aparece con el primer «no» es una falsa alarma",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12 — Dónde acabas tú: límites y autenticidad"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "No estrenes tus límites en la conversación más difícil de tu vida. Practica en lo cotidiano y de bajo riesgo: no coger una llamada cuando estás ocupado, decir «prefiero no opinar sobre eso», pedir diez minutos sin interrupciones. Y sostén el instante incómodo que viene después.",
+   "es_literal": false,
+   "ancla": "No estrenes tus límites en la conversación más difícil de tu vida. Practica en lo cotidiano y de bajo riesgo: no coger una llamada cuando estás ocupado, decir «prefiero no opinar sobre eso», pedir que no te interrumpan diez minutos.",
+   "temas": [
+    "límites",
+    "método"
+   ],
+   "intensidad": 3,
+   "gancho": "Cada pequeño «no» cumplido refuerza el músculo para los grandes",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — Dónde acabas tú: límites y autenticidad"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La verdad es más humilde y más liberadora: el propósito no se encuentra, se construye.",
+   "es_literal": true,
+   "ancla": "La verdad es más humilde y más liberadora: el propósito no se encuentra, se construye. No es una moneda enterrada, es una casa que levantas con materiales que ya tienes.",
+   "temas": [
+    "propósito"
+   ],
+   "intensidad": 4,
+   "gancho": "No es una moneda enterrada: es una casa que levantas",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — Tu propósito y tu visión de vida"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Un propósito no se mide por su tamaño, sino por su verdad. Criar bien a un hijo, hacer un oficio con honradez o sostener a un barrio también lo son, aunque quepan en la palma de la mano.",
+   "es_literal": false,
+   "ancla": "La grandeza de un propósito no se mide por su tamaño, sino por su verdad: si es tuyo de verdad y lo vives con entrega, es grande, aunque quepa en la palma de la mano.",
+   "temas": [
+    "propósito",
+    "expectativas"
+   ],
+   "intensidad": 4,
+   "gancho": "No hace falta cambiar el mundo para tener un propósito",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — Tu propósito y tu visión de vida"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Los cinco porqués: coge algo que quieres y pregúntate «¿por qué?». A la respuesta, otra vez «¿por qué?». Cinco veces, o las que hagan falta hasta que ya no puedas seguir bajando. No te quedes con la primera respuesta cómoda.",
+   "es_literal": false,
+   "ancla": "El método es tan simple que da un poco de vergüenza: coges algo que quieres, y te preguntas «¿por qué?». A la respuesta, le vuelves a preguntar «¿por qué?». Y así cinco veces, o las que hagan falta hasta que ya no puedas seguir bajando.",
+   "temas": [
+    "propósito",
+    "método"
+   ],
+   "intensidad": 3,
+   "gancho": "Baja cinco escalones desde un deseo cualquiera",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — Tu propósito y tu visión de vida"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El diario no te conoce; te ayuda a conocerte. El test no te define; te da palabras. El silencio no te transforma; te deja oír lo que ya estaba. La herramienta es solo el mango; la mano eres tú.",
+   "es_literal": true,
+   "ancla": "El diario no te conoce; te ayuda a conocerte. El test no te define; te da palabras. El silencio no te transforma; te deja oír lo que ya estaba. La herramienta es solo el mango; la mano eres tú.",
+   "temas": [
+    "herramientas",
+    "expectativas"
+   ],
+   "intensidad": 4,
+   "gancho": "La herramienta es solo el mango",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — La caja de herramientas del autoconocimiento"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Un test de personalidad es espejo, no etiqueta. En el momento en que dices «yo soy así porque soy un tipo tal», el espejo se convirtió en jaula.",
+   "es_literal": false,
+   "ancla": "Pero en el momento en que dices «yo soy así porque soy un tipo tal», el espejo se convirtió en jaula. Tú eres más complejo que cuatro letras o un número.",
+   "temas": [
+    "tests",
+    "etiquetas"
+   ],
+   "intensidad": 4,
+   "gancho": "El espejo que se convierte en jaula",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — La caja de herramientas del autoconocimiento"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Aquí no se vende la herramienta perfecta. Una herramienta que usas mal vale más que diez que no usas: el diario más feo, escrito de verdad tres veces por semana, hace más que el más caro guardado en el cajón.",
+   "es_literal": false,
+   "ancla": "La regla es sencilla: una herramienta que usas mal vale más que diez que no usas. El diario más feo, escrito de verdad tres veces por semana, hará por ti mucho más que el más caro guardado en el cajón. No busques la herramienta perfecta. Coge una imperfecta y gástala.",
+   "temas": [
+    "herramientas",
+    "constancia"
+   ],
+   "intensidad": 4,
+   "gancho": "Coge una herramienta imperfecta y gástala",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — La caja de herramientas del autoconocimiento"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El disfraz más elegante del miedo. Se presenta como exigencia noble —«solo quiero hacerlo bien»— pero por debajo late el terror a equivocarse.",
+   "es_literal": true,
+   "ancla": "**El perfeccionismo.** El disfraz más elegante del miedo. Se presenta como exigencia noble —«solo quiero hacerlo bien»— pero por debajo late el terror a equivocarse.",
+   "temas": [
+    "perfeccionismo",
+    "miedo"
+   ],
+   "intensidad": 4,
+   "gancho": "El perfeccionismo, visto de cerca",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — Obstáculos y autosabotaje"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Los obstáculos no aparecen al azar: se apostan como guardianes en las puertas que dan a algo importante. Nadie es perfeccionista con lo que le da igual.",
+   "es_literal": false,
+   "ancla": "Nadie es perfeccionista con lo que le da igual. ¿Con quién te comparas? Con quien está donde tú, en el fondo, querrías estar. ¿Qué te da miedo mirar? Justo lo que más necesitas mirar. Los obstáculos no aparecen al azar: se apostan como guardianes en las puertas que dan a algo importante.",
+   "temas": [
+    "obstáculos",
+    "brújula"
+   ],
+   "intensidad": 4,
+   "gancho": "Pregúntale al obstáculo qué puerta está custodiando",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Obstáculos y autosabotaje"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando el sabotaje apriete: nómbralo («esto es perfeccionismo», «esto es miedo disfrazado de pereza»), hazte pequeño hasta que el paso sea ridículamente fácil, háblate como a alguien que quieres y que tropezó, y da un solo paso hoy.",
+   "es_literal": false,
+   "ancla": "**Paso 2. Hazte pequeño.** Cuando el obstáculo sea grande, reduce el paso hasta que sea ridículamente fácil. ¿No puedes escribir tres relatos? Escribe tres frases. ¿No puedes caminar cuarenta minutos? Ponte las zapatillas y sal a la puerta. El sabotaje se alimenta de metas enormes; se rinde ante pasos minúsculos.",
+   "temas": [
+    "autosabotaje",
+    "método"
+   ],
+   "intensidad": 3,
+   "gancho": "El sabotaje se alimenta de metas enormes",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Obstáculos y autosabotaje"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo entendido lo sabes explicar; lo integrado se te nota cuando nadie te observa.",
+   "es_literal": true,
+   "ancla": "Hay una prueba sencilla para saber si has integrado algo o solo lo has entendido. Lo entendido lo sabes explicar; lo integrado se te nota cuando nadie te observa. Puedes explicar perfectamente qué es un límite y seguir sin poner ninguno; eso es entender.",
+   "temas": [
+    "integración",
+    "práctica"
+   ],
+   "intensidad": 5,
+   "gancho": "La prueba de si algo lo has integrado o solo entendido",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — Integración: el autoconocimiento como forma de vida"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La pregunta al diario, justo después de lavarte los dientes. El minuto de silencio, mientras esperas a que se haga el café. La escucha del cuerpo, cada vez que te sientas al volante. Así se pega una práctica: colgada de un gesto que ya haces.",
+   "es_literal": false,
+   "ancla": "La pregunta al diario, justo después de lavarte los dientes. El minuto de silencio, mientras esperas a que se haga el café. La escucha del cuerpo, cada vez que te sientas al volante.",
+   "temas": [
+    "hábitos",
+    "integración"
+   ],
+   "intensidad": 3,
+   "gancho": "Engancha lo nuevo a lo viejo y deja de depender de la voluntad",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "audio"
+   ],
+   "capitulo": "Capítulo 16 — Integración: el autoconocimiento como forma de vida"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Aquí no hay línea de meta ni deberes aprobados para siempre. Habrá semanas sin escribir una línea y meses de piloto automático. Integrar no significa no fallar nunca; significa saber volver.",
+   "es_literal": false,
+   "ancla": "No pasa nada. Integrar no significa no fallar nunca; significa saber volver. Un buen día de práctica después de tres semanas de olvido no es un fracaso: es exactamente cómo funciona esto.",
+   "temas": [
+    "integración",
+    "recaídas"
+   ],
+   "intensidad": 4,
+   "gancho": "No es el que nunca se pierde: es el que aprende a reencontrarse",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16 — Integración: el autoconocimiento como forma de vida"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Conocerte es exactamente eso: cambiar el «reacciono» por el «elijo».",
+   "es_literal": true,
+   "ancla": "Cuando conoces tu ira, puedes elegir no descargarla. Cuando conoces tu miedo, puedes elegir avanzar a pesar de él. Cuando conoces tu patrón, puedes elegir, por una vez, hacer otra cosa. Conocerte es exactamente eso: cambiar el «reacciono» por el «elijo».",
+   "temas": [
+    "libertad",
+    "elegir"
+   ],
+   "intensidad": 5,
+   "gancho": "Cambiar el «reacciono» por el «elijo»",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Cierre — Conocerte para elegirte"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "La libertad de verdad no es hacer lo que quieras cuando quieras —eso es capricho—. Es poder responder desde quien eres y no desde lo que te condicionó.",
+   "es_literal": false,
+   "ancla": "La libertad de verdad no es hacer lo que quieras cuando quieras —eso es capricho—; es poder responder desde quien eres y no desde lo que te condicionó. Y a esa clase de libertad solo se llega por un camino: conociéndote. No hay atajo.",
+   "temas": [
+    "libertad",
+    "elección"
+   ],
+   "intensidad": 4,
+   "gancho": "Mucho de lo que llamamos elegir es reacción disfrazada",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "hilo"
+   ],
+   "capitulo": "Cierre — Conocerte para elegirte"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "No se promete perfección. Se avisa de que habrá días de olvido y épocas de piloto automático, y de que la diferencia no está en no tropezar, sino en darte cuenta de que has tropezado.",
+   "es_literal": false,
+   "ancla": "La diferencia entre quien empieza este libro y quien lo termina no es que uno tropiece y el otro no. Es que el que ha hecho el trabajo se da cuenta de que ha tropezado, y eso —esa lucidez— ya no se pierde nunca.",
+   "temas": [
+    "expectativas",
+    "lucidez"
+   ],
+   "intensidad": 4,
+   "gancho": "Puedes volver a caer; ya no puedes volver a no verte",
+   "formatos": [
+    "carrusel",
+    "cita",
+    "reel"
+   ],
+   "capitulo": "Cierre — Conocerte para elegirte"
+  }
+ ]
+}

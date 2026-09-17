@@ -1,0 +1,182 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "empezar-de-nuevo",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "Aquí se dice la verdad, y la verdad tiene dos caras que hay que sostener a la vez, sin permitir que ninguna tape ni anule a la otra",
+   "es_literal": true,
+   "ancla": "Esas frases son, precisamente, las que más daño hacen a quien está roto, y en este libro no vas a encontrar ni una sola dicha en serio; si aparecen, será para desmontarlas.",
+   "temas": ["honestidad", "duelo"],
+   "intensidad": 4,
+   "gancho": "Dos caras a la vez: duele de verdad, y se puede volver a empezar.",
+   "formatos": ["cita", "pin"],
+   "capitulo": "Introducción — Cuando tu vida ya no encaja"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Este libro no habla de empezar de cero, sino de empezar desde los escombros. Entre los escombros, si uno se agacha a mirar con calma, hay ladrillos enteros y vigas sanas que todavía sirven.",
+   "es_literal": false,
+   "ancla": "Y que es con eso —solo con eso, sí, pero también nada menos que con todo eso— con lo que se levanta lo siguiente.",
+   "temas": ["reinventarse", "escombros"],
+   "intensidad": 4,
+   "gancho": "No se empieza de cero: se empieza desde los escombros.",
+   "formatos": ["carrusel", "reel"],
+   "capitulo": "Introducción — Cuando tu vida ya no encaja"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Este libro no pone plazos ni asegura que saldrás de esto convertido en alguien más sabio y agradecido por lo vivido. Ofrece honestidad y un puñado de herramientas que puedes comprobar tú mismo.",
+   "es_literal": false,
+   "ancla": "No te voy a prometer que en tanto tiempo estarás curado, ni que si sigues estos pasos tu dolor desaparecerá, ni que saldrás de esto convertido en una persona mejor y más sabia y agradecida por lo vivido.",
+   "temas": ["honestidad", "promesas"],
+   "intensidad": 3,
+   "gancho": "Lo que este libro se niega a prometerte.",
+   "formatos": ["carrusel", "pin"],
+   "capitulo": "Introducción — Cuando tu vida ya no encaja"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es una certeza falsa: es una verdad modesta. Ni estudios inventados ni cifras espectaculares; «suele ocurrir» antes que una estadística que nadie tiene.",
+   "es_literal": false,
+   "ancla": "Cuando mencione algo de la psicología del duelo, lo haré con cautela: diré \"suele ocurrir\", \"se ha observado a menudo\", \"muchos coinciden en\", antes que inventarme una estadística que no tengo.",
+   "temas": ["honestidad", "datos"],
+   "intensidad": 3,
+   "gancho": "Verdad modesta antes que certeza falsa.",
+   "formatos": ["cita", "hilo"],
+   "capitulo": "Introducción — Cuando tu vida ya no encaja"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No solo lloramos lo que perdimos: lloramos, sobre todo y con más desconsuelo, el futuro que dábamos por hecho y que ya no vendrá.",
+   "es_literal": true,
+   "ancla": "No solo lloramos lo que perdimos: lloramos, sobre todo y con más desconsuelo, el futuro que dábamos por hecho y que ya no vendrá.",
+   "temas": ["duelo", "futuro perdido"],
+   "intensidad": 5,
+   "gancho": "Se llora lo que se tuvo. Se llora más lo que se iba a tener.",
+   "formatos": ["cita", "pin"],
+   "capitulo": "Capítulo 1 — La vida que ya no existe"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Te despiertas y durante tres segundos todo está bien. Luego la mano se estira por pura costumbre hacia el otro lado de la cama y encuentra sábana fría. La cabeza confirma después lo que la mano ya había averiguado.",
+   "es_literal": false,
+   "ancla": "Primero lo nota el cuerpo, antes que la cabeza: la mano que se estira por pura costumbre hacia el otro lado de la cama y encuentra sábana fría, lisa, vacía, sin nadie.",
+   "temas": ["duelo", "ruptura"],
+   "intensidad": 4,
+   "gancho": "Los tres segundos buenos del día, y lo que viene después.",
+   "formatos": ["reel", "carrusel"],
+   "capitulo": "Capítulo 1 — La vida que ya no existe"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando una vida se rompe no se pierde una sola cosa: se pierde un mundo entero, con sus rituales, su sitio en las mesas familiares y el porvenir que ya estaba montado en la cabeza.",
+   "es_literal": false,
+   "ancla": "Lo primero que hay que decir, sin adornos y sin ninguna prisa por consolar, es esto, que es la clave de todo el capítulo: cuando tu vida se rompe, no pierdes solo una cosa. Pierdes un mundo entero.",
+   "temas": ["duelo", "pérdida"],
+   "intensidad": 4,
+   "gancho": "Por eso duele más de lo que crees que «debería» doler.",
+   "formatos": ["carrusel", "hilo"],
+   "capitulo": "Capítulo 1 — La vida que ya no existe"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Coge un papel. 2) Escribe en una sola frase qué es exactamente lo que se ha acabado: el hecho desnudo, en presente, no lo que sientes ni lo que temes. 3) Si son varias, escríbelas todas. 4) No las resuelvas hoy: solo míralas, fuera de tu cabeza.",
+   "es_literal": false,
+   "ancla": "Coge un papel y escribe, en una sola frase, qué es exactamente lo que se ha acabado. No lo que sientes, no lo que temes, no lo que vas a hacer: solo el hecho, desnudo, en presente.",
+   "temas": ["aceptación", "escritura"],
+   "intensidad": 3,
+   "gancho": "Nombrar el final con una sola frase, en presente.",
+   "formatos": ["carrusel", "reel"],
+   "capitulo": "Capítulo 1 — La vida que ya no existe"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Está bien no estar bien. Y decirlo en voz alta, sin pedir perdón ni justificarse, ya es empezar a estarlo un poco.",
+   "es_literal": true,
+   "ancla": "Está bien no estar bien. Y decirlo en voz alta, sin pedir perdón ni justificarse, ya es empezar a estarlo un poco.",
+   "temas": ["duelo", "permiso"],
+   "intensidad": 4,
+   "gancho": "Está bien no estar bien.",
+   "formatos": ["cita", "pin"],
+   "capitulo": "Capítulo 2 — El duelo de lo que fuiste (sin falso optimismo)"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El duelo no es una escalera de cinco peldaños que se suben en orden: es un oleaje. Van y vienen olas, sin horario. Lo único que cambia, muy despacio, es que se van espaciando y bajando de altura.",
+   "es_literal": false,
+   "ancla": "El duelo real, el que se vive y no el que se dibuja en un esquema, no es una escalera: es una espiral, o mejor todavía, es un oleaje. Van y vienen olas, sin horario ni orden.",
+   "temas": ["duelo", "fases"],
+   "intensidad": 4,
+   "gancho": "No es una escalera. Es oleaje.",
+   "formatos": ["carrusel", "reel"],
+   "capitulo": "Capítulo 2 — El duelo de lo que fuiste (sin falso optimismo)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Pero tu dolor no necesita ser el peor del mundo para ser real y legítimo y merecer atención.",
+   "es_literal": true,
+   "ancla": "Pero tu dolor no necesita ser el peor del mundo para ser real y legítimo y merecer atención. Que haya quien esté objetivamente peor que tú no hace, mágicamente, que tú estés bien.",
+   "temas": ["dolor", "comparación"],
+   "intensidad": 4,
+   "gancho": "Tu dolor no necesita ser el peor del mundo.",
+   "formatos": ["cita", "pin"],
+   "capitulo": "Capítulo 2 — El duelo de lo que fuiste (sin falso optimismo)"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Escribe en un papel: «Me doy permiso para estar mal el tiempo que haga falta, sin justificarme ante nadie, ni siquiera ante mí mismo.» 2) Fírmalo con tu nombre y la fecha de hoy. 3) Guárdalo a mano. 4) Léelo cada vez que alguien te reclame que ya estés recuperado.",
+   "es_literal": false,
+   "ancla": "Escribe en un papel, y guárdatelo en un sitio donde lo tengas a mano, esta frase, firmada por ti con tu propio nombre y la fecha de hoy:",
+   "temas": ["duelo", "permiso"],
+   "intensidad": 3,
+   "gancho": "Un permiso por escrito, firmado y con fecha.",
+   "formatos": ["carrusel", "reel"],
+   "capitulo": "Capítulo 2 — El duelo de lo que fuiste (sin falso optimismo)"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Aceptar no es rendirse ante lo que pasó: es dejar de pelear inútilmente contra lo inevitable para tener fuerzas para lo que aún es posible.",
+   "es_literal": true,
+   "ancla": "Aceptar no es rendirse ante lo que pasó: es dejar de pelear inútilmente contra lo inevitable para tener fuerzas para lo que aún es posible.",
+   "temas": ["aceptación"],
+   "intensidad": 4,
+   "gancho": "Aceptar no es rendirse.",
+   "formatos": ["cita", "pin"],
+   "capitulo": "Capítulo 3 — Aceptar el final antes de construir el principio"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Rendirse y aceptar se parecen por fuera, porque los dos dejan de luchar, y son opuestos por dentro. El que se rinde deja de luchar porque ha dejado de creer; el que acepta deja de luchar contra lo imposible para poder luchar por lo posible.",
+   "es_literal": false,
+   "ancla": "La diferencia está toda en la dirección de la mirada. Rendirse es tumbarse en el suelo y dejar de vivir mirando solo hacia atrás",
+   "temas": ["aceptación", "rendirse"],
+   "intensidad": 4,
+   "gancho": "Los dos dejan de luchar. Miran en direcciones opuestas.",
+   "formatos": ["carrusel", "hilo"],
+   "capitulo": "Capítulo 3 — Aceptar el final antes de construir el principio"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Aceptar un final no es perdonar a quien lo causó. Puedes reconocer que pasó y dejar de gastar fuerzas peleando contra ello sin haber perdonado a nadie todavía, y estar en tu derecho.",
+   "es_literal": false,
+   "ancla": "La aceptación es contigo y con la realidad; el perdón es con el otro, y es opcional y posterior.",
+   "temas": ["aceptación", "perdón"],
+   "intensidad": 3,
+   "gancho": "Aceptar es contigo. Perdonar es con el otro, y puede esperar.",
+   "formatos": ["carrusel", "pin"],
+   "capitulo": "Capítulo 3 — Aceptar el final antes de construir el principio"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "1) Busca un sitio a solas donde nadie te oiga. 2) Di en voz alta, entera y sin suavizarla, la frase que llevas evitando: «me ha dejado», «me han despedido», «ha muerto», la que sea la tuya. 3) Sin «en cierto modo» ni «más o menos». 4) Si se te quiebra la voz, deja que se quiebre.",
+   "es_literal": false,
+   "ancla": "A solas, en un sitio donde nadie te oiga y no tengas que dar explicaciones a nadie, di en voz alta la frase que llevas evitando decir.",
+   "temas": ["aceptación", "voz alta"],
+   "intensidad": 4,
+   "gancho": "Decirlo en voz alta saca el hecho de la niebla.",
+   "formatos": ["reel", "carrusel"],
+   "capitulo": "Capítulo 3 — Aceptar el final antes de construir el principio"
+  }
+ ]
+}

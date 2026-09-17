@@ -1,0 +1,1224 @@
+{
+ "serie": "crecimiento_personal",
+ "libro": "conexiones-autenticas",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "Hemos confundido el contacto con el vínculo. Y no son lo mismo.",
+   "es_literal": true,
+   "ancla": "nunca estuvimos tan comunicados y nunca estuvimos tan solos. Hemos confundido el contacto con el vínculo. Y no son lo mismo.",
+   "temas": [
+    "vínculos",
+    "soledad"
+   ],
+   "intensidad": 4,
+   "gancho": "Tener contacto y tener vínculo no es lo mismo",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Introducción — Conectar en un mundo desconectado"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El vínculo no se mide en cantidad de interacciones, sino en profundidad de presencia.",
+   "es_literal": true,
+   "ancla": "Alguien con quien el silencio no incomoda, porque el silencio compartido también es una forma de estar. El vínculo no se mide en cantidad de interacciones, sino en profundidad de presencia.",
+   "temas": [
+    "vínculos",
+    "presencia"
+   ],
+   "intensidad": 4,
+   "gancho": "La medida de un vínculo no es cuánto, es cuán hondo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Introducción — Conectar en un mundo desconectado"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "No es que no sepamos conectar. Es que repartimos la atención entre mil pantallas y llegamos al final del día sin habérsela dado a quien tenemos al lado.",
+   "es_literal": false,
+   "ancla": "No nos falta capacidad de conectar; nos falta atención. La regalamos a mil pantallas, a mil notificaciones, a mil personas que no conocemos, y llegamos al final del día sin haberla ofrecido de verdad a quienes tenemos al lado.",
+   "temas": [
+    "atención",
+    "presencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Dónde acaba tu atención al final del día",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Introducción — Conectar en un mundo desconectado"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Ni dependencia («te necesito para no hundirme») ni independencia amurallada («no necesito a nadie»). El libro habla de un punto intermedio: dos personas que se sostienen solas y, aun así, eligen compartir la vida.",
+   "es_literal": false,
+   "ancla": "sino en un punto intermedio al que llamaremos interdependencia. Es el estado de dos personas que se sostienen solas y, aun así, eligen compartir su vida. Cada una entera, y juntas más completas.",
+   "temas": [
+    "interdependencia",
+    "vínculos"
+   ],
+   "intensidad": 3,
+   "gancho": "Entre agarrarse y amurallarse hay un tercer sitio",
+   "formatos": [
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Introducción — Conectar en un mundo desconectado"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No hay vínculo auténtico sin un yo auténtico. Y con tus padres, ese yo auténtico empieza el día que dejas de ser su hijo pequeño para atreverte a ser su hijo adulto.",
+   "es_literal": true,
+   "ancla": "No hay vínculo auténtico sin un yo auténtico. Y con tus padres, ese yo auténtico empieza el día que dejas de ser su hijo pequeño para atreverte a ser su hijo adulto.",
+   "temas": [
+    "padres",
+    "autenticidad"
+   ],
+   "intensidad": 4,
+   "gancho": "De hijo pequeño a hijo adulto",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El vínculo primario: los padres"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque tendemos a buscar lo que nos resulta familiar, aunque lo familiar duela. No porque nos guste el dolor, sino porque el dolor conocido asusta menos que el amor desconocido.",
+   "es_literal": true,
+   "ancla": "Porque tendemos a buscar lo que nos resulta familiar, aunque lo familiar duela. No porque nos guste el dolor, sino porque el dolor conocido asusta menos que el amor desconocido.",
+   "temas": [
+    "apego",
+    "patrones"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo familiar asusta menos, aunque duela",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — El vínculo primario: los padres"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Perdonar no es justificar, ni olvidar, ni reconciliarse a la fuerza: es soltar el peso. Se puede hacer las paces por dentro con alguien de quien uno necesita alejarse.",
+   "es_literal": false,
+   "ancla": "Perdonar y reconciliarse no son la misma cosa: puedes hacer las paces por dentro con alguien de quien, por tu bienestar, necesitas alejarte.",
+   "temas": [
+    "perdón",
+    "límites"
+   ],
+   "intensidad": 4,
+   "gancho": "Perdonar y reconciliarse no son lo mismo",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 1 — El vínculo primario: los padres"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Poner un límite a un padre o una madre, en cuatro movimientos: reconoce su buena intención, habla desde el yo y no desde el tú, di exactamente qué necesitas, y sostén la incomodidad de los primeros días sin retirar el cariño.",
+   "es_literal": false,
+   "ancla": "No lo hagas. La reacción del otro no invalida tu necesidad. Puedes sostener el límite y el cariño a la vez: «te quiero muchísimo, y precisamente por eso necesito que respetemos esto».",
+   "temas": [
+    "límites",
+    "padres"
+   ],
+   "intensidad": 4,
+   "gancho": "El límite y el cariño caben en la misma frase",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 1 — El vínculo primario: los padres"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Es testigo de quién fuiste antes de que aprendieras a fingir quién eres.",
+   "es_literal": true,
+   "ancla": "Comparte contigo el mismo origen, la misma casa, los mismos padres, los mismos silencios de sobremesa. Es testigo de quién fuiste antes de que aprendieras a fingir quién eres.",
+   "temas": [
+    "hermanos"
+   ],
+   "intensidad": 4,
+   "gancho": "Un hermano te vio antes de la máscara",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — Hermanos: rivalidad y alianza"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Pero para eso tendréis que renunciar a saber quién tuvo la culpa. El barro no recuerda quién lo rompió. Solo sabe volver a unirse.",
+   "es_literal": true,
+   "ancla": "Pero para eso tendréis que renunciar a saber quién tuvo la culpa. El barro no recuerda quién lo rompió. Solo sabe volver a unirse.",
+   "temas": [
+    "hermanos",
+    "reconciliación"
+   ],
+   "intensidad": 4,
+   "gancho": "El barro no recuerda quién lo rompió",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — Hermanos: rivalidad y alianza"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Los papeles de la infancia no caducan solos. Una comida familiar basta para devolver a alguien de cincuenta años al que era a los diez, y a sus hermanos también.",
+   "es_literal": false,
+   "ancla": "Puedes tener cincuenta años, una vida entera construida lejos de casa, y bastará una comida familiar para que, en cuestión de minutos, vuelvas a ser exactamente el que eras a los diez.",
+   "temas": [
+    "hermanos",
+    "roles"
+   ],
+   "intensidad": 3,
+   "gancho": "El personaje que te tocó en casa sigue puesto",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 2 — Hermanos: rivalidad y alianza"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Para acercarte a un hermano después de años: escucha su versión sin defenderte, valida lo que sintió aunque no coincida con tu recuerdo, y muéstrate vulnerable tú también. La vulnerabilidad suele ser contagiosa.",
+   "es_literal": false,
+   "ancla": "Empieza por escuchar de verdad, sin defenderte, la versión del otro: «quiero entender cómo lo viviste tú; cuéntamelo». Sigue por validar lo que sintió, aunque no coincida con tu recuerdo",
+   "temas": [
+    "hermanos",
+    "empatía"
+   ],
+   "intensidad": 4,
+   "gancho": "Tres movimientos para volver a hablarse",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 2 — Hermanos: rivalidad y alianza"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un hijo no recuerda casi ninguno de los regalos que le hicimos. Recuerda, en cambio, las veces que se sintió de verdad visto.",
+   "es_literal": true,
+   "ancla": "Un hijo no recuerda casi ninguno de los regalos que le hicimos. Recuerda, en cambio, las veces que se sintió de verdad visto. Ese es el material del que están hechos los vínculos que duran.",
+   "temas": [
+    "hijos",
+    "presencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que un hijo recuerda no viene envuelto",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — Criar y acompañar: los vínculos con los hijos"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Aquí no hay padres perfectos ni manual que los fabrique. Lo que el libro sí mira: darse cuenta a tiempo, y reparar cuando uno falla.",
+   "es_literal": false,
+   "ancla": "Y aquella noche Martín entendió que criar no consiste en ser perfecto, sino en darse cuenta a tiempo. En cortar la cadena antes de que dé otra vuelta.",
+   "temas": [
+    "hijos",
+    "crianza"
+   ],
+   "intensidad": 3,
+   "gancho": "Ningún padre perfecto vive en estas páginas",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 3 — Criar y acompañar: los vínculos con los hijos"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando un hijo llega con un problema, resiste el impulso de arreglarlo: nombra primero lo que siente, deja un silencio, y solo después pensad juntos qué hacer. Primero la emoción; luego la estrategia.",
+   "es_literal": false,
+   "ancla": "Prueba primero a nombrar lo que siente —«debió de doler que no te invitaran»— y deja un silencio. Ya habrá tiempo, después, para pensar juntos qué hacer. Primero la emoción; luego la estrategia.",
+   "temas": [
+    "hijos",
+    "escucha"
+   ],
+   "intensidad": 4,
+   "gancho": "Primero la emoción; luego la estrategia",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 3 — Criar y acompañar: los vínculos con los hijos"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No hay que elegir entre querer mucho a un hijo y ponerle límites: son las dos manos con las que se le sostiene. Un hijo sin límites no se siente libre; se siente perdido.",
+   "es_literal": false,
+   "ancla": "Un hijo sin límites no se siente libre; se siente perdido. Los límites son las paredes de la casa dentro de las cuales el niño puede jugar tranquilo, porque sabe hasta dónde llega el suelo firme.",
+   "temas": [
+    "hijos",
+    "límites"
+   ],
+   "intensidad": 4,
+   "gancho": "Cariño y firmeza no son enemigos",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 3 — Criar y acompañar: los vínculos con los hijos"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo eliges. Y, lo que es más raro y más hermoso todavía, alguien te elige a ti de vuelta, sin más obligación que las ganas. Eso es la amistad: dos libertades que se buscan.",
+   "es_literal": true,
+   "ancla": "Lo eliges. Y, lo que es más raro y más hermoso todavía, alguien te elige a ti de vuelta, sin más obligación que las ganas. Eso es la amistad: dos libertades que se buscan.",
+   "temas": [
+    "amistad"
+   ],
+   "intensidad": 4,
+   "gancho": "La amistad: dos libertades que se buscan",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Parte II — Los que eliges: la amistad"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La diferencia entre que alguien te busque y que alguien te encaje es más grande de lo que parece.",
+   "es_literal": true,
+   "ancla": "En la amistad superficial se queda cuando coincide, cuando no hay plan mejor, cuando el hueco de la agenda se alinea. La diferencia entre que alguien te busque y que alguien te encaje es más grande de lo que parece.",
+   "temas": [
+    "amistad"
+   ],
+   "intensidad": 4,
+   "gancho": "Que te busquen o que te encajen",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — Amistad auténtica frente a superficial"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Dos horas de risas en una terraza y, al despedirte, la sensación rara de no haber dicho nada de lo que de verdad te pesa esta semana. No es desconfianza: es que ahí, con esa persona, eso no cabe.",
+   "es_literal": false,
+   "ancla": "Se lo ha pasado bien, sí. Pero no ha dicho nada de lo que de verdad le pesa esta semana. No porque no confíe en Lucía, sino porque intuye que ahí, con ella, esas cosas no caben.",
+   "temas": [
+    "amistad",
+    "profundidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Pasarlo bien y no contar nada verdadero",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Amistad auténtica frente a superficial"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "La pregunta no es cuántos amigos tienes. Es cuántas de tus relaciones bajan al sótano. Y a veces la respuesta honesta incomoda: mucha compañía y poca amistad.",
+   "es_literal": false,
+   "ancla": "No es «¿cuántos amigos tengo?». Es «¿cuántas de mis relaciones bajan al sótano?». Y a veces la respuesta honesta es incómoda: descubres que tienes muchísima compañía y muy poca amistad.",
+   "temas": [
+    "amistad",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "¿Cuántas de tus relaciones bajan al sótano?",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — Amistad auténtica frente a superficial"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Mapa de amistades: nombra cinco personas que hoy llamas amigos y pásale a cada una tres preguntas honestas: ¿podría contarle algo de lo que me avergüenzo?, ¿apareció cuando la vida se me torció?, ¿se alegra de verdad cuando me va bien? Después distingue sin juzgar.",
+   "es_literal": false,
+   "ancla": "¿Podría contarle esta persona algo de lo que me avergüenzo? ¿Ha aparecido cuando la vida se me torció, sin que yo se lo suplicara? ¿Se alegra de verdad cuando me va bien? Responde sin adornar. Nadie te está mirando.",
+   "temas": [
+    "amistad",
+    "método"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres preguntas para leer tu mapa de amistades",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — Amistad auténtica frente a superficial"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Una amistad es como este barro: no se conserva sola. Se conserva cociéndola una y otra vez. El que espera a que la amistad se cuide sola, un día encuentra solo el polvo de lo que fue.",
+   "es_literal": true,
+   "ancla": "Una amistad es como este barro: no se conserva sola. Se conserva cociéndola una y otra vez. El que espera a que la amistad se cuide sola, un día encuentra solo el polvo de lo que fue.",
+   "temas": [
+    "amistad",
+    "cuidado"
+   ],
+   "intensidad": 4,
+   "gancho": "Ninguna amistad se conserva sola",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — Cultivar amistades que duran"
+  },
+  {
+   "tipo": "cita",
+   "texto": "A un amigo no se le exige presencia constante; se le regala la libertad de tener su propia vida.",
+   "es_literal": true,
+   "ancla": "A un amigo no se le exige presencia constante; se le regala la libertad de tener su propia vida.",
+   "temas": [
+    "amistad",
+    "expectativas"
+   ],
+   "intensidad": 4,
+   "gancho": "Ningún amigo está siempre disponible",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — Cultivar amistades que duran"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "«Si tengo que esforzarme, es que la amistad no es de verdad» suena bonito y es falso. Que una amistad pida atención no significa que sea forzada: significa que está viva.",
+   "es_literal": false,
+   "ancla": "Pero nada vivo se conserva sin cuidado: ni una planta, ni un cuerpo, ni un vínculo. Que una amistad pida atención no significa que sea falsa; significa que está viva.",
+   "temas": [
+    "amistad",
+    "mitos"
+   ],
+   "intensidad": 4,
+   "gancho": "Las que «no piden nada» suelen estar apagándose",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 5 — Cultivar amistades que duran"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Mantenimiento del uno por ciento: escribe tres o cuatro nombres que quieras conservar toda la vida, asigna a cada uno un pulso que puedas sostener de verdad, y programa el primer paso en el calendario en lugar de dejarlo al azar.",
+   "es_literal": false,
+   "ancla": "Escribe los tres o cuatro nombres que de verdad quieres conservar toda la vida. No diez. Tres o cuatro. La energía es limitada; gástala donde importa.",
+   "temas": [
+    "amistad",
+    "método"
+   ],
+   "intensidad": 3,
+   "gancho": "Tres nombres, no diez",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 5 — Cultivar amistades que duran"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Perder a un amigo también es un duelo. Negarte a llorarlo no lo hace más pequeño; lo hace más largo.",
+   "es_literal": true,
+   "ancla": "Perder a un amigo también es un duelo. Negarte a llorarlo no lo hace más pequeño; lo hace más largo.",
+   "temas": [
+    "amistad",
+    "duelo"
+   ],
+   "intensidad": 5,
+   "gancho": "Perder a un amigo también es un duelo",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — Soltar: cuando una amistad ya no suma"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El alivio no te convierte en mala persona; es la señal de tu cuerpo confirmándote que la decisión era necesaria.",
+   "es_literal": true,
+   "ancla": "Puedes echar de menos lo que esa amistad fue y, a la vez, agradecer no seguir cargando lo que se volvió. El alivio no te convierte en mala persona; es la señal de tu cuerpo confirmándote que la decisión era necesaria.",
+   "temas": [
+    "amistad",
+    "culpa"
+   ],
+   "intensidad": 4,
+   "gancho": "Sentir alivio no te hace mala persona",
+   "formatos": [
+    "cita",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — Soltar: cuando una amistad ya no suma"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No toda amistad que termina exige una escena. A veces la despedida más respetuosa es la que se hace en silencio, sin convertir al otro en el villano de tu historia.",
+   "es_literal": false,
+   "ancla": "No es cobardía ni frialdad: es reconocer que no toda relación merece un juicio final, y que a veces la despedida más respetuosa es la que se hace en silencio, sin convertir al otro en el villano de tu historia.",
+   "temas": [
+    "amistad",
+    "soltar"
+   ],
+   "intensidad": 4,
+   "gancho": "No toda despedida necesita un portazo",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 6 — Soltar: cuando una amistad ya no suma"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Ritual de cierre de tres minutos: escribe en un papel una sola frase con lo que esa persona te aportó y lo que aprendiste de tenerla cerca. Léela, agradécela en silencio y guárdala. Aunque todavía no hayas decidido nada.",
+   "es_literal": false,
+   "ancla": "Escribe en un papel una sola frase: qué te ha aportado esa persona y qué has aprendido de tenerla en tu vida. Léela, agradécela en silencio, y guárdala. Es un pequeño ritual de cierre, aunque aún no hayas decidido nada.",
+   "temas": [
+    "amistad",
+    "cierre"
+   ],
+   "intensidad": 3,
+   "gancho": "Un ritual de cierre de tres minutos",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "audio"
+   ],
+   "capitulo": "Capítulo 6 — Soltar: cuando una amistad ya no suma"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un compañero lleva semanas raro y cortante. En lugar de devolverle la sequedad, alguien espera a que estén solos junto a la máquina de café y le dice: te noto cargado; si puedo aligerarte algo, dímelo. Cercanía sin fusión.",
+   "es_literal": false,
+   "ancla": "En cambio, un día Javier se acercó a la máquina de café, esperó a que estuvieran solos y le dijo, sin dramatismo: «Oye, te noto cargado estos días. No hace falta que me cuentes nada, pero si puedo aligerarte algo, dímelo».",
+   "temas": [
+    "trabajo",
+    "empatía"
+   ],
+   "intensidad": 3,
+   "gancho": "Dos minutos junto a la máquina de café",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 7 — Empatía y límites en el trabajo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La empatía sin límites se llama agotamiento. La empatía con límites se llama profesionalidad cálida.",
+   "es_literal": true,
+   "ancla": "La empatía sin límites se llama agotamiento. La empatía con límites se llama profesionalidad cálida.",
+   "temas": [
+    "trabajo",
+    "límites"
+   ],
+   "intensidad": 5,
+   "gancho": "Empatía con límites",
+   "formatos": [
+    "cita",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — Empatía y límites en el trabajo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Cuando varias de estas señales aparecen juntas y se instalan, tu cuerpo no te está pidiendo unas vacaciones: te está pidiendo límites.",
+   "es_literal": true,
+   "ancla": "Y una señal muy reveladora: la fantasía recurrente de desaparecer, de que llegue el viernes, de que alguien te libere. Cuando varias de estas señales aparecen juntas y se instalan, tu cuerpo no te está pidiendo unas vacaciones: te está pidiendo límites.",
+   "temas": [
+    "trabajo",
+    "desgaste"
+   ],
+   "intensidad": 5,
+   "gancho": "No pide vacaciones: pide límites",
+   "formatos": [
+    "cita",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — Empatía y límites en el trabajo"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando alguien se apoya en ti más de lo justo, tres piezas y ninguna acusación: reconoce la buena voluntad («me gusta ayudarte»), pon el límite en positivo («hoy no puedo con esto») y devuelve la responsabilidad a su sitio («sé que tú lo resuelves bien»).",
+   "es_literal": false,
+   "ancla": "La fórmula, cuando alguien se apoya en ti más de lo justo, es sencilla: reconoce la buena voluntad, pon el límite en positivo y devuelve la responsabilidad a su sitio.",
+   "temas": [
+    "trabajo",
+    "límites"
+   ],
+   "intensidad": 4,
+   "gancho": "Tres piezas para decir que no sin romper nada",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — Empatía y límites en el trabajo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El trabajo es el sitio donde más se tienta a llevar máscara. Sostenida durante años, esa máscara profesional agota y termina colocándose entre tú y la gente con la que pasas media vida.",
+   "es_literal": false,
+   "ancla": "Y hay un motivo de fondo para tomárselo en serio: el trabajo es el lugar donde más se tienta a llevar máscara. Una máscara profesional sostenida durante años agota como pocas cosas",
+   "temas": [
+    "trabajo",
+    "autenticidad"
+   ],
+   "intensidad": 4,
+   "gancho": "La máscara profesional también pesa",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Parte III — Los vínculos del trabajo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un grupo sin ningún conflicto no suele ser un grupo sano; suele ser uno donde nadie se atreve a discrepar.",
+   "es_literal": true,
+   "ancla": "El conflicto en el trabajo no es un fallo del sistema; es una señal de que hay personas distintas con perspectivas distintas, que es exactamente lo que hace bueno a un equipo. Un grupo sin ningún conflicto no suele ser un grupo sano; suele ser uno donde nadie se atreve a discrepar.",
+   "temas": [
+    "trabajo",
+    "conflicto"
+   ],
+   "intensidad": 4,
+   "gancho": "El equipo sin conflictos no siempre es el sano",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — Resolver conflictos sin romper"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "«Nunca colaboras con el equipo» acusa a la persona y la pone a la defensiva. «He notado que nos cuesta coordinar nuestras tareas, ¿cómo lo hacemos distinto?» señala el problema y abre la puerta.",
+   "es_literal": false,
+   "ancla": "Compara «nunca colaboras con el equipo» con «he notado que últimamente nos cuesta coordinar nuestras tareas; ¿cómo podemos mejorarlo?». La primera acusa a la persona y la pone a la defensiva. La segunda señala el problema y abre la puerta a resolverlo juntos.",
+   "temas": [
+    "trabajo",
+    "conflicto",
+    "comunicación"
+   ],
+   "intensidad": 4,
+   "gancho": "Hablar del problema, no de la persona",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 8 — Resolver conflictos sin romper"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no promete que todo conflicto acabe resolviéndose. Hay desacuerdos que no tienen solución, y aprender a convivir con ellos cuenta tanto como aprender a resolver los demás.",
+   "es_literal": false,
+   "ancla": "Hay una idea reconfortante y falsa que conviene desmontar: la de que todo conflicto, bien trabajado, acaba resolviéndose. No es verdad. Hay desacuerdos que no tienen solución, y aprender a convivir con ellos es tan importante como aprender a resolver los demás.",
+   "temas": [
+    "trabajo",
+    "conflicto",
+    "honestidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Hay conflictos que solo se gestionan",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 8 — Resolver conflictos sin romper"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Preparar una conversación difícil: escribe el problema en una frase de hechos, sin adjetivos; nombra qué sientes y qué necesitas; termina con una pregunta genuina («¿cómo lo ves tú?»); y cierra con un acuerdo concreto de quién hace qué y desde cuándo.",
+   "es_literal": false,
+   "ancla": "Sin adjetivos ni juicios. No «es un desconsiderado», sino «en las dos últimas reuniones se han cambiado decisiones sin avisarme». Los hechos abren diálogo; las etiquetas lo cierran.",
+   "temas": [
+    "trabajo",
+    "conflicto",
+    "método"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuatro piezas para una conversación difícil",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 8 — Resolver conflictos sin romper"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El barro no obedece al que lo aplasta. Obedece al que lo respeta mientras lo guía. Con las personas pasa igual. El que tiene poder y no lo entiende, deforma cuanto toca. El que tiene poder y lo respeta, da forma sin romper.",
+   "es_literal": true,
+   "ancla": "El barro no obedece al que lo aplasta. Obedece al que lo respeta mientras lo guía. Con las personas pasa igual. El que tiene poder y no lo entiende, deforma cuanto toca. El que tiene poder y lo respeta, da forma sin romper.",
+   "temas": [
+    "trabajo",
+    "poder",
+    "respeto"
+   ],
+   "intensidad": 4,
+   "gancho": "El barro no obedece al que lo aplasta",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 9 — Jefes, iguales y equipos: poder y respeto"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El miedo hacia quien manda te encoge: te calla y te empuja a esconder los errores. El respeto no encoge; ordena. Quien castiga la discrepancia no está pidiendo respeto, está pidiendo sumisión.",
+   "es_literal": false,
+   "ancla": "El respeto, en cambio, no te encoge; te ordena. Puedes respetar profundamente a un responsable y, aun así, discrepar de él con educación, señalarle un riesgo que no ve o defender tu criterio con argumentos.",
+   "temas": [
+    "trabajo",
+    "respeto",
+    "poder"
+   ],
+   "intensidad": 5,
+   "gancho": "Respeto y miedo no son lo mismo",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — Jefes, iguales y equipos: poder y respeto"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La adulación es frágil y todo el mundo la huele. El prestigio construido sobre hechos es lento, pero te sostiene aunque cambie el jefe.",
+   "es_literal": false,
+   "ancla": "La adulación es frágil y todo el mundo la huele; el prestigio construido sobre hechos es sólido y te sostiene aunque cambie el jefe. Apuesta siempre por lo segundo.",
+   "temas": [
+    "trabajo",
+    "reputación"
+   ],
+   "intensidad": 3,
+   "gancho": "La adulación se huele; los hechos no",
+   "formatos": [
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — Jefes, iguales y equipos: poder y respeto"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un gesto de respeto en cada dirección, esta semana: hacia arriba, un compromiso que cumples sin falta; hacia los lados, un reconocimiento sincero y concreto a un compañero; hacia abajo, si diriges, preguntar a alguien cómo puedes apoyarle mejor.",
+   "es_literal": false,
+   "ancla": "Hacia arriba: un compromiso que vas a cumplir sin falta esta semana. Hacia los lados: un reconocimiento sincero a un compañero. Hacia abajo, si diriges: preguntar a alguien de tu equipo cómo puedes apoyarle mejor.",
+   "temas": [
+    "trabajo",
+    "respeto",
+    "método"
+   ],
+   "intensidad": 3,
+   "gancho": "Un gesto hacia arriba, otro al lado, otro abajo",
+   "formatos": [
+    "carrusel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 9 — Jefes, iguales y equipos: poder y respeto"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La diferencia entre agarrarse y elegir es la diferencia entre la dependencia y el amor. El que se agarra, tarde o temprano, asfixia; el que elige, deja respirar.",
+   "es_literal": true,
+   "ancla": "No dos mitades que se agarran para no caerse, sino dos enteros que eligen caminar juntos. La diferencia entre agarrarse y elegir es la diferencia entre la dependencia y el amor.",
+   "temas": [
+    "pareja",
+    "dependencia"
+   ],
+   "intensidad": 5,
+   "gancho": "Agarrarse o elegir",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Amor propio: la base de la pareja"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Dos mitades que encajan no sostienen nada. Lo que construye un vínculo son dos naranjas enteras que deciden compartir el zumo. Suena menos poético; dura mucho más.",
+   "es_literal": false,
+   "ancla": "Lo que construye vínculos verdaderos no son dos mitades encajando, sino dos naranjas enteras que deciden compartir el zumo. Suena menos poético, lo sé. Pero es infinitamente más sólido, y dura mucho más que cualquier flechazo.",
+   "temas": [
+    "pareja",
+    "mitos"
+   ],
+   "intensidad": 4,
+   "gancho": "La media naranja es un mito",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Amor propio: la base de la pareja"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Aquí no hay cifras inventadas ni transformaciones milagrosas de la noche a la mañana. No hay porcentajes mágicos ni estudios que resuelvan un caso concreto.",
+   "es_literal": false,
+   "ancla": "Lo que no voy a hacer es darte cifras inventadas ni prometerte transformaciones milagrosas de la noche a la mañana. No hay porcentajes mágicos ni estudios que resuelvan tu caso concreto.",
+   "temas": [
+    "pareja",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Ni porcentajes mágicos ni noches milagrosas",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — Amor propio: la base de la pareja"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Inventario de encargos: coge papel y escribe qué le estás pidiendo a tu pareja sin haberlo dicho nunca en voz alta —que te haga sentir valioso, que te alegre los días grises, que te confirme que eres suficiente—. Nombrarlos ya es empezar a devolvértelos.",
+   "es_literal": false,
+   "ancla": "Coge papel y escribe qué le estás pidiendo, en silencio y sin haberlo dicho nunca en voz alta, a tu pareja: que te haga sentir valioso, que te alegre los días grises, que te confirme que eres suficiente",
+   "temas": [
+    "pareja",
+    "método"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que le pides sin haberlo dicho nunca",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 10 — Amor propio: la base de la pareja"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque muchas parejas se separan convencidas de que ya no se quieren, cuando en realidad lo que han perdido no es el amor, sino la manera de decírselo.",
+   "es_literal": true,
+   "ancla": "Porque muchas parejas se separan convencidas de que ya no se quieren, cuando en realidad lo que han perdido no es el amor, sino la manera de decírselo. Han dejado de saber hablarse.",
+   "temas": [
+    "pareja",
+    "comunicación"
+   ],
+   "intensidad": 5,
+   "gancho": "No perdieron el amor: perdieron cómo decírselo",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — Comunicación real y escucha"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "«Siempre llegas tarde y no te importa nada» acusa. «Me siento sola cuando te retrasas y no avisas» abre. Misma queja, efectos opuestos: el «tú» pone al otro contra la pared; el «yo» le tiende una mano.",
+   "es_literal": false,
+   "ancla": "El primero acusa y empuja al otro a defenderse; el segundo abre y muestra tu herida. Es la misma queja, con dos efectos opuestos. El «tú» pone al otro contra la pared; el «yo» le tiende una mano.",
+   "temas": [
+    "pareja",
+    "comunicación"
+   ],
+   "intensidad": 4,
+   "gancho": "El tú acorrala; el yo tiende la mano",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "articulo"
+   ],
+   "capitulo": "Capítulo 11 — Comunicación real y escucha"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Escuchar de verdad, en tres movimientos: suelta el argumento que estabas preparando; devuelve con tus palabras lo que has entendido («entonces lo que te dolió no fue el retraso, sino que no te avisara, ¿es eso?»); y valida lo que siente antes de rebatir nada.",
+   "es_literal": false,
+   "ancla": "«Entonces, lo que te dolió no fue el retraso en sí, sino que no te avisara, ¿es eso?» Esa comprobación, que parece boba, evita la mitad de los malentendidos de una relación.",
+   "temas": [
+    "pareja",
+    "escucha",
+    "método"
+   ],
+   "intensidad": 4,
+   "gancho": "Devolver lo que has entendido antes de responder",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 11 — Comunicación real y escucha"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "La gratitud genérica resbala. «Gracias por todo» no llega a ninguna parte; «gracias por escucharme anoche cuando estaba agobiada» sí. Lo específico se siente de verdad.",
+   "es_literal": false,
+   "ancla": "En lugar de un «gracias» genérico y automático, conviene ser concreto. No «gracias por todo», sino «gracias por escucharme anoche cuando estaba agobiada, me ayudó muchísimo». Lo específico se siente de verdad; lo genérico resbala.",
+   "temas": [
+    "pareja",
+    "gratitud"
+   ],
+   "intensidad": 3,
+   "gancho": "Lo específico se siente; lo genérico resbala",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — Comunicación real y escucha"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Las parejas que duran no son las que nunca se rompieron ni tuvieron una crisis. Son las que, cuando se rompieron, aprendieron a rellenar sus grietas con oro, sin fingir que no habían pasado.",
+   "es_literal": true,
+   "ancla": "Las parejas que duran no son las que nunca se rompieron ni tuvieron una crisis. Son las que, cuando se rompieron, aprendieron a rellenar sus grietas con oro, sin fingir que no habían pasado.",
+   "temas": [
+    "pareja",
+    "crisis"
+   ],
+   "intensidad": 5,
+   "gancho": "Las grietas se rellenan de oro, no se esconden",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12 — Atravesar las crisis juntos"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El resentimiento no mata de golpe: erosiona. Cada «no pasa nada» dicho cuando sí pasaba se suma a una deuda invisible que un día se cobra entera, con intereses de años.",
+   "es_literal": false,
+   "ancla": "Cada agravio que se calla «para no montar un drama», cada cuenta pendiente que se guarda en el cajón secreto, cada «no pasa nada» dicho cuando sí pasaba, se va sumando a una deuda invisible que un día se cobra entera, con intereses de años.",
+   "temas": [
+    "pareja",
+    "resentimiento"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que no se dice a tiempo no se olvida: se acumula",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — Atravesar las crisis juntos"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Dos movimientos cuando llega la crisis: nombrarla sin culpar («estamos en un momento difícil, los dos», nunca «tú has destrozado esto») y sentaros del mismo lado de la mesa, hombro con hombro, mirando juntos el problema en lugar de miraros el uno al otro.",
+   "es_literal": false,
+   "ancla": "Decir «estamos en un momento difícil, los dos» es radicalmente distinto de decir «tú has destrozado esto».",
+   "temas": [
+    "pareja",
+    "crisis",
+    "método"
+   ],
+   "intensidad": 4,
+   "gancho": "Del mismo lado de la mesa, no enfrente",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 12 — Atravesar las crisis juntos"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "El compromiso maduro no es una cadena que te ata: es una elección que se renueva. No se firma una vez y se olvida; se practica en los gestos pequeños de cada mañana.",
+   "es_literal": false,
+   "ancla": "La segunda: el compromiso maduro no es una cadena que te ata, es una elección que se renueva. Ahí está toda la diferencia.",
+   "temas": [
+    "pareja",
+    "compromiso"
+   ],
+   "intensidad": 4,
+   "gancho": "Una elección que se renueva, no una cadena",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13 — Intimidad, deseo y compromiso"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un compromiso que te obliga a desaparecer no es amor, es una jaula bien decorada. El buen compromiso te da raíces y alas a la vez.",
+   "es_literal": true,
+   "ancla": "Un compromiso que te obliga a desaparecer no es amor, es una jaula bien decorada. El buen compromiso te da raíces y alas a la vez: la seguridad de un hogar y la libertad de seguir creciendo dentro de él.",
+   "temas": [
+    "pareja",
+    "compromiso",
+    "autenticidad"
+   ],
+   "intensidad": 5,
+   "gancho": "Una jaula bien decorada sigue siendo una jaula",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 13 — Intimidad, deseo y compromiso"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Un ritual de dos: elegid una costumbre que sea solo vuestra —el paseo del domingo, el café antes de que se despierte la casa, la charla en la cama sin pantallas— y defendedla del día a día, que todo lo devora.",
+   "es_literal": false,
+   "ancla": "Elegid una costumbre que sea solo vuestra, un pequeño templo compartido: un paseo del domingo por la mañana, un café antes de que se despierte la casa, una charla en la cama antes de dormir sin pantallas de por medio.",
+   "temas": [
+    "pareja",
+    "rituales",
+    "método"
+   ],
+   "intensidad": 3,
+   "gancho": "Una costumbre que sea solo vuestra",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 13 — Intimidad, deseo y compromiso"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cuando tu reacción es mucho mayor que el estímulo, la diferencia es tuya. En diez minutos de retraso no cabe tanta rabia: el presente encendió la mecha, pero la pólvora ya estaba puesta.",
+   "es_literal": false,
+   "ancla": "La regla es sencilla y sorprendentemente fiable: cuando tu reacción es mucho mayor que el estímulo, la diferencia es tuya.",
+   "temas": [
+    "espejo",
+    "heridas"
+   ],
+   "intensidad": 5,
+   "gancho": "Si la reacción no cabe en el motivo, mira dentro",
+   "formatos": [
+    "carrusel",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — Las relaciones como espejo del alma"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro se niega a decir que atraes todo lo que te pasa. Si alguien te trata mal, no es porque algo en ti lo llamara: esa versión del espejo es injusta y culpabiliza a quien recibe el daño.",
+   "es_literal": false,
+   "ancla": "No, no «atraes» todo lo que te pasa. No es cierto que si alguien te trata mal sea porque «algo en ti lo llamó». Esa versión mística y culpabilizadora del espejo es injusta y, francamente, cruel",
+   "temas": [
+    "espejo",
+    "honestidad"
+   ],
+   "intensidad": 5,
+   "gancho": "La conducta del otro es del otro",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 14 — Las relaciones como espejo del alma"
+  },
+  {
+   "tipo": "herramienta",
+   "texto": "Cuando una relación te encienda, pásalo en frío —nunca en caliente— por cuatro preguntas: ¿qué he sentido exactamente?, ¿a qué me recuerda esto?, ¿qué parte es del otro y qué parte es mía?, ¿qué me pide esto que mire?",
+   "es_literal": false,
+   "ancla": "Cuando una relación te provoque una reacción intensa —rabia, dolor, envidia, ganas de huir—, en lugar de descargarla sobre el otro o tragártela, pásala por este filtro. No lo hagas en caliente; hazlo después, cuando el cuerpo se haya calmado.",
+   "temas": [
+    "espejo",
+    "método"
+   ],
+   "intensidad": 4,
+   "gancho": "Cuatro preguntas para mirarte en el espejo",
+   "formatos": [
+    "carrusel",
+    "articulo",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 14 — Las relaciones como espejo del alma"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Un límite no es un portazo. Es el modo de enseñarle al otro por dónde se entra sin hacerte daño.",
+   "es_literal": false,
+   "ancla": "Poner un límite no es cerrar una puerta. Es enseñar al otro cómo entrar sin hacerte daño.",
+   "temas": [
+    "límites",
+    "presencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Un límite enseña por dónde se entra",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 15 — Relaciones conscientes: presencia, límites y autenticidad"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La amiga perfecta: disponible para todo el mundo, a cualquier hora, incapaz de decir que no. Y por dentro, cada vez más vacía y más resentida sin saber muy bien por qué.",
+   "es_literal": false,
+   "ancla": "Era que había confundido querer con no poder decir que no. Cada «sí» que salía de su boca contra su voluntad iba dejando un pequeño poso de rencor, y ese rencor se acumulaba en silencio",
+   "temas": [
+    "límites",
+    "complacer"
+   ],
+   "intensidad": 4,
+   "gancho": "Un sí que no puede ser no no es generosidad",
+   "formatos": [
+    "reel",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Relaciones conscientes: presencia, límites y autenticidad"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Nadie está presente todo el tiempo. Estar de verdad no es no distraerse nunca: es notar que te has ido y volver, con suavidad, tantas veces como haga falta.",
+   "es_literal": false,
+   "ancla": "Significa notar cuándo te has ido y volver. Una y otra vez. La presencia no es no distraerse nunca: es darte cuenta de que te has distraído y regresar con suavidad, sin drama, tantas veces como haga falta.",
+   "temas": [
+    "presencia",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Presencia no es perfección",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Relaciones conscientes: presencia, límites y autenticidad"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Quien sabe estar solo no busca a otro para llenarse. Lo busca para compartir lo que ya tiene lleno.",
+   "es_literal": true,
+   "ancla": "Quien sabe estar solo no busca a otro para llenarse. Lo busca para compartir lo que ya tiene lleno.",
+   "temas": [
+    "soledad",
+    "vínculos"
+   ],
+   "intensidad": 5,
+   "gancho": "Compartir lo lleno, no llenar el hueco",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — La comunidad y la soledad elegida"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Soledad elegida y aislamiento no son lo mismo. La buena soledad te devuelve con ganas de los demás; el aislamiento te aleja cada vez más de ellos.",
+   "es_literal": false,
+   "ancla": "La medida es sencilla: la buena soledad te devuelve con ganas de los demás; el aislamiento te aleja cada vez más de ellos. Si tu tiempo a solas te recarga y luego disfrutas volviendo al mundo, vas bien.",
+   "temas": [
+    "soledad",
+    "aislamiento"
+   ],
+   "intensidad": 4,
+   "gancho": "Una te devuelve al mundo; el otro te aparta",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 16 — La comunidad y la soledad elegida"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Dos preguntas para el final de la semana: ¿he tenido un rato de soledad de verdad, sin pantallas? ¿Y un encuentro real, presente, con otra persona? Si falta una de las dos, ya sabes hacia dónde inclinarte.",
+   "es_literal": false,
+   "ancla": "Primera, ¿he tenido algún rato de soledad de verdad, sin pantallas, en el que me haya encontrado conmigo? Si la respuesta es no semana tras semana, probablemente vives huyendo de ti",
+   "temas": [
+    "soledad",
+    "comunidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Silencio habitado y encuentro verdadero",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "audio"
+   ],
+   "capitulo": "Capítulo 16 — La comunidad y la soledad elegida"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Los vínculos no se cuidan con grandes gestos, sino con gestos minúsculos y diarios: un mensaje que dice «me he acordado de ti», un teléfono guardado durante una cena, un «¿cómo estás de verdad?» que espera la respuesta.",
+   "es_literal": false,
+   "ancla": "Quiero que te lleves también otra idea, quizá la más práctica de todas: los vínculos no se cuidan con grandes gestos, sino con gestos minúsculos y diarios. Un mensaje que dice «me he acordado de ti».",
+   "temas": [
+    "vínculos",
+    "gestos"
+   ],
+   "intensidad": 4,
+   "gancho": "Gestos minúsculos, repetidos",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Cierre — Volver a conectar"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "El libro no pide que te arregles del todo antes de poder querer. Nadie está terminado, nunca. Es una espiral, no una escalera con un último peldaño.",
+   "es_literal": false,
+   "ancla": "Pero cuidado con leer esto como una condena a arreglarte del todo antes de poder amar. No funciona así. No hay que estar «terminado» para vincularse; nadie lo está, nunca.",
+   "temas": [
+    "honestidad",
+    "vínculos"
+   ],
+   "intensidad": 4,
+   "gancho": "Nadie está terminado, nunca",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Cierre — Volver a conectar"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Porque las relaciones no se rompen de golpe, casi nunca. Se erosionan en silencio, por acumulación de pequeños abandonos: la llamada que no hiciste, la presencia que no diste, la conversación difícil que fuiste posponiendo.",
+   "es_literal": true,
+   "ancla": "Porque las relaciones no se rompen de golpe, casi nunca. Se erosionan en silencio, por acumulación de pequeños abandonos: la llamada que no hiciste, la presencia que no diste, la conversación difícil que fuiste posponiendo.",
+   "temas": [
+    "vínculos",
+    "desgaste"
+   ],
+   "intensidad": 5,
+   "gancho": "Se erosionan en silencio, por pequeños abandonos",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "reel"
+   ],
+   "capitulo": "Cierre — Volver a conectar"
+  }
+ ]
+}

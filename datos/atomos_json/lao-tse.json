@@ -1,0 +1,1222 @@
+{
+ "serie": "los_mensajeros",
+ "libro": "lao-tse",
+ "atomos": [
+  {
+   "tipo": "cita",
+   "texto": "Toda su vida había sabido una cosa por encima de las demás: que el Camino que puede nombrarse no es el Camino verdadero.",
+   "es_literal": true,
+   "ancla": "Toda su vida había sabido una cosa por encima de las demás: que el Camino que puede nombrarse no es el Camino verdadero.",
+   "temas": [
+    "camino",
+    "lenguaje",
+    "silencio"
+   ],
+   "intensidad": 5,
+   "gancho": "La primera frase del libro es la que desmiente a todas las demás",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Una lámpara de aceite, un haz de bambú sin una sola marca y un pincel apoyado como un pájaro dormido. El anciano ha pasado la vida copiando lo que pensaron otros; ahora, en el último umbral, le piden que hable él.",
+   "es_literal": false,
+   "ancla": "Y siempre había escrito lo que otros habían pensado, lo que otros habían hecho; nunca lo suyo, nunca una sola palabra que naciera de él.",
+   "temas": [
+    "escritura",
+    "vejez",
+    "umbral"
+   ],
+   "intensidad": 4,
+   "gancho": "Toda una vida guardando el pensamiento ajeno, y ahora la tira de bambú en blanco",
+   "formatos": [
+    "escena",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Hay cosas que no se entregan: se señalan. Unas pocas huellas en el barro bastan para que alguien, mucho después, adivine por dónde pasó el que caminaba.",
+   "es_literal": false,
+   "ancla": "Quizá, se dijo, no se trataba de atrapar el río, sino solo de señalar hacia él. Quizá bastaba con dejar unas pocas huellas en el barro para que otro, mucho después, adivinara por dónde había pasado el que caminaba.",
+   "temas": [
+    "transmision",
+    "humildad",
+    "camino"
+   ],
+   "intensidad": 4,
+   "gancho": "No atrapar el río: solo señalar hacia dónde bajaba",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Prólogo"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela recoge las leyendas sobre su nacimiento y las desactiva en la misma página: son cosas que se cuentan, no hechos que nadie pueda comprobar.",
+   "es_literal": false,
+   "ancla": "Son cosas que se cuentan, y quien nace de un modo tan ordinario como todos los hombres —de dolor, de sangre y de llanto— acaso no merezca que se le adorne el principio con prodigios.",
+   "temas": [
+    "leyenda",
+    "ficcion documental",
+    "honestidad"
+   ],
+   "intensidad": 3,
+   "gancho": "Ficción de base documental: la leyenda se cuenta y se marca como leyenda",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El niño viejo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El padre le pregunta qué mira tanto rato. El niño no contesta: señala el arroyo, donde una hoja seca gira un instante y desaparece. El hombre no entiende, y se queda inquieto durante días.",
+   "es_literal": false,
+   "ancla": "Señaló el arroyo, que en ese momento arrastraba una hoja seca hacia el recodo, y la hoja giró un instante en un remolino y luego desapareció río abajo, y ya no estuvo.",
+   "temas": [
+    "infancia",
+    "impermanencia",
+    "mirar"
+   ],
+   "intensidad": 4,
+   "gancho": "Un niño que no responde con palabras y señala una hoja en el agua",
+   "formatos": [
+    "escena",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 1 — El niño viejo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El abuelo Wen se ha ido como la hoja —dijo el niño—. Río abajo.",
+   "es_literal": true,
+   "ancla": "—El abuelo Wen se ha ido como la hoja —dijo el niño—. Río abajo.",
+   "temas": [
+    "muerte",
+    "infancia",
+    "retorno"
+   ],
+   "intensidad": 5,
+   "gancho": "Un niño explica la muerte de un vecino en ocho palabras",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 1 — El niño viejo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "La ley es la cicatriz que deja la virtud al morir.",
+   "es_literal": true,
+   "ancla": "Un pueblo se llena de leyes cuando ha perdido por completo el saber vivir. La ley es la cicatriz que deja la virtud al morir.",
+   "temas": [
+    "ley",
+    "poder",
+    "decadencia"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que piensa un archivero cosiendo el código de castigos de su reino",
+   "formatos": [
+    "cita",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 2 — La corte que se pudre"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Con los bienes de una casa ejecutada llega al archivo un cofre sin valor oficial: unas cartas, el dibujo torpe de un niño, un poema de una noche de invierno. El archivero lo guarda aparte, en el estante más alto.",
+   "es_literal": false,
+   "ancla": "unas cartas privadas, el dibujo torpe de un niño, un poema que una esposa había escrito a su marido en una noche de invierno, veinte años atrás, cuando ambos eran jóvenes y felices y el mundo parecía ancho y bueno.",
+   "temas": [
+    "ternura",
+    "perdida",
+    "archivo"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo único que quedó de una familia entera cabía en un cofre sin valor",
+   "formatos": [
+    "escena",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 2 — La corte que se pudre"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es que el mundo se estropeara a pesar de todo lo que los hombres hacían para arreglarlo: se estropeaba justamente a fuerza de querer arreglarlo.",
+   "es_literal": false,
+   "ancla": "Pero ya sabía, en el fondo callado de sí mismo, que el mundo no se estropeaba a pesar de todo lo que los hombres hacían para arreglarlo, sino precisamente a fuerza de querer arreglarlo.",
+   "temas": [
+    "no forzar",
+    "poder",
+    "lucidez"
+   ],
+   "intensidad": 4,
+   "gancho": "Cada mano tendida para enderezar el árbol lo torcía un poco más",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 2 — La corte que se pudre"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El polvo también hay que guardarlo —dijo—. Para que los que vengan vean en qué se convierten los que corren.",
+   "es_literal": true,
+   "ancla": "—El polvo también hay que guardarlo —dijo—. Para que los que vengan vean en qué se convierten los que corren.",
+   "temas": [
+    "memoria",
+    "ambicion",
+    "archivo"
+   ],
+   "intensidad": 4,
+   "gancho": "Por qué guardar libros que él mismo llama polvo",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — El agua y la piedra"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Los reinos duros se quiebran. Los generales de hierro caen. Los grandes árboles rígidos los tronca el viento. Pero el agua sigue bajando, blanda, paciente, y hunde montañas.",
+   "es_literal": true,
+   "ancla": "Los reinos duros se quiebran. Los generales de hierro caen. Los grandes árboles rígidos los tronca el viento. Pero el agua sigue bajando, blanda, paciente, y hunde montañas.",
+   "temas": [
+    "agua",
+    "blandura",
+    "paciencia"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo que una roca ahuecada le enseña a un muchacho furioso",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 3 — El agua y la piedra"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Bajo un cobertizo, esperando a que escampe, un pino viejo que se niega a ceder se parte por la copa, y los bambúes que se doblaron hasta el suelo se enderezan intactos cuando pasa la ráfaga.",
+   "es_literal": false,
+   "ancla": "El viento venía fuerte del norte, y el muchacho vio cómo un pino viejo y recto, empeñado en no ceder, se quebraba por la copa con un crujido, mientras a su lado los bambúes se doblaban hasta el suelo y, pasada la ráfaga, se enderezaban intactos. El que se opuso yacía roto; los que cedieron seguían verdes.",
+   "temas": [
+    "tormenta",
+    "ceder",
+    "wu wei"
+   ],
+   "intensidad": 4,
+   "gancho": "El que se opuso quedó roto; los que cedieron seguían verdes",
+   "formatos": [
+    "escena",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — El agua y la piedra"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Que no lo entiendas todavía es la primera lección. El que cree que ha entendido el Camino, es que no ha visto ni su sombra.",
+   "es_literal": true,
+   "ancla": "Que no lo entiendas todavía es la primera lección. El que cree que ha entendido el Camino, es que no ha visto ni su sombra.",
+   "temas": [
+    "aprendizaje",
+    "duda",
+    "humildad"
+   ],
+   "intensidad": 5,
+   "gancho": "Un maestro que celebra que su discípulo no haya entendido nada",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 3 — El agua y la piedra"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Confucio lleva una hora esperando en un patio con musgo entre las baldosas. Un gato flaco cruza, lo mira con ojos indiferentes y sigue su camino sin concederle importancia.",
+   "es_literal": false,
+   "ancla": "Un gato flaco cruzó entre las columnas, se detuvo a mirarlo con sus ojos dorados e indiferentes, y siguió su camino sin concederle importancia. Confucio, que estaba acostumbrado a que la gente le concediera importancia, sintió, sin querer, una pequeña punzada de fastidio",
+   "temas": [
+    "orgullo",
+    "espera",
+    "encuentro"
+   ],
+   "intensidad": 3,
+   "gancho": "La primera lección se la dio un gato, antes de que el anciano abriera la boca",
+   "formatos": [
+    "escena",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 4 — La visita de Confucio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El buen mercader esconde su tesoro y parece pobre. Guarda sus mejores mercancías en el fondo del arca, bajo trapos viejos, y por fuera enseña una tienda humilde, y quien pasa por delante lo toma por un pobre hombre.",
+   "es_literal": true,
+   "ancla": "El buen mercader esconde su tesoro y parece pobre. Guarda sus mejores mercancías en el fondo del arca, bajo trapos viejos, y por fuera enseña una tienda humilde, y quien pasa por delante lo toma por un pobre hombre.",
+   "temas": [
+    "humildad",
+    "orgullo",
+    "apariencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que se ve desde lejos es fácil de cazar",
+   "formatos": [
+    "cita",
+    "carrusel",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 4 — La visita de Confucio"
+  },
+  {
+   "tipo": "cita",
+   "texto": "No sé cómo se atrapa a un dragón. No sabría siquiera por dónde empezar. Ni tú, Zilu, ni yo, ni nadie que yo conozca.",
+   "es_literal": true,
+   "ancla": "No sé cómo se atrapa a un dragón. No sabría siquiera por dónde empezar. Ni tú, Zilu, ni yo, ni nadie que yo conozca.",
+   "temas": [
+    "asombro",
+    "encuentro",
+    "limite"
+   ],
+   "intensidad": 5,
+   "gancho": "Un hombre que sabía cazarlo todo vuelve a casa admitiendo lo que no sabe",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 4 — La visita de Confucio"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un maestro moribundo pide que le acerquen la lámpara y abre la boca cuanto puede. Su discípulo se inclina y mira dentro: la lengua sigue entera; de los dientes no queda ni uno.",
+   "es_literal": false,
+   "ancla": "En las encías retraídas y oscurecidas por los años no quedaba ni un solo diente. Ni uno. La boca del viejo era una cueva desnuda, hueca, blanda toda ella, sin nada duro que la habitara",
+   "temas": [
+    "muerte",
+    "maestro",
+    "blandura"
+   ],
+   "intensidad": 5,
+   "gancho": "La última lección de un maestro cabía dentro de su boca abierta",
+   "formatos": [
+    "escena",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — Lo blando vence a lo duro"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Lo blando ha durado más que lo duro. Lo que cede ha vencido a lo que resiste.",
+   "es_literal": true,
+   "ancla": "¿Lo entiendes, hijo? Lo blando ha durado más que lo duro. Lo que cede ha vencido a lo que resiste. La lengua no le hace frente a nada; se dobla, se aparta, se acomoda a cualquier bocado, no se opone jamás. Por eso sigue viva.",
+   "temas": [
+    "blandura",
+    "ceder",
+    "duracion"
+   ],
+   "intensidad": 5,
+   "gancho": "Los dientes se fueron antes que su dueño; la lengua no",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 5 — Lo blando vence a lo duro"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Ceder no era rendirse y doblarse no era someterse: era saber estar vivo. Una cosa es repetir que el agua vence a la piedra y otra hacerse agua uno mismo cuando le hieren el orgullo.",
+   "es_literal": false,
+   "ancla": "Ceder, entendió, no era rendirse. Doblarse no era someterse ni humillarse. Era saber estar vivo, conocer el modo secreto en que lo débil vence a lo fuerte y lo blando a lo duro",
+   "temas": [
+    "orgullo",
+    "ceder",
+    "practica"
+   ],
+   "intensidad": 4,
+   "gancho": "Saberlo es fácil; hacerse agua cuando te hieren el orgullo, no",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 5 — Lo blando vence a lo duro"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El recién nacido es blando y flexible; el cadáver es rígido y tieso. La hierba tierna se dobla; la rama seca se quiebra.",
+   "es_literal": true,
+   "ancla": "Lo tierno y lo débil son compañeros de la vida; lo duro y lo rígido son compañeros de la muerte. El recién nacido es blando y flexible; el cadáver es rígido y tieso. La hierba tierna se dobla; la rama seca se quiebra.",
+   "temas": [
+    "vida",
+    "rigidez",
+    "cuerpo"
+   ],
+   "intensidad": 5,
+   "gancho": "Un modo de saber si algo sigue vivo: mira si todavía se dobla",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 5 — Lo blando vence a lo duro"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un príncipe impaciente exige la fórmula para gobernar. El anciano le señala al viejo cocinero del patio, que ha puesto un pez en la sartén y ahora se aparta un poco y solo lo vigila con el rabillo del ojo.",
+   "es_literal": false,
+   "ancla": "Ahora observa lo que hace, que es sobre todo lo que no hace. No lo toca. Lo ha dejado quieto sobre el aceite. No lo revuelve, no lo pincha con los palillos para ver si ya está, no le da la vuelta cada momento, no lo empuja de un lado a otro de la sartén.",
+   "temas": [
+    "gobierno",
+    "no forzar",
+    "paciencia"
+   ],
+   "intensidad": 4,
+   "gancho": "Pidió el arte de gobernar y le enseñaron a freír un pez",
+   "formatos": [
+    "escena",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — El gobernante que no gobierna"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Gobernar un gran reino es como freír un pez pequeño. Es exactamente lo mismo. Si lo manoseas, lo deshaces. Cuanto más lo tocas, peor te sale.",
+   "es_literal": true,
+   "ancla": "Gobernar un gran reino es como freír un pez pequeño. Es exactamente lo mismo. Si lo manoseas, lo deshaces. Cuanto más lo tocas, peor te sale.",
+   "temas": [
+    "gobierno",
+    "no forzar",
+    "wu wei"
+   ],
+   "intensidad": 5,
+   "gancho": "Cuanto más lo tocas, peor te sale",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — El gobernante que no gobierna"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El amor al gobernante es también una cadena, aunque sea de oro y aunque la lleven a gusto. Un pueblo que alaba mucho es un pueblo que aún no es libre.",
+   "es_literal": true,
+   "ancla": "El amor al gobernante es también una cadena, aunque sea de oro y aunque la lleven a gusto. Un pueblo que alaba mucho es un pueblo que aún no es libre.",
+   "temas": [
+    "poder",
+    "libertad",
+    "alabanza"
+   ],
+   "intensidad": 4,
+   "gancho": "Ni despreciado ni temido ni amado: apenas advertido",
+   "formatos": [
+    "cita",
+    "hilo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 6 — El gobernante que no gobierna"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cualquiera sabe añadir; hace falta más para quitar. Derogadas las leyes más recientes, quizá desaparezca también la mitad de los ladrones que esas leyes habían acorralado.",
+   "es_literal": false,
+   "ancla": "Prueba a no hacer. A quitar en lugar de añadir, que es mucho más difícil, porque cualquiera sabe añadir y hace falta ser sabio para quitar.",
+   "temas": [
+    "quitar",
+    "ley",
+    "gobierno"
+   ],
+   "intensidad": 4,
+   "gancho": "Quitar cuesta más que añadir, y casi nadie lo intenta",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 6 — El gobernante que no gobierna"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El alfarero hunde los pulgares en la masa y abre el hueco. Cuando le preguntan qué parte de la vasija contiene de verdad, descubre en voz alta algo que sus manos sabían desde hacía cuarenta años.",
+   "es_literal": false,
+   "ancla": "El alfarero se quedó callado. Nunca lo había pensado así, y sin embargo lo había sabido siempre con las manos. Sus dedos conocían aquella verdad desde hacía cuarenta años, aunque su cabeza no la hubiera dicho nunca en voz alta.",
+   "temas": [
+    "oficio",
+    "vacio",
+    "saber"
+   ],
+   "intensidad": 4,
+   "gancho": "Sabiduría que vive en las manos de un hombre que no se ha dado cuenta",
+   "formatos": [
+    "escena",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — El vacío útil"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Toda la vida haciendo huecos —dijo— y creyendo que hacía vasijas.",
+   "es_literal": true,
+   "ancla": "—Toda la vida haciendo huecos —dijo— y creyendo que hacía vasijas.",
+   "temas": [
+    "oficio",
+    "vacio",
+    "humor"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo dice un alfarero, riéndose por lo bajo, al final de una mañana",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — El vacío útil"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Ten esto siempre presente, muchacho: lo que hay te da la forma, pero lo que no hay te da el uso.",
+   "es_literal": true,
+   "ancla": "Sin hueco, la vasija es un guijarro; sin agujero, la rueda es un tocón; sin espacio, la casa es una tumba. Ten esto siempre presente, muchacho: lo que hay te da la forma, pero lo que no hay te da el uso.",
+   "temas": [
+    "vacio",
+    "utilidad",
+    "mirada"
+   ],
+   "intensidad": 5,
+   "gancho": "La vasija, la rueda, la casa: en las tres trabaja lo que no está",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 7 — El vacío útil"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "A mí me enseñaron que hay que llenarse: de saber, de oficio, de mérito. Si me vacío, ¿qué me queda? El maestro se niega a responder esa tarde y deja que la pregunta pese.",
+   "es_literal": false,
+   "ancla": "A mí me enseñaron que hay que llenarse: de saber, de oficio, de mérito. Si me vacío, ¿qué me queda? ¿No es eso quedarse en nada, ser un don nadie?",
+   "temas": [
+    "vacio",
+    "identidad",
+    "duda"
+   ],
+   "intensidad": 4,
+   "gancho": "La pregunta que el maestro no quiso resolver el mismo día",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 7 — El vacío útil"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Cada corte define y a la vez empobrece: la madera que ya es cuchara no podrá ser flauta. Por eso hay quien guarda dentro de sí una parte sin tallar, disponible para todo.",
+   "es_literal": false,
+   "ancla": "Cada corte que le da le quita posibilidades. Cada forma que gana es una forma que pierde. La talla lo define, sí, pero al definirlo lo empobrece. El bloque sin tallar es más rico que cualquier cosa que salga de él, porque las contiene a todas en potencia.",
+   "temas": [
+    "identidad",
+    "posibilidad",
+    "simplicidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Un trozo de leña sin tallar contiene todavía todas las formas",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 7 — El vacío útil"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El que quiere recibir ha de ponerse debajo, no encima. El que se pone encima ve cómo todo se le escurre y se le va. El que se pone debajo ve cómo todo acude a él.",
+   "es_literal": true,
+   "ancla": "El que quiere recibir ha de ponerse debajo, no encima. El que se pone encima ve cómo todo se le escurre y se le va. El que se pone debajo ve cómo todo acude a él.",
+   "temas": [
+    "valle",
+    "humildad",
+    "recibir"
+   ],
+   "intensidad": 5,
+   "gancho": "Por qué el valle se llena sin perseguir una sola gota",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — El valle y lo femenino"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El anciano se agacha junto a la poza y traza con el dedo un surco en el barro. El agua lo encuentra sola. El muchacho abre otro al lado, y los dos regueros bajan juntos y se juntan sin ruido.",
+   "es_literal": false,
+   "ancla": "Se agachó junto a la poza y con el dedo trazó un pequeño surco en el barro de la orilla. Al instante, un hilo de agua encontró el surco y lo siguió, sin que él tuviera que empujarla ni guiarla.",
+   "temas": [
+    "agua",
+    "no forzar",
+    "ensenanza"
+   ],
+   "intensidad": 4,
+   "gancho": "No empujó el agua: solo le abrió un cauce más bajo",
+   "formatos": [
+    "escena",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 8 — El valle y lo femenino"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Volver a la raíz es reposar; reposar es cumplir el destino; cumplir el destino es lo eterno.",
+   "es_literal": true,
+   "ancla": "Todo va y vuelve. Todo sale de lo hondo y a lo hondo regresa. Volver a la raíz es reposar; reposar es cumplir el destino; cumplir el destino es lo eterno.",
+   "temas": [
+    "retorno",
+    "raiz",
+    "reposo"
+   ],
+   "intensidad": 5,
+   "gancho": "El agua baja al mar, sube en nube y vuelve a caer: un círculo sin final",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 8 — El valle y lo femenino"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Un invierno sin carbón y con humedad en las salas. Un rollo se deshace al desatarlo y le deja en la palma un polvo pardo. El archivero se queda quieto mucho rato, lo deja caer y no dice nada.",
+   "es_literal": false,
+   "ancla": "Empezó a encontrar rollos que al desatarse se deshacían en sus manos, dejándole en la palma un polvo pardo que había sido, alguna vez, la crónica de una batalla o el nombre de un hombre que quiso ser recordado.",
+   "temas": [
+    "perdida",
+    "memoria",
+    "vejez"
+   ],
+   "intensidad": 5,
+   "gancho": "La memoria de un mundo entero cabiendo, deshecha, en una palma vieja",
+   "formatos": [
+    "escena",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — El derrumbe"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El mundo era un río, y él había querido ser un dique. Y el río, que no forzaba nada, lo había vencido sin siquiera advertir que había un dique.",
+   "es_literal": true,
+   "ancla": "El mundo era un río, y él había querido ser un dique. Y el río, que no forzaba nada, lo había vencido sin siquiera advertir que había un dique.",
+   "temas": [
+    "derrumbe",
+    "soltar",
+    "rio"
+   ],
+   "intensidad": 5,
+   "gancho": "El balance de una vida entera, hecho una noche frente a una ventana",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 9 — El derrumbe"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Había visto a muchos hombres pelear por causas justas y caer, no derribados por sus enemigos, sino secados por dentro por su propia lucha.",
+   "es_literal": false,
+   "ancla": "Lao Tsé había visto a muchos hombres luchar así a lo largo de su vida, y los había visto a todos vencidos, no por sus enemigos, sino por su propia lucha, que los consumía por dentro hasta dejarlos secos como cañas.",
+   "temas": [
+    "lucha",
+    "desgaste",
+    "limite"
+   ],
+   "intensidad": 4,
+   "gancho": "Vencidos no por el enemigo, sino por la propia pelea",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Capítulo 9 — El derrumbe"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "Un joven le dice sin maldad que nadie leerá nunca lo que guarda. No hay rabia en la respuesta: busca la rabia dentro de sí, no la encuentra, y esa ausencia es lo que le contesta.",
+   "es_literal": false,
+   "ancla": "No sintió rabia. Buscó dentro de sí la rabia y no la encontró, y aquella ausencia fue la verdadera respuesta.",
+   "temas": [
+    "desengano",
+    "aceptacion",
+    "alivio"
+   ],
+   "intensidad": 4,
+   "gancho": "Buscó la rabia dentro de sí y no la encontró",
+   "formatos": [
+    "carrusel",
+    "escena",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 9 — El derrumbe"
+  },
+  {
+   "tipo": "cita",
+   "texto": "El Camino cada cual ha de andarlo solo. No porque la compañía sea mala; la compañía es dulce, y bien lo sabe este viejo que va a echar de menos la tuya.",
+   "es_literal": true,
+   "ancla": "El Camino cada cual ha de andarlo solo. No porque la compañía sea mala; la compañía es dulce, y bien lo sabe este viejo que va a echar de menos la tuya.",
+   "temas": [
+    "despedida",
+    "discipulo",
+    "soledad"
+   ],
+   "intensidad": 5,
+   "gancho": "Le dice que no puede acompañarlo, y le dice también que lo echará de menos",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Dejar el mundo"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Los que entienden el retorno no dicen adiós. Di: hasta el mar. Porque al mar volvemos todos, y en el mar, un día, sin nombres ya y sin caras, quizá nos encontremos, tú y yo, hechos agua",
+   "es_literal": true,
+   "ancla": "Los que entienden el retorno no dicen adiós. Di: hasta el mar. Porque al mar volvemos todos, y en el mar, un día, sin nombres ya y sin caras, quizá nos encontremos, tú y yo, hechos agua, sin saberlo y sin necesitar saberlo.",
+   "temas": [
+    "despedida",
+    "retorno",
+    "mar"
+   ],
+   "intensidad": 5,
+   "gancho": "Cómo despedirse cuando ya no sirve la palabra adiós",
+   "formatos": [
+    "cita",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Capítulo 10 — Dejar el mundo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Escarcha en los tejados y un buey negro esperando junto a la hierba helada del patio. El anciano lo prepara él mismo, sin dejar que nadie lo ayude, y comprueba que no lleve más peso del que un animal viejo puede llevar.",
+   "es_literal": false,
+   "ancla": "La mañana de su partida amaneció clara y fría. Había caído una escarcha ligera durante la noche, y los tejados de Luoyang brillaban blancos bajo un sol pálido de finales del invierno. En el patio de los archivos, junto a la hierba escarchada, esperaba el buey negro.",
+   "temas": [
+    "partida",
+    "buey",
+    "ligereza"
+   ],
+   "intensidad": 4,
+   "gancho": "Una vida entera cabe en un fardo que un buey viejo puede cargar",
+   "formatos": [
+    "escena",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 10 — Dejar el mundo"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué haces con lo aprendido cuando el maestro se va y, como último encargo, te pide que no lo sigas?",
+   "es_literal": false,
+   "ancla": "Solo te pido una cosa: no me sigas. Si me quieres, no me sigas. Déjame hacer mi retorno solo, como todos lo hacemos, y haz tú el tuyo cuando te toque.",
+   "temas": [
+    "discipulo",
+    "autonomia",
+    "despedida"
+   ],
+   "intensidad": 4,
+   "gancho": "Si me quieres, no me sigas",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 10 — Dejar el mundo"
+  },
+  {
+   "tipo": "escena",
+   "texto": "En una aldea diminuta, un crío de cuatro o cinco años se ha sentado en pleno charco. Amasa figuras de barro, las mira un instante como si fueran lo más importante del mundo y las deshace sin pena para hacer otra.",
+   "es_literal": false,
+   "ancla": "Amasaba el lodo entre sus manitas, construía y deshacía, y cada figura que hacía la miraba un instante con un asombro total, como si fuera lo más importante del mundo, y luego la deshacía sin la menor pena para hacer otra.",
+   "temas": [
+    "infancia",
+    "apego",
+    "presente"
+   ],
+   "intensidad": 4,
+   "gancho": "Un niño en el barro sabía sin aprenderlo lo que él tardó una vida",
+   "formatos": [
+    "escena",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — El viaje"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Es el fuego el que trabaja —dijo—. Yo solo espero a que el hierro esté listo. Golpear antes de tiempo no sirve de nada. Todo tiene su punto.",
+   "es_literal": true,
+   "ancla": "—Es el fuego el que trabaja —dijo—. Yo solo espero a que el hierro esté listo. Golpear antes de tiempo no sirve de nada. Todo tiene su punto.",
+   "temas": [
+    "oficio",
+    "espera",
+    "sabiduria callada"
+   ],
+   "intensidad": 4,
+   "gancho": "Un herrero taciturno dice en una frase lo que el libro tardará cinco mil palabras",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 11 — El viaje"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Dentro de la niebla no se ve la próxima curva: solo dónde poner la siguiente pezuña. Al buey no le inquieta, y por eso avanza.",
+   "es_literal": false,
+   "ancla": "El que quiere ver todo el camino de una vez antes de dar el primer paso, no da nunca el primer paso. El sabio ve solo lo que necesita ver, y anda.",
+   "temas": [
+    "niebla",
+    "incertidumbre",
+    "paso a paso"
+   ],
+   "intensidad": 4,
+   "gancho": "Ver solo lo que hace falta ver, y andar",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — El viaje"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Un labrador que nunca ha oído las palabras que él pasó la vida escribiendo ara sin prisa y sin mirar el final del surco. El anciano reanuda la marcha sintiéndose más discípulo que maestro.",
+   "es_literal": false,
+   "ancla": "Y volvió a poner en marcha a su buey con una humildad renovada, sintiéndose, ante aquel labrador anónimo, más discípulo que maestro.",
+   "temas": [
+    "humildad",
+    "trabajo",
+    "encuentro"
+   ],
+   "intensidad": 4,
+   "gancho": "El maestro se cruza con un campesino y se siente el aprendiz",
+   "formatos": [
+    "carrusel",
+    "escena",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 11 — El viaje"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela cuenta la nube púrpura y, en la misma página, la pone en duda: acaso fuera solo una aurora de otoño, y el resto lo pusiera el corazón de un hombre que esperaba una señal.",
+   "es_literal": false,
+   "ancla": "Acaso fue solo una aurora de otoño, de esas que a veces cargan el horizonte de un color hondo antes de que salga el sol, y fue el corazón de un hombre que esperaba una señal el que puso en ella el resto.",
+   "temas": [
+    "prodigio",
+    "duda",
+    "ficcion documental"
+   ],
+   "intensidad": 4,
+   "gancho": "El prodigio se cuenta y en la misma página se deja abierto a otra explicación",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — La nube púrpura"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El guardián manda barrer el patio, abrir el portón de par en par y sacar tinta, pincel y bambú alisado. El camino sigue vacío y nadie entiende nada. No sabe para qué lo hace.",
+   "es_literal": false,
+   "ancla": "Mandó traer del almacén las tiras de bambú que se guardaban para los registros, las más lisas, las de mejor veta, y ordenó que las alisaran de nuevo y las perforaran por un extremo para poder atarlas. No sabía para qué. Obedecía a la nube.",
+   "temas": [
+    "espera",
+    "presagio",
+    "hospitalidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Prepara la casa como para un rey y el camino está vacío",
+   "formatos": [
+    "escena",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — La nube púrpura"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Había pasado la vida enseñando que el sabio se oculta, que la mayor virtud parece un vacío, que lo más lleno parece lo más hueco; y ahora, en el camino, era por fin lo que había predicado: un hombre invisible, un viejo cualquiera, una nada que andaba.",
+   "es_literal": true,
+   "ancla": "Había pasado la vida enseñando que el sabio se oculta, que la mayor virtud parece un vacío, que lo más lleno parece lo más hueco; y ahora, en el camino, era por fin lo que había predicado: un hombre invisible, un viejo cualquiera, una nada que andaba.",
+   "temas": [
+    "ocultarse",
+    "coherencia",
+    "camino"
+   ],
+   "intensidad": 5,
+   "gancho": "Al final del camino era por fin lo que había predicado",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 12 — La nube púrpura"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No mira la muralla con burla, sino con la ternura que se tiene hacia los niños que hacen diques de arena: a los dos lados sopla el mismo viento y corre bajo la tierra la misma agua.",
+   "es_literal": false,
+   "ancla": "Los hombres levantan murallas contra otros hombres, pensó, y no advierten que la única frontera verdadera, la que separa el ruido del silencio y el forzar del dejar ser, no está hecha de piedra y no puede cerrarse con un portón.",
+   "temas": [
+    "frontera",
+    "muralla",
+    "ternura"
+   ],
+   "intensidad": 4,
+   "gancho": "La única frontera verdadera no está hecha de piedra",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 12 — La nube púrpura"
+  },
+  {
+   "tipo": "escena",
+   "texto": "El guardián podría exigirle papeles y retenerlo por capricho de la autoridad. En vez de eso se arrodilla en el polvo, delante del buey, y cierra con su propio cuerpo el paso hacia el portón abierto.",
+   "es_literal": false,
+   "ancla": "Entonces hizo algo que no había planeado. Se arrodilló en el polvo del camino, delante del buey, cerrando con su propio cuerpo el paso hacia el portón abierto.",
+   "temas": [
+    "suplica",
+    "frontera",
+    "guardian"
+   ],
+   "intensidad": 5,
+   "gancho": "Tenía autoridad para retenerlo y eligió arrodillarse",
+   "formatos": [
+    "escena",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — El guardián del paso"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Un mal mapa es mejor que ningún mapa, para el que se ha perdido. Danos un mal mapa, ya que el bueno es imposible. Danos algo.",
+   "es_literal": true,
+   "ancla": "Yo también sé, maestro, que un mapa no es el territorio, y sin embargo he pasado la vida agradeciendo a los que trazaron los mapas de los cielos, porque sin ellos yo no habría sabido levantar los ojos a las estrellas. Un mal mapa es mejor que ningún mapa, para el que se ha perdido.",
+   "temas": [
+    "mapa",
+    "suplica",
+    "transmision"
+   ],
+   "intensidad": 5,
+   "gancho": "El argumento con que un guardián convenció a quien no quería escribir",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 13 — El guardián del paso"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es que las palabras sirvan: son una trampa, y el que cree haber atrapado el Camino en una se queda con la jaula creyendo que tiene el pájaro. Pero a veces hace falta la trampa para cobrar la pieza.",
+   "es_literal": false,
+   "ancla": "Las palabras son una trampa —dijo lentamente—. El que cree haber atrapado el Camino en una palabra ha atrapado solo la palabra, y se queda con la jaula creyendo que tiene el pájaro.",
+   "temas": [
+    "lenguaje",
+    "limite",
+    "escritura"
+   ],
+   "intensidad": 5,
+   "gancho": "Se queda con la jaula creyendo que tiene el pájaro",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 13 — El guardián del paso"
+  },
+  {
+   "tipo": "escena",
+   "texto": "Escribe un rato y se queda horas con el pincel en alto, mirando el patio. El guardián retira el cuenco de té intacto y ya frío, trae otro caliente y se marcha de puntillas.",
+   "es_literal": false,
+   "ancla": "Yin Xi le llevaba el té a media mañana y lo dejaba junto a la mesa sin decir nada, y a menudo, al volver más tarde, encontraba el cuenco intacto, el té ya frío, con una película tenue en la superficie, porque el anciano se había olvidado de él, absorto en una pausa que había durado horas.",
+   "temas": [
+    "escritura",
+    "silencio",
+    "cuidado"
+   ],
+   "intensidad": 4,
+   "gancho": "Las pausas no interrumpían el trabajo: eran el trabajo",
+   "formatos": [
+    "escena",
+    "reel",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — Las cinco mil palabras"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "En lo que el anciano escribe no aparece ningún dios que hiciera el mundo, ni juicio, ni ofrendas que aplacar a nadie: solo un orden que nadie impuso y que nadie podría cambiar.",
+   "es_literal": false,
+   "ancla": "No dijo que alguien hubiera modelado el cielo y la tierra, ni que una voluntad los rigiera desde fuera, ni que hubiera que aplacar a nadie con ofrendas ni con plegarias.",
+   "temas": [
+    "orden",
+    "ficcion documental",
+    "camino"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que el libro no afirma es tan revelador como lo que afirma",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — Las cinco mil palabras"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Ahí lo tienes —dijo Lao Tsé—. La red. Ahora que tienes la red, no olvides que lo que buscabas era el pez, y que el pez no está en la red sino en el agua.",
+   "es_literal": true,
+   "ancla": "—Ahí lo tienes —dijo Lao Tsé—. La red. Ahora que tienes la red, no olvides que lo que buscabas era el pez, y que el pez no está en la red sino en el agua.",
+   "temas": [
+    "libro",
+    "limite",
+    "entrega"
+   ],
+   "intensidad": 5,
+   "gancho": "Entrega el libro y con él la advertencia de no confundirlo con lo que busca",
+   "formatos": [
+    "cita",
+    "pin",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 14 — Las cinco mil palabras"
+  },
+  {
+   "tipo": "cita",
+   "texto": "Pero ojalá alguno, uno entre mil, uno entre diez mil, alce los ojos del dedo y vea la luna, y suelte el libro, y se ría, y se vaya a mirar correr un río. Con ese uno me basta. Por ese uno he escrito.",
+   "es_literal": true,
+   "ancla": "Pero ojalá alguno, uno entre mil, uno entre diez mil, alce los ojos del dedo y vea la luna, y suelte el libro, y se ría, y se vaya a mirar correr un río. Con ese uno me basta. Por ese uno he escrito.",
+   "temas": [
+    "lector",
+    "esperanza",
+    "libro"
+   ],
+   "intensidad": 5,
+   "gancho": "Escribió un libro esperando que alguien lo soltara",
+   "formatos": [
+    "cita",
+    "pin",
+    "reel"
+   ],
+   "capitulo": "Capítulo 14 — Las cinco mil palabras"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Qué se hace con un libro cuyo propio autor te pide que no lo creas y te avisa de que quien dice saber el Camino ya lo ha perdido?",
+   "es_literal": false,
+   "ancla": "no me creas. No creas a nadie que te diga que ha llegado. El que dice «yo sé el Camino» ya lo ha perdido, porque el Camino que puede nombrarse no es el Camino eterno.",
+   "temas": [
+    "autoridad",
+    "duda",
+    "dogma"
+   ],
+   "intensidad": 5,
+   "gancho": "Lo más difícil que le pidió: amarlo y no adorarlo",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "reel"
+   ],
+   "capitulo": "Capítulo 15 — Lo que no puede nombrarse"
+  },
+  {
+   "tipo": "contraste",
+   "texto": "No es un libro que te dé de beber: es uno que te lleva hasta el río y luego se aparta para que bebas tú.",
+   "es_literal": false,
+   "ancla": "Un buen libro no te da de beber: te lleva hasta el río y se aparta para que bebas tú.",
+   "temas": [
+    "libro",
+    "ensenanza",
+    "autonomia"
+   ],
+   "intensidad": 4,
+   "gancho": "Lo que distingue a un maestro de un tratado",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "cita"
+   ],
+   "capitulo": "Capítulo 15 — Lo que no puede nombrarse"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "Poseer cansa: cada cosa que agarramos nos agarra a nosotros. El que más reparte es el que más conserva, en una aritmética que los mercaderes no entienden.",
+   "es_literal": false,
+   "ancla": "Poseer es una fatiga, Yin Xi. Cada cosa que agarramos nos agarra a nosotros. El hombre rico duerme peor que el pobre porque teme por lo que tiene.",
+   "temas": [
+    "soltar",
+    "posesion",
+    "generosidad"
+   ],
+   "intensidad": 4,
+   "gancho": "Suelta las tablillas delante de él para enseñarle cómo se suelta",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 15 — Lo que no puede nombrarse"
+  },
+  {
+   "tipo": "escena",
+   "texto": "La niebla no llegó a taparlos. Se les ablandaron los contornos hasta confundirse con el aire blanco del valle, como una gota de tinta se funde en el agua de un cuenco. Un instante hubo allí un hombre y un buey; al siguiente, solo niebla.",
+   "es_literal": false,
+   "ancla": "No fue que la bruma los tapara: fue que ellos mismos se hicieron bruma, que sus contornos se ablandaron y se fundieron con el aire blanco del valle, como una gota de tinta se funde en el agua del cuenco, extendiéndose, adelgazándose, dejando de ser gota para ser agua.",
+   "temas": [
+    "desaparicion",
+    "niebla",
+    "retorno"
+   ],
+   "intensidad": 5,
+   "gancho": "El momento que el guardián recordaría toda su vida sin saber contarlo",
+   "formatos": [
+    "escena",
+    "reel",
+    "pin"
+   ],
+   "capitulo": "Capítulo 16 — La desaparición"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "La novela no inventa una tumba donde no la hay: nadie supo adónde fue, ni cuándo murió, ni cómo, ni dónde reposan sus huesos. No hubo funeral ni últimas palabras recogidas por discípulos.",
+   "es_literal": false,
+   "ancla": "Nadie supo jamás adónde fue Lao Tsé. Ni cuándo murió, ni cómo, ni dónde reposan sus huesos. No hubo tumba, ni funeral, ni últimas palabras recogidas por discípulos llorosos.",
+   "temas": [
+    "fuentes",
+    "desaparicion",
+    "ficcion documental"
+   ],
+   "intensidad": 4,
+   "gancho": "De su final no queda registro, y el libro no lo rellena",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Capítulo 16 — La desaparición"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El que había enseñado a no aferrarse a nada se despidió del único modo coherente con lo enseñado: sin dejar que nadie se aferrara a él.",
+   "es_literal": false,
+   "ancla": "El hombre que había enseñado a no aferrarse a nada se despidió del mundo del único modo coherente con lo que había enseñado: sin dejar que nadie se aferrara a él.",
+   "temas": [
+    "coherencia",
+    "despedida",
+    "desapego"
+   ],
+   "intensidad": 5,
+   "gancho": "Su último gesto no necesitó tinta ni tablillas",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "hilo"
+   ],
+   "capitulo": "Capítulo 16 — La desaparición"
+  },
+  {
+   "tipo": "dato_honesto",
+   "texto": "Los eruditos han discutido durante siglos si existió de veras, o si fueron varios hombres reunidos bajo un mismo nombre. La novela deja la duda en pie en lugar de cerrarla.",
+   "es_literal": false,
+   "ancla": "Los eruditos discutirían durante siglos si existió de veras, o si fueron varios los hombres reunidos bajo un mismo nombre, o si el nombre mismo —el Viejo Maestro— no era ya una manera de decir que su autor no importaba",
+   "temas": [
+    "fuentes",
+    "duda",
+    "ficcion documental"
+   ],
+   "intensidad": 4,
+   "gancho": "La duda sobre si existió es parte de la historia, no un fallo de ella",
+   "formatos": [
+    "hilo",
+    "articulo",
+    "carrusel"
+   ],
+   "capitulo": "Epílogo — El río que sigue corriendo"
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "¿Y si los distintos dedos que han señalado a lo largo de los siglos, en otras lenguas y junto a otros ríos, apuntaran todos a una misma luna que no tiene dueño ni frontera?",
+   "es_literal": false,
+   "ancla": "Pero la luna que todos señalaban era una sola, y no tenía dueño, ni nombre, ni frontera, ni pertenecía a ninguna tierra ni a ninguna lengua, del mismo modo que el agua de todos los ríos es, en el fondo, la misma agua",
+   "temas": [
+    "mensajeros",
+    "pluralidad",
+    "camino"
+   ],
+   "intensidad": 5,
+   "gancho": "Otros hombres señalaron lo mismo junto a otros ríos y bajo otros cielos",
+   "formatos": [
+    "carrusel",
+    "hilo",
+    "pin"
+   ],
+   "capitulo": "Epílogo — El río que sigue corriendo"
+  },
+  {
+   "tipo": "microleccion",
+   "texto": "El oficio callado de los mensajeros no es traer el agua, que siempre ha estado ahí, sino recordar a los hombres, que se empeñan en olvidarlo, dónde está el río.",
+   "es_literal": false,
+   "ancla": "Ese es el oficio callado de los mensajeros, y es el mismo desde el principio: no traer el agua, que siempre ha estado ahí, sino recordar a los hombres, que se empeñan en olvidarlo, dónde está el río.",
+   "temas": [
+    "mensajeros",
+    "agua",
+    "sed"
+   ],
+   "intensidad": 5,
+   "gancho": "Mientras haya sed, habrá quien lleve a los sedientos hasta la orilla",
+   "formatos": [
+    "carrusel",
+    "pin",
+    "audio"
+   ],
+   "capitulo": "Epílogo — El río que sigue corriendo"
+  }
+ ]
+}
