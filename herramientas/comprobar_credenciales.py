@@ -155,6 +155,22 @@ def instagram(renovar: bool = False) -> None:
             print(f"{KO} No se pudo renovar: {n}")
 
 
+def azure_speech() -> None:
+    clave = os.environ.get("AZURE_SPEECH_KEY", "")
+    region = os.environ.get("AZURE_SPEECH_REGION", "westeurope")
+    if not clave:
+        print(f"{PEND} AZURE_SPEECH_KEY vacío (opcional: voz HD del pódcast; sin ella se usa Edge TTS)")
+        return
+    r = requests.get(f"https://{region}.tts.speech.microsoft.com/cognitiveservices/voices/list",
+                     headers={"Ocp-Apim-Subscription-Key": clave}, timeout=20)
+    if r.status_code != 200:
+        print(f"{KO} Azure Speech: {r.status_code} {r.text[:120]} (¿región correcta? AZURE_SPEECH_REGION={region})")
+        return
+    nombres = {v["ShortName"] for v in r.json()}
+    hd = sorted(n for n in nombres if n.startswith("es-ES") and "HD" in n)
+    print(f"{OK} Azure Speech ({region}): {len(nombres)} voces; HD en español: {', '.join(hd) or 'ninguna en esta región'}")
+
+
 def bluesky() -> None:
     usuario, clave = os.environ.get("BLUESKY_USUARIO", ""), os.environ.get("BLUESKY_APP_PASSWORD", "")
     if not (usuario and clave):
@@ -193,6 +209,7 @@ def main() -> int:
     pinterest()
     instagram(renovar=a.renovar_instagram)
     bluesky()
+    azure_speech()
     threads()
     print(f"\nKAIZEN_FUENTES: {'existe' if Path(os.environ.get('KAIZEN_FUENTES', '')).is_dir() else 'NO existe'} → {os.environ.get('KAIZEN_FUENTES', '')}")
     return 0

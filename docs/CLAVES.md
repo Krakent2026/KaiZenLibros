@@ -157,3 +157,20 @@ Los workflows ya declaran todas las variables de Fase 1 en `env:`. Las de Fase 2
 - Ninguna clave en el YAML, en el código ni en mensajes de commit. Si una clave se filtra: revocarla en su panel y generar otra; no basta con borrarla del fichero.
 - Un bot de Telegram solo atiende al chat configurado en `TELEGRAM_CHAT_APROBACION`; los mensajes de otros chats se ignoran.
 - Límite de gasto en la consola de Anthropic: la única factura variable del sistema.
+
+
+## Azure Speech (voz HD del pódcast, opcional)
+
+Sin clave, el pódcast usa Edge TTS (gratis, sin cuenta). Con clave usa la **misma voz en versión HD** de Azure, bastante más natural. Gratis hasta 500.000 caracteres al mes (unos 100 episodios); hace falta una cuenta de Azure con tarjeta, pero el nivel F0 no cobra.
+
+1. https://portal.azure.com → crea una cuenta (o entra) → «Crear un recurso» → busca **Speech** (Servicios de voz) → Crear.
+2. Suscripción: la gratuita. Grupo de recursos: nuevo, `kaizen`. Región: **West Europe** (`westeurope`) o **Sweden Central** (`swedencentral`), que son las que tienen voces HD en Europa. Plan de tarifa: **Free F0**.
+3. Cuando esté creado: «Claves y punto de conexión» → copia **CLAVE 1** y la **Región**.
+4. En `.env`:
+```
+AZURE_SPEECH_KEY=…
+AZURE_SPEECH_REGION=westeurope
+```
+5. `python herramientas/comprobar_credenciales.py` te dice qué voces HD en español hay en tu región. Después, subir los dos secrets al repo con `gh secret set`.
+
+Si la voz HD (`podcast.voz_azure` en el YAML) no existe en tu región, el Locutor lo detecta y graba con Edge TTS: el episodio sale igual.

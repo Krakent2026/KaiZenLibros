@@ -4,8 +4,10 @@
     python -m agentes.locutor.sintetizar --id 12
     python -m agentes.locutor.sintetizar --feed     # solo regenera feed.xml y episodios.json
 
-Voz: Edge TTS (Microsoft, gratuita, sin clave). El MP3 sale a 24 kHz / 48 kbps: unos 1,8 MB por cinco
-minutos. El feed y los MP3 se publican con la web (GitHub Pages) y se dan de alta una vez en Spotify
+Voz: Edge TTS (Microsoft, gratuita, sin clave) o, si hay AZURE_SPEECH_KEY, Azure Speech con la misma
+voz en versión HD (más natural; 500.000 caracteres/mes gratis). El MP3 sale a 24 kHz / 48 kbps: unos 1,8 MB
+por cinco minutos.
+    python -m agentes.locutor.sintetizar --id 8 --rehacer   # vuelve a grabar un episodio ya publicado El feed y los MP3 se publican con la web (GitHub Pages) y se dan de alta una vez en Spotify
 for Creators y Apple Podcasts con la URL del feed.
 """
 from __future__ import annotations
@@ -55,28 +57,82 @@ def duracion_estimada_seg(texto: str) -> int:
     return int(len(texto.split()) / PALABRAS_POR_MINUTO * 60) + 4
 
 
-async def _sintetizar(texto: str, voz: str, velocidad: str, salida: Path) -> None:
+async def _sintetizar_edge(texto: str, voz: str, velocidad: str, tono: str, salida: Path) -> None:
     import edge_tts
 
-    comm = edge_tts.Communicate(texto, voz, rate=velocidad)
+    comm = edge_tts.Communicate(texto, voz, rate=velocidad, pitch=tono)
     await comm.save(str(salida))
 
 
-def producir_audio(fila: sqlite3.Row, contenido: dict[str, Any], sello: Sello) -> Path:
+def ssml_azure(texto: str, voz: str, velocidad: str, tono: str, idioma: str = "es-ES") -> str:
+    """Un párrafo por bloque del guion, con una pausa breve entre ellos: la voz respira donde respiraría un locutor."""
+    parrafos = [escape(pz.strip()) for pz in texto.split("\n\n") if pz.strip()]
+    cuerpo = '<break time="700ms"/>'.join(f"<p>{pz}</p>" for pz in parrafos)
+    prosodia = f'<prosody rate="{velocidad}" pitch="{tono}">' if (velocidad not in ("", "+0%") or tono not in ("", "+0Hz")) else ""
+    cierre = "</prosody>" if prosodia else ""
+    return (f'<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="{idioma}">'
+            f'<voice name="{voz}">{prosodia}{cuerpo}{cierre}</voice></speak>')
+
+
+def _sintetizar_azure(texto: str, voz: str, velocidad: str, tono: str, salida: Path, clave: str, region: str) -> None:
+    import requests
+
+    r = requests.post(
+        f"https://{region}.tts.speech.microsoft.com/cognitiveservices/v1",
+        headers={"Ocp-Apim-Subscription-Key": clave, "Content-Type": "application/ssml+xml",
+                 "X-Microsoft-OutputFormat": "audio-24khz-48kbitrate-mono-mp3", "User-Agent": "KaiZenLocutor"},
+        data=ssml_azure(texto, voz, velocidad, tono).encode("utf-8"), timeout=180)
+    if r.status_code != 200:
+        raise RuntimeError(f"Azure Speech {r.status_code}: {r.text[:200]}")
+    salida.write_bytes(r.content)
+
+
+def motor_activo(sello: Sello) -> str:
+    """`podcast.motor`: edge | azure | auto (azure si hay clave, si no edge)."""
+    import os
+
     pod = sello.datos.get("podcast", {})
+    motor = pod.get("motor", "auto")
+    if motor == "auto":
+        return "azure" if os.environ.get("AZURE_SPEECH_KEY") else "edge"
+    return motor
+
+
+def sintetizar_texto(texto: str, sello: Sello, salida: Path) -> str:
+    """Graba `texto` en `salida` con el motor configurado. Devuelve el nombre del motor usado.
+    Si Azure falla (clave caducada, voz HD no disponible en la región), cae a Edge para no dejar el episodio sin audio."""
+    import os
+
+    pod = sello.datos.get("podcast", {})
+    velocidad, tono = pod.get("velocidad", "+0%"), pod.get("tono", "+0Hz")
+    if motor_activo(sello) == "azure":
+        try:
+            _sintetizar_azure(texto, pod.get("voz_azure") or pod.get("voz", "es-ES-XimenaNeural"), velocidad, tono, salida,
+                              os.environ["AZURE_SPEECH_KEY"], os.environ.get("AZURE_SPEECH_REGION", "westeurope"))
+            return "azure"
+        except Exception as e:  # noqa: BLE001
+            print(f"  ! Azure Speech falló ({e}); se usa Edge TTS")
+    asyncio.run(_sintetizar_edge(texto, pod.get("voz", "es-ES-XimenaNeural"), velocidad, tono, salida))
+    return "edge"
+
+
+def producir_audio(fila: sqlite3.Row, contenido: dict[str, Any], sello: Sello) -> Path:
     destino = dir_podcast(sello) / f"{fila['id']}.mp3"
     destino.parent.mkdir(parents=True, exist_ok=True)
     texto = texto_locucion(fila, contenido, sello)
-    asyncio.run(_sintetizar(texto, pod.get("voz", "es-ES-AlvaroNeural"), pod.get("velocidad", "+0%"), destino))
+    motor = sintetizar_texto(texto, sello, destino)
     if not destino.exists() or destino.stat().st_size < 10_000:
-        raise RuntimeError("Edge TTS no generó audio válido")
+        raise RuntimeError(f"{motor} no generó audio válido")
     return destino
 
 
-def sintetizar_pendientes(con: sqlite3.Connection, sello: Sello, ids: list[int] | None = None) -> int:
+def sintetizar_pendientes(con: sqlite3.Connection, sello: Sello, ids: list[int] | None = None, rehacer: bool = False) -> int:
     n = 0
-    for fila in db.piezas(con, "pendiente_humano", "aprobada"):
-        if fila["formato"] != "audio" or fila["ruta_audio"]:
+    filas = (con.execute("SELECT c.*, l.titulo AS libro_titulo, l.numero AS libro_numero FROM cola c JOIN libros l ON l.id = c.libro_id "
+                         "WHERE c.formato = 'audio' AND c.id IN (%s)" % ",".join("?" * len(ids)), ids).fetchall()
+             if rehacer and ids else db.piezas(con, "pendiente_humano", "aprobada"))
+    for fila in filas:
+        if fila["formato"] != "audio" or (fila["ruta_audio"] and not rehacer):
             continue
         if ids and fila["id"] not in ids:
             continue
@@ -177,11 +233,12 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--db", type=Path, default=DB_POR_DEFECTO)
     p.add_argument("--id", type=int, action="append")
     p.add_argument("--feed", action="store_true")
+    p.add_argument("--rehacer", action="store_true", help="vuelve a grabar los --id aunque ya tengan audio o estén publicados")
     a = p.parse_args(argv)
     sello = cargar_sello(a.sello)
     con = db.conectar(a.db)
     if not a.feed:
-        print(f"{sintetizar_pendientes(con, sello, a.id)} audios generados")
+        print(f"{sintetizar_pendientes(con, sello, a.id, rehacer=a.rehacer)} audios generados ({motor_activo(sello)})")
     ruta = generar_feed(con, sello)
     print(f"feed: {ruta.relative_to(RAIZ_REPO)} ({len(episodios(con, sello))} episodios)")
     return 0

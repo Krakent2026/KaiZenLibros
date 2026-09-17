@@ -210,9 +210,14 @@ podcast:
   email: kaizensp1988@gmail.com
   idioma: es-es
   categoria: "Self-Improvement"
-  # Voz neuronal de Edge TTS (gratuita). Alternativas: es-ES-ElviraNeural, es-MX-JorgeNeural, es-MX-DaliaNeural
-  voz: es-ES-AlvaroNeural
-  velocidad: "-6%"
+  # Motor: auto = Azure Speech si hay AZURE_SPEECH_KEY (voz HD, más natural), si no Edge TTS (gratis, sin clave).
+  motor: auto
+  # Edge TTS. Alternativas de España: es-ES-ElviraNeural, es-ES-AlvaroNeural.
+  voz: es-ES-XimenaNeural
+  # Azure Speech: la misma Ximena en versión HD. Si la región no la ofrece, cae a Edge.
+  voz_azure: "es-ES-Ximena:DragonHDLatestNeural"
+  velocidad: "+6%"
+  tono: "+0Hz"
   ruta_web: static/podcast
   aviso_voz: "Este episodio se ha grabado con una voz sintética a partir del texto del libro."
 
