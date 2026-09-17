@@ -155,6 +155,31 @@ def instagram(renovar: bool = False) -> None:
             print(f"{KO} No se pudo renovar: {n}")
 
 
+def bluesky() -> None:
+    usuario, clave = os.environ.get("BLUESKY_USUARIO", ""), os.environ.get("BLUESKY_APP_PASSWORD", "")
+    if not (usuario and clave):
+        print(f"{PEND} Bluesky: faltan BLUESKY_USUARIO y/o BLUESKY_APP_PASSWORD")
+        return
+    r = requests.post("https://bsky.social/xrpc/com.atproto.server.createSession",
+                      json={"identifier": usuario, "password": clave}, timeout=30)
+    if r.ok:
+        print(f"{OK} Bluesky: sesión abierta como @{r.json().get('handle')}")
+    else:
+        print(f"{KO} Bluesky: {r.status_code} {r.json().get('message', r.text[:120])}")
+
+
+def threads() -> None:
+    token = os.environ.get("THREADS_TOKEN", "")
+    if not token:
+        print(f"{PEND} THREADS_TOKEN vacío → app de Meta → Threads API → Generar token")
+        return
+    r = requests.get("https://graph.threads.net/v1.0/me", params={"fields": "id,username", "access_token": token}, timeout=30).json()
+    if "error" in r:
+        print(f"{KO} Threads: {r['error'].get('message')}")
+    else:
+        print(f"{OK} Threads: @{r.get('username')} (id {r.get('id')})")
+
+
 def main() -> int:
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--oauth-pinterest", action="store_true")
@@ -167,6 +192,8 @@ def main() -> int:
     telegram()
     pinterest()
     instagram(renovar=a.renovar_instagram)
+    bluesky()
+    threads()
     print(f"\nKAIZEN_FUENTES: {'existe' if Path(os.environ.get('KAIZEN_FUENTES', '')).is_dir() else 'NO existe'} → {os.environ.get('KAIZEN_FUENTES', '')}")
     return 0
 
