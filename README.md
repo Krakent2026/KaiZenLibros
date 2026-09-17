@@ -84,7 +84,13 @@ python -m agentes.pipeline editar --id 12 --nota "Quita la segunda frase"   # vu
 python -m agentes.pipeline aprobaciones         # respuestas de Telegram + publicar lo aprobado y vencido
 ```
 
-Qué se planifica cada día está en el YAML → `plan.semana` (formatos por día) y `plan.horas`. El Redactor usa `ia.modelo_redactor`; el Guardián de criterio, `ia.modelo_guardian`. Coste orientativo por pieza: 0,02-0,04 USD (redacción + revisión).
+Qué se planifica cada día está en el YAML → `plan.semana` (formatos por día) y `plan.horas`. Además de las piezas de libro (`carrusel`, `cita`, `audio`) hay dos **institucionales** sin átomo, escritas desde la descripción del sello y de la serie en el YAML: `sello` (qué escribe Kai Zen, qué se niega a decir) y `serie` (mapa de lectura, itinerarios, puerta de entrada). `plan.arranque` lista las primeras (una al día, en el primer hueco); después sale una cada `plan.institucional_cada_dias`, alternando. Para meter una pieza a mano:
+
+```bash
+python -m agentes.pipeline encargar --formato sello --hora 16:00 --angulo "Qué escribe Kai Zen"
+python -m agentes.pipeline encargar --formato serie --serie mente_distinta --hora 2026-09-20T12:30
+python -m agentes.pipeline encargar --formato cita --libro no-es-pereza --hora 19:00
+``` El Redactor usa `ia.modelo_redactor`; el Guardián de criterio, `ia.modelo_guardian`. Coste orientativo por pieza: 0,02-0,04 USD (redacción + revisión).
 
 **Aprobación en Telegram.** Crear un bot con @BotFather, abrir un chat con él y anotar el id del chat (`TELEGRAM_CHAT_APROBACION`). Cada pieza llega con sus imágenes y botones. También valen mensajes de texto: `ok 12`, `no 12`, `ed 12 quita la última frase`. Las respuestas se recogen en cada corrida del workflow `aprobaciones.yml` (cada dos horas); no hace falta servidor.
 

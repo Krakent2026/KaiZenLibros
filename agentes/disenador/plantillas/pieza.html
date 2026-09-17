@@ -64,6 +64,14 @@
       <p>{{ cuerpo }}</p>
     </div>
   </div>
+  {% elif tipo == "coleccion" %}
+  <div class="centro" style="gap:.4em">
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:{{ (ancho * 0.025) | int }}px;width:78%;margin:0 auto .5em">
+      {% for p in portadas %}<img src="{{ p }}" alt="" style="width:100%;border-radius:5px;box-shadow:0 10px 30px rgba(0,0,0,.28)">{% endfor %}
+    </div>
+    <h1 style="font-size:{{ (ancho * 0.058) | int }}px">{{ titulo }}</h1>
+    <p class="cuerpo" style="font-size:{{ (ancho * 0.036) | int }}px">{{ cuerpo }}</p>
+  </div>
   {% elif tipo == "pin" %}
   <div class="centro"><div class="raya"></div><h1>{{ titulo }}</h1><p class="cuerpo">{{ cuerpo }}</p></div>
   {% if portada %}<img class="portada" src="{{ portada }}" alt="">{% endif %}

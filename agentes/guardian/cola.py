@@ -36,7 +36,8 @@ LIMITES = {
     "titulo_episodio": 70,
 }
 GUION_PALABRAS = (450, 1100)
-DIAPOSITIVAS = {"carrusel": (5, 7), "cita": (1, 1), "audio": (1, 1)}
+DIAPOSITIVAS = {"carrusel": (5, 7), "cita": (1, 1), "audio": (1, 1), "sello": (5, 7), "serie": (5, 7)}
+CON_GANCHO = ("carrusel", "sello", "serie")
 
 ESQUEMA_CRITERIO: dict[str, Any] = {
     "type": "object",
@@ -101,7 +102,7 @@ def revisar_determinista(fila: sqlite3.Row, contenido: dict[str, Any], sello: Se
             motivos.append(f"diapositiva {i}: título de {len(d['titulo'])} caracteres (máx. {LIMITES['diapositiva_titulo']})")
         if len(d.get("cuerpo", "")) > LIMITES["diapositiva_cuerpo"]:
             motivos.append(f"diapositiva {i}: cuerpo de {len(d['cuerpo'])} caracteres (máx. {LIMITES['diapositiva_cuerpo']})")
-    if fila["formato"] == "carrusel" and diapositivas and not diapositivas[0].get("titulo"):
+    if fila["formato"] in CON_GANCHO and diapositivas and not diapositivas[0].get("titulo"):
         motivos.append("la diapositiva 1 del carrusel necesita título (gancho)")
     if len(contenido.get("caption_instagram", "")) > LIMITES["caption_instagram"]:
         motivos.append("caption de Instagram demasiado largo")
@@ -143,11 +144,20 @@ def revisar_determinista(fila: sqlite3.Row, contenido: dict[str, Any], sello: Se
         if not any(literal_atomo in normalizar(d.get("cuerpo", "") + " " + d.get("titulo", "")) for d in diapositivas):
             avisos.append("el átomo es literal pero la cita exacta no aparece en ninguna diapositiva")
 
-    # 4. remate: el libro tiene que nombrarse
-    titulo = (fila["libro_titulo"] or "").lower()
+    # 4. remate: la pieza tiene que nombrar aquello de lo que habla
     todo = " ".join(t for _, t in textos_de(contenido)).lower()
-    if titulo and titulo not in todo:
-        motivos.append(f"la pieza no nombra el libro «{fila['libro_titulo']}»")
+    if fila["atomo_id"] is None:  # institucional
+        serie_nombre = sello.series[fila["serie"]].nombre_amazon.lower()
+        if fila["formato"] == "serie" and serie_nombre not in todo:
+            motivos.append(f"la pieza no nombra la serie «{sello.series[fila['serie']].nombre_amazon}»")
+        if fila["formato"] == "sello" and sello.nombre.lower() not in todo:
+            motivos.append(f"la pieza no nombra el sello «{sello.nombre}»")
+        if fila["formato"] == "serie" and (fila["libro_titulo"] or "").lower() not in todo:
+            avisos.append(f"la presentación de la serie no nombra el Libro 1 «{fila['libro_titulo']}»")
+    else:
+        titulo = (fila["libro_titulo"] or "").lower()
+        if titulo and titulo not in todo:
+            motivos.append(f"la pieza no nombra el libro «{fila['libro_titulo']}»")
     return motivos, avisos
 
 
@@ -160,10 +170,16 @@ def construir_sistema_criterio(sello: Sello, serie_id: str) -> str:
 
 
 def revisar_criterio(fila: sqlite3.Row, contenido: dict[str, Any], sello: Sello, ia: ClienteIA) -> tuple[list[str], list[str]] | None:
+    if fila["atomo_id"] is None:
+        from agentes.redactor.redactar import dossier
+
+        fuente = [f"Formato: {fila['formato']} (institucional). Única fuente admitida, el dossier:", dossier(fila, sello)]
+    else:
+        fuente = [f"Formato: {fila['formato']}. Libro: «{fila['libro_titulo']}» — {fila['libro_subtitulo']}.",
+                  f"Átomo{' LITERAL' if fila['es_literal'] else ''}: «{fila['atomo_texto']}»",
+                  f"Pasaje que lo respalda: «{fila['ancla']}»"]
     usuario = "\n".join([
-        f"Formato: {fila['formato']}. Libro: «{fila['libro_titulo']}» — {fila['libro_subtitulo']}.",
-        f"Átomo{' LITERAL' if fila['es_literal'] else ''}: «{fila['atomo_texto']}»",
-        f"Pasaje que lo respalda: «{fila['ancla']}»",
+        *fuente,
         "",
         "PIEZA:",
         json.dumps({k: v for k, v in contenido.items() if k not in ("modelo", "formato")}, ensure_ascii=False, indent=1),

@@ -39,6 +39,14 @@ Si el encargo trae un **ángulo** del Estratega, es la indicación de enfoque de
 - Una sola diapositiva: `titulo` = el título del episodio, `cuerpo` vacío (es la portada del episodio).
 - El caption, el pin y los textos cortos presentan el episodio y nombran el libro.
 
+### sello (presentación del sello, 7 diapositivas; sin átomo: el encargo trae un dossier)
+- Misma estructura que el carrusel. Diapositiva 1: gancho sobre qué escribe el sello o sobre la regla que no se rompe. Diapositivas 2 a 6: qué escribe, para quién, la regla (no diagnostica, no predice, no promete), cómo están organizadas las series (cerradas, ordenadas, con puerta de entrada), qué se niega a decir. Diapositiva 7: nombre del sello, la serie disponible y «Enlace en la bio».
+- Nada que no esté en el dossier. Ningún dato biográfico del autor: Kai Zen es una voz de sello. Nombra el sello y la serie con sus nombres exactos.
+
+### serie (presentación de una serie, 7 diapositivas; sin átomo: el encargo trae un dossier)
+- Diapositiva 1: gancho con la frase paraguas o con para quién es la serie. Diapositivas 2 a 6: qué promete y qué se niega a decir, los bloques o el mapa de lectura, los itinerarios («si te pasa esto, empieza por…»), uno o dos títulos con su «para qué». Diapositiva 7: «Empieza por el Libro 1: *{{título}}*. Enlace en la bio».
+- Nada que no esté en el dossier. Los títulos de los libros, exactos. El número de libros, el del dossier.
+
 ## Textos comunes a toda pieza
 
 - `ganchos`: tres primeras líneas alternativas para el caption, máximo 90 caracteres cada una, distintas entre sí (una que valida, una que desmonta un tópico, una que pregunta sin diagnosticar).

@@ -111,6 +111,16 @@ plan:
   horas: ["12:30", "19:00"]
   # Si el Estratega ha dejado un plan para la semana (kv plan_semana:<lunes>), manda sobre `semana`.
   usar_plan_estratega: true
+  # Piezas institucionales (formatos `sello` = qué escribe Kai Zen; `serie` = presentación de una serie).
+  # Arranque: se consume UNA por día en el primer hueco del día, hasta agotar la lista. Después, una cada
+  # `institucional_cada_dias` alternando sello/serie. Se alternan así con las piezas de libro.
+  arranque:
+    - {formato: sello, angulo: "Qué escribe Kai Zen y la regla que no se rompe en ningún libro: no diagnostica, no predice, no promete. Series cerradas y ordenadas, con puerta de entrada."}
+    - {formato: serie, serie: mente_distinta, angulo: "Presentación de Mente distinta: doce libros para cerebros que funcionan distinto, cuatro bloques (entender, organizarte, sentir, convivir), empieza por el Libro 1."}
+    - {formato: sello, angulo: "Lo que estos libros se niegan a decir: ni un test, ni «es un superpoder», ni cifras que no se pueden sostener. La honestidad como método."}
+    - {formato: serie, serie: mente_distinta, angulo: "Cuatro formas de entrar en la serie según lo que te esté pasando: acabo de descubrirlo, no me organizo, lo llevo mal por dentro, el problema está fuera."}
+    - {formato: sello, angulo: "Cómo se lee una serie de Kai Zen: cada libro es dueño de un tema, ninguno repite al anterior, y leer más no es hacer más."}
+  institucional_cada_dias: 5
   # Cuántos días hacia delante se planifica (para que el humano apruebe con margen)
   dias_adelanto: 1
   max_reintentos_redaccion: 2

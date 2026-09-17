@@ -14,7 +14,7 @@ from typing import Any
 import requests
 
 from agentes.config import Sello
-from agentes.enlaces import enlace_compra
+from agentes.enlaces import enlace_pieza
 from agentes.publicador.base import Publicador, Resultado
 
 API = "https://api.pinterest.com/v5"
@@ -54,7 +54,7 @@ class PublicadorPinterest(Publicador):
             "title": (pin.get("titulo") or fila["libro_titulo"])[:100],
             "description": pin.get("descripcion", "")[:800],
             "alt_text": contenido.get("alt_texto", "")[:500],
-            "link": enlace_compra(sello, fila["libro_slug"], "pin"),
+            "link": enlace_pieza(sello, fila, "pin"),
             "media_source": {
                 "source_type": "image_base64",
                 "content_type": "image/jpeg",

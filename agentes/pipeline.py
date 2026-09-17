@@ -95,6 +95,26 @@ def ver(ruta_db: Path, id_pieza: int) -> int:
     return 0
 
 
+def encargar(ruta_db: Path, sello_id: str, formato: str, hora: str, serie_id: str | None, libro: str | None, angulo: str | None) -> int:
+    """Crea una pieza a mano. `hora`: 'HH:MM' (hoy, hora local) o fecha-hora ISO local 'YYYY-MM-DDTHH:MM'."""
+    from zoneinfo import ZoneInfo
+
+    from agentes.planificador import encargar as _encargar
+
+    sello = cargar_sello(sello_id)
+    zona = ZoneInfo(sello.datos.get("plan", {}).get("zona_horaria", "Europe/Madrid"))
+    if "T" in hora:
+        local = datetime.fromisoformat(hora).replace(tzinfo=zona)
+    else:
+        h, m = (int(x) for x in hora.split(":"))
+        local = datetime.now(zona).replace(hour=h, minute=m, second=0, microsecond=0)
+    programado = local.astimezone(timezone.utc).isoformat(timespec="minutes")
+    con = db.conectar(ruta_db)
+    id_pieza = _encargar(con, sello, formato, programado, serie_id=serie_id, libro_slug=libro, angulo=angulo)
+    print(f"pieza #{id_pieza} creada para {local:%d/%m %H:%M} (local)" if id_pieza else "no se pudo crear la pieza")
+    return 0 if id_pieza else 1
+
+
 def decidir(ruta_db: Path, id_pieza: int, decision: str, nota: str | None) -> int:
     from agentes.aprobacion.telegram import aplicar_decision
 
@@ -295,12 +315,21 @@ def semanal(ruta_db: Path, sello_id: str) -> int:
 def main(argv: list[str] | None = None) -> int:
     consola_utf8()
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    p.add_argument("orden", choices=("estado", "cola", "ver", "aprobar", "rechazar", "editar", "diario", "aprobaciones", "semanal"))
+    p.add_argument("orden", choices=("estado", "cola", "ver", "aprobar", "rechazar", "editar", "encargar", "diario", "aprobaciones", "semanal"))
     p.add_argument("--sello", default="kaizen")
     p.add_argument("--db", type=Path, default=DB_POR_DEFECTO)
     p.add_argument("--id", type=int)
     p.add_argument("--nota")
+    p.add_argument("--formato", help="encargar: carrusel | cita | audio | sello | serie")
+    p.add_argument("--hora", help="encargar: HH:MM (hoy) o YYYY-MM-DDTHH:MM, hora local")
+    p.add_argument("--serie", help="encargar: id de serie (p. ej. mente_distinta)")
+    p.add_argument("--libro", help="encargar: slug del libro")
+    p.add_argument("--angulo", help="encargar: indicación de enfoque para el Redactor")
     a = p.parse_args(argv)
+    if a.orden == "encargar":
+        if not (a.formato and a.hora):
+            p.error("encargar necesita --formato y --hora")
+        return encargar(a.db, a.sello, a.formato, a.hora, a.serie, a.libro, a.angulo)
     if a.orden == "estado":
         return estado(a.db)
     if a.orden == "cola":

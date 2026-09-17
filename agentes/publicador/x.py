@@ -11,7 +11,7 @@ from typing import Any
 import requests
 
 from agentes.config import Sello
-from agentes.enlaces import enlace_compra
+from agentes.enlaces import enlace_pieza
 from agentes.publicador.base import Publicador, Resultado
 
 API = "https://api.x.com/2/tweets"
@@ -31,7 +31,7 @@ class PublicadorX(Publicador):
 
         auth = OAuth1(self.claves["X_API_KEY"], self.claves["X_API_SECRET"], self.claves["X_ACCESS_TOKEN"], self.claves["X_ACCESS_SECRET"])
         cuerpo = (contenido.get("x") or contenido.get("bluesky") or "").strip()[:250]
-        texto = f"{cuerpo}\n{enlace_compra(sello, fila['libro_slug'], 'x')}"
+        texto = f"{cuerpo}\n{enlace_pieza(sello, fila, 'x')}"
         r = requests.post(API, json={"text": texto}, auth=auth, timeout=30)
         if r.status_code >= 400:
             raise RuntimeError(f"X {r.status_code}: {r.text[:300]}")

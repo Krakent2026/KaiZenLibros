@@ -11,7 +11,7 @@ from typing import Any
 import requests
 
 from agentes.config import Sello
-from agentes.enlaces import enlace_compra, url_pieza
+from agentes.enlaces import enlace_pieza, url_pieza
 from agentes.publicador.base import NoDisponible, Publicador, Resultado
 
 API = "https://graph.threads.net/v1.0"
@@ -43,7 +43,7 @@ class PublicadorThreads(Publicador):
                 ok = False
             if not ok:
                 raise NoDisponible(f"imagen aún no pública: {u}")
-        texto = f"{(contenido.get('threads') or contenido.get('telegram', '')).strip()}\n\n{enlace_compra(sello, fila['libro_slug'], 'th')}"[:500]
+        texto = f"{(contenido.get('threads') or contenido.get('telegram', '')).strip()}\n\n{enlace_pieza(sello, fila, 'th')}"[:500]
         if len(urls) == 1:
             cid = self._post("me/threads", {"media_type": "IMAGE", "image_url": urls[0], "text": texto, "alt_text": contenido.get("alt_texto", "")[:1000]})["id"]
         else:

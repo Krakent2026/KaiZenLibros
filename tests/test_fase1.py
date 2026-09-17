@@ -24,6 +24,8 @@ def entorno(tmp_path: Path, monkeypatch):
     monkeypatch.delenv("TELEGRAM_CHAT_APROBACION", raising=False)
     sello = cargar_sello("kaizen")
     sello.datos["publicacion"]["aprobacion"] = "manual"   # los tests base usan el flujo manual
+    sello.datos["plan"]["arranque"] = []                   # sin piezas institucionales salvo que el test las pida
+    sello.datos["plan"]["institucional_cada_dias"] = 0
     con = db.conectar(tmp_path / "t.sqlite")
     serie = sello.series["mente_distinta"]
     for lib in serie.libros[:3]:

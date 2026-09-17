@@ -17,6 +17,8 @@ def entorno(tmp_path: Path, monkeypatch):
     monkeypatch.delenv("TELEGRAM_CHAT_APROBACION", raising=False)
     sello = cargar_sello("kaizen")
     sello.datos["publicacion"]["aprobacion"] = "manual"
+    sello.datos["plan"]["arranque"] = []
+    sello.datos["plan"]["institucional_cada_dias"] = 0
     con = db.conectar(tmp_path / "t.sqlite")
     for lib in sello.series["mente_distinta"].libros[:4]:
         db.registrar_libro(con, id=lib.id, sello="kaizen", serie="mente_distinta", numero=lib.numero, slug=lib.slug,
@@ -171,3 +173,70 @@ def test_guardian_audio_exige_guion(entorno):
     assert any("guion" in m for m in revisar_determinista(fila, corto, sello)[0])
     largo_x = {**base, "x": "y" * 300}
     assert any("x de" in m for m in revisar_determinista(fila, largo_x, sello)[0])
+
+
+def test_arranque_institucional_consume_y_luego_alterna(entorno):
+    from agentes.planificador import encargo_institucional
+
+    sello, con = entorno
+    sello.datos["plan"]["arranque"] = [{"formato": "sello", "angulo": "a"}, {"formato": "serie", "serie": "mente_distinta", "angulo": "b"}]
+    sello.datos["plan"]["institucional_cada_dias"] = 3
+    d0 = date(2026, 10, 12)
+    assert encargo_institucional(con, sello, d0)["formato"] == "sello"
+    assert encargo_institucional(con, sello, d0 + timedelta(days=1))["formato"] == "serie"
+    assert encargo_institucional(con, sello, d0 + timedelta(days=2)) is None       # cadencia: aún no toca
+    e = encargo_institucional(con, sello, d0 + timedelta(days=4))
+    assert e and e["formato"] == "serie" and e["serie"] == "mente_distinta"
+    assert encargo_institucional(con, sello, d0 + timedelta(days=7))["formato"] == "sello"   # alterna
+
+
+def test_planificar_dia_mete_institucional_en_primer_hueco(entorno):
+    sello, con = entorno
+    sello.datos["plan"]["arranque"] = [{"formato": "sello", "angulo": "Qué escribe Kai Zen"}]
+    ids = planificar_dia(con, sello, date(2026, 10, 12))   # plantilla lunes: carrusel, cita
+    p0, p1 = db.pieza(con, ids[0]), db.pieza(con, ids[1])
+    assert p0["formato"] == "sello" and p0["atomo_id"] is None and p0["libro_numero"] == 1 and p0["angulo"] == "Qué escribe Kai Zen"
+    assert p1["formato"] == "cita"
+
+
+def test_guardian_y_redactor_institucional(entorno):
+    from agentes.guardian.cola import revisar_determinista
+    from agentes.redactor.redactar import mensaje_usuario
+
+    sello, con = entorno
+    sello.datos["plan"]["arranque"] = [{"formato": "serie", "serie": "mente_distinta", "angulo": "Mapa de lectura"}]
+    ids = planificar_dia(con, sello, date(2026, 10, 12))
+    fila = db.pieza(con, ids[0])
+    msg = mensaje_usuario(fila, sello)
+    assert "dossier" in msg and "Mente distinta" in msg and "Itinerarios" in msg and "No es pereza" in msg
+    from tests.test_fase1 import contenido_valido
+
+    c = contenido_valido("Mente distinta", "carrusel")
+    assert revisar_determinista(fila, c, sello)[0] == []
+    c2 = {**contenido_valido("otra cosa", "carrusel"), "hashtags": ["a", "b", "c", "d", "e"],
+          "pin": {"titulo": "t", "descripcion": "d"}, "telegram": "t", "bluesky": "b", "threads": "t", "x": "x"}
+    assert any("no nombra la serie" in m for m in revisar_determinista(fila, c2, sello)[0])
+
+
+def test_render_institucional_lleva_portadas(entorno):
+    from agentes.disenador.render import diapositivas_para
+
+    sello, con = entorno
+    sello.datos["plan"]["arranque"] = [{"formato": "serie", "serie": "mente_distinta", "angulo": "x"}]
+    ids = planificar_dia(con, sello, date(2026, 10, 12))
+    fila = db.pieza(con, ids[0])
+    from tests.test_fase1 import contenido_valido
+
+    slides = diapositivas_para(fila, contenido_valido("Mente distinta", "carrusel"), sello)
+    assert slides[0]["tipo"] == "gancho" and slides[6]["tipo"] == "coleccion" and len(slides[6]["portadas"]) >= 6
+    assert "12 libros" in slides[0]["serie_nombre"]
+
+
+def test_enlace_pieza_institucional(entorno):
+    from agentes.enlaces import enlace_pieza
+
+    sello, con = entorno
+    sello.datos["plan"]["arranque"] = [{"formato": "sello", "angulo": "x"}]
+    ids = planificar_dia(con, sello, date(2026, 10, 12))
+    assert "/enlaces/?utm_source=ig" in enlace_pieza(sello, db.pieza(con, ids[0]), "ig")
+    assert "/ir/" in enlace_pieza(sello, db.pieza(con, ids[1]), "ig")

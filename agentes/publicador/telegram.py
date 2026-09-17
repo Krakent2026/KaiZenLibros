@@ -8,7 +8,7 @@ from typing import Any
 
 from agentes.aprobacion.telegram import Telegram
 from agentes.config import Sello
-from agentes.enlaces import enlace_compra
+from agentes.enlaces import enlace_pieza
 from agentes.publicador.base import Publicador, Resultado
 
 
@@ -24,7 +24,7 @@ class PublicadorTelegram(Publicador):
 
     def publicar(self, fila: sqlite3.Row, contenido: dict[str, Any], activos: list[Path], sello: Sello) -> Resultado:
         firma = sello.datos.get("telegram", {}).get("firma_canal", "")
-        enlace = enlace_compra(sello, fila["libro_slug"], "tg")
+        enlace = enlace_pieza(sello, fila, "tg")
         texto = f"{contenido.get('telegram', '').strip()}\n\n{enlace}\n{firma}".strip()
         fotos = [a for a in activos if a.name != "pin.jpg"] or activos
         res = self.tg.enviar_fotos(self.canal, fotos, texto[:1024])

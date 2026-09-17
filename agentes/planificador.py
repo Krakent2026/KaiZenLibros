@@ -18,7 +18,9 @@ TIPOS_POR_FORMATO = {
     "cita": ("cita", "contraste", "dato_honesto"),
     "audio": ("herramienta", "microleccion", "dato_honesto", "escena"),
 }
-FORMATOS = tuple(TIPOS_POR_FORMATO)
+# Piezas institucionales: sin átomo; el contenido sale del YAML (sello y series). Se producen como carrusel.
+INSTITUCIONALES = ("sello", "serie")
+FORMATOS = tuple(TIPOS_POR_FORMATO) + INSTITUCIONALES
 
 
 def hora_utc(fecha: date, hhmm: str, zona: str) -> str:
@@ -60,6 +62,47 @@ def elegir_atomo(con: sqlite3.Connection, serie_id: str, formato: str, evitar_li
     return candidatos[0]
 
 
+def encargo_institucional(con: sqlite3.Connection, sello: Sello, fecha: date) -> dict | None:
+    """Devuelve la pieza institucional que toca hoy (arranque o cadencia), o None."""
+    plan = sello.datos.get("plan", {})
+    series = sello.series_activas()
+    if not series:
+        return None
+    arranque = plan.get("arranque", []) or []
+    idx = int(db.kv_get(con, "arranque_idx", "0") or 0)
+    if idx < len(arranque):
+        e = dict(arranque[idx])
+        db.kv_set(con, "arranque_idx", str(idx + 1))
+        db.kv_set(con, "institucional_ultima", fecha.isoformat())
+        return e
+    cada = int(plan.get("institucional_cada_dias", 0) or 0)
+    if not cada:
+        return None
+    ultima = db.kv_get(con, "institucional_ultima")
+    if ultima and (fecha - date.fromisoformat(ultima)).days < cada:
+        return None
+    siguiente = db.kv_get(con, "institucional_alterna", "serie") or "serie"
+    e: dict = {"formato": siguiente, "angulo": None}
+    if siguiente == "serie":
+        e["serie"] = series[fecha.toordinal() % len(series)].id
+    db.kv_set(con, "institucional_alterna", "sello" if siguiente == "serie" else "serie")
+    db.kv_set(con, "institucional_ultima", fecha.isoformat())
+    return e
+
+
+def crear_institucional(con: sqlite3.Connection, sello: Sello, e: dict, programado_para: str, fecha_plan: str) -> int | None:
+    series = sello.series_activas()
+    serie = sello.series.get(e.get("serie") or "", None) or series[0]
+    primero = min(serie.libros, key=lambda l: l.numero) if serie.libros else None
+    if primero is None:
+        return None
+    id_pieza = db.nueva_pieza(con, atomo_id=None, libro_id=primero.id, serie=serie.id,
+                              canal=canales_para(sello, "carrusel"), formato=e["formato"],
+                              programado_para=programado_para, fecha_plan=fecha_plan, angulo=e.get("angulo"))
+    print(f"  · pieza #{id_pieza} {fecha_plan} {programado_para[11:16]}Z {e['formato']:<8} institucional «{(e.get('angulo') or serie.nombre_amazon)[:60]}»")
+    return id_pieza
+
+
 def planificar_dia(con: sqlite3.Connection, sello: Sello, fecha: date) -> list[int]:
     clave = f"plan:{sello.id}:{fecha.isoformat()}"
     if db.kv_get(con, clave):
@@ -84,17 +127,30 @@ def planificar_dia(con: sqlite3.Connection, sello: Sello, fecha: date) -> list[i
             serie = series[(fecha.toordinal() + i) % len(series)]
             encargos.append({"formato": formato, "serie": serie.id, "libro_slug": None, "tipo_preferido": None, "angulo": None})
 
+    # pieza institucional del día: ocupa el primer hueco (sustituye a lo que hubiera)
+    inst = encargo_institucional(con, sello, fecha)
+    if inst:
+        if encargos:
+            encargos[0] = inst
+        else:
+            encargos.append(inst)
+
     creadas: list[int] = []
     for i, e in enumerate(encargos):
         formato = e.get("formato")
         if formato not in FORMATOS:
+            continue
+        hora = horas[min(i, len(horas) - 1)]
+        if formato in INSTITUCIONALES:
+            id_pieza = crear_institucional(con, sello, e, hora_utc(fecha, hora, zona), fecha.isoformat())
+            if id_pieza:
+                creadas.append(id_pieza)
             continue
         serie_id = e.get("serie") or series[0].id
         atomo = elegir_atomo(con, serie_id, formato, _libros_recientes(con), e.get("libro_slug"), e.get("tipo_preferido"))
         if atomo is None:
             print(f"  · {fecha} {formato}: sin átomos verificados en {serie_id}; se omite")
             continue
-        hora = horas[min(i, len(horas) - 1)]
         id_pieza = db.nueva_pieza(con, atomo_id=atomo["id"], libro_id=atomo["libro_id"], serie=serie_id,
                                   canal=canales_para(sello, formato), formato=formato,
                                   programado_para=hora_utc(fecha, hora, zona), fecha_plan=fecha.isoformat(),
@@ -104,6 +160,26 @@ def planificar_dia(con: sqlite3.Connection, sello: Sello, fecha: date) -> list[i
         print(f"  · pieza #{id_pieza} {fecha} {hora} {formato:<8} L{atomo['libro_numero']} «{atomo['texto'][:60]}»")
     db.kv_set(con, clave, ",".join(map(str, creadas)) or "sin piezas")
     return creadas
+
+
+def encargar(con: sqlite3.Connection, sello: Sello, formato: str, programado_para: str, *,
+             serie_id: str | None = None, libro_slug: str | None = None, angulo: str | None = None) -> int | None:
+    """Crea una pieza a mano fuera del plan diario (p. ej. una presentación del sello para esta tarde)."""
+    if formato not in FORMATOS:
+        raise ValueError(f"formato desconocido: {formato}")
+    fecha_plan = programado_para[:10]
+    if formato in INSTITUCIONALES:
+        return crear_institucional(con, sello, {"formato": formato, "serie": serie_id, "angulo": angulo}, programado_para, fecha_plan)
+    serie_id = serie_id or sello.series_activas()[0].id
+    atomo = elegir_atomo(con, serie_id, formato, _libros_recientes(con), libro_slug, None)
+    if atomo is None:
+        return None
+    id_pieza = db.nueva_pieza(con, atomo_id=atomo["id"], libro_id=atomo["libro_id"], serie=serie_id,
+                              canal=canales_para(sello, formato), formato=formato, programado_para=programado_para,
+                              fecha_plan=fecha_plan, angulo=angulo)
+    db.marcar_uso_atomo(con, atomo["id"])
+    print(f"  · pieza #{id_pieza} {programado_para} {formato} L{atomo['libro_numero']} «{atomo['texto'][:60]}»")
+    return id_pieza
 
 
 def planificar(con: sqlite3.Connection, sello: Sello, hoy: date | None = None) -> list[int]:

@@ -11,7 +11,7 @@ from typing import Any
 import requests
 
 from agentes.config import Sello
-from agentes.enlaces import enlace_compra
+from agentes.enlaces import enlace_pieza
 from agentes.publicador.base import Publicador, Resultado
 
 PDS = "https://bsky.social/xrpc"
@@ -61,7 +61,7 @@ class PublicadorBluesky(Publicador):
             if not r.ok:
                 raise RuntimeError(f"Bluesky uploadBlob: {r.status_code} {r.text[:200]}")
             blobs.append(r.json()["blob"])
-        texto, facets = componer_texto(contenido.get("bluesky") or contenido.get("telegram", ""), enlace_compra(sello, fila["libro_slug"], "bs"))
+        texto, facets = componer_texto(contenido.get("bluesky") or contenido.get("telegram", ""), enlace_pieza(sello, fila, "bs"))
         registro: dict[str, Any] = {
             "$type": "app.bsky.feed.post", "text": texto, "facets": facets, "langs": ["es"],
             "createdAt": datetime.now(timezone.utc).isoformat(timespec="milliseconds").replace("+00:00", "Z"),

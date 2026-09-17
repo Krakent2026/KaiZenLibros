@@ -186,7 +186,7 @@ ESTADOS = ("planificada", "redactada", "producida", "en_revision", "rechazada", 
            "aprobada", "programada", "publicada", "descartada")
 
 
-def nueva_pieza(con: sqlite3.Connection, *, atomo_id: int, libro_id: str, serie: str, canal: str,
+def nueva_pieza(con: sqlite3.Connection, *, atomo_id: int | None, libro_id: str, serie: str, canal: str,
                 formato: str, programado_para: str | None, fecha_plan: str, angulo: str | None = None) -> int:
     t = ahora()
     cur = con.execute(

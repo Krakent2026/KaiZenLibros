@@ -67,19 +67,45 @@ def construir_sistema(sello: Sello, serie_id: str) -> str:
     )
 
 
+def dossier(fila: sqlite3.Row, sello: Sello) -> str:
+    """Fuente de verdad de las piezas institucionales: lo que el YAML dice del sello y de la serie."""
+    s = sello.datos["sello"]
+    serie = sello.series[fila["serie"]]
+    d = serie.datos
+    L = [f"SELLO: {sello.nombre}. Frase: «{s.get('tagline', '')}». Voz: {' '.join(str(s.get('voz', '')).split())}",
+         "Regla del sello: en ningún libro se diagnostica, se predice ni se promete nada; se dice de qué trata el libro, no qué le hará al lector. Kai Zen es una voz de sello, sin biografía.",
+         f"Series disponibles: " + "; ".join(f"«{x.nombre_amazon}» ({len(x.libros)} libros; frase: «{x.frase}»)" for x in sello.series_activas()),
+         "",
+         f"SERIE: «{serie.nombre_amazon}» · {len(serie.libros)} libros · frase paraguas: «{serie.frase}»",
+         f"Promesa honesta: {d.get('promesa', '')}", f"Lo que no vas a encontrar: {d.get('enemigo', '')}",
+         f"Descripción: {' '.join(str(d.get('descripcion_corta', '')).split())}",
+         f"Nota de enfoque: {' '.join(str(d.get('nota_enfoque', '')).split())}"]
+    if d.get("bloques"):
+        L.append("Bloques: " + "; ".join(f"{b['nombre']} (libros {', '.join(map(str, b['libros']))}): {b.get('que', '')}" for b in d["bloques"]))
+    if d.get("itinerarios"):
+        L.append("Itinerarios: " + "; ".join(f"«{it['nombre']}» → {' → '.join(map(str, it['libros']))}" for it in d["itinerarios"]))
+    L.append("Libros: " + "; ".join(f"{l.numero}. «{l.titulo}» ({l.subtitulo}) — {l.para_que}" for l in serie.libros))
+    return "\n".join(L)
+
+
 def mensaje_usuario(fila: sqlite3.Row, sello: Sello) -> str:
     serie = sello.series[fila["serie"]]
     libro = serie.libro(fila["libro_slug"])
-    temas = ", ".join(json.loads(fila["temas"] or "[]"))
-    partes = [
-        f"Formato de la pieza: **{fila['formato']}**.",
-        "",
-        f"Libro: «{libro.titulo}» — {libro.subtitulo}. Libro {libro.numero} de {len(serie.libros)} de la serie {serie.nombre_amazon}. Para qué es: {libro.para_que}",
-        f"Átomo (tipo {fila['atomo_tipo']}{', LITERAL del libro' if fila['es_literal'] else ''}):",
-        f"«{fila['atomo_texto']}»",
-        f"Pasaje del libro que lo respalda: «{fila['ancla']}»",
-        f"Capítulo: {fila['capitulo'] or '—'}. Temas: {temas or '—'}. Gancho sugerido por el Minero: {fila['atomo_gancho'] or '—'}",
-    ]
+    if fila["atomo_id"] is None:  # pieza institucional
+        partes = [f"Formato de la pieza: **{fila['formato']}** (institucional; sin átomo). Trabaja solo con este dossier:", "",
+                  dossier(fila, sello), "",
+                  f"El Libro 1 de la serie, para el remate: «{libro.titulo}» — {libro.subtitulo}."]
+    else:
+        temas = ", ".join(json.loads(fila["temas"] or "[]"))
+        partes = [
+            f"Formato de la pieza: **{fila['formato']}**.",
+            "",
+            f"Libro: «{libro.titulo}» — {libro.subtitulo}. Libro {libro.numero} de {len(serie.libros)} de la serie {serie.nombre_amazon}. Para qué es: {libro.para_que}",
+            f"Átomo (tipo {fila['atomo_tipo']}{', LITERAL del libro' if fila['es_literal'] else ''}):",
+            f"«{fila['atomo_texto']}»",
+            f"Pasaje del libro que lo respalda: «{fila['ancla']}»",
+            f"Capítulo: {fila['capitulo'] or '—'}. Temas: {temas or '—'}. Gancho sugerido por el Minero: {fila['atomo_gancho'] or '—'}",
+        ]
     if fila["angulo"]:
         partes += ["", f"Ángulo del Estratega para esta pieza: {fila['angulo']}"]
     if fila["nota_humano"]:

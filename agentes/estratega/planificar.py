@@ -20,7 +20,8 @@ from agentes.config import DB_POR_DEFECTO, Sello, cargar_sello, cargar_yaml, con
 from agentes.ia import ClienteIA, cliente_para
 
 RUTA_PROMPT = Path(__file__).with_name("prompt.md")
-FORMATOS = ("carrusel", "cita", "audio")
+FORMATOS = ("carrusel", "cita", "audio", "sello", "serie")
+COMPATIBLES = {"carrusel": {"carrusel", "sello", "serie"}, "cita": {"cita"}, "audio": {"audio"}}
 TIPOS = ("cita", "microleccion", "pregunta", "contraste", "herramienta", "escena", "dato_honesto", "cualquiera")
 
 ESQUEMA: dict[str, Any] = {
@@ -144,9 +145,12 @@ def validar_plan(plan: dict[str, Any], sello: Sello, serie_id: str, lunes: date)
         # el número de piezas y los formatos los fija la plantilla; el Estratega aporta libro y ángulo
         ajustadas = []
         for k, fmt in enumerate(formatos_dia):
-            cand = next((p for p in piezas if p["formato"] == fmt and p not in ajustadas), None) or (piezas[k] if k < len(piezas) else None)
+            compat = COMPATIBLES.get(fmt, {fmt})
+            cand = next((p for p in piezas if p["formato"] in compat and p not in ajustadas), None) or (piezas[k] if k < len(piezas) else None)
             if cand:
-                ajustadas.append({**cand, "formato": fmt})
+                # un hueco de carrusel admite una pieza institucional (sello/serie); el resto se ajusta al hueco
+                formato_final = cand["formato"] if cand["formato"] in compat else fmt
+                ajustadas.append({**cand, "formato": formato_final})
         dias_ok.append({"fecha": f.isoformat(), "piezas": ajustadas})
     return {"semana": lunes.isoformat(), "resumen": plan.get("resumen", ""), "dias": dias_ok,
             "sugerencias_bibliotecario": plan.get("sugerencias_bibliotecario", []), "generado_en": db.ahora()}

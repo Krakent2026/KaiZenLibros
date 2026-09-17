@@ -61,6 +61,21 @@ def diapositivas_para(fila: sqlite3.Row, contenido: dict[str, Any], sello: Sello
     elif fila["formato"] == "audio":
         titulo = contenido.get("titulo_episodio") or (d[0]["titulo"] if d else libro.titulo)
         salida.append({**base, "serie_nombre": f"{serie.nombre_amazon} · Pódcast", "tipo": "gancho", "titulo": titulo, "clase": "invertida"})
+    elif fila["formato"] in ("sello", "serie"):
+        cinta = f"{serie.nombre_amazon} · {len(serie.libros)} libros" if fila["formato"] == "serie" else f"Libros de {sello.nombre}"
+        base_i = {**base, "serie_nombre": cinta, "libro_titulo": serie.nombre_amazon if fila["formato"] == "serie" else sello.nombre,
+                  "libro_subtitulo": f"«{serie.frase}»" if fila["formato"] == "serie" else sello.datos["sello"].get("tagline", "")}
+        portadas = [(DIR_PORTADAS / f"{l.slug}.jpg").resolve().as_uri() for l in serie.libros[:6] if (DIR_PORTADAS / f"{l.slug}.jpg").exists()]
+        total = len(d)
+        for i, x in enumerate(d, 1):
+            if i == 1:
+                salida.append({**base_i, "tipo": "gancho", "titulo": x["titulo"], "clase": "", "indice": i, "total": total})
+            elif i == total:
+                salida.append({**base_i, "tipo": "coleccion", "titulo": x["titulo"], "cuerpo": x["cuerpo"], "portadas": portadas,
+                               "clase": "invertida", "indice": i, "total": total})
+            else:
+                salida.append({**base_i, "tipo": "texto", "titulo": x["titulo"], "cuerpo": x["cuerpo"], "clase": "", "indice": i, "total": total})
+        base = base_i
     else:
         total = len(d)
         for i, x in enumerate(d, 1):
