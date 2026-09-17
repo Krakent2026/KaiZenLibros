@@ -153,6 +153,280 @@
       "asin_papel": null,
       "busqueda": "No+es+pereza+Kai+Zen",
       "alias_de": "no-es-pereza"
+    },
+    "el-arte-de-conocerte": {
+      "titulo": "El arte de conocerte",
+      "serie": "Crecimiento personal",
+      "numero": 1,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "El+arte+de+conocerte+Kai+Zen"
+    },
+    "deja-de-pensar-tanto": {
+      "titulo": "Deja de pensar tanto",
+      "serie": "Crecimiento personal",
+      "numero": 2,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Deja+de+pensar+tanto+Kai+Zen"
+    },
+    "primero-tu": {
+      "titulo": "Primero tú",
+      "serie": "Crecimiento personal",
+      "numero": 3,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Primero+t%C3%BA+Kai+Zen"
+    },
+    "soltar": {
+      "titulo": "Soltar",
+      "serie": "Crecimiento personal",
+      "numero": 4,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Soltar+Kai+Zen"
+    },
+    "kaizen": {
+      "titulo": "Kaizen",
+      "serie": "Crecimiento personal",
+      "numero": 5,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Kaizen+Kai+Zen"
+    },
+    "conexiones-autenticas": {
+      "titulo": "Conexiones auténticas",
+      "serie": "Crecimiento personal",
+      "numero": 6,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Conexiones+aut%C3%A9nticas+Kai+Zen"
+    },
+    "silencio": {
+      "titulo": "Silencio",
+      "serie": "Crecimiento personal",
+      "numero": 7,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Silencio+Kai+Zen"
+    },
+    "presencia": {
+      "titulo": "Presencia",
+      "serie": "Crecimiento personal",
+      "numero": 8,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Presencia+Kai+Zen"
+    },
+    "el-arte-de-no-reaccionar": {
+      "titulo": "El arte de no reaccionar",
+      "serie": "Crecimiento personal",
+      "numero": 9,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "El+arte+de+no+reaccionar+Kai+Zen"
+    },
+    "disciplina-amable": {
+      "titulo": "Disciplina amable",
+      "serie": "Crecimiento personal",
+      "numero": 10,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Disciplina+amable+Kai+Zen"
+    },
+    "pequenos-habitos-gran-alma": {
+      "titulo": "Pequeños hábitos, gran alma",
+      "serie": "Crecimiento personal",
+      "numero": 11,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Peque%C3%B1os+h%C3%A1bitos%2C+gran+alma+Kai+Zen"
+    },
+    "el-amor-que-te-debes": {
+      "titulo": "El amor que te debes",
+      "serie": "Crecimiento personal",
+      "numero": 12,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "El+amor+que+te+debes+Kai+Zen"
+    },
+    "el-arte-de-estar-solo": {
+      "titulo": "El arte de estar solo",
+      "serie": "Crecimiento personal",
+      "numero": 13,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "El+arte+de+estar+solo+Kai+Zen"
+    },
+    "descansar-sin-culpa": {
+      "titulo": "Descansar sin culpa",
+      "serie": "Crecimiento personal",
+      "numero": 14,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Descansar+sin+culpa+Kai+Zen"
+    },
+    "apaga-la-alarma": {
+      "titulo": "Apaga la alarma",
+      "serie": "Crecimiento personal",
+      "numero": 15,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Apaga+la+alarma+Kai+Zen"
+    },
+    "menos": {
+      "titulo": "Menos",
+      "serie": "Crecimiento personal",
+      "numero": 16,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Menos+Kai+Zen"
+    },
+    "domar-el-ego": {
+      "titulo": "Domar el ego",
+      "serie": "Crecimiento personal",
+      "numero": 17,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Domar+el+ego+Kai+Zen"
+    },
+    "ikigai-practico": {
+      "titulo": "Ikigai práctico",
+      "serie": "Crecimiento personal",
+      "numero": 18,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Ikigai+pr%C3%A1ctico+Kai+Zen"
+    },
+    "el-dia-que-deje-de-esperar": {
+      "titulo": "El día que dejé de esperar",
+      "serie": "Crecimiento personal",
+      "numero": 19,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "El+d%C3%ADa+que+dej%C3%A9+de+esperar+Kai+Zen"
+    },
+    "empezar-de-nuevo": {
+      "titulo": "Empezar de nuevo",
+      "serie": "Crecimiento personal",
+      "numero": 20,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Empezar+de+nuevo+Kai+Zen"
+    },
+    "cartas-a-mi-yo-del-futuro": {
+      "titulo": "Cartas a mi yo del futuro",
+      "serie": "Crecimiento personal",
+      "numero": 21,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Cartas+a+mi+yo+del+futuro+Kai+Zen"
+    },
+    "crecimiento-personal": {
+      "titulo": "El arte de conocerte",
+      "serie": "Crecimiento personal",
+      "numero": 1,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "El+arte+de+conocerte+Kai+Zen",
+      "alias_de": "el-arte-de-conocerte"
+    },
+    "krishna": {
+      "titulo": "Krishna",
+      "serie": "Los Mensajeros",
+      "numero": 1,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Krishna+Kai+Zen"
+    },
+    "zaratustra": {
+      "titulo": "Zaratustra",
+      "serie": "Los Mensajeros",
+      "numero": 2,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Zaratustra+Kai+Zen"
+    },
+    "moises": {
+      "titulo": "Moisés",
+      "serie": "Los Mensajeros",
+      "numero": 3,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Mois%C3%A9s+Kai+Zen"
+    },
+    "buda": {
+      "titulo": "Buda",
+      "serie": "Los Mensajeros",
+      "numero": 4,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Buda+Kai+Zen"
+    },
+    "lao-tse": {
+      "titulo": "Lao Tsé",
+      "serie": "Los Mensajeros",
+      "numero": 5,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Lao+Ts%C3%A9+Kai+Zen"
+    },
+    "confucio": {
+      "titulo": "Confucio",
+      "serie": "Los Mensajeros",
+      "numero": 6,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Confucio+Kai+Zen"
+    },
+    "jesus": {
+      "titulo": "Jesús",
+      "serie": "Los Mensajeros",
+      "numero": 7,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Jes%C3%BAs+Kai+Zen"
+    },
+    "muhammad": {
+      "titulo": "Muhammad",
+      "serie": "Los Mensajeros",
+      "numero": 8,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Muhammad+Kai+Zen"
+    },
+    "guru-nanak": {
+      "titulo": "Guru Nanak",
+      "serie": "Los Mensajeros",
+      "numero": 9,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Guru+Nanak+Kai+Zen"
+    },
+    "el-bab": {
+      "titulo": "El Báb",
+      "serie": "Los Mensajeros",
+      "numero": 10,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "El+B%C3%A1b+Kai+Zen"
+    },
+    "bahaullah": {
+      "titulo": "Bahá'u'lláh",
+      "serie": "Los Mensajeros",
+      "numero": 11,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Bah%C3%A1%27u%27ll%C3%A1h+Kai+Zen"
+    },
+    "los-mensajeros": {
+      "titulo": "Krishna",
+      "serie": "Los Mensajeros",
+      "numero": 1,
+      "asin_ebook": null,
+      "asin_papel": null,
+      "busqueda": "Krishna+Kai+Zen",
+      "alias_de": "krishna"
     }
   }
 }

@@ -21,3 +21,4 @@ fuentes/
 worker_enlaces/node_modules/
 worker_enlaces/.wrangler/
 datos/kdp/*.csv
+datos/fuentes_derivadas/

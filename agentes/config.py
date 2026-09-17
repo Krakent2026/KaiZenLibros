@@ -70,6 +70,7 @@ class Libro:
     para_que: str
     asin_ebook: str | None
     asin_papel: str | None
+    manuscrito: str | None = None  # ruta alternativa (relativa al repo o absoluta) si el libro no tiene 11_Version_Definitiva.md
 
     @property
     def id(self) -> str:
@@ -113,6 +114,9 @@ class Sello:
         return (RAIZ_REPO / f["raiz_por_defecto"]).resolve()
 
     def ruta_manuscrito(self, libro: Libro) -> Path:
+        if libro.manuscrito:
+            p = Path(libro.manuscrito)
+            return p if p.is_absolute() else (RAIZ_REPO / p)
         serie = self.series[libro.serie_id]
         return self.raiz_fuentes / serie.carpeta / libro.carpeta / self.datos["fuentes"]["manuscrito"]
 
@@ -156,6 +160,7 @@ def _construir_serie(sid: str, s: dict[str, Any]) -> Serie:
             para_que=l.get("para_que", ""),
             asin_ebook=l.get("asin_ebook"),
             asin_papel=l.get("asin_papel"),
+            manuscrito=l.get("manuscrito"),
         )
         for l in s.get("libros", []) or []
     )

@@ -19,6 +19,11 @@ def entorno(tmp_path: Path, monkeypatch):
     sello.datos["publicacion"]["aprobacion"] = "manual"
     sello.datos["plan"]["arranque"] = []
     sello.datos["plan"]["institucional_cada_dias"] = 0
+    from dataclasses import replace
+
+    for sid in list(sello.series):
+        if sid != "mente_distinta":
+            sello.series[sid] = replace(sello.series[sid], activa=False)
     con = db.conectar(tmp_path / "t.sqlite")
     for lib in sello.series["mente_distinta"].libros[:4]:
         db.registrar_libro(con, id=lib.id, sello="kaizen", serie="mente_distinta", numero=lib.numero, slug=lib.slug,
@@ -49,7 +54,7 @@ def test_validar_plan_respeta_plantilla_y_filtra(entorno):
         ]},
         {"fecha": "2026-10-19", "piezas": [{"formato": "cita", "libro_slug": "dopamina", "tipo_preferido": "cita", "angulo": "x", "motivo": "m"}]},
     ]}
-    plan = validar_plan(crudo, sello, "mente_distinta", lunes)
+    plan = validar_plan(crudo, sello, lunes)
     lunes_piezas = plan["dias"][0]["piezas"]
     assert [p["formato"] for p in lunes_piezas] == ["carrusel", "cita"]      # orden de la plantilla del lunes
     assert lunes_piezas[0]["libro_slug"] == "no-es-pereza" and lunes_piezas[1]["libro_slug"] == "dopamina"
@@ -63,7 +68,7 @@ def test_planificador_sigue_el_plan_del_estratega(entorno):
     plan = validar_plan({"resumen": "", "sugerencias_bibliotecario": [], "dias": [{"fecha": "2026-10-12", "piezas": [
         {"formato": "carrusel", "libro_slug": "sistemas-para-mentes-caoticas", "tipo_preferido": "herramienta", "angulo": "Sistemas que aguantan un día malo", "motivo": ""},
         {"formato": "cita", "libro_slug": "el-tiempo-no-me-obedece", "tipo_preferido": "cita", "angulo": "", "motivo": ""},
-    ]}]}, sello, "mente_distinta", lunes)
+    ]}]}, sello, lunes)
     db.kv_set(con, clave_plan(lunes), json.dumps(plan))
     assert len(piezas_planificadas_para(con, lunes)) == 2
     ids = planificar_dia(con, sello, lunes)

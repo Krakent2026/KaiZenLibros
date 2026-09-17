@@ -1,0 +1,177 @@
+{
+  "dominante": "#ede9de",
+  "acento": "#0d3444",
+  "texto_sobre_dominante": "#1c1917",
+  "fondo_claro": "#faf7f2",
+  "tinta": "#1c1917",
+  "por_libro": {
+    "el-arte-de-conocerte": [
+      "#0e3245",
+      "#0b2132",
+      "#10394b",
+      "#2e565e",
+      "#b3ad92",
+      "#113b4c"
+    ],
+    "deja-de-pensar-tanto": [
+      "#777ba9",
+      "#ecebe6",
+      "#262a47",
+      "#5b5f86",
+      "#bfbfcd",
+      "#e2e1df"
+    ],
+    "primero-tu": [
+      "#f1dac7",
+      "#c26861",
+      "#cd857b",
+      "#e1b3a4",
+      "#e9c9b7",
+      "#b75d5b"
+    ],
+    "soltar": [
+      "#eee9dd",
+      "#8d9eb0",
+      "#c4ccce",
+      "#c9cfd0",
+      "#dadbd6",
+      "#e3e1d9"
+    ],
+    "kaizen": [
+      "#e9e2d2",
+      "#73757c",
+      "#535765",
+      "#16203b",
+      "#bb3734",
+      "#e2dacd"
+    ],
+    "conexiones-autenticas": [
+      "#0f3347",
+      "#b3ad92",
+      "#0e2b3f",
+      "#2e565d",
+      "#10394b",
+      "#113b4c"
+    ],
+    "silencio": [
+      "#4d6d68",
+      "#e8e7dc",
+      "#183136",
+      "#233e41",
+      "#7c918b",
+      "#cbcfc6"
+    ],
+    "presencia": [
+      "#b07f64",
+      "#f0e7da",
+      "#6b4c3d",
+      "#926953",
+      "#c8a690",
+      "#5d4136"
+    ],
+    "el-arte-de-no-reaccionar": [
+      "#b5b193",
+      "#134858",
+      "#0e2b3b",
+      "#103f4f",
+      "#0d3444",
+      "#0f3a4a"
+    ],
+    "disciplina-amable": [
+      "#f2e8d9",
+      "#c6a6ab",
+      "#ddc0b6",
+      "#dec2b7",
+      "#edded1",
+      "#e5d1c5"
+    ],
+    "pequenos-habitos-gran-alma": [
+      "#181425",
+      "#332033",
+      "#251a2b",
+      "#302032",
+      "#2b1d2f",
+      "#21182a"
+    ],
+    "el-amor-que-te-debes": [
+      "#e1d2cc",
+      "#d3bcb9",
+      "#f2e9e2",
+      "#8d646b",
+      "#e9ddd7",
+      "#966e74"
+    ],
+    "el-arte-de-estar-solo": [
+      "#9a7241",
+      "#dbc29f",
+      "#ece0cc",
+      "#caa472",
+      "#f2ebdd",
+      "#e6d6bd"
+    ],
+    "descansar-sin-culpa": [
+      "#958da3",
+      "#eeeae5",
+      "#786f89",
+      "#706784",
+      "#d6d2d4",
+      "#c1bbc3"
+    ],
+    "apaga-la-alarma": [
+      "#eaece7",
+      "#d0d8d9",
+      "#8a9fae",
+      "#92a9b7",
+      "#5a7487",
+      "#abbbc4"
+    ],
+    "menos": [
+      "#ede9de",
+      "#a0aca0",
+      "#708075",
+      "#cfd2c6",
+      "#e2e1d5",
+      "#859589"
+    ],
+    "domar-el-ego": [
+      "#6d6963",
+      "#79736b",
+      "#eae7de",
+      "#464646",
+      "#b2aea5",
+      "#938e86"
+    ],
+    "ikigai-practico": [
+      "#e2e3d5",
+      "#eae2cd",
+      "#e4e2d5",
+      "#e5e2d2",
+      "#eae2cf",
+      "#e9e2d0"
+    ],
+    "el-dia-que-deje-de-esperar": [
+      "#774d5f",
+      "#f2cb93",
+      "#cb8669",
+      "#1c203d",
+      "#392f47",
+      "#916264"
+    ],
+    "empezar-de-nuevo": [
+      "#494441",
+      "#1d2027",
+      "#45403f",
+      "#323134",
+      "#2b2a2f",
+      "#423d3c"
+    ],
+    "cartas-a-mi-yo-del-futuro": [
+      "#ede9de",
+      "#385460",
+      "#56717c",
+      "#859597",
+      "#a8b2b2",
+      "#c8cbc6"
+    ]
+  }
+}

@@ -32,16 +32,18 @@ sello:
     secciones:
       - titulo: Qué escribimos
         texto: >
-          Libros para entender cómo funciona la cabeza cuando no funciona como la de la mayoría, y qué
-          hacer con eso un martes cualquiera. La primera serie, «Mente distinta», habla del TDAH adulto,
-          de la alta sensibilidad y del autismo detectado tarde. Las siguientes, en preparación, recorren
-          la numerología con rigor histórico, la espiritualidad sin doctrina, el crecimiento personal sin
-          épica y las vidas de quienes cambiaron la forma de creer.
+          Tres series, tres puertas. «Mente distinta» habla del TDAH adulto, de la alta sensibilidad y del
+          autismo detectado tarde: sistemas en lugar de fuerza de voluntad. «Crecimiento personal» son
+          veintiún libros de autoayuda práctica sin gurús, sin promesas y sin culpa: mirarte, y luego
+          moverte un poco. «Los Mensajeros» cuenta como novelas las vidas de quienes trajeron una nueva
+          luz a la humanidad, de Krishna a Bahá'u'lláh, sin poner ninguna tradición por encima de otra.
+          En preparación: la numerología con rigor histórico y la espiritualidad sin doctrina.
       - titulo: Para quién
         texto: >
           Para quien lleva años oyendo que le falta voluntad, disciplina o ganas, y sospecha que la
-          explicación es otra. Para quien convive con alguien así. Y para quien desconfía, con razón,
-          de la autoayuda que promete resultados en tres semanas.
+          explicación es otra. Para quien convive con alguien así. Para quien desconfía, con razón,
+          de la autoayuda que promete resultados en tres semanas. Y para quien se sigue haciendo las
+          grandes preguntas, tenga una fe, varias o ninguna.
       - titulo: La regla
         texto: >
           Ningún libro diagnostica a nadie: reconocerse en una descripción no es un diagnóstico, y eso lo
@@ -172,7 +174,11 @@ plan:
     - {formato: serie, serie: mente_distinta, angulo: "Presentación de Mente distinta: doce libros para cerebros que funcionan distinto, cuatro bloques (entender, organizarte, sentir, convivir), empieza por el Libro 1."}
     - {formato: sello, angulo: "Lo que estos libros se niegan a decir: ni un test, ni «es un superpoder», ni cifras que no se pueden sostener. La honestidad como método."}
     - {formato: serie, serie: mente_distinta, angulo: "Cuatro formas de entrar en la serie según lo que te esté pasando: acabo de descubrirlo, no me organizo, lo llevo mal por dentro, el problema está fuera."}
+    - {formato: serie, serie: crecimiento_personal, angulo: "Presentación de Crecimiento personal: veintiún libros sin gurús, sin promesas y sin culpa; cada uno se lee suelto; la puerta es «El arte de conocerte»."}
+    - {formato: serie, serie: los_mensajeros, angulo: "Presentación de Los Mensajeros: las vidas de las grandes figuras espirituales contadas como novelas, una vida por libro, ninguna tradición por encima de otra; puertas de entrada: «Jesús» y «Buda»."}
     - {formato: sello, angulo: "Cómo se lee una serie de Kai Zen: cada libro es dueño de un tema, ninguno repite al anterior, y leer más no es hacer más."}
+    - {formato: serie, serie: crecimiento_personal, angulo: "Cuatro formas de entrar en Crecimiento personal: no paro de darle vueltas, empiezo y no aguanto, estoy agotado, no sé qué hago con mi vida."}
+    - {formato: serie, serie: los_mensajeros, angulo: "Lo que Los Mensajeros se niega a hacer: no es un catecismo ni una hagiografía; son hombres con miedo, dudas y hambre. Ficción de base documental."}
   institucional_cada_dias: 5
   # Cuántos días hacia delante se planifica (para que el humano apruebe con margen)
   dias_adelanto: 1
@@ -327,16 +333,105 @@ series:
     frase: "Creer sin perder la cabeza."
     libros: []
   crecimiento_personal:
-    activa: false
+    activa: true
     nombre_amazon: Crecimiento personal
     carpeta: 0.Crecimiento Personal
     tipo: ordenada
-    frase: "Leer más no es hacer más."
-    libros: []
+    frase: "No hace falta arreglarte. Hace falta mirarte, y luego moverte un poco."
+    promesa: "Entenderte mejor y mover algo pequeño, hoy, en la dirección correcta. El resto lo hace la repetición."
+    enemigo: "Los gurús, las promesas de treinta días, la disciplina como castigo y el descanso como premio que hay que merecer."
+    descripcion_corta: >
+      Veintiún libros de crecimiento personal escritos sin gurús y sin promesas: autoconocimiento, calma
+      mental, hábitos, límites, descanso y sentido. Cada uno se lee suelto y va al grano, con algo concreto
+      que hacer en cada capítulo. No propone transformarte en treinta días: propone entenderte mejor y
+      mover algo pequeño.
+    nota_enfoque: >
+      Esta colección es divulgación y acompañamiento. No es asesoramiento médico, psicológico ni
+      terapéutico, y no sustituye a un profesional sanitario. Ninguna de sus prácticas funciona para todo
+      el mundo ni todos los días. En España: 024 (conducta suicida, 24 h), 112 (emergencias), 016 (violencia de género).
+    palabras_clave: [crecimiento personal, hábitos y disciplina, calma mental y mindfulness, autoestima y límites, desarrollo personal español, colección crecimiento personal, bienestar sin gurús]
+    bloques:
+      - {nombre: La puerta, libros: [1], que: "Quién eres cuando nadie mira."}
+      - {nombre: La cabeza que no para, libros: [2, 7, 8, 9], que: "Rumiación, silencio, presencia y no reaccionar."}
+      - {nombre: Lo que cuesta sostener, libros: [5, 10, 11], que: "Mejorar un poco cada día sin castigarte."}
+      - {nombre: El trato contigo, libros: [3, 12, 13], que: "Límites, autoestima y soledad elegida."}
+      - {nombre: El cuerpo y el descanso, libros: [14, 15], que: "Parar sin culpa y salir del estado de alerta."}
+      - {nombre: Lo que sobra, libros: [4, 16, 17], que: "Soltar, lo esencial y el ego."}
+      - {nombre: El rumbo, libros: [18, 19, 20, 21], que: "Propósito, reinvención y un año de cartas."}
+      - {nombre: Los vínculos, libros: [6], que: "Relaciones verdaderas."}
+    itinerarios:
+      - {nombre: "No paro de darle vueltas", libros: [2, 7, 8]}
+      - {nombre: "Empiezo y no aguanto", libros: [5, 10, 11]}
+      - {nombre: "Estoy agotado", libros: [14, 15, 3]}
+      - {nombre: "No sé qué hago con mi vida", libros: [1, 18, 20]}
+    faq:
+      - {p: "¿Hay que leerlos en orden?", r: "No. Cada libro se lee suelto y ninguno da por supuesto que has leído los demás. El número es una ruta sugerida, no un requisito. Si no sabes por dónde empezar, «El arte de conocerte» es la puerta natural."}
+      - {p: "¿Prometen cambiar la vida en treinta días?", r: "No. La colección propone entenderte mejor y mover algo pequeño, hoy. No usa la disciplina como castigo ni el descanso como premio."}
+      - {p: "¿Son libros de meditación o de religión?", r: "Ni una cosa ni la otra. Son autoayuda práctica sin gurús; hablan desde la mesa de al lado, no desde una tarima. La espiritualidad va en otra serie del sello."}
+      - {p: "¿Sustituyen a un profesional?", r: "No. Son divulgación y acompañamiento. Si lo que te pasa es más grande que un libro, conviene consultarlo."}
+    libros:
+      - {numero: 1, slug: el-arte-de-conocerte, titulo: "El arte de conocerte", subtitulo: "La guía práctica del autoconocimiento", carpeta: Libro1_La_importancia_del_autoconocimiento, portada: PUBLICAR_Autoconocimiento_PORTADA_EBOOK.jpg, bloque: La puerta, para_que: "Empieza aquí si no sabes por dónde. Quién eres cuando nadie mira.", asin_ebook: null, asin_papel: null}
+      - {numero: 2, slug: deja-de-pensar-tanto, titulo: "Deja de pensar tanto", subtitulo: "Guía para mentes que no paran", carpeta: Libro2_Deja_de_pensar, portada: PUBLICAR_Deja_de_pensar_PORTADA_EBOOK.jpg, bloque: La cabeza que no para, para_que: "La rumiación y cómo bajarle el volumen.", asin_ebook: null, asin_papel: null, manuscrito: datos/fuentes_derivadas/deja-de-pensar-tanto.md}
+      - {numero: 3, slug: primero-tu, titulo: "Primero tú", subtitulo: "Pon límites sin culpa", carpeta: Libro3_Primero_tu, portada: 6_Caratula.jpg, bloque: El trato contigo, para_que: "Decir no sin pedir perdón.", asin_ebook: null, asin_papel: null, manuscrito: datos/fuentes_derivadas/primero-tu.md}
+      - {numero: 4, slug: soltar, titulo: "Soltar", subtitulo: "El arte de dejar ir lo que ya no eres", carpeta: Libro4_Soltar, portada: PUBLICAR_Soltar_PORTADA_EBOOK.jpg, bloque: Lo que sobra, para_que: "Dejar ir lo que ya no eres.", asin_ebook: null, asin_papel: null}
+      - {numero: 5, slug: kaizen, titulo: "Kaizen", subtitulo: "El poder de mejorar un 1 % cada día", carpeta: Libro5_Kaizen_1_por_ciento, portada: 6_Caratula.jpg, bloque: Lo que cuesta sostener, para_que: "Mejorar un poco cada día, sin épica.", asin_ebook: null, asin_papel: null, manuscrito: datos/fuentes_derivadas/kaizen.md}
+      - {numero: 6, slug: conexiones-autenticas, titulo: "Conexiones auténticas", subtitulo: "El arte de crear vínculos verdaderos", carpeta: Libro6_Conexiones_Autenticas, portada: PUBLICAR_ConexionesAutenticas_PORTADA_EBOOK.jpg, bloque: Los vínculos, para_que: "Relaciones de verdad, sin máscaras.", asin_ebook: null, asin_papel: null}
+      - {numero: 7, slug: silencio, titulo: "Silencio", subtitulo: "Reconecta contigo en 10 minutos al día", carpeta: Libro7_Silencio, portada: PUBLICAR_Silencio_PORTADA_EBOOK.jpg, bloque: La cabeza que no para, para_que: "Diez minutos de silencio al día.", asin_ebook: null, asin_papel: null, manuscrito: datos/fuentes_derivadas/silencio.md}
+      - {numero: 8, slug: presencia, titulo: "Presencia", subtitulo: "El arte de estar aquí cuando la mente quiere estar en otro lado", carpeta: Libro8_Presencia, portada: PUBLICAR_Presencia_PORTADA_EBOOK.jpg, bloque: La cabeza que no para, para_que: "Estar aquí cuando la mente quiere irse.", asin_ebook: null, asin_papel: null}
+      - {numero: 9, slug: el-arte-de-no-reaccionar, titulo: "El arte de no reaccionar", subtitulo: "Calma en un mundo que te quiere alterado", carpeta: Libro9_El_arte_de_no_reaccionar, portada: 6_Caratula.jpg, bloque: La cabeza que no para, para_que: "No saltar a la primera.", asin_ebook: null, asin_papel: null, manuscrito: datos/fuentes_derivadas/el-arte-de-no-reaccionar.md}
+      - {numero: 10, slug: disciplina-amable, titulo: "Disciplina amable", subtitulo: "Constancia sin castigarte", carpeta: Libro10_Disciplina_amable, portada: PUBLICAR_Disciplina_amable_PORTADA_EBOOK.jpg, bloque: Lo que cuesta sostener, para_que: "Constancia sin látigo.", asin_ebook: null, asin_papel: null}
+      - {numero: 11, slug: pequenos-habitos-gran-alma, titulo: "Pequeños hábitos, gran alma", subtitulo: "Transforma tu espíritu sin fuerza de voluntad", carpeta: Libro11_Pequenos_habitos_gran_alma, portada: PUBLICAR_Pequenos_habitos_gran_alma_PORTADA_EBOOK.jpg, bloque: Lo que cuesta sostener, para_que: "Hábitos pequeños que se sostienen.", asin_ebook: null, asin_papel: null}
+      - {numero: 12, slug: el-amor-que-te-debes, titulo: "El amor que te debes", subtitulo: "Reconstruir la autoestima desde dentro", carpeta: Libro12_El_amor_que_te_debes, portada: PUBLICAR_El_amor_que_te_debes_PORTADA_EBOOK.jpg, bloque: El trato contigo, para_que: "La autoestima, desde dentro.", asin_ebook: null, asin_papel: null}
+      - {numero: 13, slug: el-arte-de-estar-solo, titulo: "El arte de estar solo", subtitulo: "La soledad elegida como fuerza, no como carencia", carpeta: Libro13_El_arte_de_estar_solo, portada: PUBLICAR_El_arte_de_estar_solo_PORTADA_EBOOK.jpg, bloque: El trato contigo, para_que: "La soledad elegida.", asin_ebook: null, asin_papel: null}
+      - {numero: 14, slug: descansar-sin-culpa, titulo: "Descansar sin culpa", subtitulo: "El arte de parar en un mundo que no para", carpeta: Libro14_Descansar_sin_culpa, portada: PUBLICAR_Descansar_sin_culpa_PORTADA_EBOOK.jpg, bloque: El cuerpo y el descanso, para_que: "Parar sin sentir que fallas.", asin_ebook: null, asin_papel: null}
+      - {numero: 15, slug: apaga-la-alarma, titulo: "Apaga la alarma", subtitulo: "Calma tu cuerpo cuando vive en estado de alerta", carpeta: Libro15_Apaga_la_alarma, portada: PUBLICAR_Apaga_la_alarma_PORTADA_EBOOK.jpg, bloque: El cuerpo y el descanso, para_que: "El cuerpo en alerta y cómo bajarla.", asin_ebook: null, asin_papel: null}
+      - {numero: 16, slug: menos, titulo: "Menos", subtitulo: "Encuentra la paz en lo esencial", carpeta: Libro16_Menos, portada: PUBLICAR_Menos_PORTADA_EBOOK.jpg, bloque: Lo que sobra, para_que: "Lo esencial y lo que sobra.", asin_ebook: null, asin_papel: null}
+      - {numero: 17, slug: domar-el-ego, titulo: "Domar el ego", subtitulo: "Dejar de tener razón, de compararte y de defenderte", carpeta: Libro17_Domar_el_ego, portada: PUBLICAR_Domar_el_ego_PORTADA_EBOOK.jpg, bloque: Lo que sobra, para_que: "Dejar de tener razón.", asin_ebook: null, asin_papel: null}
+      - {numero: 18, slug: ikigai-practico, titulo: "Ikigai práctico", subtitulo: "Tu razón de ser en acciones pequeñas", carpeta: Libro18_Ikigai_practico, portada: PUBLICAR_Ikigai_practico_PORTADA_EBOOK.jpg, bloque: El rumbo, para_que: "Tu razón de ser en acciones pequeñas.", asin_ebook: null, asin_papel: null}
+      - {numero: 19, slug: el-dia-que-deje-de-esperar, titulo: "El día que dejé de esperar", subtitulo: "Encuentra tu propósito sin tenerlo todo claro", carpeta: Libro19_El_dia_que_deje_de_esperar, portada: PUBLICAR_El_dia_que_deje_de_esperar_PORTADA_EBOOK.jpg, bloque: El rumbo, para_que: "Propósito sin tenerlo todo claro.", asin_ebook: null, asin_papel: null}
+      - {numero: 20, slug: empezar-de-nuevo, titulo: "Empezar de nuevo", subtitulo: "Reinventarte cuando tu vida ya no encaja", carpeta: Libro20_Empezar_de_nuevo, portada: PUBLICAR_Empezar_de_nuevo_PORTADA_EBOOK.jpg, bloque: El rumbo, para_que: "Reinventarte cuando la vida ya no encaja.", asin_ebook: null, asin_papel: null}
+      - {numero: 21, slug: cartas-a-mi-yo-del-futuro, titulo: "Cartas a mi yo del futuro", subtitulo: "Un año de reflexión y transformación", carpeta: Libro21_Cartas_a_mi_yo_del_futuro, portada: PUBLICAR_Cartas_a_mi_yo_del_futuro_PORTADA_EBOOK.jpg, bloque: El rumbo, para_que: "Cierra la colección: un año entero de cartas.", asin_ebook: null, asin_papel: null}
   los_mensajeros:
-    activa: false
+    activa: true
     nombre_amazon: Los Mensajeros
     carpeta: "2. Los mensajeros"
     tipo: ordenada
-    frase: "Ni burla ni adhesión."
-    libros: []
+    frase: "Ninguno vino a fundar una religión. Todos vinieron a decir algo."
+    promesa: "Las vidas de las grandes figuras espirituales contadas como novelas: narrativa pura, histórica y sensorial. Una vida, una novela."
+    enemigo: "El catecismo, la hagiografía y poner una fe por encima de las demás."
+    descripcion_corta: >
+      Las vidas de las grandes figuras espirituales de la humanidad, de Krishna a Bahá'u'lláh, de Moisés a
+      Buda, de Lao Tsé a Jesús, contadas como grandes novelas. Once vidas, once libros, un mismo hilo
+      secreto. Respetuosa con todas las tradiciones y sin poner ninguna por encima de otra.
+    nota_enfoque: >
+      Estas novelas son ficción histórica de base documental: recrean escenas, diálogos y vida interior
+      que ninguna fuente registra, y por eso son novelas y no biografías. Se escriben con respeto por las
+      tradiciones vivas de cada figura, sin ánimo proselitista y sin jerarquizar creencias. Las cubiertas
+      no representan rostros.
+    palabras_clave: [novela histórica espiritual, vidas de los profetas, historia de las religiones, biografía novelada espiritual, saga novela religiones, espiritualidad universal]
+    bloques:
+      - {nombre: Los antiguos, libros: [1, 2, 3], que: "Krishna, Zaratustra, Moisés."}
+      - {nombre: Los maestros, libros: [4, 5, 6], que: "Buda, Lao Tsé, Confucio."}
+      - {nombre: Los profetas, libros: [7, 8, 9], que: "Jesús, Muhammad, Guru Nanak."}
+      - {nombre: Los modernos, libros: [10, 11], que: "El Báb, Bahá'u'lláh."}
+    itinerarios:
+      - {nombre: "Empieza por lo que ya conoces", libros: [7, 4, 3]}
+      - {nombre: "Cronológico puro", libros: [1, 2, 3]}
+      - {nombre: "Lo que no me habían contado", libros: [9, 10, 11]}
+    faq:
+      - {p: "¿Son biografías o novelas?", r: "Novelas. Ficción histórica de base documental: recrean escenas, diálogos y vida interior que ninguna fuente registra. Por eso son novelas y no biografías."}
+      - {p: "¿Hay que leerlas en orden?", r: "No. El orden es cronológico, pero cada novela es autoconclusiva y ninguna da por supuesto que hayas leído las otras. Muchos lectores entran por Jesús o por Buda."}
+      - {p: "¿Defienden alguna religión?", r: "Ninguna. La serie no pone una tradición por encima de otra y no tiene ánimo proselitista. Quien busque la confirmación de que su fe es la verdadera saldrá decepcionado, y ese es el propósito."}
+      - {p: "¿Por qué las cubiertas no tienen rostros?", r: "Por deferencia a las tradiciones que no admiten representar a sus figuras. Es una cuestión de respeto, no de estilo."}
+    libros:
+      - {numero: 1, slug: krishna, titulo: "Krishna", subtitulo: "El auriga de Dios", carpeta: Libro1_Krishna, portada: PUBLICAR_Krishna_PORTADA_EBOOK.jpg, bloque: Los antiguos, para_que: "India védica. Un pastor que se hizo auriga de un dios.", asin_ebook: null, asin_papel: null}
+      - {numero: 2, slug: zaratustra, titulo: "Zaratustra", subtitulo: "El profeta del fuego", carpeta: Libro2_Zaratustra, portada: PUBLICAR_Zaratustra_PORTADA_EBOOK.jpg, bloque: Los antiguos, para_que: "Persia antigua.", asin_ebook: null, asin_papel: null}
+      - {numero: 3, slug: moises, titulo: "Moisés", subtitulo: "El que habló con el fuego", carpeta: Libro3_Moises, portada: PUBLICAR_Moises_PORTADA_EBOOK.jpg, bloque: Los antiguos, para_que: "Egipto y Sinaí.", asin_ebook: null, asin_papel: null}
+      - {numero: 4, slug: buda, titulo: "Buda", subtitulo: "El príncipe que despertó", carpeta: Libro4_Buda, portada: PUBLICAR_Buda_PORTADA_EBOOK.jpg, bloque: Los maestros, para_que: "India. Un príncipe que lo dejó todo para despertar.", asin_ebook: null, asin_papel: null}
+      - {numero: 5, slug: lao-tse, titulo: "Lao Tsé", subtitulo: "El anciano del camino", carpeta: Libro5_LaoTse, portada: PUBLICAR_LaoTse_PORTADA_EBOOK.jpg, bloque: Los maestros, para_que: "China. Un anciano que escribió su sabiduría y desapareció en la niebla.", asin_ebook: null, asin_papel: null}
+      - {numero: 6, slug: confucio, titulo: "Confucio", subtitulo: "El maestro bajo el cielo", carpeta: Libro6_Confucio, portada: PUBLICAR_Confucio_PORTADA_EBOOK.jpg, bloque: Los maestros, para_que: "China. Un maestro rechazado que acabó enseñando a media humanidad.", asin_ebook: null, asin_papel: null}
+      - {numero: 7, slug: jesus, titulo: "Jesús", subtitulo: "El maestro de Galilea", carpeta: Libro7_Jesus, portada: PUBLICAR_Jesus_PORTADA_EBOOK.jpg, bloque: Los profetas, para_que: "Judea romana. Una de las dos puertas de entrada de la serie.", asin_ebook: null, asin_papel: null}
+      - {numero: 8, slug: muhammad, titulo: "Muhammad", subtitulo: "El mensajero", carpeta: Libro8_Muhammad, portada: PUBLICAR_Muhammad_PORTADA_EBOOK.jpg, bloque: Los profetas, para_que: "Arabia.", asin_ebook: null, asin_papel: null}
+      - {numero: 9, slug: guru-nanak, titulo: "Guru Nanak", subtitulo: "Ni hindú ni musulmán", carpeta: Libro9_GuruNanak, portada: PUBLICAR_GuruNanak_PORTADA_EBOOK.jpg, bloque: Los profetas, para_que: "Punjab. Lo que no te habían contado.", asin_ebook: null, asin_papel: null}
+      - {numero: 10, slug: el-bab, titulo: "El Báb", subtitulo: "La Puerta", carpeta: Libro10_ElBab, portada: PUBLICAR_ElBab_PORTADA_EBOOK.jpg, bloque: Los modernos, para_que: "Persia, siglo XIX.", asin_ebook: null, asin_papel: null}
+      - {numero: 11, slug: bahaullah, titulo: "Bahá'u'lláh", subtitulo: "El prisionero de Aká", carpeta: Libro11_Bahaullah, portada: PUBLICAR_Bahaullah_PORTADA_EBOOK.jpg, bloque: Los modernos, para_que: "Persia y Palestina, siglo XIX. Cierra la serie.", asin_ebook: null, asin_papel: null}

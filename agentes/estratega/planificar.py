@@ -100,7 +100,7 @@ def fechas_proximas(lunes: date, dias: int = 21) -> list[dict[str, Any]]:
     return salida
 
 
-def contexto(con: sqlite3.Connection, sello: Sello, serie_id: str, lunes: date) -> dict[str, Any]:
+def contexto(con: sqlite3.Connection, sello: Sello, lunes: date) -> dict[str, Any]:
     plan_cfg = sello.datos.get("plan", {})
     semana = plan_cfg.get("semana", {})
     dias = []
@@ -108,7 +108,14 @@ def contexto(con: sqlite3.Connection, sello: Sello, serie_id: str, lunes: date) 
         f = lunes + timedelta(days=i)
         dias.append({"fecha": f.isoformat(), "dia": ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"][i],
                      "formatos": semana.get(i, [])})
-    libros = [dict(r) for r in db.uso_por_libro(con, serie_id)]
+    series = []
+    libros = []
+    for s in sello.series_activas():
+        d = s.datos
+        series.append({"id": s.id, "nombre": s.nombre_amazon, "frase": s.frase, "promesa": d.get("promesa", ""),
+                       "tipo": "novela" if s.id == "los_mensajeros" else "no ficción", "libros": len(s.libros),
+                       "puerta_de_entrada": min(s.libros, key=lambda l: l.numero).slug if s.libros else None})
+        libros += [{**dict(r), "serie": s.id} for r in db.uso_por_libro(con, s.id)]
     recientes = [{"fecha": r["publicado_en"][:10], "libro": r["libro_titulo"], "formato": r["formato"], "canal": r["canal"]}
                  for r in db.publicaciones_recientes(con, 14)]
     metricas = [{"libro": m["libro_titulo"], "formato": m["formato"], "canal": m["canal"], "alcance": m["alcance"] or m["impresiones"],
@@ -116,8 +123,9 @@ def contexto(con: sqlite3.Connection, sello: Sello, serie_id: str, lunes: date) 
                 for m in db.ultimas_metricas(con, 30)][:30]
     gratis = json.loads(db.kv_get(con, "bibliotecario:promos") or "[]")
     gratis = [g for g in gratis if lunes.isoformat() <= g["inicio"] <= (lunes + timedelta(days=14)).isoformat()]
-    return {"semana_del": lunes.isoformat(), "dias": dias, "libros": libros, "publicaciones_ultimos_14_dias": recientes,
-            "metricas_recientes": metricas, "fechas_senaladas": fechas_proximas(lunes), "libros_gratis_programados": gratis}
+    return {"semana_del": lunes.isoformat(), "dias": dias, "series": series, "libros": libros,
+            "publicaciones_ultimos_14_dias": recientes, "metricas_recientes": metricas,
+            "fechas_senaladas": fechas_proximas(lunes), "libros_gratis_programados": gratis}
 
 
 def construir_sistema(sello: Sello) -> str:
@@ -125,10 +133,12 @@ def construir_sistema(sello: Sello) -> str:
         sello_nombre=sello.nombre, sello_voz=sello.datos["sello"].get("voz", "").strip())
 
 
-def validar_plan(plan: dict[str, Any], sello: Sello, serie_id: str, lunes: date) -> dict[str, Any]:
-    """Recorta a lo que el sistema puede ejecutar: fechas de la semana, slugs reales, formatos de la plantilla."""
-    serie = sello.series[serie_id]
-    slugs = {l.slug for l in serie.libros}
+def validar_plan(plan: dict[str, Any], sello: Sello, lunes: date, serie_id: str | None = None) -> dict[str, Any]:
+    """Recorta a lo que el sistema puede ejecutar: fechas de la semana, slugs reales (de cualquier serie activa),
+    formatos de la plantilla. Cada pieza queda con su `serie` deducida del slug."""
+    series = [sello.series[serie_id]] if serie_id else sello.series_activas()
+    serie_de: dict[str, str] = {l.slug: s.id for s in series for l in s.libros}
+    slugs = set(serie_de)
     semana = sello.datos.get("plan", {}).get("semana", {})
     dias_ok = []
     for i in range(7):
@@ -141,7 +151,7 @@ def validar_plan(plan: dict[str, Any], sello: Sello, serie_id: str, lunes: date)
             for p in d.get("piezas", []):
                 if p.get("libro_slug") not in slugs or p.get("formato") not in FORMATOS:
                     continue
-                piezas.append({**p, "serie": serie_id})
+                piezas.append({**p, "serie": serie_de[p["libro_slug"]]})
         # el número de piezas y los formatos los fija la plantilla; el Estratega aporta libro y ángulo
         ajustadas = []
         for k, fmt in enumerate(formatos_dia):
@@ -160,17 +170,17 @@ def generar_plan(con: sqlite3.Connection, sello: Sello, ia: ClienteIA, lunes: da
     if not rehacer and db.kv_get(con, clave_plan(lunes)):
         print(f"  = ya hay plan para la semana del {lunes}; usa --rehacer para sustituirlo")
         return json.loads(db.kv_get(con, clave_plan(lunes)) or "{}")
-    series = sello.series_activas()
-    if not series:
+    if not sello.series_activas():
         return None
-    serie = series[0]  # Fase 2: una serie activa; con varias, el Estratega recibirá todas en Fase 3
-    ctx = contexto(con, sello, serie.id, lunes)
+    ctx = contexto(con, sello, lunes)
     usuario = ("Planifica la semana con estos datos. Los `formatos` de cada día son la plantilla que hay que respetar "
-               "(una pieza por formato, en ese orden).\n\n" + json.dumps(ctx, ensure_ascii=False, indent=1))
+               "(una pieza por formato, en ese orden). Hay varias series: repártelas a lo largo de la semana "
+               "(cada serie al menos dos veces; ningún día con las dos piezas de la misma serie salvo motivo) y elige "
+               "el libro por su `slug`.\n\n" + json.dumps(ctx, ensure_ascii=False, indent=1))
     crudo = ia.json(construir_sistema(sello), usuario, ESQUEMA, max_tokens=6000)
     if crudo is None:
         return None
-    plan = validar_plan(crudo, sello, serie.id, lunes)
+    plan = validar_plan(crudo, sello, lunes)
     db.kv_set(con, clave_plan(lunes), json.dumps(plan, ensure_ascii=False))
     n = sum(len(d["piezas"]) for d in plan["dias"])
     print(f"  ✓ plan de la semana del {lunes}: {n} piezas")

@@ -26,6 +26,11 @@ def entorno(tmp_path: Path, monkeypatch):
     sello.datos["publicacion"]["aprobacion"] = "manual"   # los tests base usan el flujo manual
     sello.datos["plan"]["arranque"] = []                   # sin piezas institucionales salvo que el test las pida
     sello.datos["plan"]["institucional_cada_dias"] = 0
+    from dataclasses import replace
+
+    for sid in list(sello.series):                          # los tests trabajan solo con Mente distinta
+        if sid != "mente_distinta":
+            sello.series[sid] = replace(sello.series[sid], activa=False)
     con = db.conectar(tmp_path / "t.sqlite")
     serie = sello.series["mente_distinta"]
     for lib in serie.libros[:3]:
