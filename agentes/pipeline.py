@@ -213,6 +213,23 @@ def diario(ruta_db: Path, sello_id: str) -> int:
         coste = redactor.coste_usd() + guardian.coste_usd()
         print(f"  {redactor.resumen()}\n  {guardian.resumen()}")
 
+    # Artículo semanal del blog (jueves): se escribe desde los átomos del libro menos cubierto y sale con la web.
+    dia_articulo = int(sello.datos.get("plan", {}).get("dia_articulo_blog", 3))
+    hoy_local = date.today()
+    if _hay_api() and hoy_local.weekday() == dia_articulo and not db.kv_get(con, f"articulo:{hoy_local.isoformat()}"):
+        _paso("Artículo del blog")
+        try:
+            from agentes.redactor.articulos import escribir_articulo, libros_menos_cubiertos
+
+            ia_art = cliente_para(sello, "redactor")
+            slug = libros_menos_cubiertos(con, sello.series_activas()[0].id)[0]
+            ruta = escribir_articulo(con, sello, ia_art, slug)
+            db.kv_set(con, f"articulo:{hoy_local.isoformat()}", str(ruta) if ruta else "fallo")
+            coste += ia_art.coste_usd()
+            detalle["articulo"] = str(ruta.name) if ruta else None
+        except Exception as e:  # noqa: BLE001
+            print(f"  ! {e}")
+
     _paso("Producir imágenes")
     try:
         from agentes.disenador.render import producir_pendientes

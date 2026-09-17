@@ -1,40 +1,91 @@
 {% extends "base.html" %}
-{% set descripcion = sello.tagline ~ " Libros de " ~ sello.nombre ~ ": series ordenadas, sin promesas." %}
+{% set descripcion = sobre.entrada | replace("\n", " ") | trim %}
 {% block contenido %}
+{% set primera = series[0] %}
+{% set libro1 = primera.libros | min(attribute='numero') %}
 <section class="portada-sello">
-  <div class="estrecho">
-    <p class="sobre">Libros de {{ sello.nombre }}</p>
-    <h1>{{ sello.tagline }}</h1>
-    <p class="entrada">Series cerradas, ordenadas y escritas con una regla que no se rompe: aquí no se diagnostica, no se predice y no se promete nada. Cada serie tiene una puerta de entrada clara y un mapa de lectura para seguir por donde te toque.</p>
+  <div class="estrecho hero">
+    <div class="hero-texto">
+      <p class="sobre">Libros de {{ sello.nombre }}</p>
+      <h1>{{ sello.tagline }}</h1>
+      <p class="entrada">{{ sobre.entrada }}</p>
+      <p class="acciones">
+        <a class="boton" href="{{ u('libros/' ~ libro1.slug ~ '/') }}">Empieza por el Libro 1</a>
+        <a class="boton suave-claro" href="{{ u('sobre/') }}">Qué escribe Kai Zen</a>
+      </p>
+    </div>
+    <div class="hero-portadas">
+      {% for lib in primera.libros[:6] %}<a href="{{ u('libros/' ~ lib.slug ~ '/') }}">{% if portada(lib) %}<img src="{{ portada(lib) }}" alt="Portada de {{ lib.titulo }}">{% endif %}</a>{% endfor %}
+    </div>
   </div>
 </section>
 
-<section class="estrecho">
-  {% for s in series %}
-  <article class="tarjeta-serie serie-{{ serie_slug(s) }}">
-    <div class="tarjeta-serie__texto">
+<section class="estrecho tres">
+  <div><h3>No diagnostica</h3><p>Reconocerse en una descripción no es un diagnóstico. Ningún libro contiene un test.</p></div>
+  <div><h3>No predice</h3><p>Ni fechas, ni «te espera un gran cambio». Lenguajes simbólicos explicados con rigor, cuando toca.</p></div>
+  <div><h3>No promete</h3><p>Se dice de qué trata el libro, nunca qué le va a hacer a quien lo lea. Sistemas, no fuerza de voluntad.</p></div>
+</section>
+
+{% for s in series %}
+<section class="estrecho bloque-serie serie-{{ serie_slug(s) }}">
+  <div class="bloque-serie__cab">
+    <div>
+      <p class="sobre">Serie · {{ s.libros | length }} libros</p>
       <h2><a href="{{ u('series/' ~ serie_slug(s) ~ '/') }}">{{ s.nombre_amazon }}</a></h2>
       <p class="frase">«{{ s.frase }}»</p>
       <p>{{ s.datos.descripcion_corta }}</p>
-      <p class="meta">{{ s.libros | length }} libros · <a href="{{ u('series/' ~ serie_slug(s) ~ '/') }}">Ver el mapa de lectura</a></p>
     </div>
-    <div class="fila-portadas">
-      {% for lib in s.libros[:6] %}
-        <a href="{{ u('libros/' ~ lib.slug ~ '/') }}" title="{{ lib.titulo }}">
-          {% if portada(lib) %}<img src="{{ portada(lib) }}" alt="Portada de {{ lib.titulo }}" loading="lazy">{% else %}<span class="portada-vacia">{{ lib.numero }}</span>{% endif %}
-        </a>
+  </div>
+  {% if s.datos.itinerarios %}
+  <div class="empieza-aqui">
+    <p class="sobre">¿Por dónde entro?</p>
+    <ul class="itinerarios-grid">
+      {% for it in s.datos.itinerarios %}{% set l0 = s.libro(it.libros[0]) %}
+      <li><a href="{{ u('libros/' ~ l0.slug ~ '/') }}"><strong>«{{ it.nombre }}»</strong><span>Empieza por {{ l0.numero }}. {{ l0.titulo }}</span></a></li>
       {% endfor %}
-    </div>
-  </article>
-  {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+  <div class="fila-portadas doce">
+    {% for lib in s.libros %}
+      <a href="{{ u('libros/' ~ lib.slug ~ '/') }}" title="{{ lib.titulo }}">
+        {% if portada(lib) %}<img src="{{ portada(lib) }}" alt="Portada de {{ lib.titulo }}" loading="lazy">{% else %}<span class="portada-vacia">{{ lib.numero }}</span>{% endif %}
+      </a>
+    {% endfor %}
+  </div>
+  <p class="meta"><a href="{{ u('series/' ~ serie_slug(s) ~ '/') }}">Mapa de lectura completo →</a></p>
 </section>
+{% endfor %}
 
-{% if hay_blog %}
+{% if otras_series %}
 <section class="estrecho">
-  <h2>Últimos artículos</h2>
-  <ul class="lista-posts">
-    {% for p in posts[:5] %}<li><a href="{{ u(p.ruta) }}">{{ p.titulo }}</a> <time datetime="{{ p.fecha }}">{{ p.fecha.strftime('%d/%m/%Y') }}</time></li>{% endfor %}
+  <h2>Otras series del sello, en preparación</h2>
+  <ul class="otras-series">
+    {% for o in otras_series %}<li><strong>{{ o.nombre_amazon }}</strong>{% if o.frase %} <span class="frase-peq">«{{ o.frase }}»</span>{% endif %}</li>{% endfor %}
   </ul>
+</section>
+{% endif %}
+
+{% if hay_blog or hay_podcast %}
+<section class="estrecho dos-col">
+  {% if hay_blog %}
+  <div>
+    <h2>Del blog</h2>
+    <ul class="lista-posts">
+      {% for p in posts[:4] %}<li><a href="{{ u(p.ruta) }}">{{ p.titulo }}</a><br><span class="peq">{{ p.resumen }}</span></li>{% endfor %}
+    </ul>
+    <p class="meta"><a href="{{ u('blog/') }}">Todos los artículos →</a></p>
+  </div>
+  {% endif %}
+  {% if hay_podcast %}
+  <div>
+    <h2>{{ podcast.titulo }}</h2>
+    {% for e in episodios[:2] %}
+    <p><strong>{{ e.titulo }}</strong><br><audio controls preload="none" src="{{ e.mp3 }}"></audio></p>
+    {% endfor %}
+    <p class="meta"><a href="{{ u('podcast/') }}">Todos los episodios →</a></p>
+  </div>
+  {% endif %}
 </section>
 {% endif %}
 {% endblock %}

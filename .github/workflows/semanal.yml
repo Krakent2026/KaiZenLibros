@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # para lanzar el despliegue de la web tras subir piezas o artículos
 
 concurrency:
   group: pipeline
@@ -43,3 +44,10 @@ jobs:
           git config user.email "agentes-bot@users.noreply.github.com"
           git add datos/*.sqlite
           if git diff --staged --quiet; then echo "Sin cambios"; else git commit -m "datos: ciclo semanal $(date -u +%F)" && git pull --rebase && git push; fi
+      - name: Desplegar la web si hubo cambios
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Los push hechos con GITHUB_TOKEN no disparan otros workflows: se lanza el de la web a mano.
+          if [ "$(git rev-parse HEAD)" != "${{ github.sha }}" ]; then gh workflow run "Web del sello" --ref main && echo "web: despliegue lanzado"; else echo "web: sin cambios"; fi

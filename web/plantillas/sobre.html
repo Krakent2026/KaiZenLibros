@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% set descripcion = sobre.entrada | replace("\n", " ") | trim %}
+{% block contenido %}
+<section class="portada-serie">
+  <div class="estrecho">
+    <p class="sobre">Sobre {{ sello.nombre }}</p>
+    <h1>Qué escribimos, para quién y con qué regla</h1>
+    <p class="entrada">{{ sobre.entrada }}</p>
+  </div>
+</section>
+<section class="estrecho manifiesto">
+  {% for sec in sobre.secciones %}
+  <div class="manifiesto__bloque">
+    <h2>{{ sec.titulo }}</h2>
+    <p>{{ sec.texto }}</p>
+  </div>
+  {% endfor %}
+</section>
+<section class="estrecho">
+  <h2>Las series</h2>
+  <ul class="otras-series">
+    {% for s in series %}<li><strong><a href="{{ u('series/' ~ serie_slug(s) ~ '/') }}">{{ s.nombre_amazon }}</a></strong> · {{ s.libros | length }} libros <span class="frase-peq">«{{ s.frase }}»</span></li>{% endfor %}
+    {% for o in otras_series %}<li><strong>{{ o.nombre_amazon }}</strong> · en preparación{% if o.frase %} <span class="frase-peq">«{{ o.frase }}»</span>{% endif %}</li>{% endfor %}
+  </ul>
+</section>
+{% endblock %}

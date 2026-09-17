@@ -15,6 +15,59 @@ sello:
     Nada clínico ni infantilizador. Sin urgencia falsa y sin promesas: se dice de qué
     trata el libro, nunca qué le hará al lector. Kai Zen es una voz de sello, no una
     persona con anécdotas: nunca se inventan vivencias personales.
+  # Enlaces públicos que muestra la web (cabecera y pie). Vacío = no se muestra.
+  redes:
+    instagram: "https://www.instagram.com/zenkai555/"
+    telegram: "https://t.me/+0OdDz82oSL02YmRk"
+    bluesky: ""
+    threads: ""
+    pinterest: ""
+    amazon: ""
+  # Página «Sobre Kai Zen». Manifiesto del sello: sin biografía de persona, con método.
+  sobre:
+    entrada: >
+      Kai Zen es un sello editorial independiente. Publica series de libros de divulgación y
+      acompañamiento, escritas con una regla que no se rompe en ninguna página: aquí no se
+      diagnostica, no se predice y no se promete nada.
+    secciones:
+      - titulo: Qué escribimos
+        texto: >
+          Libros para entender cómo funciona la cabeza cuando no funciona como la de la mayoría, y qué
+          hacer con eso un martes cualquiera. La primera serie, «Mente distinta», habla del TDAH adulto,
+          de la alta sensibilidad y del autismo detectado tarde. Las siguientes, en preparación, recorren
+          la numerología con rigor histórico, la espiritualidad sin doctrina, el crecimiento personal sin
+          épica y las vidas de quienes cambiaron la forma de creer.
+      - titulo: Para quién
+        texto: >
+          Para quien lleva años oyendo que le falta voluntad, disciplina o ganas, y sospecha que la
+          explicación es otra. Para quien convive con alguien así. Y para quien desconfía, con razón,
+          de la autoayuda que promete resultados en tres semanas.
+      - titulo: La regla
+        texto: >
+          Ningún libro diagnostica a nadie: reconocerse en una descripción no es un diagnóstico, y eso lo
+          hace un profesional. Ningún libro predice nada. Ningún libro promete un resultado: se dice de
+          qué trata, no qué le va a hacer a quien lo lea. Cuando el libro no puede sostener una cifra con
+          seguridad, no la da.
+      - titulo: Cómo están hechas las series
+        texto: >
+          Cerradas, ordenadas y con una puerta de entrada clara. El Libro 1 explica qué es esto por
+          dentro; los demás remiten a él y cada uno es dueño de un tema, sin repetir lo que cuentan los
+          otros. Cada capítulo termina con un paso concreto. Y todas las herramientas pasan la misma
+          prueba: tienen que funcionar un día malo, con pocos pasos y sin mantenimiento diario.
+      - titulo: Lo que no vas a encontrar
+        texto: >
+          Tests. Cifras que no se pueden sostener. La palabra «don» o «superpoder» aplicada a una forma
+          de procesar el mundo. Urgencia falsa. Testimonios. Promesas.
+      - titulo: Quién firma
+        texto: >
+          Los libros se firman con el nombre del sello, no con el de una persona. Lo que importa es el
+          método y las reglas con que están escritos, no la biografía de quien teclea. Si algo en estas
+          páginas te hace sentir acompañado, ese es el único mérito que reclamamos.
+      - titulo: Cómo leernos
+        texto: >
+          Empieza por el Libro 1 de la serie que te toque. Si prefieres una idea cada vez, el canal de
+          Telegram publica cada día un fragmento de un libro y el pódcast lee uno en voz alta cada
+          semana. El boletín, cuando exista, llegará los viernes.
 
 ia:
   # Modelos por agente. Cambiar aquí, no en el código.
@@ -229,6 +282,21 @@ series:
       - {nombre: "No me organizo", libros: [1, 3, 4, 5]}
       - {nombre: "Lo llevo mal por dentro", libros: [6, 7, 8]}
       - {nombre: "El problema está fuera", libros: [9, 10, 12]}
+    faq:
+      - p: "¿Por dónde empiezo?"
+        r: "Por el Libro 1, «No es pereza». Explica qué es esto por dentro y por qué la fuerza de voluntad nunca fue el problema. Los otros once remiten a él."
+      - p: "¿Puedo leer solo uno?"
+        r: "Sí. Cada libro es dueño de un tema y lo trata a fondo sin repetir lo que cuentan los otros. Cuando toca otro tema, remite al libro que lo desarrolla."
+      - p: "¿Estos libros me dicen si tengo TDAH?"
+        r: "No. Ningún libro de la serie contiene un test ni diagnostica a nadie. Reconocerse en una descripción es motivo para hacerse preguntas y, si procede, buscar una evaluación profesional; el diagnóstico lo hace alguien formado para eso."
+      - p: "¿Es para mí si no tengo diagnóstico?"
+        r: "La serie está escrita para adultos que procesan el mundo de otra manera, con diagnóstico, tardío o sin él. No hace falta una etiqueta para que un sistema te sirva."
+      - p: "¿Hablan de medicación?"
+        r: "El Libro 1 explica qué esperar de una evaluación de adulto y qué hay para tratar el TDAH, incluida la medicación, contado con neutralidad: sin venderla y sin demonizarla."
+      - p: "¿Y si quien procesa distinto es mi hijo?"
+        r: "El Libro 12, «Criar mentes distintas», cierra la colección y está escrito para eso. Lo dice en la primera página: cae entero sobre un menor que no ha elegido nada de esto."
+      - p: "¿Hay ejercicios?"
+        r: "Cada capítulo termina con «Un paso hoy»: una práctica concreta, con pocos pasos, pensada para funcionar también un día malo."
     libros:
       - {numero: 1, slug: no-es-pereza, titulo: "No es pereza", subtitulo: "TDAH adulto: por qué no es falta de voluntad", carpeta: Libro1_No_es_pereza, portada: PUBLICAR_NoEsPereza_PORTADA_EBOOK.jpg, bloque: Entender, para_que: "Empieza aquí. Qué es esto por dentro.", asin_ebook: null, asin_papel: null}
       - {numero: 2, slug: tu-cerebro-no-esta-roto, titulo: "Tu cerebro no está roto", subtitulo: "Del déficit a la diferencia", carpeta: Libro2_Tu_cerebro_no_esta_roto, portada: PUBLICAR_CerebroNoRoto_PORTADA_EBOOK.jpg, bloque: Entender, para_que: "La identidad y la vergüenza acumulada.", asin_ebook: null, asin_papel: null}

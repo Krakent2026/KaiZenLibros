@@ -124,7 +124,10 @@ class Generador:
         self.ruta_podcast = sello.datos.get("podcast", {}).get("ruta_web", "static/podcast").strip("/")
         ruta_eps = DIR_WEB / self.ruta_podcast / "episodios.json"
         self.episodios = json.loads(ruta_eps.read_text(encoding="utf-8")) if ruta_eps.exists() else []
+        s = sello.datos["sello"]
         self.env.globals.update(
+            redes={k: v for k, v in (s.get("redes") or {}).items() if v}, sobre=s.get("sobre", {"entrada": "", "secciones": []}),
+            otras_series=[x for x in sello.series.values() if not x.activa], sitio=self.sitio_absoluto(),
             u=self.u, sello=sello.datos["sello"], series=sello.series_activas(), posts=self.posts,
             hay_blog=bool(self.posts), hay_podcast=bool(self.episodios), podcast=sello.datos.get("podcast", {}),
             episodios=self.episodios, ruta_podcast=self.ruta_podcast,
@@ -176,6 +179,7 @@ class Generador:
         (self.salida / "static" / "variables.css").write_text(self.css_variables(), encoding="utf-8")
 
         self.escribir("index.html", "index.html", titulo=self.sello.nombre)
+        self.escribir("sobre/index.html", "sobre.html", titulo=f"Sobre {self.sello.nombre}")
         self.escribir("enlaces/index.html", "enlaces.html", titulo=f"Enlaces · {self.sello.nombre}")
         self.escribir("404.html", "404.html", titulo="Página no encontrada")
         for s in self.sello.series_activas():

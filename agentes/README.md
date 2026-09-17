@@ -17,7 +17,9 @@
 | A5 Locutor | 2 | **Hecho.** Edge TTS (gratuito) → MP3 24 kHz; feed RSS con etiquetas iTunes; página web del pódcast. Vídeo para Shorts: Fase 3 | `agentes/locutor/` |
 | A9 Analista | 2 | **Hecho.** Métricas por API (Instagram, Pinterest, Bluesky, Threads), seguidores, importación de CSV de KDP, informe semanal (Markdown + resumen a Telegram) | `agentes/analista/` |
 | A10 Bibliotecario | 2 | **Hecho.** Calendario rotatorio de días gratis (KDP Select), recordatorios con antelación, caducidad de tokens, ASIN pendientes, fechas señaladas, sugerencias del Estratega | `agentes/bibliotecario/` |
-| Pipeline | 1-2 | **Hecho.** `diario` (incluye audio y métricas), `aprobaciones`, `semanal` (Bibliotecario → Analista → Estratega → resumen a Telegram) | `agentes/pipeline.py` |
+| Pipeline | 1-2 | **Hecho.** `diario` (incluye audio, artículo del blog los jueves y métricas), `aprobaciones`, `semanal` (Bibliotecario → Analista → Estratega → resumen a Telegram), `encargar` | `agentes/pipeline.py` |
+| Redactor de artículos | 2 | **Hecho.** Átomos de un libro → artículo Markdown de 900-1300 palabras; las citas «…» se verifican contra el manuscrito; vocabulario vetado; cabecera para la web | `agentes/redactor/articulos.py` |
+| Piezas institucionales | 2 | **Hecho.** Formatos `sello` y `serie` sin átomo, plan de arranque y cadencia; diapositiva final con la colección | `agentes/planificador.py` |
 | Publicador · Facebook, YouTube | 3 | Pendiente (YouTube exige verificación OAuth; Facebook, página y token de página) | — |
 | A8 Escucha | 3 | Pendiente. Menciones y borradores de respuesta para el humano | `agentes/escucha/` |
 | Guardián de cupos | 3 | Pendiente. Cupo mensual de X y de la API de Instagram | — |

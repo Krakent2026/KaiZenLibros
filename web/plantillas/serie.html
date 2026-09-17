@@ -54,6 +54,15 @@
 </section>
 {% endif %}
 
+{% if serie.datos.faq %}
+<section class="estrecho faq">
+  <h2>Preguntas frecuentes</h2>
+  {% for f in serie.datos.faq %}
+  <details><summary>{{ f.p }}</summary><p>{{ f.r }}</p></details>
+  {% endfor %}
+</section>
+{% endif %}
+
 {% if posts_serie %}
 <section class="estrecho">
   <h2>Artículos de esta serie</h2>
