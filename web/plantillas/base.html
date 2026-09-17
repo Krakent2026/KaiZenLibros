@@ -9,6 +9,7 @@
 {% if descripcion %}<meta property="og:description" content="{{ descripcion }}">{% endif %}
 <meta property="og:type" content="website">
 <meta property="og:image" content="{{ sitio }}static/podcast/portada.jpg">
+<link rel="preload" href="{{ u('static/fuentes/Lora.woff2') }}" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{{ u('static/variables.css') }}">
 <link rel="stylesheet" href="{{ u('static/estilo.css') }}">
 {% if hay_podcast %}<link rel="alternate" type="application/rss+xml" title="{{ podcast.titulo }}" href="{{ u(ruta_podcast ~ '/feed.xml') }}">{% endif %}
@@ -56,6 +57,7 @@
   </div>
 </section>
 <footer class="pie">
+  <div class="pie-hilo" aria-hidden="true"></div>
   <div class="pie-grid">
     <div>
       <p class="marca-pie">{{ sello.nombre }}</p>

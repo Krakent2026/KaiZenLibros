@@ -22,3 +22,7 @@ worker_enlaces/node_modules/
 worker_enlaces/.wrangler/
 datos/kdp/*.csv
 datos/fuentes_derivadas/
+
+# Tipografía Lora autoalojada de la web (OFL); no confundir con datos/fuentes_derivadas
+!web/static/fuentes/
+!web/static/fuentes/**

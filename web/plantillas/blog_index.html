@@ -3,11 +3,11 @@
 <section class="estrecho">
   <p class="sobre">Blog</p>
   <h1>Ideas de los libros, una cada vez</h1>
-  <ul class="lista-posts grande">
+  <ul class="lista-posts grande con-cabecera">
     {% for p in posts %}
     <li>
+      <a href="{{ u(p.ruta) }}">{{ cabecera_post(p) }}<span class="lista-posts__titulo">{{ p.titulo }}</span></a>
       <time datetime="{{ p.fecha }}">{{ p.fecha.strftime('%d/%m/%Y') }}</time>
-      <h2><a href="{{ u(p.ruta) }}">{{ p.titulo }}</a></h2>
       {% if p.resumen %}<p>{{ p.resumen }}</p>{% endif %}
     </li>
     {% endfor %}

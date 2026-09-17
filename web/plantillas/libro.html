@@ -4,7 +4,7 @@
 {% block contenido %}
 <article class="estrecho ficha-libro">
   <div class="ficha-libro__portada">
-    {% if portada(libro) %}<img src="{{ portada(libro) }}" alt="Portada de {{ libro.titulo }}">{% else %}<div class="portada-vacia grande">{{ libro.numero }}</div>{% endif %}
+    {% if portada(libro) %}<div class="tomo"><img src="{{ portada(libro) }}" alt="Portada de {{ libro.titulo }}" width="480" height="768"></div>{% else %}<div class="portada-vacia grande">{{ libro.numero }}</div>{% endif %}
   </div>
   <div class="ficha-libro__texto">
     <p class="sobre"><a href="{{ u('series/' ~ serie_slug(serie) ~ '/') }}">{{ serie.nombre_amazon }}</a> · Libro {{ libro.numero }} · {{ libro.bloque }}</p>
@@ -23,7 +23,7 @@
 </article>
 
 <section class="estrecho">
-  <h2>Dónde encaja en la serie</h2>
+  <div class="con-motivo"><h2>Dónde encaja en la serie</h2>{{ motivo(serie.id, "motivo motivo--peq") }}</div>
   <p>«{{ serie.frase }}» — {{ serie.datos.promesa }}</p>
   <nav class="vecinos">
     {% if anterior %}<a href="{{ u('libros/' ~ anterior.slug ~ '/') }}">← {{ anterior.numero }}. {{ anterior.titulo }}</a>{% else %}<span></span>{% endif %}

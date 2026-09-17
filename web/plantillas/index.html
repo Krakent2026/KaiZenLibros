@@ -6,7 +6,7 @@
 <section class="portada-sello">
   <div class="estrecho hero">
     <div class="hero-texto">
-      <p class="sobre">Libros de {{ sello.nombre }}</p>
+      <p class="sobre">Libros de {{ sello.nombre }} · {{ series | map(attribute='libros') | map('length') | sum }} títulos en {{ series | length }} series</p>
       <h1>{{ sello.tagline }}</h1>
       <p class="entrada">{{ sobre.entrada }}</p>
       <p class="acciones">
@@ -14,8 +14,16 @@
         <a class="boton suave-claro" href="{{ u('sobre/') }}">Qué escribe Kai Zen</a>
       </p>
     </div>
-    <div class="hero-portadas">
-      {% for lib in primera.libros[:6] %}<a href="{{ u('libros/' ~ lib.slug ~ '/') }}">{% if portada(lib) %}<img src="{{ portada(lib) }}" alt="Portada de {{ lib.titulo }}">{% endif %}</a>{% endfor %}
+    <svg class="hilo" viewBox="0 0 600 240" aria-hidden="true" focusable="false">
+      <path class="traza" pathLength="1" d="{{ hilo[0] }}"/>
+      <path class="traza rojo" pathLength="1" d="M420,{{ hilo[1] }} L560,{{ hilo[1] }}"/>
+      <circle class="punto" cx="560" cy="{{ hilo[1] }}" r="4.5"/>
+    </svg>
+  </div>
+  <div class="cinta" aria-label="Portadas de los libros del sello">
+    <div class="cinta__fila">
+      {% for lib in libros_cinta %}<a href="{{ u('libros/' ~ lib.slug ~ '/') }}" title="{{ lib.titulo }}">{% if portada(lib) %}<img src="{{ portada(lib) }}" alt="Portada de {{ lib.titulo }}" width="120" height="192">{% endif %}</a>{% endfor %}
+      {% for lib in libros_cinta %}<a href="{{ u('libros/' ~ lib.slug ~ '/') }}" title="{{ lib.titulo }}" tabindex="-1" aria-hidden="true">{% if portada(lib) %}<img src="{{ portada(lib) }}" alt="" width="120" height="192" loading="lazy">{% endif %}</a>{% endfor %}
     </div>
   </div>
 </section>
@@ -26,6 +34,16 @@
   <div><h3>No promete</h3><p>Se dice de qué trata el libro, nunca qué le va a hacer a quien lo lea. Sistemas, no fuerza de voluntad.</p></div>
 </section>
 
+{% if cita_dia %}
+<section class="estrecho cita-dia">
+  <span class="comillas" aria-hidden="true">“</span>
+  <blockquote>
+    <p>{{ cita_dia.texto }}.</p>
+    <cite>De <a href="{{ u('libros/' ~ cita_dia.slug ~ '/') }}">{{ cita_dia.libro }}</a>. Una cita distinta cada día, todas comprobadas contra el libro.</cite>
+  </blockquote>
+</section>
+{% endif %}
+
 {% for s in series %}
 <section class="estrecho bloque-serie serie-{{ serie_slug(s) }}">
   <div class="bloque-serie__cab">
@@ -35,6 +53,7 @@
       <p class="frase">«{{ s.frase }}»</p>
       <p>{{ s.datos.descripcion_corta }}</p>
     </div>
+    {{ motivo(s.id) }}
   </div>
   {% if s.datos.itinerarios %}
   <div class="empieza-aqui">
@@ -49,7 +68,7 @@
   <div class="fila-portadas doce">
     {% for lib in s.libros %}
       <a href="{{ u('libros/' ~ lib.slug ~ '/') }}" title="{{ lib.titulo }}">
-        {% if portada(lib) %}<img src="{{ portada(lib) }}" alt="Portada de {{ lib.titulo }}" loading="lazy">{% else %}<span class="portada-vacia">{{ lib.numero }}</span>{% endif %}
+        {% if portada(lib) %}<img src="{{ portada(lib) }}" alt="Portada de {{ lib.titulo }}" loading="lazy" width="120" height="192">{% else %}<span class="portada-vacia">{{ lib.numero }}</span>{% endif %}
       </a>
     {% endfor %}
   </div>
@@ -71,8 +90,8 @@
   {% if hay_blog %}
   <div>
     <h2>Del blog</h2>
-    <ul class="lista-posts">
-      {% for p in posts[:4] %}<li><a href="{{ u(p.ruta) }}">{{ p.titulo }}</a><br><span class="peq">{{ p.resumen }}</span></li>{% endfor %}
+    <ul class="lista-posts con-cabecera">
+      {% for p in posts[:3] %}<li><a href="{{ u(p.ruta) }}">{{ cabecera_post(p) }}<span class="lista-posts__titulo">{{ p.titulo }}</span></a><span class="peq">{{ p.resumen }}</span></li>{% endfor %}
     </ul>
     <p class="meta"><a href="{{ u('blog/') }}">Todos los artículos →</a></p>
   </div>
@@ -80,6 +99,7 @@
   {% if hay_podcast %}
   <div>
     <h2>{{ podcast.titulo }}</h2>
+    <div class="onda" aria-hidden="true">{% for i in range(28) %}<i></i>{% endfor %}</div>
     {% for e in episodios[:2] %}
     <p><strong>{{ e.titulo }}</strong><br><audio controls preload="none" src="{{ e.mp3 }}"></audio></p>
     {% endfor %}

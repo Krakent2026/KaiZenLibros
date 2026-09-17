@@ -3,13 +3,16 @@
 {% block clase_body %}serie-{{ serie_slug(serie) }}{% endblock %}
 {% block contenido %}
 <section class="portada-serie">
-  <div class="estrecho">
-    <p class="sobre">Serie · {{ serie.libros | length }} libros · {{ sello.nombre }}</p>
-    <h1>{{ serie.nombre_amazon }}</h1>
-    <p class="frase">«{{ serie.frase }}»</p>
-    <p class="entrada">{{ serie.datos.descripcion_corta }}</p>
-    {% set primero = serie.libros | min(attribute='numero') %}
-    <p><a class="boton" href="{{ enlace_compra(primero) }}" rel="nofollow">Empieza por el Libro 1: {{ primero.titulo }}</a></p>
+  <div class="estrecho hero hero--serie">
+    <div>
+      <p class="sobre">Serie · {{ serie.libros | length }} libros · {{ sello.nombre }}</p>
+      <h1>{{ serie.nombre_amazon }}</h1>
+      <p class="frase">«{{ serie.frase }}»</p>
+      <p class="entrada">{{ serie.datos.descripcion_corta }}</p>
+      {% set primero = serie.libros | min(attribute='numero') %}
+      <p><a class="boton" href="{{ enlace_compra(primero) }}" rel="nofollow">Empieza por el Libro 1: {{ primero.titulo }}</a></p>
+    </div>
+    {{ motivo(serie.id, "motivo motivo--grande dibujar") }}
   </div>
 </section>
 

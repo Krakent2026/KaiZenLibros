@@ -5,6 +5,7 @@
   <div class="estrecho">
     <p class="sobre">Pódcast · {{ sello.nombre }}</p>
     <h1>{{ podcast.titulo }}</h1>
+    <div class="onda" aria-hidden="true">{% for i in range(40) %}<i></i>{% endfor %}</div>
     <p class="entrada">{{ podcast.descripcion }}</p>
     <p class="peq">Suscríbete con el enlace del feed en tu app de pódcast: <a href="{{ u(ruta_podcast ~ '/feed.xml') }}">{{ u(ruta_podcast ~ '/feed.xml') }}</a></p>
   </div>

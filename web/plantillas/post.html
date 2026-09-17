@@ -3,6 +3,7 @@
 {% block clase_body %}{% if post.serie %}serie-{{ post.serie.replace('_', '-') }}{% endif %}{% endblock %}
 {% block contenido %}
 <article class="estrecho articulo">
+  {{ cabecera_post(post) }}
   <p class="sobre"><a href="{{ u('blog/') }}">Blog</a> · <time datetime="{{ post.fecha }}">{{ post.fecha.strftime('%d/%m/%Y') }}</time></p>
   <h1>{{ post.titulo }}</h1>
   {% if post.resumen %}<p class="entrada">{{ post.resumen }}</p>{% endif %}

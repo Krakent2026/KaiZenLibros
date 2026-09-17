@@ -10,9 +10,13 @@ bio de redes), blog, redirecciones /ir/<slug>/ y sitemap.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
+import math
+import random
 import re
 import shutil
+import sqlite3
 from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
@@ -21,8 +25,9 @@ from urllib.parse import quote_plus
 import markdown
 import yaml
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+from markupsafe import Markup
 
-from agentes.config import DIR_CONFIG, RAIZ_REPO, Libro, Sello, Serie, cargar_sello, consola_utf8
+from agentes.config import DB_POR_DEFECTO, DIR_CONFIG, RAIZ_REPO, Libro, Sello, Serie, cargar_sello, consola_utf8
 
 DIR_WEB = RAIZ_REPO / "web"
 DIR_PLANTILLAS = DIR_WEB / "plantillas"
@@ -110,6 +115,82 @@ def limpiar_directorio(ruta: Path, intentos: int = 5) -> None:
                 pass
 
 
+# ---- gráficos de una línea (el lenguaje de las portadas) ------------------------------
+def hilo_path() -> str:
+    """Ovillo que se deshace en una recta: el hilo rojo de las portadas, para la cabecera de inicio (viewBox 600×240)."""
+    pts = []
+    cx, cy = 175, 125
+    for i in range(361):
+        t = i / 360 * 5.6 * math.pi
+        r = 5 + 24 * t / (2 * math.pi)
+        pts.append((cx + 1.15 * r * math.cos(t), cy + 0.95 * r * math.sin(t)))
+    d = f"M{pts[0][0]:.1f},{pts[0][1]:.1f} " + " ".join(f"L{x:.1f},{y:.1f}" for x, y in pts[1:])
+    fx, fy = pts[-1]
+    d += f" C{fx+40:.1f},{fy-30:.1f} {fx+60:.1f},{fy+40:.1f} {fx+110:.1f},{fy-6:.1f}"
+    d += f" C{fx+150:.1f},{fy-40:.1f} {fx+170:.1f},{fy+8:.1f} {fx+210:.1f},{fy-4:.1f} L420,{fy-4:.1f}"
+    return d, f"{fy-4:.1f}"
+
+
+# Un dibujo por serie (viewBox 150×60): trazo principal, trazo rojo, punto final.
+MOTIVOS = {
+    "mente_distinta": ("M4,40 C20,10 30,50 46,30 S70,10 84,32 S110,48 124,28", "M124,28 L146,28", (146, 28)),
+    "crecimiento_personal": ("M4,52 H30 V44 H56 V36 H82 V28 H108 V20 H134", "M134,20 V12", (134, 10)),
+    "los_mensajeros": ("M4,42 H146 M52,42 A23,23 0 0 1 98,42", "", (75, 30)),
+    "numeros_del_alma": ("M10,48 L40,14 L70,48 L100,14 L130,48", "M130,48 L146,48", (146, 48)),
+    "espiritualidad_sin_doctrina": ("M4,30 H100", "M100,30 C115,30 120,20 130,20 S146,30 146,30", (146, 30)),
+}
+
+
+def motivo_svg(serie_id: str, clase: str = "motivo") -> Markup:
+    trazo, rojo, (px, py) = MOTIVOS.get(serie_id, ("M4,30 H124", "M124,30 H146", (146, 30)))
+    rojo_svg = f'<path class="rojo" d="{rojo}"/>' if rojo else ""
+    return Markup(f'<svg class="{clase}" viewBox="0 0 150 60" aria-hidden="true" focusable="false">'
+                  f'<path d="{trazo}"/>{rojo_svg}<circle class="punto" cx="{px}" cy="{py}" r="2.4"/></svg>')
+
+
+def cabecera_svg(semilla: str, fondo: str, trazo: str, acento: str = "#c8553d") -> Markup:
+    """Cabecera de artículo generada a partir del título: siempre la misma para el mismo texto, distinta entre artículos."""
+    rnd = random.Random(int(hashlib.sha1(semilla.encode("utf-8")).hexdigest(), 16))
+    w, h = 800, 200
+    lineas = []
+    for k in range(rnd.randint(2, 3)):
+        y0 = rnd.uniform(60, 150)
+        d = f"M0,{y0:.0f}"
+        x = 0
+        while x < w:
+            paso = rnd.uniform(90, 180)
+            d += f" C{x+paso*0.35:.0f},{rnd.uniform(30,170):.0f} {x+paso*0.65:.0f},{rnd.uniform(30,170):.0f} {x+paso:.0f},{rnd.uniform(50,160):.0f}"
+            x += paso
+        op = 0.95 if k == 0 else rnd.uniform(0.35, 0.6)
+        lineas.append(f'<path d="{d}" opacity="{op:.2f}"/>')
+    px, py = rnd.uniform(480, 720), rnd.uniform(60, 140)
+    return Markup(f'<svg class="cabecera-post" viewBox="0 0 {w} {h}" preserveAspectRatio="xMidYMid slice" aria-hidden="true">'
+                  f'<rect width="{w}" height="{h}" fill="{fondo}"/><g fill="none" stroke="{trazo}" stroke-width="1.4" stroke-linecap="round">'
+                  f'{"".join(lineas)}</g><circle cx="{px:.0f}" cy="{py:.0f}" r="3.2" fill="{acento}"/></svg>')
+
+
+def cita_del_dia(sello: Sello, ruta_db: Path = DB_POR_DEFECTO) -> dict | None:
+    """Una cita literal verificada, elegida por la fecha: cambia cada día sin que nadie la toque."""
+    if not ruta_db.exists():
+        return None
+    activas = {s.id for s in sello.series_activas()}
+    try:
+        con = sqlite3.connect(f"file:{ruta_db}?mode=ro", uri=True)
+        con.row_factory = sqlite3.Row
+        filas = con.execute(
+            """SELECT a.texto, l.titulo, l.slug, l.serie FROM atomos a JOIN libros l ON l.id = a.libro_id
+               WHERE a.tipo = 'cita' AND a.verificado = 1 AND a.es_literal = 1
+                 AND length(a.texto) BETWEEN 50 AND 150 ORDER BY a.id""").fetchall()
+        con.close()
+    except sqlite3.Error:
+        return None
+    filas = [f for f in filas if f["serie"] in activas]
+    if not filas:
+        return None
+    f = filas[date.today().toordinal() % len(filas)]
+    return {"texto": f["texto"].strip().rstrip("."), "libro": f["titulo"], "slug": f["slug"], "serie": f["serie"]}
+
+
 class Generador:
     def __init__(self, sello: Sello, salida: Path, base_url: str):
         self.sello = sello
@@ -134,6 +215,8 @@ class Generador:
             anio=date.today().year, newsletter=sello.datos.get("newsletter", {}),
             canales=sello.datos.get("canales", {}), enlace_compra=self.enlace_compra,
             portada=self.portada, serie_slug=self.serie_slug, paleta=self.paleta_sello,
+            hilo=hilo_path(), motivo=motivo_svg, cabecera_post=self.cabecera_post, cita_dia=cita_del_dia(sello),
+            libros_cinta=[l for s_ in sello.series_activas() for l in sorted(s_.libros, key=lambda x: x.numero)[:8]],
         )
 
     # ---- utilidades de plantilla -------------------------------------------
@@ -145,9 +228,14 @@ class Generador:
         return serie.id.replace("_", "-")
 
     def portada(self, libro: Libro) -> str | None:
-        if (DIR_ESTATICO / "portadas" / f"{libro.slug}.jpg").exists():
-            return self.u(f"static/portadas/{libro.slug}.jpg")
+        for ext in ("webp", "jpg"):
+            if (DIR_ESTATICO / "portadas" / f"{libro.slug}.{ext}").exists():
+                return self.u(f"static/portadas/{libro.slug}.{ext}")
         return None
+
+    def cabecera_post(self, post: "Post") -> Markup:
+        pal = self.paletas.get(post.serie or "", self.paleta_sello)
+        return cabecera_svg(post.titulo, pal["acento"], pal["dominante"])
 
     def enlace_compra(self, libro: Libro, canal: str = "web") -> str:
         if self.enlaces_base:
@@ -174,7 +262,10 @@ class Generador:
         limpiar_directorio(self.salida)
         self.salida.mkdir(parents=True, exist_ok=True)
         if DIR_ESTATICO.exists():
-            shutil.copytree(DIR_ESTATICO, self.salida / "static", dirs_exist_ok=True)
+            # las portadas .jpg solo las usa el Diseñador; la web sirve los .webp
+            def _ignorar(carpeta, nombres):
+                return {n for n in nombres if n.endswith(".jpg")} if Path(carpeta).name == "portadas" else set()
+            shutil.copytree(DIR_ESTATICO, self.salida / "static", dirs_exist_ok=True, ignore=_ignorar)
         (self.salida / "static").mkdir(exist_ok=True)
         (self.salida / "static" / "variables.css").write_text(self.css_variables(), encoding="utf-8")
 
