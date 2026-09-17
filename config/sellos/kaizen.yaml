@@ -207,7 +207,7 @@ podcast:
   titulo: "Kai Zen, cinco minutos"
   descripcion: "Una idea de un libro, leída en voz alta. Cinco minutos, sin promesas y sin prisa."
   autor: Kai Zen
-  email: ""
+  email: kaizensp1988@gmail.com
   idioma: es-es
   categoria: "Self-Improvement"
   # Voz neuronal de Edge TTS (gratuita). Alternativas: es-ES-ElviraNeural, es-MX-JorgeNeural, es-MX-DaliaNeural

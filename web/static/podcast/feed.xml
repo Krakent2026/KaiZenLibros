@@ -7,7 +7,7 @@
     <language>es-es</language>
     <description>Una idea de un libro, leída en voz alta. Cinco minutos, sin promesas y sin prisa.</description>
     <itunes:author>Kai Zen</itunes:author>
-    <itunes:owner><itunes:name>Kai Zen</itunes:name><itunes:email></itunes:email></itunes:owner>
+    <itunes:owner><itunes:name>Kai Zen</itunes:name><itunes:email>kaizensp1988@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://krakent2026.github.io/KaiZenLibros/static/podcast/portada.jpg"/>
     <itunes:category text="Self-Improvement"/>
     <itunes:explicit>false</itunes:explicit>
