@@ -7,7 +7,12 @@
     <h1>{{ podcast.titulo }}</h1>
     <div class="onda" aria-hidden="true">{% for i in range(40) %}<i></i>{% endfor %}</div>
     <p class="entrada">{{ podcast.descripcion }}</p>
-    <p class="peq">Suscríbete con el enlace del feed en tu app de pódcast: <a href="{{ u(ruta_podcast ~ '/feed.xml') }}">{{ u(ruta_podcast ~ '/feed.xml') }}</a></p>
+    <p class="acciones">
+      {% if podcast.spotify %}<a class="boton" href="{{ podcast.spotify }}" rel="noopener">Escuchar en Spotify</a>{% endif %}
+      {% if podcast.apple %}<a class="boton" href="{{ podcast.apple }}" rel="noopener">Apple Podcasts</a>{% endif %}
+      <a class="boton suave-claro" href="{{ u(ruta_podcast ~ '/feed.xml') }}">Feed RSS para cualquier app</a>
+    </p>
+    <p class="peq">Cada episodio plantea un problema concreto y cuenta una manera de afrontarlo, completa, sin necesidad de leer el libro. El libro es para quien quiera más.</p>
   </div>
 </section>
 <section class="estrecho">

@@ -11,6 +11,7 @@
     </a>
     <a class="enlace-secundario" href="{{ u('series/' ~ serie_slug(s) ~ '/') }}">Mapa de lectura de {{ s.nombre_amazon }}</a>
   {% endfor %}
+  {% if podcast.spotify %}<a class="boton ancho suave" href="{{ podcast.spotify }}" rel="noopener">Pódcast «{{ podcast.titulo }}» en Spotify</a>{% endif %}
   {% if hay_blog %}<a class="boton ancho suave" href="{{ u('blog/') }}">Artículos</a>{% endif %}
   <a class="boton ancho suave" href="{{ u('#boletin') }}">Boletín de los viernes</a>
 </section>

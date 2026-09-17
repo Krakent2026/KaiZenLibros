@@ -19,6 +19,7 @@ sello:
   redes:
     instagram: "https://www.instagram.com/zenkai555/"
     telegram: "https://t.me/+0OdDz82oSL02YmRk"
+    spotify: "https://open.spotify.com/show/0NZ0KZcBPU2mwNCseANNJP"
     bluesky: ""
     threads: ""
     pinterest: ""
@@ -208,6 +209,9 @@ podcast:
   descripcion: "Una idea de un libro, leída en voz alta. Cinco minutos, sin promesas y sin prisa."
   autor: Kai Zen
   email: kaizensp1988@gmail.com
+  # Dónde escucharlo (se muestran en la web; vacío = no se muestra)
+  spotify: "https://open.spotify.com/show/0NZ0KZcBPU2mwNCseANNJP"
+  apple: ""
   idioma: es-es
   categoria: "Self-Improvement"
   # Motor: auto = Azure Speech si hay AZURE_SPEECH_KEY (voz HD, más natural), si no Edge TTS (gratis, sin clave).

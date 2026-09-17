@@ -103,7 +103,7 @@
     {% for e in episodios[:2] %}
     <p><strong>{{ e.titulo }}</strong><br><audio controls preload="none" src="{{ e.mp3 }}"></audio></p>
     {% endfor %}
-    <p class="meta"><a href="{{ u('podcast/') }}">Todos los episodios →</a></p>
+    <p class="meta">{% if podcast.spotify %}<a href="{{ podcast.spotify }}" rel="noopener">Escuchar en Spotify</a> · {% endif %}<a href="{{ u('podcast/') }}">Todos los episodios →</a></p>
   </div>
   {% endif %}
 </section>

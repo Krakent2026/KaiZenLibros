@@ -43,9 +43,9 @@
         <span>Carruseles y citas ilustradas de la serie.</span>
       </a>{% endif %}
       {% if hay_podcast %}
-      <a class="tarjeta-seguir" href="{{ u('podcast/') }}">
+      <a class="tarjeta-seguir" href="{{ podcast.spotify or u('podcast/') }}"{% if podcast.spotify %} rel="noopener"{% endif %}>
         <strong>{{ podcast.titulo }}</strong>
-        <span>Un episodio a la semana: una idea de un libro leída en voz alta.</span>
+        <span>Un episodio a la semana: un problema concreto y una manera de afrontarlo, en cinco minutos.{% if podcast.spotify %} En Spotify y en cualquier app.{% endif %}</span>
       </a>{% endif %}
       <div class="tarjeta-seguir suave">
         <strong>Boletín de los viernes</strong>
