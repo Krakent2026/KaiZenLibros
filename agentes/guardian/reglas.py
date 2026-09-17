@@ -60,12 +60,33 @@ def cargar_reglas(idioma: str = "es") -> tuple[Regla, ...]:
     return _parsear(ruta)
 
 
+NEGACIONES = {
+    "es": re.compile(r"\b(no|ni|nunca|jamás|nadie|nada|sin|ningún|ninguna|ninguno|tampoco|niega|negamos|rompemos)\b", re.IGNORECASE),
+    "en": re.compile(r"\b(no|not|never|nobody|nothing|without|neither|nor|won't|doesn't|don't|isn't|aren't)\b", re.IGNORECASE),
+}
+_FIN_FRASE = re.compile(r"[.!?;:\n]")
+
+
+def negado(texto: str, inicio: int, idioma: str = "es", ventana: int = 70) -> bool:
+    """¿Hay una negación antes de la coincidencia, dentro de la misma frase?
+    «no se predice», «nadie tiene un superpoder», «ni un test» son la voz de la casa, no una promesa."""
+    previo = texto[max(0, inicio - ventana):inicio]
+    corte = [m.end() for m in _FIN_FRASE.finditer(previo)]
+    if corte:
+        previo = previo[corte[-1]:]
+    patron = NEGACIONES.get(idioma, NEGACIONES["es"])
+    return bool(patron.search(previo))
+
+
 def revisar(texto: str, idioma: str = "es", reglas: tuple[Regla, ...] | None = None) -> list[Hallazgo]:
     reglas = reglas or cargar_reglas(idioma)
     hallazgos: list[Hallazgo] = []
     for r in reglas:
         for m in r.patron.finditer(texto):
-            hallazgos.append(Hallazgo(r.nivel, m.group(0), r.nota, m.start(), m.end()))
+            nivel, nota = r.nivel, r.nota
+            if nivel == "bloquea" and negado(texto, m.start(), idioma):
+                nivel, nota = "avisa", nota + " (en frase negada: lo mira el humano)"
+            hallazgos.append(Hallazgo(nivel, m.group(0), nota, m.start(), m.end()))
     hallazgos.sort(key=lambda h: (h.nivel != "bloquea", h.inicio))
     return hallazgos
 

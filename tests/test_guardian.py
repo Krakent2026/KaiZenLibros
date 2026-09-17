@@ -15,6 +15,21 @@ def test_no_bloquea_lo_legitimo():
     assert not bloquea(revisar("No es pereza: es atención que no obedece."))
 
 
+def test_negacion_atenua_a_aviso():
+    # la voz de la casa se define por negaciones: no pueden bloquearse
+    for frase in ("En ningún libro se diagnostica, se predice ni se promete nada.",
+                  "Aquí nadie tiene un superpoder ni una avería: hay sistemas.",
+                  "Ni un test. Ni una vez «es un superpoder».",
+                  "Este libro no cura la ansiedad y lo dice en la primera página."):
+        h = revisar(frase)
+        assert h and not bloquea(h), frase
+    # la misma palabra sin negación sigue bloqueando
+    assert bloquea(revisar("Este libro predice tu futuro."))
+    assert bloquea(revisar("Tu TDAH es un superpoder."))
+    # la negación no cruza el punto: la frase siguiente se evalúa sola
+    assert bloquea(revisar("No hay atajos. Este método cura la ansiedad."))
+
+
 def test_avisa_sin_bloquear():
     h = revisar("Hoy el Libro 1 está gratis en Kindle hasta el domingo.")
     assert h and not bloquea(h)
