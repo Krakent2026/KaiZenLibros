@@ -197,6 +197,10 @@ def sintetizar_pendientes(con: sqlite3.Connection, sello: Sello, ids: list[int] 
             print(f"  ! pieza #{fila['id']}: {e}")
             continue
         db.actualizar_pieza(con, fila["id"], ruta_audio=str(ruta.relative_to(RAIZ_REPO)).replace("\\", "/"))
+        if rehacer and fila["ruta_audio"]:
+            # guid nuevo: las plataformas que guardan copia del MP3 (Spotify) lo tratan como episodio nuevo y bajan el audio actual
+            rev = int(db.kv_get(con, f"podcast_rev:{fila['id']}") or "1") + 1
+            db.kv_set(con, f"podcast_rev:{fila['id']}", str(rev))
         n += 1
         print(f"  ✓ pieza #{fila['id']}: audio {ruta.name} ({ruta.stat().st_size // 1024} KB, ~{duracion_estimada_seg(texto_locucion(fila, contenido, sello)) // 60} min)")
     return n
@@ -220,7 +224,8 @@ def episodios(con: sqlite3.Connection, sello: Sello, incluir: int | None = None)
         texto = texto_locucion(f, contenido, sello)
         fecha = f["publicado_podcast"] or f["publicada_en"] or db.ahora()
         salida.append({
-            "id": f["id"], "titulo": contenido.get("titulo_episodio") or f["libro_titulo"],
+            "id": f["id"], "guid": f"kaizen-podcast-{f['id']}" + (f"-v{rev}" if (rev := db.kv_get(con, f"podcast_rev:{f['id']}")) else ""),
+            "titulo": contenido.get("titulo_episodio") or f["libro_titulo"],
             "descripcion": (contenido.get("telegram") or contenido.get("caption_instagram", ""))[:900],
             "libro": f["libro_titulo"], "libro_slug": f["libro_slug"], "numero_libro": f["libro_numero"],
             "fecha": fecha, "mp3": url_podcast(sello, ruta.name), "bytes": ruta.stat().st_size,
@@ -248,7 +253,7 @@ def generar_feed(con: sqlite3.Connection, sello: Sello, incluir: int | None = No
       <title>{escape(e['titulo'])}</title>
       <description>{desc}</description>
       <enclosure url="{e['mp3']}" length="{e['bytes']}" type="audio/mpeg"/>
-      <guid isPermaLink="false">kaizen-podcast-{e['id']}</guid>
+      <guid isPermaLink="false">{e['guid']}</guid>
       <pubDate>{fecha}</pubDate>
       <itunes:duration>{_hms(e['duracion_seg'])}</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
