@@ -155,6 +155,19 @@ def instagram(renovar: bool = False) -> None:
             print(f"{KO} No se pudo renovar: {n}")
 
 
+def gemini() -> None:
+    clave = os.environ.get("GEMINI_API_KEY", "")
+    if not clave:
+        print(f"{PEND} GEMINI_API_KEY vacío (opcional: voz del pódcast con Gemini TTS; sin ella se usa Edge TTS)")
+        return
+    r = requests.get("https://generativelanguage.googleapis.com/v1beta/models", headers={"x-goog-api-key": clave}, timeout=20)
+    if r.status_code != 200:
+        print(f"{KO} Gemini: {r.status_code} {r.text[:120]}")
+        return
+    tts = sorted(m["name"].split("/")[-1] for m in r.json().get("models", []) if "tts" in m["name"].lower())
+    print(f"{OK} Gemini: clave válida; modelos de voz: {', '.join(tts) or 'ninguno'}")
+
+
 def azure_speech() -> None:
     clave = os.environ.get("AZURE_SPEECH_KEY", "")
     region = os.environ.get("AZURE_SPEECH_REGION", "westeurope")
@@ -209,6 +222,7 @@ def main() -> int:
     pinterest()
     instagram(renovar=a.renovar_instagram)
     bluesky()
+    gemini()
     azure_speech()
     threads()
     print(f"\nKAIZEN_FUENTES: {'existe' if Path(os.environ.get('KAIZEN_FUENTES', '')).is_dir() else 'NO existe'} → {os.environ.get('KAIZEN_FUENTES', '')}")

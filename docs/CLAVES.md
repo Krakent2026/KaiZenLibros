@@ -174,3 +174,15 @@ AZURE_SPEECH_REGION=westeurope
 5. `python herramientas/comprobar_credenciales.py` te dice qué voces HD en español hay en tu región. Después, subir los dos secrets al repo con `gh secret set`.
 
 Si la voz HD (`podcast.voz_azure` en el YAML) no existe en tu región, el Locutor lo detecta y graba con Edge TTS: el episodio sale igual.
+
+
+## Gemini TTS (voz del pódcast, gratis)
+
+Voz dirigida por instrucciones («acento castellano, cálida, ritmo tranquilo»), nivel gratuito de Google AI Studio (pocas peticiones al día; un episodio es una). Sin tarjeta.
+
+1. https://aistudio.google.com → «Get API key» → «Create API key in new project». La clave empieza por `AQ.` (las antiguas por `AIza`).
+2. `.env`: `GEMINI_API_KEY=…` y subirla al repo: `gh secret set GEMINI_API_KEY --body "$GEMINI_API_KEY"`.
+3. Voz, modelo e instrucción de estilo en `config/sellos/kaizen.yaml` → `podcast.voz_gemini`, `modelo_gemini`, `estilo_gemini`.
+4. `python herramientas/comprobar_credenciales.py` confirma la clave y lista los modelos de voz.
+
+En el nivel gratuito Google puede usar los textos enviados para mejorar sus modelos: solo se envían guiones que ya se publican. Si la cuota se agota o el modelo en preview cambia, el Locutor graba con Edge TTS (Elvira).

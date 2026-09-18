@@ -4,8 +4,9 @@
     python -m agentes.locutor.sintetizar --id 12
     python -m agentes.locutor.sintetizar --feed     # solo regenera feed.xml y episodios.json
 
-Voz: Edge TTS (Microsoft, gratuita, sin clave) o, si hay AZURE_SPEECH_KEY, Azure Speech con la misma
-voz en versión HD (más natural; 500.000 caracteres/mes gratis). El MP3 sale a 24 kHz / 48 kbps: unos 1,8 MB
+Voz, por orden de preferencia (`podcast.motor: auto`): Gemini TTS si hay GEMINI_API_KEY (voz dirigida por
+instrucciones, nivel gratuito de AI Studio), Azure Speech si hay AZURE_SPEECH_KEY, y si no Edge TTS (gratis, sin
+clave). Si el motor elegido falla, cae al siguiente: el episodio sale siempre. El MP3 sale a 24 kHz / 48 kbps: unos 1,8 MB
 por cinco minutos.
     python -m agentes.locutor.sintetizar --id 8 --rehacer   # vuelve a grabar un episodio ya publicado El feed y los MP3 se publican con la web (GitHub Pages) y se dan de alta una vez en Spotify
 for Creators y Apple Podcasts con la URL del feed.
@@ -87,15 +88,58 @@ def _sintetizar_azure(texto: str, voz: str, velocidad: str, tono: str, salida: P
     salida.write_bytes(r.content)
 
 
-def motor_activo(sello: Sello) -> str:
-    """`podcast.motor`: edge | azure | auto (azure si hay clave, si no edge)."""
+def pcm_a_mp3(pcm: bytes, rate: int, salida: Path, kbps: int = 48) -> None:
+    import lameenc
+
+    enc = lameenc.Encoder()
+    enc.set_bit_rate(kbps)
+    enc.set_in_sample_rate(rate)
+    enc.set_channels(1)
+    enc.set_quality(2)
+    salida.write_bytes(enc.encode(pcm) + enc.flush())
+
+
+ESTILO_GEMINI_POR_DEFECTO = ("Lee este guion de pódcast en español de España, con acento castellano peninsular. Voz cálida y cercana, "
+                             "como quien cuenta algo a una amiga en la cocina: ritmo tranquilo, sin dramatizar, sin entusiasmo forzado, "
+                             "pausas naturales entre párrafos. No leas ninguna instrucción, solo el guion.")
+
+
+def _sintetizar_gemini(texto: str, voz: str, modelo: str, estilo: str, salida: Path, clave: str) -> None:
+    """Gemini TTS: una petición por episodio; devuelve PCM 16 bits que se codifica a MP3 aquí."""
+    import base64
+    import re
+
+    import requests
+
+    cuerpo = {"contents": [{"parts": [{"text": f"{estilo.strip()}\n\nGUION:\n{texto}"}]}],
+              "generationConfig": {"responseModalities": ["AUDIO"],
+                                   "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voz}}}}}
+    r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent",
+                      headers={"x-goog-api-key": clave, "Content-Type": "application/json"}, json=cuerpo, timeout=300)
+    if r.status_code != 200:
+        raise RuntimeError(f"Gemini TTS {r.status_code}: {r.text[:200]}")
+    parte = r.json()["candidates"][0]["content"]["parts"][0]["inlineData"]
+    m = re.search(r"rate=(\d+)", parte.get("mimeType", ""))
+    pcm_a_mp3(base64.b64decode(parte["data"]), int(m.group(1)) if m else 24000, salida)
+
+
+def motores_disponibles(sello: Sello) -> list[str]:
+    """`podcast.motor`: gemini | azure | edge | auto. En auto, el orden de caída es gemini → azure → edge."""
     import os
 
-    pod = sello.datos.get("podcast", {})
-    motor = pod.get("motor", "auto")
-    if motor == "auto":
-        return "azure" if os.environ.get("AZURE_SPEECH_KEY") else "edge"
-    return motor
+    motor = sello.datos.get("podcast", {}).get("motor", "auto")
+    if motor != "auto":
+        return [motor, "edge"] if motor != "edge" else ["edge"]
+    orden = []
+    if os.environ.get("GEMINI_API_KEY"):
+        orden.append("gemini")
+    if os.environ.get("AZURE_SPEECH_KEY"):
+        orden.append("azure")
+    return orden + ["edge"]
+
+
+def motor_activo(sello: Sello) -> str:
+    return motores_disponibles(sello)[0]
 
 
 def sintetizar_texto(texto: str, sello: Sello, salida: Path) -> str:
@@ -105,15 +149,22 @@ def sintetizar_texto(texto: str, sello: Sello, salida: Path) -> str:
 
     pod = sello.datos.get("podcast", {})
     velocidad, tono = pod.get("velocidad", "+0%"), pod.get("tono", "+0Hz")
-    if motor_activo(sello) == "azure":
+    for motor in motores_disponibles(sello):
         try:
-            _sintetizar_azure(texto, pod.get("voz_azure") or pod.get("voz", "es-ES-XimenaNeural"), velocidad, tono, salida,
-                              os.environ["AZURE_SPEECH_KEY"], os.environ.get("AZURE_SPEECH_REGION", "westeurope"))
-            return "azure"
+            if motor == "gemini":
+                _sintetizar_gemini(texto, pod.get("voz_gemini", "Sulafat"), pod.get("modelo_gemini", "gemini-2.5-flash-preview-tts"),
+                                   pod.get("estilo_gemini") or ESTILO_GEMINI_POR_DEFECTO, salida, os.environ["GEMINI_API_KEY"])
+            elif motor == "azure":
+                _sintetizar_azure(texto, pod.get("voz_azure") or pod.get("voz", "es-ES-ElviraNeural"), velocidad, tono, salida,
+                                  os.environ["AZURE_SPEECH_KEY"], os.environ.get("AZURE_SPEECH_REGION", "westeurope"))
+            else:
+                asyncio.run(_sintetizar_edge(texto, pod.get("voz", "es-ES-ElviraNeural"), velocidad, tono, salida))
+            if salida.exists() and salida.stat().st_size >= 10_000:
+                return motor
+            raise RuntimeError("audio vacío")
         except Exception as e:  # noqa: BLE001
-            print(f"  ! Azure Speech falló ({e}); se usa Edge TTS")
-    asyncio.run(_sintetizar_edge(texto, pod.get("voz", "es-ES-XimenaNeural"), velocidad, tono, salida))
-    return "edge"
+            print(f"  ! {motor} falló ({e}); se prueba el siguiente motor")
+    raise RuntimeError("ningún motor de voz generó audio")
 
 
 def producir_audio(fila: sqlite3.Row, contenido: dict[str, Any], sello: Sello) -> Path:

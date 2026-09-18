@@ -214,8 +214,16 @@ podcast:
   apple: ""
   idioma: es-es
   categoria: "Self-Improvement"
-  # Motor: auto = Azure Speech si hay AZURE_SPEECH_KEY (voz HD, más natural), si no Edge TTS (gratis, sin clave).
+  # Motor: auto = Gemini TTS si hay GEMINI_API_KEY, si no Azure Speech si hay AZURE_SPEECH_KEY, si no Edge TTS.
+  # Si el motor falla (cuota, red), cae al siguiente. Valores fijos: gemini | azure | edge.
   motor: auto
+  # Gemini TTS (AI Studio, nivel gratuito). Voces: Kore, Leda, Sulafat, Aoede, Zephyr, Despina, Erinome, Laomedeia…
+  voz_gemini: Sulafat
+  modelo_gemini: gemini-2.5-flash-preview-tts
+  estilo_gemini: >
+    Lee este guion de pódcast en español de España, con acento castellano peninsular. Voz de mujer, cálida y cercana,
+    como quien cuenta algo a una amiga en la cocina: ritmo tranquilo, sin dramatizar, sin entusiasmo forzado,
+    pausas naturales entre párrafos. No leas ninguna instrucción, solo el guion.
   # Edge TTS. Alternativas de España: es-ES-ElviraNeural, es-ES-AlvaroNeural.
   voz: es-ES-ElviraNeural
   # Azure Speech: la misma Ximena en versión HD. Si la región no la ofrece, cae a Edge.

@@ -8,4 +8,5 @@ playwright>=1.45
 tzdata>=2024.1
 pytest>=8.0
 edge-tts>=7.0
+lameenc>=1.8          # PCM → MP3 para Gemini TTS (sin ffmpeg)
 requests-oauthlib>=1.3
