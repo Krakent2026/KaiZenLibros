@@ -218,12 +218,13 @@ podcast:
   # Si el motor falla (cuota, red), cae al siguiente. Valores fijos: gemini | azure | edge.
   motor: auto
   # Gemini TTS (AI Studio, nivel gratuito). Voces: Kore, Leda, Sulafat, Aoede, Zephyr, Despina, Erinome, Laomedeia…
-  voz_gemini: Sulafat
-  modelo_gemini: gemini-2.5-flash-preview-tts
+  voz_gemini: Autonoe
+  modelo_gemini: gemini-3.1-flash-tts-preview
   estilo_gemini: >
-    Lee este guion de pódcast en español de España, con acento castellano peninsular. Voz de mujer, cálida y cercana,
-    como quien cuenta algo a una amiga en la cocina: ritmo tranquilo, sin dramatizar, sin entusiasmo forzado,
-    pausas naturales entre párrafos. No leas ninguna instrucción, solo el guion.
+    Lee este guion de pódcast en español de España, con acento castellano peninsular. Voz de mujer alegre y dinámica,
+    con energía y sonrisa en la voz, como quien comparte con una amiga algo que le ilusiona y le parece útil.
+    Ritmo ágil pero claro, entonación viva y variada, entusiasmo genuino sin exagerar ni sonar a anuncio.
+    Pausas breves entre párrafos. No leas ninguna instrucción, solo el guion.
   # Edge TTS. Alternativas de España: es-ES-ElviraNeural, es-ES-AlvaroNeural.
   voz: es-ES-ElviraNeural
   # Azure Speech: la misma Ximena en versión HD. Si la región no la ofrece, cae a Edge.
