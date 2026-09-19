@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kai Zen, cinco minutos</title>
-    <link>https://krakent2026.github.io/KaiZenLibros/podcast/</link>
-    <atom:link href="https://krakent2026.github.io/KaiZenLibros/static/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://kaizenlibros.com/podcast/</link>
+    <atom:link href="https://kaizenlibros.com/static/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-es</language>
     <description>Una idea de un libro, leída en voz alta. Cinco minutos, sin promesas y sin prisa.</description>
     <itunes:author>Kai Zen</itunes:author>
     <itunes:owner><itunes:name>Kai Zen</itunes:name><itunes:email>kaizensp1988@gmail.com</itunes:email></itunes:owner>
-    <itunes:image href="https://krakent2026.github.io/KaiZenLibros/static/podcast/portada.jpg"/>
+    <itunes:image href="https://kaizenlibros.com/static/podcast/portada.jpg"/>
     <itunes:category text="Self-Improvement"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -20,13 +20,13 @@ Un consejo que no se puede seguir no se queda quieto. Se convierte en reproche: 
 
 La idea sale de Trabajar sin romperte, libro 10 de la serie Mente distinta.
 
-El libro: Trabajar sin romperte. https://krakent2026.github.io/KaiZenLibros/ir/trabajar-sin-romperte/?c=pod</description>
-      <enclosure url="https://krakent2026.github.io/KaiZenLibros/static/podcast/8.mp3" length="1417104" type="audio/mpeg"/>
+El libro: Trabajar sin romperte. https://kaizenlibros.com/ir/trabajar-sin-romperte/?c=pod</description>
+      <enclosure url="https://kaizenlibros.com/static/podcast/8.mp3" length="1417104" type="audio/mpeg"/>
       <guid isPermaLink="false">kaizen-podcast-8-v2</guid>
       <pubDate>Thu, 17 Sep 2026 18:17:29 +0000</pubDate>
       <itunes:duration>00:04:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <link>https://krakent2026.github.io/KaiZenLibros/libros/trabajar-sin-romperte/</link>
+      <link>https://kaizenlibros.com/libros/trabajar-sin-romperte/</link>
     </item>
   </channel>
 </rss>

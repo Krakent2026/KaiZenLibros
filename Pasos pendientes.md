@@ -9,7 +9,7 @@ Antes (hoy, 1 minuto): Apple exige un correo del propietario dentro del feed. Ab
 Spotify for Creators (gratis, 10 min):
 1. https://creators.spotify.com → Empezar → inicia sesión con una cuenta de Spotify (o créala).
 2. «Ya tengo un pódcast» → Añadir con RSS.
-3. Pega el feed: https://krakent2026.github.io/KaiZenLibros/static/podcast/feed.xml
+3. Pega el feed: https://kaizenlibros.com/static/podcast/feed.xml
 4. Te envía un código al correo que figura en el feed. Introdúcelo.
 5. Revisa nombre, categoría e idioma (vienen del feed) → Enviar. Aparece en Spotify en 24-48 h. Los episodios nuevos entran solos cada vez que el feed cambia.
 
@@ -25,7 +25,7 @@ Otras plataformas que leen el mismo feed sin trámite: Pocket Casts, Overcast, A
 
 Bluesky (5 min, sin trámite):
 1. https://bsky.app → Crear cuenta. Usuario: kaizenlibros (queda kaizenlibros.bsky.social). Correo y contraseña normales.
-2. Rellena perfil: nombre «Kai Zen · Libros», bio con la frase paraguas y enlace https://krakent2026.github.io/KaiZenLibros/enlaces/.
+2. Rellena perfil: nombre «Kai Zen · Libros», bio con la frase paraguas y enlace https://kaizenlibros.com/enlaces/.
 3. Ajustes → Privacidad y seguridad → Contraseñas de aplicación → Añadir. Nombre Promocion_IA. Copia la contraseña (formato xxxx-xxxx-xxxx-xxxx); se muestra una vez.
 4. En .env:
 BLUESKY_USUARIO=kaizenlibros.bsky.social

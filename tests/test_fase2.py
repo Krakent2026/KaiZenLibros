@@ -136,7 +136,7 @@ def test_kdp_importa_csv_ingles_y_espanol(entorno, tmp_path):
 def test_bluesky_componer_texto_recorta_y_marca_enlace():
     from agentes.publicador.bluesky import componer_texto
 
-    enlace = "https://krakent2026.github.io/KaiZenLibros/ir/no-es-pereza/?c=bs"
+    enlace = "https://kaizenlibros.com/ir/no-es-pereza/?c=bs"
     texto, facets = componer_texto("palabra " * 80, enlace)
     assert len(texto) <= 300 and texto.endswith(enlace) and "…" in texto
     f = facets[0]["index"]

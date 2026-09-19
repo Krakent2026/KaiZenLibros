@@ -7,6 +7,7 @@ on:
       - "web/**"
       - "config/**"
       - "agentes/config.py"
+      - "herramientas/redirecciones.py"
       - ".github/workflows/web.yml"
   workflow_dispatch:
 
@@ -22,17 +23,29 @@ concurrency:
 jobs:
   construir:
     runs-on: ubuntu-latest
+    env:
+      SITIO: https://kaizenlibros.com
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
       - run: pip install -r requirements.txt
-      # BASE_URL: variable del repositorio. Con GitHub Pages sin dominio propio es /<nombre-del-repo>/; con dominio propio, /
-      - run: python -m web.generar --base-url "${{ vars.BASE_URL || format('/{0}/', github.event.repository.name) }}"
-      # El despliegue a GitHub Pages solo se intenta si la variable PAGES_ACTIVAS vale "true"
-      # (Pages exige repositorio público en el plan gratuito). Sin ella, este job solo valida que la web se genera.
+      # La web vive en la raíz de su dominio (Cloudflare Pages): base /
+      - run: python -m web.generar --base-url /
+      # Despliegue principal: Cloudflare Pages (proyecto kaizenlibros, dominio kaizenlibros.com)
+      - name: Desplegar en Cloudflare Pages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx --yes wrangler@4 pages deploy web/dist --project-name kaizenlibros --branch main --commit-dirty=true
+      # Alojamiento antiguo (GitHub Pages): solo redirecciones al dominio nuevo, mientras la variable PAGES_ACTIVAS sea "true".
+      - if: vars.PAGES_ACTIVAS == 'true'
+        run: python herramientas/redirecciones.py --dist web/dist --salida web/dist_redirect --destino "$SITIO"
       - if: vars.PAGES_ACTIVAS == 'true'
         uses: actions/configure-pages@v5
         with:
@@ -40,9 +53,9 @@ jobs:
       - if: vars.PAGES_ACTIVAS == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
-          path: web/dist
+          path: web/dist_redirect
 
-  desplegar:
+  redirecciones_antiguas:
     if: vars.PAGES_ACTIVAS == 'true'
     needs: construir
     runs-on: ubuntu-latest

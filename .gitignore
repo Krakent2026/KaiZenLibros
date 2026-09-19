@@ -10,6 +10,7 @@ __pycache__/
 
 # salidas generadas
 web/dist/
+web/dist_redirect/
 datos/*.sqlite-wal
 datos/*.sqlite-shm
 datos/salida/
@@ -30,3 +31,4 @@ datos/fuentes_derivadas/
 # Notas personales con credenciales: nunca al repositorio
 redes_David.md
 redes_*.md
+.wrangler/
