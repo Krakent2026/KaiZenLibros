@@ -35,7 +35,7 @@ web/                          generador estático de la web del sello (Jinja2) �
 worker_enlaces/               Cloudflare Worker del enlace universal geolocalizado
 herramientas/                 paleta desde portadas, copia de portadas, enlaces.json
 datos/atomos.sqlite           la base de datos (se versiona; los manuscritos no)
-.github/workflows/            web.yml (GitHub Pages), diario.yml, semanal.yml, tests.yml
+.github/workflows/            web.yml (Cloudflare Pages + redirecciones en GitHub Pages), diario.yml, semanal.yml, tests.yml
 ```
 
 Los manuscritos **no entran en el repositorio**. El Minero se ejecuta en local, lee de `KAIZEN_FUENTES` y solo sube a Git los átomos (fragmentos cortos ya verificados) en `datos/atomos.sqlite`. GitHub Actions trabaja sobre esa base de datos.
@@ -102,7 +102,7 @@ python -m agentes.pipeline encargar --formato cita --libro no-es-pereza --hora 1
 
 **Canales.** Cada conector actúa solo si tiene credenciales (ver `.env.example`). Telegram publica en el canal `TELEGRAM_CANAL` (el bot debe ser administrador). Pinterest sube la imagen en base64 al tablero `PINTEREST_TABLERO_ID`. Instagram necesita que las imágenes sean públicas: se guardan en `web/static/piezas/<id>/` y salen con la web; si al publicar aún no responden, la pieza espera a la siguiente corrida. Las imágenes de piezas publicadas o descartadas se retiran del repositorio a los 21 días (`publicacion.dias_conservar_piezas`).
 
-**Importante sobre GitHub Pages.** En el plan gratuito de GitHub, Pages solo funciona con repositorios **públicos**. Opciones: (a) repositorio público (los manuscritos nunca están en él; sí los átomos, que son fragmentos cortos ya publicados en los libros); (b) repositorio privado + **Cloudflare Pages** conectado a GitHub (gratuito): comando de build `pip install -r requirements.txt && python -m web.generar --base-url /`, directorio `web/dist`; poner esa URL en `sello.web`.
+**Alojamiento de la web.** La web se publica en Cloudflare Pages (proyecto `kaizenlibros`, dominio https://kaizenlibros.com) con `wrangler pages deploy` desde el workflow; hacen falta los secrets `CLOUDFLARE_API_TOKEN` (permisos Cloudflare Pages: Edit y DNS: Edit) y `CLOUDFLARE_ACCOUNT_ID`. GitHub Pages solo sirve redirecciones al dominio nuevo mientras la variable `PAGES_ACTIVAS` sea `true`; cuando el repositorio pase a privado se desactiva.
 
 ### Web
 
