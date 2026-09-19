@@ -26,3 +26,7 @@ datos/fuentes_derivadas/
 # Tipografía Lora autoalojada de la web (OFL); no confundir con datos/fuentes_derivadas
 !web/static/fuentes/
 !web/static/fuentes/**
+
+# Notas personales con credenciales: nunca al repositorio
+redes_David.md
+redes_*.md
